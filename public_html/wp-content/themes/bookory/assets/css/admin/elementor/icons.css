@@ -1,0 +1,806 @@
+
+@font-face {
+  font-family: "bookory-icon";
+  src: url("../../../fonts/icons/bookory-icon-2.2.6.eot");
+  src: url("../../../fonts/icons/bookory-icon-2.2.6.eot?#iefix") format("eot"), url("../../../fonts/icons/bookory-icon-2.2.6.woff2") format("woff2"), url("../../../fonts/icons/bookory-icon-2.2.6.woff") format("woff"), url("../../../fonts/icons/bookory-icon-2.2.6.ttf") format("truetype"), url("../../../fonts/icons/bookory-icon-2.2.6.svg#bookory-icon-2.2.6") format("svg");
+}
+[class*=bookory-icon-] {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.bookory-icon-account:before {
+  content: "";
+}
+
+.bookory-icon-adventure:before {
+  content: "";
+}
+
+.bookory-icon-america:before {
+  content: "";
+}
+
+.bookory-icon-angle-down:before {
+  content: "";
+}
+
+.bookory-icon-angle-left:before {
+  content: "";
+}
+
+.bookory-icon-angle-right:before {
+  content: "";
+}
+
+.bookory-icon-angle-up:before {
+  content: "";
+}
+
+.bookory-icon-arrow-left:before {
+  content: "";
+}
+
+.bookory-icon-arrow-right:before {
+  content: "";
+}
+
+.bookory-icon-art:before {
+  content: "";
+}
+
+.bookory-icon-author:before {
+  content: "";
+}
+
+.bookory-icon-biographies:before {
+  content: "";
+}
+
+.bookory-icon-book:before {
+  content: "";
+}
+
+.bookory-icon-calendar:before {
+  content: "";
+}
+
+.bookory-icon-cart:before {
+  content: "";
+}
+
+.bookory-icon-category:before {
+  content: "";
+}
+
+.bookory-icon-check-square-solid:before {
+  content: "";
+}
+
+.bookory-icon-checked:before {
+  content: "";
+}
+
+.bookory-icon-chevron-double-left:before {
+  content: "";
+}
+
+.bookory-icon-chevron-double-right:before {
+  content: "";
+}
+
+.bookory-icon-child-book:before {
+  content: "";
+}
+
+.bookory-icon-classics:before {
+  content: "";
+}
+
+.bookory-icon-clock:before {
+  content: "";
+}
+
+.bookory-icon-compare:before {
+  content: "";
+}
+
+.bookory-icon-contemporary:before {
+  content: "";
+}
+
+.bookory-icon-discount-1:before {
+  content: "";
+}
+
+.bookory-icon-discount:before {
+  content: "";
+}
+
+.bookory-icon-education:before {
+  content: "";
+}
+
+.bookory-icon-expert:before {
+  content: "";
+}
+
+.bookory-icon-eye:before {
+  content: "";
+}
+
+.bookory-icon-facebook-f:before {
+  content: "";
+}
+
+.bookory-icon-family:before {
+  content: "";
+}
+
+.bookory-icon-fantasy:before {
+  content: "";
+}
+
+.bookory-icon-fiction:before {
+  content: "";
+}
+
+.bookory-icon-filter-ul:before {
+  content: "";
+}
+
+.bookory-icon-free-delivery:before {
+  content: "";
+}
+
+.bookory-icon-genre:before {
+  content: "";
+}
+
+.bookory-icon-gift-1:before {
+  content: "";
+}
+
+.bookory-icon-google-plus-g:before {
+  content: "";
+}
+
+.bookory-icon-heart-1:before {
+  content: "";
+}
+
+.bookory-icon-historical:before {
+  content: "";
+}
+
+.bookory-icon-horror:before {
+  content: "";
+}
+
+.bookory-icon-left-arrow:before {
+  content: "";
+}
+
+.bookory-icon-linkedin-in:before {
+  content: "";
+}
+
+.bookory-icon-list-ul:before {
+  content: "";
+}
+
+.bookory-icon-long-arrow-down:before {
+  content: "";
+}
+
+.bookory-icon-long-arrow-left:before {
+  content: "";
+}
+
+.bookory-icon-long-arrow-right:before {
+  content: "";
+}
+
+.bookory-icon-long-arrow-up:before {
+  content: "";
+}
+
+.bookory-icon-map-marker-alt:before {
+  content: "";
+}
+
+.bookory-icon-pen:before {
+  content: "";
+}
+
+.bookory-icon-philosophy:before {
+  content: "";
+}
+
+.bookory-icon-phone-2:before {
+  content: "";
+}
+
+.bookory-icon-phone:before {
+  content: "";
+}
+
+.bookory-icon-play:before {
+  content: "";
+}
+
+.bookory-icon-popular:before {
+  content: "";
+}
+
+.bookory-icon-quick-view:before {
+  content: "";
+}
+
+.bookory-icon-quote:before {
+  content: "";
+}
+
+.bookory-icon-regilion:before {
+  content: "";
+}
+
+.bookory-icon-returned-order:before {
+  content: "";
+}
+
+.bookory-icon-right-arrow-cicrle:before {
+  content: "";
+}
+
+.bookory-icon-right-arrow:before {
+  content: "";
+}
+
+.bookory-icon-romance:before {
+  content: "";
+}
+
+.bookory-icon-search-1:before {
+  content: "";
+}
+
+.bookory-icon-search-all:before {
+  content: "";
+}
+
+.bookory-icon-secure-payment:before {
+  content: "";
+}
+
+.bookory-icon-shipping-truck:before {
+  content: "";
+}
+
+.bookory-icon-shopping-bag:before {
+  content: "";
+}
+
+.bookory-icon-sliders-v:before {
+  content: "";
+}
+
+.bookory-icon-sold:before {
+  content: "";
+}
+
+.bookory-icon-star-bestseller:before {
+  content: "";
+}
+
+.bookory-icon-store-2:before {
+  content: "";
+}
+
+.bookory-icon-twitte-1:before {
+  content: "";
+}
+
+.bookory-icon-360:before {
+  content: "";
+}
+
+.bookory-icon-bars:before {
+  content: "";
+}
+
+.bookory-icon-caret-down:before {
+  content: "";
+}
+
+.bookory-icon-caret-left:before {
+  content: "";
+}
+
+.bookory-icon-caret-right:before {
+  content: "";
+}
+
+.bookory-icon-caret-up:before {
+  content: "";
+}
+
+.bookory-icon-cart-empty:before {
+  content: "";
+}
+
+.bookory-icon-check-square:before {
+  content: "";
+}
+
+.bookory-icon-circle:before {
+  content: "";
+}
+
+.bookory-icon-cloud-download-alt:before {
+  content: "";
+}
+
+.bookory-icon-comment:before {
+  content: "";
+}
+
+.bookory-icon-comments:before {
+  content: "";
+}
+
+.bookory-icon-contact:before {
+  content: "";
+}
+
+.bookory-icon-credit-card:before {
+  content: "";
+}
+
+.bookory-icon-dot-circle:before {
+  content: "";
+}
+
+.bookory-icon-edit:before {
+  content: "";
+}
+
+.bookory-icon-envelope:before {
+  content: "";
+}
+
+.bookory-icon-expand-alt:before {
+  content: "";
+}
+
+.bookory-icon-external-link-alt:before {
+  content: "";
+}
+
+.bookory-icon-file-alt:before {
+  content: "";
+}
+
+.bookory-icon-file-archive:before {
+  content: "";
+}
+
+.bookory-icon-filter:before {
+  content: "";
+}
+
+.bookory-icon-folder-open:before {
+  content: "";
+}
+
+.bookory-icon-folder:before {
+  content: "";
+}
+
+.bookory-icon-frown:before {
+  content: "";
+}
+
+.bookory-icon-gift:before {
+  content: "";
+}
+
+.bookory-icon-grid:before {
+  content: "";
+}
+
+.bookory-icon-grip-horizontal:before {
+  content: "";
+}
+
+.bookory-icon-heart-fill:before {
+  content: "";
+}
+
+.bookory-icon-heart:before {
+  content: "";
+}
+
+.bookory-icon-history:before {
+  content: "";
+}
+
+.bookory-icon-home:before {
+  content: "";
+}
+
+.bookory-icon-info-circle:before {
+  content: "";
+}
+
+.bookory-icon-instagram:before {
+  content: "";
+}
+
+.bookory-icon-level-up-alt:before {
+  content: "";
+}
+
+.bookory-icon-list:before {
+  content: "";
+}
+
+.bookory-icon-map-marker-check:before {
+  content: "";
+}
+
+.bookory-icon-meh:before {
+  content: "";
+}
+
+.bookory-icon-minus-circle:before {
+  content: "";
+}
+
+.bookory-icon-minus:before {
+  content: "";
+}
+
+.bookory-icon-mobile-android-alt:before {
+  content: "";
+}
+
+.bookory-icon-money-bill:before {
+  content: "";
+}
+
+.bookory-icon-pencil-alt:before {
+  content: "";
+}
+
+.bookory-icon-plus-circle:before {
+  content: "";
+}
+
+.bookory-icon-plus:before {
+  content: "";
+}
+
+.bookory-icon-random:before {
+  content: "";
+}
+
+.bookory-icon-reply-all:before {
+  content: "";
+}
+
+.bookory-icon-reply:before {
+  content: "";
+}
+
+.bookory-icon-search-plus:before {
+  content: "";
+}
+
+.bookory-icon-search:before {
+  content: "";
+}
+
+.bookory-icon-shield-check:before {
+  content: "";
+}
+
+.bookory-icon-shopping-basket:before {
+  content: "";
+}
+
+.bookory-icon-shopping-cart:before {
+  content: "";
+}
+
+.bookory-icon-sign-out-alt:before {
+  content: "";
+}
+
+.bookory-icon-smile:before {
+  content: "";
+}
+
+.bookory-icon-spinner:before {
+  content: "";
+}
+
+.bookory-icon-square:before {
+  content: "";
+}
+
+.bookory-icon-star:before {
+  content: "";
+}
+
+.bookory-icon-store:before {
+  content: "";
+}
+
+.bookory-icon-sync:before {
+  content: "";
+}
+
+.bookory-icon-tachometer-alt:before {
+  content: "";
+}
+
+.bookory-icon-th-large:before {
+  content: "";
+}
+
+.bookory-icon-th-list:before {
+  content: "";
+}
+
+.bookory-icon-thumbtack:before {
+  content: "";
+}
+
+.bookory-icon-ticket:before {
+  content: "";
+}
+
+.bookory-icon-times-circle:before {
+  content: "";
+}
+
+.bookory-icon-times:before {
+  content: "";
+}
+
+.bookory-icon-trophy-alt:before {
+  content: "";
+}
+
+.bookory-icon-truck:before {
+  content: "";
+}
+
+.bookory-icon-user-headset:before {
+  content: "";
+}
+
+.bookory-icon-user-shield:before {
+  content: "";
+}
+
+.bookory-icon-user:before {
+  content: "";
+}
+
+.bookory-icon-video:before {
+  content: "";
+}
+
+.bookory-icon-adobe:before {
+  content: "";
+}
+
+.bookory-icon-amazon:before {
+  content: "";
+}
+
+.bookory-icon-android:before {
+  content: "";
+}
+
+.bookory-icon-angular:before {
+  content: "";
+}
+
+.bookory-icon-apper:before {
+  content: "";
+}
+
+.bookory-icon-apple:before {
+  content: "";
+}
+
+.bookory-icon-atlassian:before {
+  content: "";
+}
+
+.bookory-icon-behance:before {
+  content: "";
+}
+
+.bookory-icon-bitbucket:before {
+  content: "";
+}
+
+.bookory-icon-bitcoin:before {
+  content: "";
+}
+
+.bookory-icon-bity:before {
+  content: "";
+}
+
+.bookory-icon-bluetooth:before {
+  content: "";
+}
+
+.bookory-icon-btc:before {
+  content: "";
+}
+
+.bookory-icon-centos:before {
+  content: "";
+}
+
+.bookory-icon-chrome:before {
+  content: "";
+}
+
+.bookory-icon-codepen:before {
+  content: "";
+}
+
+.bookory-icon-cpanel:before {
+  content: "";
+}
+
+.bookory-icon-discord:before {
+  content: "";
+}
+
+.bookory-icon-dochub:before {
+  content: "";
+}
+
+.bookory-icon-docker:before {
+  content: "";
+}
+
+.bookory-icon-dribbble:before {
+  content: "";
+}
+
+.bookory-icon-dropbox:before {
+  content: "";
+}
+
+.bookory-icon-drupal:before {
+  content: "";
+}
+
+.bookory-icon-ebay:before {
+  content: "";
+}
+
+.bookory-icon-facebook:before {
+  content: "";
+}
+
+.bookory-icon-figma:before {
+  content: "";
+}
+
+.bookory-icon-firefox:before {
+  content: "";
+}
+
+.bookory-icon-google-plus:before {
+  content: "";
+}
+
+.bookory-icon-google:before {
+  content: "";
+}
+
+.bookory-icon-grunt:before {
+  content: "";
+}
+
+.bookory-icon-gulp:before {
+  content: "";
+}
+
+.bookory-icon-html5:before {
+  content: "";
+}
+
+.bookory-icon-joomla:before {
+  content: "";
+}
+
+.bookory-icon-link-brand:before {
+  content: "";
+}
+
+.bookory-icon-linkedin:before {
+  content: "";
+}
+
+.bookory-icon-mailchimp:before {
+  content: "";
+}
+
+.bookory-icon-opencart:before {
+  content: "";
+}
+
+.bookory-icon-paypal:before {
+  content: "";
+}
+
+.bookory-icon-pinterest-p:before {
+  content: "";
+}
+
+.bookory-icon-reddit:before {
+  content: "";
+}
+
+.bookory-icon-skype:before {
+  content: "";
+}
+
+.bookory-icon-slack:before {
+  content: "";
+}
+
+.bookory-icon-snapchat:before {
+  content: "";
+}
+
+.bookory-icon-spotify:before {
+  content: "";
+}
+
+.bookory-icon-trello:before {
+  content: "";
+}
+
+.bookory-icon-twitter:before {
+  content: "";
+}
+
+.bookory-icon-vimeo:before {
+  content: "";
+}
+
+.bookory-icon-whatsapp:before {
+  content: "";
+}
+
+.bookory-icon-wordpress:before {
+  content: "";
+}
+
+.bookory-icon-yoast:before {
+  content: "";
+}
+
+.bookory-icon-youtube:before {
+  content: "";
+}
+

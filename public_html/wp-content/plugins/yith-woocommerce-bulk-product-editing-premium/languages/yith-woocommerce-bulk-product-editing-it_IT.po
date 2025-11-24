@@ -1,0 +1,1672 @@
+# Translation of YITH WooCommerce Bulk Product Editing in Italian
+# This file is distributed under the same license as the YITH WooCommerce Bulk Product Editing package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Bulk Product Editing\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/yith-woocommerce-"
+"bulk-product-editing.premium\n"
+"POT-Creation-Date: 2025-07-01 13:28:17+00:00\n"
+"PO-Revision-Date: 2023-11-07 08:38:35+0000\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+
+#: includes/class-yith-wcbep-table-views.php:235
+msgid "All products"
+msgstr "Tutti i prodotti"
+
+#: includes/class-yith-wcbep-table-views.php:841
+#: includes/class.yith-wcbep-admin.php:513
+#: includes/class.yith-wcbep-admin.php:1158
+msgid "Custom filters"
+msgstr "Filtri personalizzati"
+
+#: includes/class.yith-wcbep-admin.php:440
+msgid "Schedule"
+msgstr "Programma"
+
+#: includes/class.yith-wcbep-admin.php:501
+#: includes/class.yith-wcbep-list-table.php:723
+#: views/modals/table-views/view.php:25
+msgid "Edit"
+msgstr "Modifica"
+
+#: includes/class.yith-wcbep-admin.php:502 views/modals/table-views/view.php:26
+msgid "Duplicate"
+msgstr "Duplica"
+
+#: includes/class.yith-wcbep-admin.php:503
+msgid "Move to trash"
+msgstr "Sposta nel cestino"
+
+#: includes/class.yith-wcbep-admin.php:504
+msgid "Delete permanently"
+msgstr "Elimina definitivamente"
+
+#: includes/class.yith-wcbep-admin.php:507
+msgid "Export"
+msgstr "Esporta"
+
+#: includes/class.yith-wcbep-admin.php:646
+msgid "Products table"
+msgstr "Tabella prodotti"
+
+#: includes/class.yith-wcbep-admin.php:651
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: includes/class.yith-wcbep-admin.php:677
+msgid "Are you ready? <mark>Start with step 1!</mark>"
+msgstr "Sei pronto? <mark>Inizia con lo step 1!</mark>"
+
+#: includes/class.yith-wcbep-admin.php:678
+msgid ""
+"Open the step 1 modal window and choose which fields to enable for the bulk "
+"editing window"
+msgstr ""
+"Apri la modale dello step 1 e scegli quali campi abilitare per la tabella "
+"della modifica di massa"
+
+#: includes/class.yith-wcbep-admin.php:697
+msgid "Improved UX/UI"
+msgstr "Migliorie UX/UI"
+
+#: includes/class.yith-wcbep-admin.php:698
+msgid "With the new design, configuring our plugin is easier than ever"
+msgstr ""
+"Con il nuovo design, configurare il nostro plugin è più semplice che mai"
+
+#: includes/class.yith-wcbep-admin.php:701
+msgid "Create and save unlimited table views with filters"
+msgstr "Crea e salva infinite viste della tabella con i filtri"
+
+#: includes/class.yith-wcbep-admin.php:702
+msgid ""
+"Create as many table views as needed to choose which products to show in "
+"your bulk editing table"
+msgstr ""
+"Crea tutte le viste che vuoi per scegliere quali prodotti mostrare nella "
+"tabella per la modifica di massa"
+
+#: includes/class.yith-wcbep-admin.php:705
+msgid "An easy way to create new products"
+msgstr "Un modo semplice per creare nuovi prodotti"
+
+#: includes/class.yith-wcbep-admin.php:706
+msgid ""
+"Create your products in a fast and simple process, directly from the "
+"integrated modal window"
+msgstr ""
+"Crea i tuoi prodotti in modo semplice e veloce direttamente dalla finestra "
+"modale integrata"
+
+#: includes/class.yith-wcbep-admin.php:925
+#: includes/class.yith-wcbep-list-table.php:1389
+#: views/products-table-tab.php:49
+msgid "Enable fields"
+msgstr "Abilita campi"
+
+#: includes/class.yith-wcbep-admin.php:945 views/products-table-tab.php:52
+msgid "Filter products"
+msgstr "Filtra prodotti"
+
+#: includes/class.yith-wcbep-admin.php:966
+msgid "Table views"
+msgstr "Viste tabella"
+
+#: includes/class.yith-wcbep-admin.php:1005 views/products-table-tab.php:86
+msgid "Show/Hide columns"
+msgstr "Mostra/Nascondi colonne"
+
+#: includes/class.yith-wcbep-admin.php:1021 views/products-table-tab.php:73
+msgid "Add new product"
+msgstr "Aggiungi nuovo prodotto"
+
+#: includes/class.yith-wcbep-admin.php:1060
+msgid "Bulk product editing"
+msgstr "Modifica di massa prodotti"
+
+#. translators: %s is the number of files.
+#: includes/class.yith-wcbep-admin.php:1146
+#: includes/class.yith-wcbep-admin.php:1148
+#: includes/class.yith-wcbep-list-table.php:767
+msgid "%s file"
+msgid_plural "%s files"
+msgstr[0] "%s file"
+msgstr[1] "%s file"
+
+#: includes/class.yith-wcbep-admin.php:1202
+msgid "Confirm delete"
+msgstr "Conferma"
+
+#: includes/class.yith-wcbep-admin.php:1203
+msgid ""
+"Are you sure you want to delete the selected products?<br><br>This action "
+"cannot be undone and you will not be able to recover this data."
+msgstr ""
+"Sei sicuro di voler eliminare i prodotti selezionati?<br><br>Questa azione "
+"non può essere annullata e non sarà possibile recuperare i dati."
+
+#: includes/class.yith-wcbep-list-table.php:723
+msgid "View"
+msgstr "Vista"
+
+#: includes/class.yith-wcbep-list-table.php:905
+#: includes/functions.yith-wcbep.php:595
+msgid "Taxable"
+msgstr "Tassabile"
+
+#: includes/class.yith-wcbep-list-table.php:906
+#: includes/functions.yith-wcbep.php:596
+msgid "Shipping only"
+msgstr "Solo con spedizione"
+
+#: includes/class.yith-wcbep-list-table.php:918
+#: includes/functions.yith-wcbep.php:611
+msgid "Standard"
+msgstr "Standard"
+
+#: includes/class.yith-wcbep-list-table.php:938
+#: includes/functions.yith-wcbep.php:643
+msgid "No shipping class"
+msgstr "Nessuna classe di spedizione"
+
+#: includes/class.yith-wcbep-list-table.php:944
+msgid "Private"
+msgstr "Privata"
+
+#: includes/class.yith-wcbep-list-table.php:945
+msgid "Published"
+msgstr "Pubblicata"
+
+#: includes/class.yith-wcbep-list-table.php:958
+msgid "Standard product"
+msgstr "Prodotto standard"
+
+#: includes/class.yith-wcbep-list-table.php:959
+msgid "Application/Software"
+msgstr "Applicazione/Software"
+
+#: includes/class.yith-wcbep-list-table.php:960
+msgid "Music"
+msgstr "Musica"
+
+#: includes/class.yith-wcbep-list-table.php:974
+#: includes/functions.yith-wcbep.php:125
+msgid "Variation"
+msgstr "Variazione"
+
+#: includes/class.yith-wcbep-list-table.php:1300
+msgid "Select all"
+msgstr "Seleziona tutto"
+
+#: includes/class.yith-wcbep-list-table.php:1369
+msgid ""
+"No products found matching your table view conditions. Try to apply "
+"different filters."
+msgstr ""
+"Nessun prodotto corrisponde alle condizioni della vista della tabella. Prova "
+"applicando altri filtri."
+
+#: includes/class.yith-wcbep-list-table.php:1370
+#: views/products-table-tab.php:18
+msgid "Manage views"
+msgstr "Gestisci viste"
+
+#: includes/class.yith-wcbep-list-table.php:1377
+msgid "No products found in your store."
+msgstr "Nessun prodotto trovato nel tuo store."
+
+#: includes/class.yith-wcbep-list-table.php:1380
+msgid "Create product"
+msgstr "Crea prodotto"
+
+#: includes/class.yith-wcbep-list-table.php:1388
+msgid ""
+"Oops! It seems that there are no fields enabled for this table.<br>Try to "
+"enable some of them!"
+msgstr ""
+"Sembra che non ci siano campi abilitati per questa tabella.<br>Prova ad "
+"abilitarne alcuni!"
+
+#. translators: %s: Number of items.
+#. translators: %s is the number of items.
+#: includes/class.yith-wcbep-list-table.php:1429
+#: includes/class.yith-wcbep-list-table.php:1482
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s articolo"
+msgstr[1] "%s articoli"
+
+#. translators: %s is the number of found variations.
+#: includes/class.yith-wcbep-list-table.php:1434
+msgid "%s variation found"
+msgid_plural "%s variations found"
+msgstr[0] "%s variazione trovata"
+msgstr[1] "%s variazioni trovate"
+
+#. translators: %s is the number of items.
+#: includes/class.yith-wcbep-list-table.php:1487
+msgid "%s variation shown"
+msgid_plural "%s variations shown"
+msgstr[0] "%s variazione mostrata"
+msgstr[1] "%s variazioni mostrate"
+
+#: includes/class.yith-wcbep-list-table.php:1530
+msgid "The product ID is not editable"
+msgstr "L'ID del prodotto non può essere modificato"
+
+#: includes/class.yith-wcbep-list-table.php:1532
+msgid ""
+"The price of variable products depends on their variations, so you cannot "
+"directly edit this price, you have to edit the price of the variations "
+"instead."
+msgstr ""
+"Il prezzo dei prodotti variabili dipende dalle variazioni stesse, pertanto è "
+"necessario modificare il prezzo delle variazioni e non direttamente quello "
+"del prodotto variabile."
+
+#: includes/class.yith-wcbep-list-table.php:1585
+msgid "The attributes of a product variation are not editable"
+msgstr "Gli attributi di una variazione di prodotto non sono modificabili"
+
+#. translators: %s is the column name.
+#: includes/class.yith-wcbep-list-table.php:1588
+msgid "The %s column cannot be edited"
+msgstr "La colonna %s non può essere modificata"
+
+#: includes/compatibility/badge-management/class.yith-wcbep-badge-management-compatibility.php:118
+msgid "Badge"
+msgstr "Badge"
+
+#: includes/compatibility/badge-management/class.yith-wcbep-badge-management-compatibility.php:123
+msgid "Badge scheduling"
+msgstr "Programmazione badge"
+
+#: includes/compatibility/badge-management/class.yith-wcbep-badge-management-compatibility.php:128
+msgid "Schedule badge from"
+msgstr "Programma badge dal"
+
+#: includes/compatibility/badge-management/class.yith-wcbep-badge-management-compatibility.php:133
+msgid "Schedule badge to"
+msgstr "Programma badge al"
+
+#: includes/compatibility/badge-management/class.yith-wcbep-badge-management-compatibility.php:150
+#: includes/compatibility/badge-management/class.yith-wcbep-badge-management-compatibility.php:282
+msgid "Badges"
+msgstr "Badge"
+
+#: includes/compatibility/badge-management/class.yith-wcbep-badge-management-compatibility.php:151
+msgid "Badges scheduling"
+msgstr "Programmazione badge"
+
+#: includes/compatibility/badge-management/class.yith-wcbep-badge-management-compatibility.php:152
+msgid "Schedule badges start date"
+msgstr "Programma data di inizio dei badge"
+
+#: includes/compatibility/badge-management/class.yith-wcbep-badge-management-compatibility.php:153
+msgid "Schedule badges end date"
+msgstr "Programma data di fine dei badge"
+
+#: includes/compatibility/badge-management/templates/badge-bulk-editing-field.php:18
+#: includes/compatibility/deposits/templates/deposit-bulk-editing-field.php:20
+#: views/bulk-editing-fields/allow-backorders.php:19
+#: views/bulk-editing-fields/attribute.php:19
+#: views/bulk-editing-fields/attribute.php:42
+#: views/bulk-editing-fields/attribute.php:52
+#: views/bulk-editing-fields/category.php:19
+#: views/bulk-editing-fields/date.php:20
+#: views/bulk-editing-fields/decimal.php:19
+#: views/bulk-editing-fields/image-gallery.php:18
+#: views/bulk-editing-fields/image.php:18
+#: views/bulk-editing-fields/number.php:19
+#: views/bulk-editing-fields/onoff.php:18
+#: views/bulk-editing-fields/price.php:19
+#: views/bulk-editing-fields/product-type.php:20
+#: views/bulk-editing-fields/products.php:19
+#: views/bulk-editing-fields/sale-price.php:19
+#: views/bulk-editing-fields/shipping-class.php:18
+#: views/bulk-editing-fields/status.php:19
+#: views/bulk-editing-fields/stock-status.php:20
+#: views/bulk-editing-fields/tag.php:19
+#: views/bulk-editing-fields/tax-class.php:20
+#: views/bulk-editing-fields/tax-status.php:20
+#: views/bulk-editing-fields/taxonomy.php:19
+#: views/bulk-editing-fields/text-editor.php:19
+#: views/bulk-editing-fields/text.php:19
+#: views/bulk-editing-fields/visibility.php:19
+msgid "No changes"
+msgstr "Nessuna modifica"
+
+#: includes/compatibility/badge-management/templates/badge-bulk-editing-field.php:19
+#: includes/compatibility/deposits/templates/deposit-bulk-editing-field.php:21
+#: views/bulk-editing-fields/attribute.php:20
+#: views/bulk-editing-fields/category.php:20
+#: views/bulk-editing-fields/date.php:21
+#: views/bulk-editing-fields/decimal.php:20
+#: views/bulk-editing-fields/image-gallery.php:19
+#: views/bulk-editing-fields/image.php:19
+#: views/bulk-editing-fields/number.php:20
+#: views/bulk-editing-fields/price.php:20
+#: views/bulk-editing-fields/products.php:20
+#: views/bulk-editing-fields/sale-price.php:20
+#: views/bulk-editing-fields/tag.php:20
+#: views/bulk-editing-fields/taxonomy.php:20
+#: views/bulk-editing-fields/text-editor.php:20
+#: views/bulk-editing-fields/text.php:20
+msgid "Set new"
+msgstr "Imposta nuovo"
+
+#: includes/compatibility/badge-management/templates/badge-bulk-editing-field.php:20
+#: views/bulk-editing-fields/attribute.php:21
+#: views/bulk-editing-fields/category.php:21
+#: views/bulk-editing-fields/products.php:21
+#: views/bulk-editing-fields/tag.php:21
+#: views/bulk-editing-fields/taxonomy.php:21
+msgid "Add"
+msgstr "Aggiungi"
+
+#: includes/compatibility/badge-management/templates/badge-bulk-editing-field.php:21
+#: includes/compatibility/deposits/templates/deposit-bulk-editing-field.php:22
+#: views/bulk-editing-fields/products.php:23
+#: views/bulk-editing-fields/tag.php:22
+#: views/bulk-editing-fields/text-editor.php:23
+#: views/bulk-editing-fields/text.php:23
+msgid "Replace"
+msgstr "Sostituisci"
+
+#: includes/compatibility/badge-management/templates/badge-bulk-editing-field.php:22
+#: includes/compatibility/deposits/templates/deposit-bulk-editing-field.php:23
+#: views/bulk-editing-fields/attribute.php:22
+#: views/bulk-editing-fields/category.php:22
+#: views/bulk-editing-fields/products.php:22
+#: views/bulk-editing-fields/tag.php:23
+#: views/bulk-editing-fields/taxonomy.php:22
+#: views/bulk-editing-fields/text-editor.php:24
+#: views/bulk-editing-fields/text.php:24
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: includes/compatibility/badge-management/templates/badge-bulk-editing-field.php:23
+#: includes/compatibility/deposits/templates/deposit-bulk-editing-field.php:24
+#: views/bulk-editing-fields/attribute.php:23
+#: views/bulk-editing-fields/category.php:23
+#: views/bulk-editing-fields/date.php:24
+#: views/bulk-editing-fields/decimal.php:25
+#: views/bulk-editing-fields/image-gallery.php:22
+#: views/bulk-editing-fields/image.php:20
+#: views/bulk-editing-fields/number.php:23
+#: views/bulk-editing-fields/price.php:25
+#: views/bulk-editing-fields/products.php:24
+#: views/bulk-editing-fields/sale-price.php:27
+#: views/bulk-editing-fields/tag.php:24
+#: views/bulk-editing-fields/taxonomy.php:23
+#: views/bulk-editing-fields/text-editor.php:25
+#: views/bulk-editing-fields/text.php:25
+msgid "Empty"
+msgstr "Vuoto"
+
+#: includes/compatibility/badge-management/templates/badge-bulk-editing-field.php:31
+#: includes/compatibility/badge-management/templates/badge-bulk-editing-field.php:40
+#: includes/compatibility/badge-management/templates/badge-floating-editing-field.php:15
+msgid "Search for a badge..."
+msgstr "Cerca un badge..."
+
+#: includes/compatibility/badge-management/templates/badge-table-view-condition.php:18
+msgid "Has badges"
+msgstr "Ha badge"
+
+#: includes/compatibility/badge-management/templates/badge-table-view-condition.php:19
+msgid "Does not have badges"
+msgstr "Non ha badge"
+
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility-legacy.php:95
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility-legacy.php:273
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility.php:90
+msgid "Enable deposit"
+msgstr "Abilita deposito"
+
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility-legacy.php:100
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility-legacy.php:192
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility-legacy.php:274
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility.php:95
+msgid "Force deposit"
+msgstr "Forza deposito"
+
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility-legacy.php:105
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility-legacy.php:275
+msgid "Deposit checked"
+msgstr "Deposito selezionato"
+
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility-legacy.php:110
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility-legacy.php:276
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility.php:120
+msgid "Create balance orders"
+msgstr "Crea ordini del saldo"
+
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility-legacy.php:184
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility-legacy.php:191
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility-legacy.php:199
+msgid "Default"
+msgstr "Predefinito"
+
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility-legacy.php:185
+msgid "Let users pay the balance online (pending payment)"
+msgstr ""
+"Permetti agli utenti di pagare il saldo online (in attesa di pagamento)"
+
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility-legacy.php:186
+msgid "Customers will pay the balance through other means (on hold)"
+msgstr "I clienti pagheranno il saldo con altri mezzi (in sospeso)"
+
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility-legacy.php:193
+msgid "Allow deposit"
+msgstr "Permetti deposito"
+
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility-legacy.php:200
+#: views/bulk-editing-fields/attribute.php:43
+#: views/bulk-editing-fields/attribute.php:53
+#: views/bulk-editing-fields/onoff.php:19
+msgid "Yes"
+msgstr "Sì"
+
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility-legacy.php:201
+#: views/bulk-editing-fields/attribute.php:44
+#: views/bulk-editing-fields/attribute.php:54
+#: views/bulk-editing-fields/onoff.php:20 views/modals/table-views/view.php:36
+msgid "No"
+msgstr "No"
+
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility.php:85
+msgid "Override deposit options"
+msgstr "Sovrascrivi opzioni acconto"
+
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility.php:100
+msgid "Deposit by default"
+msgstr "Acconto predefinito"
+
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility.php:105
+msgid "Show custom notice"
+msgstr "Mostra notifica personalizzata"
+
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility.php:110
+msgid "Custom notice"
+msgstr "Notifica personalizzata"
+
+#: includes/compatibility/deposits/class.yith-wcbep-deposits-compatibility.php:115
+msgid "Override balance options"
+msgstr "Sovrascrivi opzioni saldo"
+
+#: includes/compatibility/multi-currency/class.yith-wcbep-multi-currency-compatibility.php:64
+msgid "Multi Currency"
+msgstr "Multi Currency"
+
+#: includes/compatibility/multi-vendor/class.yith-wcbep-multivendor-compatibility-legacy.php:95
+msgid "Permission denied!"
+msgstr "Autorizzazione negata!"
+
+#: includes/compatibility/wpml/class.yith-wcbep-wpml-compatibility.php:101
+msgid ""
+"This field can’t be edited because WPML will copy its value from the "
+"original language."
+msgstr ""
+"Questo campo non può essere modificato poiché WPML ne copierà il valore "
+"dalla lingua originale."
+
+#: includes/functions.yith-wcbep.php:151 includes/functions.yith-wcbep.php:515
+#: views/modals/add-product/content.php:13
+#: views/modals/bulk-editing/tabs/general.php:22
+#: views/modals/filter-products/content.php:14
+msgid "Product name"
+msgstr "Nome prodotto"
+
+#: includes/functions.yith-wcbep.php:152
+msgid "ID"
+msgstr "ID"
+
+#: includes/functions.yith-wcbep.php:153
+#: views/modals/bulk-editing/tabs/general.php:23
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/functions.yith-wcbep.php:154 includes/functions.yith-wcbep.php:532
+#: views/modals/bulk-editing/tabs/images.php:22
+msgid "Image"
+msgstr "Immagine"
+
+#: includes/functions.yith-wcbep.php:155
+msgid "Product gallery"
+msgstr "Galleria prodotto"
+
+#: includes/functions.yith-wcbep.php:156 includes/functions.yith-wcbep.php:516
+#: views/modals/add-product/content.php:24
+#: views/modals/bulk-editing/tabs/general.php:25
+#: views/modals/filter-products/content.php:18
+msgid "Description"
+msgstr "Descrizione"
+
+#: includes/functions.yith-wcbep.php:157
+#: views/modals/add-product/content.php:29
+#: views/modals/bulk-editing/tabs/general.php:26
+msgid "Short description"
+msgstr "Descrizione breve"
+
+#: includes/functions.yith-wcbep.php:158 includes/functions.yith-wcbep.php:518
+#: views/modals/add-product/content.php:34
+#: views/modals/bulk-editing/tabs/prices.php:22
+#: views/modals/filter-products/content.php:26
+msgid "Regular price"
+msgstr "Prezzo di listino"
+
+#: includes/functions.yith-wcbep.php:159 includes/functions.yith-wcbep.php:519
+#: views/modals/add-product/content.php:39
+#: views/modals/bulk-editing/tabs/prices.php:23
+#: views/modals/filter-products/content.php:31
+msgid "Sale price"
+msgstr "Prezzo scontato"
+
+#: includes/functions.yith-wcbep.php:160
+#: views/modals/bulk-editing/tabs/general.php:27
+msgid "Purchase note"
+msgstr "Nota d'acquisto"
+
+#: includes/functions.yith-wcbep.php:161 includes/functions.yith-wcbep.php:543
+#: views/modals/add-product/content.php:58
+#: views/modals/filter-products/content.php:68
+msgid "Categories"
+msgstr "Categorie"
+
+#: includes/functions.yith-wcbep.php:162 includes/functions.yith-wcbep.php:544
+#: views/modals/filter-products/content.php:76
+msgid "Tags"
+msgstr "Tag"
+
+#: includes/functions.yith-wcbep.php:163 includes/functions.yith-wcbep.php:517
+#: views/modals/bulk-editing/tabs/general.php:24
+#: views/modals/filter-products/content.php:22
+msgid "SKU"
+msgstr "SKU"
+
+#: includes/functions.yith-wcbep.php:164 includes/functions.yith-wcbep.php:521
+#: views/modals/bulk-editing/tabs/shipping.php:23
+#: views/modals/filter-products/content.php:51
+msgid "Weight"
+msgstr "Peso"
+
+#: includes/functions.yith-wcbep.php:165 includes/functions.yith-wcbep.php:522
+#: views/modals/bulk-editing/tabs/shipping.php:24
+#: views/modals/filter-products/content.php:36
+msgid "Height"
+msgstr "Altezza"
+
+#: includes/functions.yith-wcbep.php:166 includes/functions.yith-wcbep.php:523
+#: views/modals/bulk-editing/tabs/shipping.php:25
+#: views/modals/filter-products/content.php:41
+msgid "Width"
+msgstr "Larghezza"
+
+#: includes/functions.yith-wcbep.php:167 includes/functions.yith-wcbep.php:524
+#: views/modals/bulk-editing/tabs/shipping.php:26
+#: views/modals/filter-products/content.php:46
+msgid "Length"
+msgstr "Lunghezza"
+
+#: includes/functions.yith-wcbep.php:168 includes/functions.yith-wcbep.php:175
+#: includes/functions.yith-wcbep.php:520
+#: views/modals/bulk-editing/tabs/stock.php:24
+#: views/modals/filter-products/content.php:56
+msgid "Stock quantity"
+msgstr "Quantità del magazzino"
+
+#: includes/functions.yith-wcbep.php:169
+#: views/modals/bulk-editing/tabs/advanced.php:26
+msgid "Download limit"
+msgstr "Limite download"
+
+#: includes/functions.yith-wcbep.php:170
+#: views/modals/bulk-editing/tabs/advanced.php:27
+msgid "Download expiry"
+msgstr "Scadenza download"
+
+#: includes/functions.yith-wcbep.php:171
+msgid "Downloadable files"
+msgstr "File scaricabili"
+
+#: includes/functions.yith-wcbep.php:172
+#: views/modals/bulk-editing/tabs/general.php:28
+msgid "Menu order"
+msgstr "Ordinamento menù"
+
+#: includes/functions.yith-wcbep.php:173 includes/functions.yith-wcbep.php:525
+#: views/modals/bulk-editing/tabs/stock.php:23
+#: views/modals/filter-products/content.php:60
+msgid "Stock status"
+msgstr "Stato della giacenza"
+
+#: includes/functions.yith-wcbep.php:174
+msgid "Low stock threshold"
+msgstr "Soglia bassa giacenza"
+
+#: includes/functions.yith-wcbep.php:176
+#: views/modals/bulk-editing/tabs/stock.php:22
+msgid "Manage stock"
+msgstr "Gestione del magazzino"
+
+#: includes/functions.yith-wcbep.php:177
+#: views/modals/bulk-editing/tabs/general.php:29
+msgid "Sold individually"
+msgstr "Venduto singolarmente"
+
+#: includes/functions.yith-wcbep.php:178 includes/functions.yith-wcbep.php:533
+#: views/modals/bulk-editing/tabs/advanced.php:23
+msgid "Featured"
+msgstr "In evidenza"
+
+#: includes/functions.yith-wcbep.php:179 includes/functions.yith-wcbep.php:534
+#: views/modals/bulk-editing/tabs/advanced.php:24
+msgid "Virtual"
+msgstr "Virtuale"
+
+#: includes/functions.yith-wcbep.php:180 includes/functions.yith-wcbep.php:535
+#: views/modals/bulk-editing/tabs/advanced.php:25
+msgid "Downloadable"
+msgstr "Scaricabile"
+
+#: includes/functions.yith-wcbep.php:181
+#: views/modals/bulk-editing/tabs/general.php:30
+msgid "Enable reviews"
+msgstr "Abilita recensioni"
+
+#: includes/functions.yith-wcbep.php:182 includes/functions.yith-wcbep.php:536
+#: views/modals/bulk-editing/tabs/prices.php:26
+msgid "Tax status"
+msgstr "Stato tasse"
+
+#: includes/functions.yith-wcbep.php:183 includes/functions.yith-wcbep.php:537
+#: views/modals/bulk-editing/tabs/prices.php:27
+msgid "Tax class"
+msgstr "Classe fiscale"
+
+#: includes/functions.yith-wcbep.php:184
+#: views/modals/bulk-editing/tabs/stock.php:26
+msgid "Allow backorders?"
+msgstr "Permetti ordini inevasi?"
+
+#: includes/functions.yith-wcbep.php:185 includes/functions.yith-wcbep.php:529
+#: views/modals/bulk-editing/tabs/shipping.php:22
+#: views/modals/filter-products/content.php:108
+msgid "Shipping class"
+msgstr "Classe di spedizione"
+
+#: includes/functions.yith-wcbep.php:186 includes/functions.yith-wcbep.php:526
+#: views/modals/add-product/content.php:64
+#: views/modals/bulk-editing/tabs/general.php:31
+#: views/modals/filter-products/content.php:84
+msgid "Status"
+msgstr "Stato"
+
+#: includes/functions.yith-wcbep.php:187 includes/functions.yith-wcbep.php:527
+#: views/modals/bulk-editing/tabs/general.php:32
+#: views/modals/filter-products/content.php:92
+msgid "Catalog visibility"
+msgstr "Visibilità catalogo"
+
+#: includes/functions.yith-wcbep.php:188
+msgid "Download type"
+msgstr "Tipo di download"
+
+#: includes/functions.yith-wcbep.php:189 includes/functions.yith-wcbep.php:530
+#: views/modals/bulk-editing/tabs/advanced.php:22
+#: views/modals/filter-products/content.php:116
+msgid "Product type"
+msgstr "Tipo prodotto"
+
+#: includes/functions.yith-wcbep.php:190
+#: views/modals/bulk-editing/tabs/general.php:33
+msgid "Date"
+msgstr "Data"
+
+#: includes/functions.yith-wcbep.php:191
+#: views/modals/bulk-editing/tabs/prices.php:24
+msgid "Sale price from"
+msgstr "Prezzo scontato da"
+
+#: includes/functions.yith-wcbep.php:192
+#: views/modals/bulk-editing/tabs/prices.php:25
+msgid "Sale price to"
+msgstr "Prezzo scontato a"
+
+#: includes/functions.yith-wcbep.php:193
+#: views/modals/bulk-editing/tabs/advanced.php:28
+msgid "Button text"
+msgstr "Testo del pulsante"
+
+#: includes/functions.yith-wcbep.php:194
+#: views/modals/bulk-editing/tabs/advanced.php:29
+msgid "Product URL"
+msgstr "URL prodotto"
+
+#: includes/functions.yith-wcbep.php:195
+#: views/modals/bulk-editing/tabs/advanced.php:30
+msgid "Upsells"
+msgstr "Upsell"
+
+#: includes/functions.yith-wcbep.php:196
+#: views/modals/bulk-editing/tabs/advanced.php:31
+msgid "Cross-sells"
+msgstr "Cross-Sell"
+
+#: includes/functions.yith-wcbep.php:528
+msgid "Backorders"
+msgstr "Ordini inevasi"
+
+#: includes/functions.yith-wcbep.php:531
+msgid "On sale"
+msgstr "In offerta"
+
+#: includes/functions.yith-wcbep.php:538
+msgid "Short Description"
+msgstr "Descrizione breve"
+
+#: includes/functions.yith-wcbep.php:545
+msgid "Attributes"
+msgstr "Attributi"
+
+#: includes/functions.yith-wcbep.php:702
+msgid "Scheduled"
+msgstr "Programmato"
+
+#: includes/functions.yith-wcbep.php:768
+msgid "Search for taxonomies..."
+msgstr "Cerca tassonomie..."
+
+#. translators: %s is the plugin name.
+#: init.php:72
+msgid ""
+"%s is enabled but not effective. It requires WooCommerce in order to work."
+msgstr ""
+"%s è attivo ma non operativo. Il suo funzionamento richiede WooCommerce."
+
+#: plugin-options/settings-options.php:14
+msgid "General Options"
+msgstr "Opzioni generali"
+
+#: plugin-options/settings-options.php:20
+msgid "Round up prices"
+msgstr "Arrotondamento prezzi"
+
+#: plugin-options/settings-options.php:24
+msgid "If enabled, the prices will be rounded up when bulk editing."
+msgstr ""
+"Se abilitata, i prezzi saranno arrotondati durante la modifica di massa."
+
+#: plugin-options/settings-options.php:28
+msgid "Category name in categories dropdown"
+msgstr "Nome categoria nel dropdown"
+
+#: plugin-options/settings-options.php:32
+msgid "Category only"
+msgstr "Solo categoria"
+
+#: plugin-options/settings-options.php:33
+msgid "Category with its slug"
+msgstr "Categoria con slug"
+
+#: plugin-options/settings-options.php:34
+msgid "Parent and sub-category"
+msgstr "Categoria e sottocategoria"
+
+#: plugin-options/settings-options.php:35
+msgid "Parent and sub-category with its slug"
+msgstr "Categoria e sottocategoria con slug"
+
+#: plugin-options/settings-options.php:38
+msgid ""
+"Choose what to show as the category name in the categories dropdown list."
+msgstr ""
+"Scegli cosa mostrare come nome della categoria nel dropdown delle categorie."
+
+#: plugin-options/settings-options.php:42
+msgid "Save settings per user"
+msgstr "Salva impostazioni per utente"
+
+#: plugin-options/settings-options.php:46
+msgid ""
+"Enable to save settings (table views, columns visibility, etc.) per user "
+"instead of using the global ones."
+msgstr ""
+"Abilita per salvare le impostazioni (viste tabella, visibilità colonne, "
+"ecc.) per utente invece che utilizzare le impostazioni globali."
+
+#: plugin-options/settings-options.php:50
+msgid "Use regular expressions"
+msgstr "Usa espressioni regolari"
+
+#: plugin-options/settings-options.php:54
+msgid ""
+"If enabled, the plugin will let you use regular expressions in the "
+"\"Replace\" option in the bulk product editing table."
+msgstr ""
+"Se abilitata, potrai usare le espressioni regolari nell'opzione "
+"\"Sostituisci\" nella tabella della modifica di massa."
+
+#: plugin-options/settings-options.php:58
+msgid "Use light query"
+msgstr "Usa light query"
+
+#: plugin-options/settings-options.php:62
+msgid ""
+"If enabled, the plugin uses a light query to retrieve products, so it "
+"improves your website performance. However, by enabling this option you "
+"CANNOT use advanced functionalities: for example, filtering variable "
+"products by price will not work. Please note: use it only if you have a huge "
+"amount of products."
+msgstr ""
+"Se abilitata, il plugin usa una light query per recuperare i prodotti così "
+"da migliorare la performance del tuo sito. Tuttavia, abilitando questa "
+"opzione NON è possibile utilizzare le funzionalità avanzate: come ad esempio "
+"filtrare i prodotti variabili per prezzo. Nota: usala solo se hai grandi "
+"quantità di prodotti."
+
+#: views/bulk-editing-fields/attribute.php:30
+#: views/bulk-editing-fields/attribute.php:62
+#: views/modals/table-views/conditions/attribute.php:26
+msgid "Search for attribute terms&hellip;"
+msgstr "Cerca termini attributo&hellip;"
+
+#: views/bulk-editing-fields/category.php:30
+#: views/modals/filter-products/content.php:71
+msgid "Search for categories&hellip;"
+msgstr "Cerca categorie&hellip;"
+
+#: views/bulk-editing-fields/date.php:22
+msgid "Increase by days"
+msgstr "Aumenta di X giorni"
+
+#: views/bulk-editing-fields/date.php:23
+msgid "Decrease by days"
+msgstr "Riduci di X giorni"
+
+#: views/bulk-editing-fields/date.php:39
+msgid "days"
+msgstr "giorni"
+
+#: views/bulk-editing-fields/decimal.php:21
+#: views/bulk-editing-fields/price.php:21
+#: views/bulk-editing-fields/sale-price.php:21
+msgid "Increase by value"
+msgstr "Aumenta di"
+
+#: views/bulk-editing-fields/decimal.php:22
+#: views/bulk-editing-fields/price.php:23
+#: views/bulk-editing-fields/sale-price.php:23
+msgid "Increase by percentage"
+msgstr "Aumenta di (%)"
+
+#: views/bulk-editing-fields/decimal.php:23
+#: views/bulk-editing-fields/price.php:22
+#: views/bulk-editing-fields/sale-price.php:22
+msgid "Decrease by value"
+msgstr "Riduci di"
+
+#: views/bulk-editing-fields/decimal.php:24
+#: views/bulk-editing-fields/price.php:24
+#: views/bulk-editing-fields/sale-price.php:24
+msgid "Decrease by percentage"
+msgstr "Riduci di (%)"
+
+#: views/bulk-editing-fields/image-gallery.php:20
+#: views/bulk-editing-fields/text-editor.php:21
+#: views/bulk-editing-fields/text.php:21
+msgid "Prepend"
+msgstr "Aggiungi all’inizio"
+
+#: views/bulk-editing-fields/image-gallery.php:21
+#: views/bulk-editing-fields/text-editor.php:22
+#: views/bulk-editing-fields/text.php:22
+msgid "Append"
+msgstr "Aggiungi alla fine"
+
+#: views/bulk-editing-fields/number.php:21
+msgid "Increase"
+msgstr "Aumenta"
+
+#: views/bulk-editing-fields/number.php:22
+msgid "Decrease"
+msgstr "Riduci"
+
+#: views/bulk-editing-fields/sale-price.php:25
+msgid "Decrease by value from regular"
+msgstr "Riduzione importo fisso da prezzo di listino"
+
+#: views/bulk-editing-fields/sale-price.php:26
+msgid "Decrease by percentage from regular"
+msgstr "Riduzione percentuale da prezzo di listino"
+
+#: views/bulk-editing-fields/sale-price.php:45
+msgid "Edit on-sale price scheduling"
+msgstr "Modifica programmazione prezzo scontato"
+
+#: views/bulk-editing-fields/tag.php:31 views/bulk-editing-fields/tag.php:41
+#: views/modals/filter-products/content.php:79
+msgid "Search for tags&hellip;"
+msgstr "Cerca tag&hellip;"
+
+#: views/bulk-editing-fields/taxonomy.php:30
+msgid "Search for taxonomy terms&hellip;"
+msgstr "Cerca termini tassonomia&hellip;"
+
+#: views/floating-editing-fields/attribute.php:14
+#: views/modals/table-views/conditions/custom-taxonomy.php:28
+msgid "Search for a term&hellip;"
+msgstr "Cerca un termine&hellip;"
+
+#: views/floating-editing-fields/attribute.php:27
+msgid "Is visible"
+msgstr "È visibile"
+
+#: views/floating-editing-fields/attribute.php:31
+msgid "Used for variations"
+msgstr "Utilizzato per le variazioni"
+
+#: views/floating-editing-fields/category.php:16
+#: views/modals/add-product/content.php:54
+#: views/modals/table-views/conditions/category.php:28
+msgid "Search for a category&hellip;"
+msgstr "Cerca una categoria&hellip;"
+
+#: views/floating-editing-fields/container.php:15
+#: views/products-table-tab.php:65
+msgid "Apply"
+msgstr "Applica"
+
+#: views/floating-editing-fields/container.php:16
+#: views/modals/add-product/footer.php:12
+#: views/modals/bulk-editing/footer.php:13
+#: views/modals/columns-visibility/footer.php:12
+#: views/modals/enable-fields/footer.php:12
+#: views/modals/table-views/edit-view-template.php:29
+#: views/modals/table-views/footer.php:12 views/products-table-tab.php:336
+msgid "Cancel"
+msgstr "Annulla"
+
+#: views/floating-editing-fields/downloadable-files.php:16
+msgid "Add file"
+msgstr "Aggiungi file"
+
+#: views/floating-editing-fields/products.php:15
+#: views/products-table-tab.php:71
+msgid "Search for a product..."
+msgstr "Cerca un prodotto..."
+
+#: views/floating-editing-fields/tag.php:14
+#: views/modals/table-views/conditions/tag.php:28
+msgid "Search for a tag&hellip;"
+msgstr "Cerca un tag&hellip;"
+
+#: views/floating-editing-fields/taxonomy.php:14
+msgid "Search for a taxonomy&hellip;"
+msgstr "Cerca una tassonomia&hellip;"
+
+#: views/modals/add-product/content.php:19
+msgid "Product image"
+msgstr "Immagine prodotto"
+
+#: views/modals/add-product/content.php:44
+msgid "From"
+msgstr "Da"
+
+#: views/modals/add-product/content.php:49
+msgid "To"
+msgstr "A"
+
+#: views/modals/add-product/footer.php:13
+#: views/modals/bulk-editing/footer.php:14
+#: views/modals/columns-visibility/footer.php:13
+#: views/modals/enable-fields/footer.php:13
+#: views/modals/table-views/footer.php:13 views/products-table-tab.php:337
+msgid "Save"
+msgstr "Salva"
+
+#: views/modals/add-product/success-message.php:14
+msgid "Product successfully created!"
+msgstr "Prodotto creato con successo!"
+
+#: views/modals/add-product/success-message.php:17
+msgid ""
+"<b>Note:</b> If you can't see this product in the table, check and adjust "
+"the parameters of the active table view."
+msgstr ""
+"<b>N.B.:</b> Se non riesci a vedere il prodotto nella tabella, controlla e "
+"modifica i parametri per la visualizzazione della tabella attiva."
+
+#: views/modals/bulk-editing/content.php:16
+msgid ""
+"With the Bulk Editor you can only edit the enabled product fields. If you "
+"can't find a field, click on the \"Enable fields\" button and enable or add "
+"it. "
+msgstr ""
+"Con il Bulk Editor puoi solo modificare i campi abilitati. Se non riesci a "
+"trovare un campo, clicca sul pulsante \"Abilita campi\" per abilitarlo od "
+"aggiungerlo. "
+
+#: views/modals/bulk-editing/tabs/images.php:23
+#: views/modals/bulk-editing/tabs/images.php:25
+msgid "Upload image"
+msgstr "Carica immagine"
+
+#: views/modals/bulk-editing/tabs/images.php:24
+msgid "Image gallery"
+msgstr "Galleria immagini"
+
+#: views/modals/bulk-editing/tabs/stock.php:25
+msgid "Low stock amount"
+msgstr "Quantità bassa giacenza"
+
+#: views/modals/bulk-editing/tabs/taxonomies.php:22
+msgid "Category"
+msgstr "Categoria"
+
+#: views/modals/bulk-editing/tabs/taxonomies.php:23
+msgid "Tag"
+msgstr "Tag"
+
+#: views/modals/columns-visibility/content.php:17
+msgid "Select/Unselect all"
+msgstr "Seleziona/deseleziona tutto"
+
+#: views/modals/columns-visibility/content.php:20
+msgid "Search for a column..."
+msgstr "Cerca una colonna..."
+
+#: views/modals/columns-visibility/content.php:26
+#: views/modals/enable-fields/content.php:67
+msgid "There are no columns matching your search"
+msgstr "Non ci sono colonne che corrispondono alla tua ricerca"
+
+#: views/modals/enable-fields/content.php:26
+msgid "Enable/Disable all"
+msgstr "Abilita/Disabilita tutti"
+
+#: views/modals/enable-fields/content.php:29
+msgid "Search for a field..."
+msgstr "Cerca un campo..."
+
+#: views/modals/filter-products/content.php:64
+#: views/modals/filter-products/content.php:88
+msgid "Choose a status"
+msgstr "Scegli stato"
+
+#: views/modals/filter-products/content.php:96
+msgid "Choose a visibility"
+msgstr "Scegli visibilità"
+
+#: views/modals/filter-products/content.php:100
+msgid "Backorder"
+msgstr "Ordine arretrato"
+
+#: views/modals/filter-products/content.php:104
+msgid "Choose a backorder status"
+msgstr "Scegli stato per ordine arretrato"
+
+#: views/modals/filter-products/content.php:111
+msgid "Search for a shipping class&hellip;"
+msgstr "Cerca una classe di spedizione&hellip;"
+
+#: views/modals/filter-products/content.php:148
+msgid "Save as table view"
+msgstr "Salva come vista"
+
+#: views/modals/filter-products/content.php:161
+msgid "Table view name"
+msgstr "Nome vista"
+
+#: views/modals/filter-products/content.php:172
+#: views/modals/table-views/edit-view-template.php:23
+msgid "Enter a name to identify this view"
+msgstr "Inserisci un nome per identificare questa vista"
+
+#: views/modals/filter-products/fields/decimal.php:20
+#: views/modals/filter-products/fields/price.php:20
+#: views/modals/table-views/conditions/number.php:18
+#: views/modals/table-views/conditions/price.php:19
+msgid "Higher than"
+msgstr "Superiore a"
+
+#: views/modals/filter-products/fields/decimal.php:21
+#: views/modals/filter-products/fields/price.php:21
+#: views/modals/table-views/conditions/number.php:19
+#: views/modals/table-views/conditions/price.php:20
+msgid "Less than"
+msgstr "Inferiore a"
+
+#: views/modals/filter-products/fields/decimal.php:22
+#: views/modals/filter-products/fields/price.php:22
+#: views/modals/table-views/conditions/number.php:20
+#: views/modals/table-views/conditions/price.php:21
+msgid "Equal to"
+msgstr "Uguale a"
+
+#: views/modals/filter-products/fields/decimal.php:23
+#: views/modals/filter-products/fields/price.php:23
+#: views/modals/table-views/conditions/number.php:21
+#: views/modals/table-views/conditions/price.php:22
+msgid "Higher than or equal to"
+msgstr "Superiore o uguale a"
+
+#: views/modals/filter-products/fields/decimal.php:24
+#: views/modals/filter-products/fields/price.php:24
+#: views/modals/table-views/conditions/number.php:22
+#: views/modals/table-views/conditions/price.php:23
+msgid "Less than or equal to"
+msgstr "Inferiore o uguale a"
+
+#: views/modals/filter-products/fields/product-type.php:40
+#: views/modals/table-views/conditions/product-type.php:25
+msgid "Include variations"
+msgstr "Includi variazioni"
+
+#: views/modals/filter-products/fields/terms.php:20
+#: views/modals/table-views/conditions/category.php:18
+#: views/modals/table-views/conditions/custom-taxonomy.php:18
+#: views/modals/table-views/conditions/shipping-class.php:18
+#: views/modals/table-views/conditions/tag.php:18
+msgid "Is"
+msgstr "È"
+
+#: views/modals/filter-products/fields/terms.php:21
+#: views/modals/table-views/conditions/category.php:19
+#: views/modals/table-views/conditions/custom-taxonomy.php:19
+#: views/modals/table-views/conditions/shipping-class.php:19
+#: views/modals/table-views/conditions/tag.php:19
+msgid "Is not"
+msgstr "Non è"
+
+#: views/modals/filter-products/fields/text.php:19
+#: views/modals/table-views/conditions/text.php:18
+msgid "Contains"
+msgstr "Contiene"
+
+#: views/modals/filter-products/fields/text.php:20
+#: views/modals/table-views/conditions/text.php:19
+msgid "Does not contain"
+msgstr "Non contiene"
+
+#: views/modals/filter-products/fields/text.php:21
+#: views/modals/table-views/conditions/text.php:20
+msgid "Starts with"
+msgstr "Inizia con"
+
+#: views/modals/filter-products/fields/text.php:22
+#: views/modals/table-views/conditions/text.php:21
+msgid "Ends with"
+msgstr "Finisce con"
+
+#: views/modals/filter-products/fields/text.php:23
+#: views/modals/table-views/conditions/text.php:22
+msgid "Regular expression"
+msgstr "Espressione regolare"
+
+#: views/modals/filter-products/footer.php:12
+msgid "Reset filters"
+msgstr "Reimposta i filtri"
+
+#: views/modals/filter-products/footer.php:13
+msgid "Get products"
+msgstr "Mostra prodotti"
+
+#: views/modals/table-views/conditions/attribute.php:16
+msgid "All"
+msgstr "Tutti"
+
+#: views/modals/table-views/conditions/attribute.php:17
+msgid "Has"
+msgstr "Contiene"
+
+#: views/modals/table-views/conditions/attribute.php:18
+msgid "Does not have"
+msgstr "Non contiene"
+
+#: views/modals/table-views/conditions/condition.php:13
+msgid "Set condition"
+msgstr "Imposta condizione"
+
+#: views/modals/table-views/conditions/condition.php:23
+msgid "Choose a condition"
+msgstr "Scegli una condizione"
+
+#: views/modals/table-views/conditions/downloadable.php:18
+msgid "Only downloadable products"
+msgstr "Solo prodotti scaricabili"
+
+#: views/modals/table-views/conditions/downloadable.php:19
+msgid "Only non-downloadable products"
+msgstr "Solo prodotti non scaricabili"
+
+#: views/modals/table-views/conditions/featured.php:18
+msgid "Only featured products"
+msgstr "Solo prodotti in evidenza"
+
+#: views/modals/table-views/conditions/featured.php:19
+msgid "Only non-featured products"
+msgstr "Solo prodotti non in evidenza"
+
+#: views/modals/table-views/conditions/image.php:18
+msgid "Only products with an image"
+msgstr "Solo prodotti con immagine"
+
+#: views/modals/table-views/conditions/image.php:19
+msgid "Only products without an image"
+msgstr "Solo prodotti senza immagine"
+
+#: views/modals/table-views/conditions/on-sale.php:18
+msgid "Only products on sale"
+msgstr "Solo prodotti in offerta"
+
+#: views/modals/table-views/conditions/on-sale.php:19
+msgid "Only products that are not on sale"
+msgstr "Solo prodotti non in offerta"
+
+#: views/modals/table-views/conditions/shipping-class.php:28
+msgid "Search for a shipping-class&hellip;"
+msgstr "Cerca classe di spedizione&hellip;"
+
+#: views/modals/table-views/conditions/virtual.php:18
+msgid "Only virtual products"
+msgstr "Solo prodotti virtuali"
+
+#: views/modals/table-views/conditions/virtual.php:19
+msgid "Only non-virtual products"
+msgstr "Solo prodotti non virtuali"
+
+#: views/modals/table-views/content.php:15
+msgid ""
+"Create custom views and choose which products to show in the bulk editing "
+"table."
+msgstr ""
+"Crea viste personalizzate e scegli i prodotti da mostrare nella tabella per "
+"la modifica di massa."
+
+#: views/modals/table-views/content.php:23
+msgid "+ Create new view"
+msgstr "+ Crea nuova vista"
+
+#: views/modals/table-views/edit-view-template.php:13
+msgid "View name"
+msgstr "Nome vista"
+
+#: views/modals/table-views/edit-view-template.php:26
+msgid "Set at least one condition to save the view"
+msgstr "Per poter salvare la vista devi impostare almeno una condizione"
+
+#: views/modals/table-views/edit-view-template.php:27
+msgid "+ Add condition"
+msgstr "+ Aggiungi condizione"
+
+#: views/modals/table-views/edit-view-template.php:30
+msgid "Save view"
+msgstr "Salva vista"
+
+#: views/modals/table-views/view.php:27
+msgid "Delete"
+msgstr "Elimina"
+
+#: views/modals/table-views/view.php:34
+msgid "Delete this view?"
+msgstr "Eliminare questa vista?"
+
+#: views/modals/table-views/view.php:35
+msgid "Yes, delete"
+msgstr "Sì, elimina"
+
+#: views/products-table-tab.php:48
+msgid "Choose which product info to enable for bulk editing"
+msgstr "Scegli quali dati del prodotto abilitare per la modifica di massa"
+
+#: views/products-table-tab.php:51
+msgid "Choose which products to show in the table"
+msgstr "Scegli i prodotti da mostrare nella tabella"
+
+#: views/products-table-tab.php:58
+msgid "Table view"
+msgstr "Vista tabella"
+
+#: views/products-table-tab.php:62
+msgid "Bulk action"
+msgstr "Azione di massa"
+
+#: views/products-table-tab.php:67
+msgid ""
+"No product selected: to make a bulk action, select one or more products."
+msgstr ""
+"Nessun prodotto selezionato. Seleziona uno o più prodotti per effettuare la "
+"modifica di massa."
+
+#: views/products-table-tab.php:76
+msgid "Bulk editing"
+msgstr "Modifica selezionati"
+
+#: views/products-table-tab.php:79
+msgid "No product selected: to bulk edit, select one or more products."
+msgstr ""
+"Nessun prodotto selezionato: per eseguire una modifica di massa, seleziona "
+"uno o più prodotti."
+
+#: views/products-table-tab.php:88
+msgid ""
+"No fields enabled: populate the products table by enabling some fields in "
+"step 1."
+msgstr ""
+"Nessun campo abilitato: abilitane alcuni nello step 1 per popolare la "
+"tabella prodotti."
+
+#: views/products-table-tab.php:92
+msgid "Undo"
+msgstr "Annulla"
+
+#: views/products-table-tab.php:95
+msgid "Redo"
+msgstr "Ripeti"
+
+#: views/products-table-tab.php:99
+msgid "Products per page"
+msgstr "Prodotti per pagina"
+
+#: views/products-table-tab.php:139
+msgid "CSV file download in progress"
+msgstr "Download del file CSV in corso"
+
+#: views/products-table-tab.php:140
+msgid "The process will only need a few seconds."
+msgstr "Questo processo impiegherà solo pochi secondi."
+
+#: views/products-table-tab.php:146
+msgid "Save table"
+msgstr "Salva tabella"
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH WooCommerce Bulk Product Editing</strong></code> allows "
+"you to edit multiple products at the same time. You can easily filter "
+"products and edit all fields you need in a massive, simple and fast way. <a "
+"href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your e-"
+"commerce shop on <strong>YITH</strong></a>."
+msgstr ""
+"<code><strong>YITH WooCommerce Bulk Product Editing</strong></code> ti "
+"permette di modificare più prodotti contemporaneamente. Puoi facilmente "
+"filtrare i prodotti e modificare in massa tutti i campi che vuoi in modo "
+"semplice e veloce. <a href=\"https://yithemes.com/\" "
+"target=\"_blank\">Scopri altri plugin per il tuo e-commerce su <strong>YITH</"
+"strong></a>."
+
+#. translators: %1$s is the Cloned View Name; %2$s is the number of the copy.
+#: includes/class-yith-wcbep-table-views.php:275
+msgctxt "Name of a cloned table view"
+msgid "%1$s - Copy %2$s"
+msgstr "%1$s - Copia %2$s"
+
+#: includes/class.yith-wcbep-admin.php:604
+msgctxt "Help tab - Video title"
+msgid ""
+"Check this video to learn how to <b>bulk edit your product info in no time:</"
+"b>"
+msgstr ""
+"GUarda questo video per scoprire come <b>applicare velocemente modifiche di "
+"massa nei tuoi prodotti:</b>"
+
+#: includes/class.yith-wcbep-admin.php:647
+msgctxt "[ADMIN] Tab description"
+msgid ""
+"Customize the products table and use bulk editing to save time and effort."
+msgstr ""
+"Personalizza la tabella prodotti e usa la modifica di massa per risparmiare "
+"tempo e lavoro."
+
+#: includes/class.yith-wcbep-admin.php:652
+msgctxt "[ADMIN] Tab description"
+msgid "Configure the plugin's general settings."
+msgstr "Configura le impostazioni generali del plugin."
+
+#: includes/class.yith-wcbep-admin.php:727
+msgctxt ""
+"[YOUR STORE TOOLS TAB] Description for plugin YITH WooCommerce Wishlist"
+msgid ""
+"Allow your customers to create lists of products they want and share them "
+"with family and friends."
+msgstr ""
+"Permetti ai tuoi clienti di creare liste di prodotti a cui sono interessati "
+"e condividerle con parenti ed amici."
+
+#: includes/class.yith-wcbep-admin.php:739
+msgctxt ""
+"[YOUR STORE TOOLS TAB] Description for plugin YITH WooCommerce Gift Cards"
+msgid ""
+"Sell gift cards in your shop to increase your earnings and attract new "
+"customers."
+msgstr ""
+"Vendi buoni regalo nel tuo shop per aumentare i guadagni e attirare nuovi "
+"clienti."
+
+#: includes/class.yith-wcbep-admin.php:751
+msgctxt ""
+"[YOUR STORE TOOLS TAB] Description for plugin YITH WooCommerce Request a "
+"Quote"
+msgid ""
+"Hide prices and/or the \"Add to cart\" button and let your customers request "
+"a custom quote for every product."
+msgstr ""
+"Nascondi i prezzi e/o il pulsante \"Aggiungi al carrello\" e permetti ai "
+"tuoi clienti di richiedere un preventivo personalizzato per ciascun prodotto."
+
+#: includes/class.yith-wcbep-admin.php:762
+msgctxt ""
+"[YOUR STORE TOOLS TAB] Description for plugin YITH WooCommerce Ajax Product "
+"Filter"
+msgid ""
+"Help your customers to easily find the products they are looking for and "
+"improve the user experience of your shop."
+msgstr ""
+"Aiuta i tuoi clienti a trovare facilmente i prodotti che stanno cercando e "
+"migliora la user experience del tuo shop."
+
+#: includes/class.yith-wcbep-admin.php:773
+msgctxt ""
+"[YOUR STORE TOOLS TAB] Description for plugin YITH WooCommerce Product Add-"
+"Ons"
+msgid ""
+"Add paid or free advanced options to your product pages using fields like "
+"radio buttons, checkboxes, drop-downs, custom text inputs, and more."
+msgstr ""
+"Aggiungi opzioni avanzate gratuite o a pagamento alle tue pagine prodotto "
+"usando campi come radio button, checkbox, select, input di testo "
+"personalizzati, ecc."
+
+#: includes/class.yith-wcbep-admin.php:784
+msgctxt ""
+"[YOUR STORE TOOLS TAB] Description for plugin YITH WooCommerce Dynamic "
+"Pricing and Discounts"
+msgid ""
+"Increase conversions through dynamic discounts and price rules, and build "
+"powerful and targeted offers."
+msgstr ""
+"Aumenta le conversioni con le regole di prezzo e sconto dinamiche e crea "
+"offerte potenti e mirate."
+
+#: includes/class.yith-wcbep-admin.php:795
+msgctxt ""
+"[YOUR STORE TOOLS TAB] Description for plugin YITH WooCommerce Customize My "
+"Account"
+msgid ""
+"Customize the My Account page of your customers by creating custom sections "
+"with promotions and ad-hoc content based on your needs."
+msgstr ""
+"Personalizza la pagina Il Mio Account dei tuoi clienti creando sezioni "
+"dedicate con promozioni e contenuti ad hoc in base alle loro esigenze."
+
+#: includes/class.yith-wcbep-admin.php:806
+msgctxt "[YOUR STORE TOOLS TAB] Description for plugin Recover Abandoned Cart"
+msgid ""
+"Contact users who have added products to the cart without completing the "
+"order and try to recover lost sales."
+msgstr ""
+"Contatta gli utenti che hanno aggiunto prodotti al carrello senza completare "
+"l'ordine e prova a recuperare le mancate vendite."
+
+#: includes/class.yith-wcbep-admin.php:1049
+msgctxt "Bulk editing modal - tab name"
+msgid "General"
+msgstr "Generali"
+
+#: includes/class.yith-wcbep-admin.php:1050
+msgctxt "Bulk editing modal - tab name"
+msgid "Images"
+msgstr "Immagini"
+
+#: includes/class.yith-wcbep-admin.php:1051
+msgctxt "Bulk editing modal - tab name"
+msgid "Categories, tag & attributes"
+msgstr "Categorie, tag & attributi"
+
+#: includes/class.yith-wcbep-admin.php:1052
+msgctxt "Bulk editing modal - tab name"
+msgid "Prices"
+msgstr "Prezzi"
+
+#: includes/class.yith-wcbep-admin.php:1053
+msgctxt "Bulk editing modal - tab name"
+msgid "Shipping"
+msgstr "Spedizione"
+
+#: includes/class.yith-wcbep-admin.php:1054
+msgctxt "Bulk editing modal - tab name"
+msgid "Stock"
+msgstr "Stock"
+
+#: includes/class.yith-wcbep-admin.php:1055
+msgctxt "Bulk editing modal - tab name"
+msgid "Advanced"
+msgstr "Avanzate"
+
+#: includes/class.yith-wcbep-custom-fields-manager.php:77
+msgctxt "Bulk editing modal - tab name"
+msgid "Custom fields"
+msgstr "Campi personalizzati"
+
+#: includes/class.yith-wcbep-custom-taxonomies-manager.php:495
+msgctxt "Bulk editing modal - tab name"
+msgid "Custom taxonomies"
+msgstr "Tassonomie personalizzate"
+
+#: includes/class.yith-wcbep-list-table.php:907
+#: includes/functions.yith-wcbep.php:597
+msgctxt "Tax status"
+msgid "None"
+msgstr "Nessuno"
+
+#: includes/compatibility/badge-management/templates/badge-bulk-editing-field.php:52
+#: includes/compatibility/deposits/templates/deposit-bulk-editing-field.php:45
+#: views/bulk-editing-fields/products.php:45
+#: views/bulk-editing-fields/tag.php:55
+#: views/bulk-editing-fields/text-editor.php:45
+#: views/bulk-editing-fields/text.php:45
+msgctxt "Bulk editing - replacing"
+msgid "with"
+msgstr "con"
+
+#: includes/functions.yith-wcbep.php:676
+msgctxt "[Enable fields popup] Add custom fields - field option"
+msgid "Text"
+msgstr "Testo"
+
+#: includes/functions.yith-wcbep.php:677
+msgctxt "[Enable fields popup] Add custom fields - field option"
+msgid "Price"
+msgstr "Prezzo"
+
+#: includes/functions.yith-wcbep.php:733
+msgctxt "[Enable fields popup] Add custom fields - field option"
+msgid "Custom field"
+msgstr "Campo personalizzato"
+
+#: includes/functions.yith-wcbep.php:734
+msgctxt "[Enable fields popup] Add custom fields - field option"
+msgid "Taxonomy"
+msgstr "Tassonomia"
+
+#: includes/functions.yith-wcbep.php:727
+msgctxt "[Enable fields popup] Add custom fields - field label"
+msgid "Add"
+msgstr "Aggiungi"
+
+#: includes/functions.yith-wcbep.php:747
+msgctxt "[Enable fields popup] Add custom fields - field label"
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/functions.yith-wcbep.php:738
+msgctxt "[Enable fields popup] Add custom fields type label"
+msgid "Custom field"
+msgstr "Campo personalizzato"
+
+#: includes/functions.yith-wcbep.php:755
+msgctxt "[Enable fields popup] Add custom fields type label"
+msgid "Label"
+msgstr "Etichetta"
+
+#: includes/functions.yith-wcbep.php:761
+msgctxt "[Enable fields popup] Add custom fields type label"
+msgid "Taxonomy"
+msgstr "Tassonomia"
+
+#: views/bulk-editing-fields/attribute.php:38
+msgctxt "Bulk editing - attributes advanced options"
+msgid "Visible on product page"
+msgstr "Visibile nella pagina prodotto"
+
+#: views/bulk-editing-fields/attribute.php:48
+msgctxt "Bulk editing - attributes advanced options"
+msgid "Used for variations"
+msgstr "Utilizzato per le variazioni"
+
+#: views/bulk-editing-fields/attribute.php:59
+msgctxt "Bulk editing - attributes advanced options"
+msgid "Default"
+msgstr "Predefinito"
+
+#: views/floating-editing-fields/downloadable-file.php:15
+msgctxt "Downloadable files field placeholder"
+msgid "File name"
+msgstr "Nome file"
+
+#: views/modals/enable-fields/content.php:41
+msgctxt "Enable fields modal - field kinds separator title"
+msgid "Custom fields"
+msgstr "Campi personalizzati"
+
+#: views/modals/enable-fields/content.php:42
+msgctxt "Enable fields modal - field kinds separator title"
+msgid "Taxonomies"
+msgstr "Tassonomie"
+
+#: views/modals/enable-fields/content.php:76
+msgctxt "[Enable fields popup] Add custom fields - title"
+msgid "Add custom field or taxonomy"
+msgstr "Aggiungi campo personalizzato o tassonomia"
+
+#: views/modals/enable-fields/content.php:91
+msgctxt "[Enable fields popup] Add custom fields - button"
+msgid "Add"
+msgstr "Aggiungi"
+
+#: views/modals/enable-fields/field.php:24
+msgctxt "[Enable fields popup] Custom fields action"
+msgid "Edit"
+msgstr "Modifica"
+
+#: views/modals/enable-fields/field.php:25
+msgctxt "[Enable fields popup] Custom fields action"
+msgid "Delete"
+msgstr "Elimina"

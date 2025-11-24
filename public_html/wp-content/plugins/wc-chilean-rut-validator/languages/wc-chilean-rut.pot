@@ -1,0 +1,142 @@
+# Copyright (C) 2025 WC Chilean RUT Validator
+# This file is distributed under the GPL v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Chilean RUT Validator 2.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/yourusername/wc-chilean-rut-validator/issues\n"
+"POT-Creation-Date: 2025-01-01 00:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2025-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: WP-CLI\n"
+
+#: wc-chilean-rut-validator.php
+msgid "This plugin requires WooCommerce to be installed and active."
+msgstr ""
+
+msgid "Plugin Activation Error"
+msgstr ""
+
+#: includes/class-rut-validator.php
+msgid "Please enter your RUT."
+msgstr ""
+
+msgid "RUT format is invalid. Use format: 12.345.678-9"
+msgstr ""
+
+msgid "The RUT you entered is not valid. Please check and try again."
+msgstr ""
+
+#: includes/class-checkout-field.php
+msgid "RUT"
+msgstr ""
+
+msgid "12.345.678-9"
+msgstr ""
+
+msgid "RUT is a required field."
+msgstr ""
+
+msgid "Valid RUT."
+msgstr ""
+
+msgid "Validating..."
+msgstr ""
+
+msgid "The RUT you entered is not valid."
+msgstr ""
+
+#: includes/class-ajax-handler.php
+msgid "Security check failed. Please refresh the page."
+msgstr ""
+
+msgid "Too many validation requests. Please wait a moment."
+msgstr ""
+
+msgid "RUT is too long."
+msgstr ""
+
+#: includes/class-admin-settings.php
+msgid "Chilean RUT"
+msgstr ""
+
+msgid "Chilean RUT Validation Settings"
+msgstr ""
+
+msgid "Configure RUT field settings for your WooCommerce checkout."
+msgstr ""
+
+msgid "Enable RUT Field"
+msgstr ""
+
+msgid "Add RUT field to checkout"
+msgstr ""
+
+msgid "Required Field"
+msgstr ""
+
+msgid "Make RUT field required at checkout"
+msgstr ""
+
+msgid "AJAX Validation"
+msgstr ""
+
+msgid "Enable real-time validation as user types"
+msgstr ""
+
+msgid "Auto-Format"
+msgstr ""
+
+msgid "Automatically format RUT with dots and dash (12.345.678-9)"
+msgstr ""
+
+msgid "Show Success Message"
+msgstr ""
+
+msgid "Display success message when RUT is valid"
+msgstr ""
+
+msgid "Field Priority"
+msgstr ""
+
+msgid "Position of RUT field in checkout form (lower numbers appear first)"
+msgstr ""
+
+msgid "Custom Error Message"
+msgstr ""
+
+msgid "Custom error message for invalid RUT (leave empty for default)"
+msgstr ""
+
+msgid "Testing & Tools"
+msgstr ""
+
+msgid "Tools for testing RUT validation."
+msgstr ""
+
+msgid "Test RUT Validation"
+msgstr ""
+
+msgid "Validate"
+msgstr ""
+
+msgid "Enter a RUT to test the validation algorithm."
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "WC Chilean RUT Validator"
+msgstr ""
+
+msgid "Professional Chilean RUT validation for WooCommerce with AJAX validation, auto-formatting, and HPOS compatibility."
+msgstr ""
+
+msgid "Valid RUT"
+msgstr ""
+
+msgid "Invalid RUT"
+msgstr ""

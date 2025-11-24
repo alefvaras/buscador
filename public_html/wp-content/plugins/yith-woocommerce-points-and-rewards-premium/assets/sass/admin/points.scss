@@ -1,0 +1,496 @@
+ul.subsubsub{
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.ywpar-remove-row.hide-remove {
+    display: none;
+}
+.yith-empty-list a.page-title-action {
+    display: none!important;
+}
+
+.ywpar-add-row, .ywpar-add-same-row {
+    display: block;
+    margin: 10px 0;
+    cursor: pointer;
+    color: #2a8db0;
+}
+
+.ywpar-remove-row{
+    opacity: 0.5;
+    display: inline-block;
+    margin: 2px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.ywpar_type_sign{
+    margin: 20px;
+    display: inline-block;
+}
+
+.ui-state-default.ui-sortable-helper th, .ui-state-default.ui-sortable-helper td {
+    height: 100%!important;
+    padding-top:0!important;
+    padding-bottom:0!important;
+}
+
+.conversion-options {
+    padding-bottom: 20px !important;
+}
+
+.conversion-options,
+#ywpar_earn_points_conversion_rate-container {
+    .option {
+        @include little-flex-item;
+    }
+
+    input {
+        width: 70px !important;
+        display: inline-block;
+    }
+}
+
+
+
+#ywpar_earn_points_role_conversion_rate-container {
+    & {
+        max-width: 650px;
+        margin-bottom: 5px;
+        padding-bottom: 5px;
+    }
+
+    .option {
+        @include little-flex-item;
+    }
+
+
+    .ywpar_role {
+        width: 150px;
+    }
+
+    input {
+        width: 70px !important;
+        display: inline-block;
+    }
+
+    .conversion-currencies,
+    .conversion-role {
+        display: flex;
+        align-items: baseline;
+
+        p {
+            @include little-flex-item;
+            padding-right: 20px;
+        }
+    }
+
+    .ywpar-remove-row {
+        display: inline-block;
+        margin: 2px;
+        cursor: pointer;
+        opacity: 0.5;
+        font-size: 18px;
+    }
+
+
+}
+
+.forminp-options-role-conversion {
+
+    .role-conversion-options-container {
+        border-bottom: 1px solid #eee;
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+        max-width: 650px;
+    }
+
+
+}
+
+#yith_woocommerce_points_and_rewards_points-standard .expire-options {
+    select {
+        max-width: 150px;
+    }
+
+    input {
+        max-width: 100px;
+    }
+
+}
+
+.post-type-ywpar-level-badge,
+.post-type-ywpar-banner,
+.post-type-ywpar-redeeming-rule,
+.post-type-ywpar-earning-rule {
+
+    .postbox{
+        margin-bottom: 0;
+    }
+
+    .page-title-action{
+        text-transform: capitalize!important;
+    }
+    .subtitle{
+        display: none;
+    }
+    .postbox-header {
+        display: none;
+    }
+
+    .ywpar_rule_schedule{
+        .yith-plugin-fw-datepicker-field-wrapper{
+            width: 200px!important;
+        }
+    }
+    .list-table-description{
+        margin-bottom: 30px;
+        margin-top: 20px;
+    }
+
+
+    .ywpar_back_button{
+        &{
+            display: none;
+            text-decoration: none;
+            padding-bottom: 10px;
+        }
+
+        &.show{
+            display: block;
+        }
+    }
+
+    .yith-plugin-fw-wp-page-wrapper{
+        .yith-plugin-ui.yith-plugin-fw-wp-page-wrapper{
+           margin: 0!important;
+       }
+
+        .wrap{
+            padding-bottom: 0!important;
+
+            #post-body{
+                width: 100%;
+
+                &.columns-2{
+                    margin-right: 0;
+                }
+
+                #ywpar-ywpar-redeeming-rule-metabox{
+                    margin-bottom: 0;
+                }
+
+                #submitpost{
+                    position: sticky;
+                    bottom: 0;
+                    padding: 32px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: flex-start;
+                    border-bottom-left-radius: inherit;
+                    border-bottom-right-radius: inherit;
+                    background: #f8fafc;
+                    margin: 0 -30px;
+                }
+            }
+        }
+    }
+    .yith-plugin-fw-wp-page-wrapper .postbox {
+
+        & {
+            border: 0;
+        }
+
+        .inside {
+            padding: 0;
+            border: 0;
+        }
+
+        table{
+            border: 0;
+        }
+    }
+
+    #ywpar_point_earned,
+    #ywpar_priority,
+    .conversion-options input {
+        width: 100px !important;
+    }
+
+    #ywpar_lb_badge_image{
+        width: 300px;
+    }
+
+    input[type="number"] {
+        width: 100px !important;
+    }
+
+    .ywpar_lvl_badge{
+        width: 50px;
+    }
+}
+
+#ywpar_max_discount_percentage,
+#ywpar_max_discount{
+    width: 100px !important;
+}
+#yith_woocommerce_points_and_rewards_redeem-standard{
+    #ywpar_max_percentual_discount,
+    #ywpar_min_percentual_discount,
+    input[type="number"] {
+        width: 100px !important;
+        margin: 10px 0;
+    }
+
+
+    .forminp-options-restrictions-text-input{
+        input[type="text"] {
+            width: 100px !important;
+            margin: 10px 0;
+        }
+
+        .yith-plugin-fw-options-restrictions-text-input-field-wrapper div{
+            @include little-flex-item;
+        }
+    }
+}
+
+.role-conversion-options{
+    .option{
+        margin-bottom: 10px;
+        @include little-flex-item;
+
+        & > div, & > div > p{
+            @include little-flex-item;
+        }
+    }
+
+    .ywpar_role{
+        max-width: 150px!important;
+    }
+}
+.post-type-ywpar-level-badge img.yith-plugin-fw__list-table-blank-state__icon {
+    width: 60px;
+}
+
+.ywpar_apply_points_from_wc_points_rewards .response {
+    color: green;
+    padding: 10px 0;
+    display: inline-block;
+}
+
+#yith_woocommerce_points_and_rewards_points-extra{
+    &{
+        padding-top: 0;
+    }
+
+    form{
+        &#plugin-fw-wc{
+
+            max-width: 920px;
+
+            .yith-plugin-fw__panel__section{
+
+                display: block;
+
+                .yith-plugin-fw__panel__section__title{
+                    display: none;
+
+                }
+
+
+
+
+                .yith-plugin-fw__panel__section__content {
+                    display: block;
+                    border-radius: 5px;
+                    box-shadow: 0 0 0 1px var(--yith-light-border-color), 0 3px 11px 6px var(--yith-light-shadow);
+                    margin-top: 0!important;
+
+                    &.opened {
+                        display: block;
+                        margin-top: 20px;
+
+                        .yith-plugin-fw__panel__option{
+
+                            &:not(:first-child){
+                                display: block;
+
+                                .yith-plugin-fw__panel__option__label{
+                                    margin-bottom: 10px;
+                                }
+                            }
+
+                            &.yith-plugin-fw__panel__option--onoff:first-child{
+                                background-color: var(--yith-table-row-highlight);
+
+                                .yith-plugin-fw__panel__option__label{
+
+                                    &:before{
+                                        content: "\f343";
+                                    }
+
+
+                                }
+
+                            }
+                        }
+                    }
+
+                    .yith-plugin-fw__panel__option{
+                        padding: 10px 60px;
+                        margin-bottom: 0;
+                        position: relative;
+
+                        &:not(:first-child){
+                            display:none;
+                            max-width: none;
+
+                            .yith-plugin-fw__panel__option__content{
+                                top: 0;
+                            }
+                        }
+
+                        &.yith-plugin-fw__panel__option--onoff{
+
+                            &:first-child{
+
+                                position: relative;
+                                max-width: none;
+                                padding: 20px 60px;
+                                margin-bottom: 0;
+                                cursor: pointer;
+
+                                .yith-plugin-fw__panel__option__label{
+
+                                    font-size: 15px;
+
+                                    &:before{
+                                        font-family: "Dashicons";
+                                        content: "\f347";
+                                        position: absolute;
+                                        left: 25px;
+                                        top: 20px;
+                                        font-size: 18px;
+                                        cursor: pointer;
+                                    }
+                                    label{
+                                        pointer-events: none;
+                                    }
+                                }
+                            }
+
+
+
+                            .yith-plugin-fw__panel__option__description{
+                                font-size: 12px;
+                            }
+
+                            .yith-plugin-fw__panel__option__content{
+                                position: absolute;
+                                right: 40px;
+                            }
+                        }
+                    }
+
+                }
+
+            }
+        }
+    }
+
+    .yit-admin-panel-content-wrap.has-subnav {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border: 1px solid #d8d8d8;
+        border-top:0;
+        margin-top: 0;
+    }
+
+    .repeat.hide{
+        display:none;
+    }
+
+    form{
+
+
+
+        .option{
+            margin-bottom: 10px;
+            @include little-flex-item;
+
+            & > div{
+                @include little-flex-item;
+            }
+        }
+
+        input[type="number"]{
+            width: 100px!important;
+            margin: 10px 0;
+        }
+
+        div#ywpar_amount_spent_exp-container,
+        div#ywpar_checkout_threshold_exp-container {
+          &{
+              border-bottom: 1px solid $lightGrey !important;
+              padding-bottom: 15px;
+              max-width: 500px;
+              margin-bottom: 15px;
+          }
+
+            .left-side div {
+                align-items: center;
+                display: flex;
+                gap: 10px;
+            }
+        }
+    }
+}
+
+.post-type-description{
+    margin: 20px 0;
+}
+.ywpar_processing_porting {
+    display: flex;
+    align-items: center;
+    width: auto;
+    padding-right: 0;
+
+    img {
+        width: 50px;
+        margin-right: 10px;
+        display: inline-block;
+    }
+    div{
+        display: inline-block;
+    }
+}
+
+body.ywpar-level-badge-edit .page-title-action,
+body.ywpar-banner-edit .page-title-action,
+body.ywpar-earning-rule-edit .page-title-action,
+body.ywpar-redeeming-rule-edit .page-title-action
+{
+    display: none!important;
+}
+
+.yith_woocommerce_points_and_rewards_panel_page{
+    #post-body-content{
+        display: none;
+    }
+
+    .yith-plugin-fw-options-restrictions-text-input-field-wrapper{
+        input{
+            width: 100px!important;
+        }
+    }
+
+    .ywpar-metabox-wrapper{
+
+        #submitpost{
+            input[type="submit"]{
+                margin-right: 10px;
+            }
+        }
+    }
+}

@@ -1,0 +1,2 @@
+[2025-10-03T15:04:18.431593+00:00] wpdesk.DEBUG: Sender payload: {"click_action":"no","url":"https:\/\/akibara.cl","localhost":"no","source":{"plugin":"flexible-checkout-fieldsphp","ctx":"notice"}} {"source":"wpdesk-sender"} []
+[2025-10-03T15:04:21.498609+00:00] wpdesk.DEBUG: Sender response: {"headers":[],"body":"","response":{"code":false,"message":false},"cookies":[],"http_response":null} {"source":"wpdesk-sender"} []

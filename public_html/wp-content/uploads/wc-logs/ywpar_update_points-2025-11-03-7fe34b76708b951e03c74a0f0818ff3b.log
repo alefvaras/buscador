@@ -1,0 +1,10 @@
+2025-11-03T23:26:42+00:00 NOTICE Updated points to 1: Array
+(
+    [user_id] => 1
+    [action] => reviews_exp
+    [order_id] => 0
+    [description] => 
+    [amount] => 3000
+    [info] => a:1:{i:0;a:5:{s:6:"option";s:7:"reviews";s:5:"value";s:1:"4";s:6:"points";s:4:"3000";s:6:"repeat";i:0;s:12:"repeat_times";i:1;}}
+)
+ CONTEXT: {"_legacy":true}

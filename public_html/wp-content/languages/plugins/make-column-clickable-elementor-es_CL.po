@@ -1,0 +1,49 @@
+# Translation of Plugins - Make Column Clickable for Elementor - Development (trunk) in Spanish (Chile)
+# This file is distributed under the same license as the Plugins - Make Column Clickable for Elementor - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-09-29 21:39:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es_CL\n"
+"Project-Id-Version: Plugins - Make Column Clickable for Elementor - Development (trunk)\n"
+
+#: includes/class-column-clickable.php:47
+msgid "Container Link"
+msgstr "Enlace del contenedor"
+
+#. Description of the plugin
+#: make-column-clickable-elementor.php
+msgid "Simple: allows users to click anywhere on a column, section, or container instead of only on individual elements."
+msgstr "Simple: permite a los usuarios hacer clic en cualquier lugar en una columna, sección o contenedor en lugar de solo en elementos individuales."
+
+#: includes/class-column-clickable.php:65
+msgid "https://your-link.com"
+msgstr "https://your-link.com"
+
+#: includes/class-column-clickable.php:47
+msgid "Column Link"
+msgstr "Enlace de la columna"
+
+#. Author URI of the plugin
+#: make-column-clickable-elementor.php
+msgid "https://fernandoacosta.net/?utm_source=wp-org&utm_medium=site&utm_campaign=make-column-clickable"
+msgstr "https://fernandoacosta.net/?utm_source=wp-org&utm_medium=site&utm_campaign=make-column-clickable"
+
+#. Author of the plugin
+#: make-column-clickable-elementor.php
+msgid "Fernando Acosta"
+msgstr "Fernando Acosta"
+
+#. Plugin URI of the plugin
+#: make-column-clickable-elementor.php
+msgid "https://fernandoacosta.net/make-column-clickable-elementor"
+msgstr "https://fernandoacosta.net/make-column-clickable-elementor"
+
+#. Plugin Name of the plugin
+#: make-column-clickable-elementor.php
+msgid "Make Column Clickable for Elementor"
+msgstr "Make Column Clickable for Elementor"

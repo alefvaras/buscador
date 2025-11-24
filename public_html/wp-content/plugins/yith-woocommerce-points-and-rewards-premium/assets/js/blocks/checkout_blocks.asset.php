@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('react', 'wp-block-editor', 'wp-blocks', 'wp-components', 'wp-i18n', 'wp-polyfill', 'ywpar-ui-components', 'ywpar-ui-styles'), 'version' => '6d25c0d01d3a075049b5');

@@ -1,0 +1,20 @@
+2025-11-02T19:59:36+00:00 NOTICE Updated points to 1: Array
+(
+    [user_id] => 1
+    [action] => order_completed
+    [order_id] => 12302
+    [description] => 
+    [amount] => 949
+    [info] => 
+)
+ CONTEXT: {"_legacy":true}
+2025-11-02T20:00:50+00:00 NOTICE Updated points to 1: Array
+(
+    [user_id] => 1
+    [action] => shared_points
+    [order_id] => 0
+    [description] => Cupón creado: 1vt8-t3df-pf8k
+    [amount] => -949
+    [info] => 
+)
+ CONTEXT: {"_legacy":true}

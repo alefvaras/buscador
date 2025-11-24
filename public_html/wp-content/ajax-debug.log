@@ -1,0 +1,46 @@
+[2025-11-24 14:37:59] [INIT] Action detectada: bookory_ajax_search_products
+[2025-11-24 14:37:59] Action: bookory_ajax_search_products | Data: {"action":"bookory_ajax_search_products","query":"dandadan","product_cat":"","nonce":"","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:38:41] [INIT] Action detectada: heartbeat
+[2025-11-24 14:38:41] Action: heartbeat | Data: {"data":{"wpcode_lock":"13575"},"interval":"60","_nonce":"6eb6f48366","action":"heartbeat","screen_id":"fragmentos-de-codigo_page_wpcode-snippet-manager","has_focus":"false","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:38:42] [INIT] Action detectada: as_async_request_queue_runner
+[2025-11-24 14:38:42] Action: as_async_request_queue_runner | Data: {"action":"as_async_request_queue_runner","nonce":"4234144c57","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:39:17] [INIT] Action detectada: bookory_ajax_search_products
+[2025-11-24 14:39:18] Action: bookory_ajax_search_products | Data: {"action":"bookory_ajax_search_products","query":"dandadan","product_cat":"","nonce":"","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:39:40] [INIT] Action detectada: heartbeat
+[2025-11-24 14:39:41] Action: heartbeat | Data: {"data":{"wpcode_lock":"13575"},"interval":"60","_nonce":"6eb6f48366","action":"heartbeat","screen_id":"fragmentos-de-codigo_page_wpcode-snippet-manager","has_focus":"true","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:39:54] [INIT] Action detectada: as_async_request_queue_runner
+[2025-11-24 14:39:54] Action: as_async_request_queue_runner | Data: {"action":"as_async_request_queue_runner","nonce":"4234144c57","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:40:15] [INIT] Action detectada: wpcode_update_snippet_status
+[2025-11-24 14:40:15] Action: wpcode_update_snippet_status | Data: {"_wpnonce":"d0173d7a0c","action":"wpcode_update_snippet_status","snippet_id":"13575","active":"false","multisite":"","woocommerce-login-nonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:42:34] [INIT] Action detectada: bookory_ajax_search_products
+[2025-11-24 14:42:34] Action: bookory_ajax_search_products | Data: {"action":"bookory_ajax_search_products","query":"dandadan","product_cat":"","nonce":"","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:42:54] [INIT] Action detectada: bookory_ajax_search_products
+[2025-11-24 14:42:54] Action: bookory_ajax_search_products | Data: {"action":"bookory_ajax_search_products","query":"dandadan}","product_cat":"","nonce":"","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:42:57] [INIT] Action detectada: bookory_ajax_search_products
+[2025-11-24 14:42:57] Action: bookory_ajax_search_products | Data: {"action":"bookory_ajax_search_products","query":"dandadan}\u00bf","product_cat":"","nonce":"","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:42:57] [INIT] Action detectada: bookory_ajax_search_products
+[2025-11-24 14:42:58] Action: bookory_ajax_search_products | Data: {"action":"bookory_ajax_search_products","query":"dandadan}","product_cat":"","nonce":"","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:42:58] [INIT] Action detectada: bookory_ajax_search_products
+[2025-11-24 14:42:58] Action: bookory_ajax_search_products | Data: {"action":"bookory_ajax_search_products","query":"dandadan","product_cat":"","nonce":"","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:42:59] [INIT] Action detectada: bookory_ajax_search_products
+[2025-11-24 14:42:59] Action: bookory_ajax_search_products | Data: {"action":"bookory_ajax_search_products","query":"dandadan","product_cat":"","nonce":"","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:43:30] [INIT] Action detectada: heartbeat
+[2025-11-24 14:43:30] Action: heartbeat | Data: {"interval":"60","_nonce":"6eb6f48366","action":"heartbeat","screen_id":"plugins","has_focus":"false","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:43:31] [INIT] Action detectada: as_async_request_queue_runner
+[2025-11-24 14:43:31] Action: as_async_request_queue_runner | Data: {"action":"as_async_request_queue_runner","nonce":"4234144c57","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:44:29] [INIT] Action detectada: heartbeat
+[2025-11-24 14:44:30] Action: heartbeat | Data: {"interval":"60","_nonce":"6eb6f48366","action":"heartbeat","screen_id":"plugins","has_focus":"false","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:45:32] [INIT] Action detectada: heartbeat
+[2025-11-24 14:45:32] Action: heartbeat | Data: {"interval":"60","_nonce":"6eb6f48366","action":"heartbeat","screen_id":"plugins","has_focus":"false","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:46:32] [INIT] Action detectada: heartbeat
+[2025-11-24 14:46:32] Action: heartbeat | Data: {"interval":"60","_nonce":"6eb6f48366","action":"heartbeat","screen_id":"plugins","has_focus":"false","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:46:33] [INIT] Action detectada: as_async_request_queue_runner
+[2025-11-24 14:46:33] Action: as_async_request_queue_runner | Data: {"action":"as_async_request_queue_runner","nonce":"4234144c57","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:47:06] [INIT] Action detectada: bookory_ajax_search_products
+[2025-11-24 14:47:07] Action: bookory_ajax_search_products | Data: {"action":"bookory_ajax_search_products","query":"dandadan20","product_cat":"","nonce":"","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:47:07] [INIT] Action detectada: bookory_ajax_search_products
+[2025-11-24 14:47:07] Action: bookory_ajax_search_products | Data: {"action":"bookory_ajax_search_products","query":"dandadan20","product_cat":"","nonce":"","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:47:29] [INIT] Action detectada: bookory_ajax_search_products
+[2025-11-24 14:47:29] Action: bookory_ajax_search_products | Data: {"action":"bookory_ajax_search_products","query":"dandadan20","product_cat":"","nonce":"","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}
+[2025-11-24 14:48:04] [INIT] Action detectada: heartbeat
+[2025-11-24 14:48:05] Action: heartbeat | Data: {"interval":"60","_nonce":"6eb6f48366","action":"heartbeat","screen_id":"plugins","has_focus":"true","woocommerce-login-nonce":null,"_wpnonce":null,"woocommerce-reset-password-nonce":null}

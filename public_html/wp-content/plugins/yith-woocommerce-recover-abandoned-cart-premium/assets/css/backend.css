@@ -1,0 +1,325 @@
+#yith-ywrac-table-list{
+    width:100%;
+}
+
+#yith-ywrac-table-list thead th{
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+#yith-ywrac-table-list thead{
+    margin-bottom: 10px;
+}
+#yith-ywrac-table-list img{
+    max-width: 50px;
+    height: auto;
+}
+
+
+#yith-ywrac-table-list td{
+    text-align: center;
+    padding: 5px;
+}
+
+#yith-ywrac-table-list td.product-name,
+#yith-ywrac-table-list td.product-name a{
+    width: 100%;
+    text-align: left;
+    display: block;
+}
+span.abandoned{
+    background-color: red;
+    padding: 3px 10px;
+    color: white;
+    text-transform: uppercase;
+}
+span.opened{
+    background-color: green;
+    padding: 3px 10px;
+    color: white;
+    text-transform: uppercase;
+}
+
+#_ywrac_email_to_send-container .yith-plugin-fw-send-email-template-container .ywrac-button-sent-email {
+    padding: 5px 15px;
+}
+
+.yith-ywrac-info-cart td,
+.yith-ywrac-info-cart th{
+    text-align: left;
+}
+
+.the-metabox.simple-text .label{
+    width: 200px;
+    font-weight: bolder;
+    display: inline-block;
+}
+
+.yit-plugins_page_yith_woocommerce_recover_abandoned_cart #poststuff #post-body.columns-2{
+    margin-right: 0px;
+}
+
+.yith-plugin-ui .yith-plugin-fw-wp-page-wrapper .wrap {
+    margin-top: 0;
+}
+
+
+.widefat .column-status .ywrac-email-status{
+    display: block;
+    text-indent: -9999px;
+    position: relative;
+    height: 1em;
+    width: 1em;
+    background: 0 0;
+    font-size: 1.4em;
+}
+
+
+.widefat .column-status .ywrac-email-status.active:after,
+.widefat .column-status .ywrac-email-status.deactive:after{
+    font-family: WooCommerce;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    text-indent: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.widefat .column-status .ywrac-email-status.deactive:after{
+    content: "\e013";
+    color: #a00000;
+}
+
+.widefat .column-status .ywrac-email-status.active:after{
+    content: "\e015";
+    color: #44CC2E;
+}
+
+.ywrac-reports-section {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ywrac-report-box {
+    display: inline-block;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 150px;
+    border-radius: 3px;
+    margin: 20px 30px 20px 10px;
+    padding: 30px;
+    background-color: #f1f1f1;
+    color: #303030;
+}
+
+.ywrac-report-box .featured {
+    color: #aca200;
+}
+
+.ywrac-report-box .report-title {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: #646464;
+}
+
+.ywrac-report-box .report-title .report-title-text {
+    display: inline-block;
+}
+
+.ywrac-report-box .ywrac-report-icon {
+    width: 25px;
+    height: 20px;
+    float: right;
+}
+
+.ywrac-report-box .ywrac-report-main-data {
+    font-size: 32px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin: 20px 0;
+    line-height: normal;
+}
+
+.ywrac-report-box .details {
+    line-height: 30px;
+}
+
+.ywrac-report-box .detail-line .ywrac-report-data {
+    float: right;
+}
+
+.ywrac-reports-recovered .ywrac-report-box {
+    background-color: #f1f9de;
+}
+
+.ywrac-reports-recovered .report-title .text {
+    color: #7e8000;
+}
+
+.ywrac-reports-recovered .ywrac-report-main-data {
+    color: #aca200;
+}
+
+@media screen and (max-width: 560px) {
+    .ywrac-report-box {
+        width: auto;
+    }
+    .ywrac-report-box .report-title .report-title-text {
+        width: 200px;
+    }
+}
+
+.woocommerce table.form-table .yith-plugin-fw-inline-fields-field-wrapper #ywrac_cron_config .select2-container,
+.woocommerce table.form-table .yith-plugin-fw-inline-fields-field-wrapper #ywrac_delete_cart_config .select2-container,
+.woocommerce table.form-table .yith-plugin-fw-inline-fields-field-wrapper #ywrac_pending_order_delete_config .select2-container,
+.woocommerce table.form-table .yith-plugin-fw-inline-fields-field-wrapper #ywrac_cut_off_time_config .select2-container {
+    min-width: 90px!important;
+}
+
+    /* tinymce */
+i.mce-i-ywrac-icon {
+    background-image: url(../images/yithemes-icon.png) ;
+    width: 16px;
+    height: 16px;
+    vertical-align: top;
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-left: -2px;
+    padding-right: 2px
+}
+
+#_ywrac_email_to_send-container input{
+    width: 100%;
+}
+
+.yith-ywrac-info-cart .ywrac_send_email{
+    margin-top: 10px;
+}
+.ywrac-history-table{
+    width: 100%;
+}
+.ywrac-history-table td{
+    border-bottom: 1px solid #eee;
+}
+
+.ywrac-admin-no-posts {
+    padding: 50px;
+}
+
+.ywrac-admin-no-posts-container {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.ywrac-admin-no-posts-logo {
+    width: 100px;
+    margin: 30px auto;
+}
+
+.ywrac-admin-no-posts-text {
+    width: 530px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+#yith_woocommerce_recover_abandoned_cart_email .yith-plugin-fw__panel__content__page__title {
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.yith-plugin-ui--ywrac_email-post_type .postbox {
+	border: none;
+}
+.yith-plugin-ui--ywrac_email-post_type .postbox-header, .yith-plugin-ui--ywrac_email-post_type .page-title-action {
+	display: none;
+}
+
+.ywrac_metabox .yith-plugin-fw__tab-panel {
+	margin-left: 200px;
+  }
+
+.ywrac_metabox .the-metabox.title {
+		margin: 0 0 -180px !important;
+		width: 180px;
+		position: absolute;
+		left: 0;
+}
+
+.ywrac_metabox .the-metabox.title h3 {
+	text-transform: none;
+	color: inherit;
+	font-size: 1rem;
+  }
+
+.ywrac_metabox .the-metabox:not(.title) {
+	margin: 0 0 24px 131px !important;
+	max-width: 670px;
+	color: var(--yith-content-text);
+}
+
+.ywrac_metabox .the-metabox:not(.title) .yith-plugin-fw-metabox-field-row > label {
+	float: none;
+	margin: 0 !important;
+	font-size: inherit !important;
+	font-weight: 500;
+	padding: 0;
+	color: #1e293b !important;
+	display: block;
+	flex-direction: row;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 8px;
+}
+
+.ywrac_metabox .the-metabox.onoff .yith-plugin-fw-metabox-field-row > .yith-plugin-fw-onoff-field-wrapper, .ywrac_metabox .the-metabox.onoff .yith-plugin-fw-metabox-field-row > label {
+	width: 50% ;
+	display: block ;
+	float: left ;
+  }
+
+.yith-plugin-ui--ywrac_email-post_type #post-body-content {
+	display: none
+}
+
+table tr.type-ywrac_cart .action select, #yith_woocommerce_recover_abandoned_cart_pending_orders table tr .action select { margin-bottom: 10px;}
+table tr.type-ywrac_cart .action img, #yith_woocommerce_recover_abandoned_cart_pending_orders table tr .action img { width: 16px; margin-left: 5px; }
+#yith_woocommerce_recover_abandoned_cart_recovered .tablenav.top {margin: 0;}
+.yith-plugin-ui--ywrac_email-post_type ul.subsubsub, .yith-plugin-ui--ywrac_cart-post_type ul.subsubsub { display: none;}
+.yith-plugin-ui--ywrac_cart-post_type > .wrap form#post > a {display: none;}
+
+.yith-plugin-ui--ywrac_cart-post_type a.page-title-action {
+	display: none !important;
+}
+
+.post-type-ywrac_cart .yith-plugin-ui--ywrac_cart-post_type .product-name > div {
+	display: flex;
+	align-items: center;
+}
+.post-type-ywrac_cart .yith-plugin-ui--ywrac_cart-post_type .product-name .product-image { margin-right: 10px;}
+.post-type-ywrac_cart #post-body-content,
+.post-type-ywrac_cart .yith-plugin-ui--ywrac_cart-post_type #ywrac-cart .postbox-header > .handle-actions,
+.post-type-ywrac_cart .yith-plugin-ui--ywrac_cart-post_type #ywrac-info-cart .postbox-header > .handle-actions,
+.post-type-ywrac_cart .yith-plugin-ui--ywrac_cart-post_type #ywrac-cart-action .handle-actions,
+.post-type-ywrac_email.post-php .yith-plugin-fw__panel__header-nav__wrapper {
+	display: none !important;
+}
+.post-type-ywrac_cart #ywrac-cart-action .inside {padding: 0;}
+.post-type-ywrac_cart .yith-ywrac-info-cart select {width: 100%;}
+.type-ywrac_cart .check-column label:hover, .type-ywrac_cart .check-column input:hover + label {
+	background: transparent;
+}
+.post-type-ywrac_cart.edit-php .yith-plugin-ui table .check-column input{ margin-left: 15px !important;}
+#yith_woocommerce_recover_abandoned_cart_pending_orders table td.column-action .yith-plugin-fw__action-button .yith-plugin-fw__action-button__menu__item,
+.edit-php.post-type-ywrac_cart .column-action .yith-plugin-fw__action-button__menu__item  { text-align: left !important;}
+#yith_woocommerce_recover_abandoned_cart_reports, #yith_woocommerce_recover_abandoned_cart_reports #plugin-fw-wc { padding: 0; }

@@ -1,0 +1,2628 @@
+@charset "UTF-8";
+/* ===== Start ICONS CSS ===== */
+@font-face {
+  font-family: "bookory-icon";
+  src: url("./assets/fonts/icons/bookory-icon-2.2.6.eot");
+  src: url("./assets/fonts/icons/bookory-icon-2.2.6.eot?#iefix") format("eot"), url("./assets/fonts/icons/bookory-icon-2.2.6.woff2") format("woff2"), url("./assets/fonts/icons/bookory-icon-2.2.6.woff") format("woff"), url("./assets/fonts/icons/bookory-icon-2.2.6.ttf") format("truetype"), url("./assets/fonts/icons/bookory-icon-2.2.6.svg#bookory-icon-2.2.6") format("svg");
+}
+[class*=bookory-icon-] {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.bookory-icon-account:before {
+  content: "";
+}
+
+.bookory-icon-adventure:before {
+  content: "";
+}
+
+.bookory-icon-america:before {
+  content: "";
+}
+
+.bookory-icon-angle-down:before {
+  content: "";
+}
+
+.bookory-icon-angle-left:before {
+  content: "";
+}
+
+.bookory-icon-angle-right:before {
+  content: "";
+}
+
+.bookory-icon-angle-up:before {
+  content: "";
+}
+
+.bookory-icon-arrow-left:before {
+  content: "";
+}
+
+.bookory-icon-arrow-right:before {
+  content: "";
+}
+
+.bookory-icon-art:before {
+  content: "";
+}
+
+.bookory-icon-author:before {
+  content: "";
+}
+
+.bookory-icon-biographies:before {
+  content: "";
+}
+
+.bookory-icon-book:before {
+  content: "";
+}
+
+.bookory-icon-calendar:before {
+  content: "";
+}
+
+.bookory-icon-cart:before {
+  content: "";
+}
+
+.bookory-icon-category:before {
+  content: "";
+}
+
+.bookory-icon-check-square-solid:before {
+  content: "";
+}
+
+.bookory-icon-checked:before {
+  content: "";
+}
+
+.bookory-icon-chevron-double-left:before {
+  content: "";
+}
+
+.bookory-icon-chevron-double-right:before {
+  content: "";
+}
+
+.bookory-icon-child-book:before {
+  content: "";
+}
+
+.bookory-icon-classics:before {
+  content: "";
+}
+
+.bookory-icon-clock:before {
+  content: "";
+}
+
+.bookory-icon-compare:before {
+  content: "";
+}
+
+.bookory-icon-contemporary:before {
+  content: "";
+}
+
+.bookory-icon-discount-1:before {
+  content: "";
+}
+
+.bookory-icon-discount:before {
+  content: "";
+}
+
+.bookory-icon-education:before {
+  content: "";
+}
+
+.bookory-icon-expert:before {
+  content: "";
+}
+
+.bookory-icon-eye:before {
+  content: "";
+}
+
+.bookory-icon-facebook-f:before {
+  content: "";
+}
+
+.bookory-icon-family:before {
+  content: "";
+}
+
+.bookory-icon-fantasy:before {
+  content: "";
+}
+
+.bookory-icon-fiction:before {
+  content: "";
+}
+
+.bookory-icon-filter-ul:before {
+  content: "";
+}
+
+.bookory-icon-free-delivery:before {
+  content: "";
+}
+
+.bookory-icon-genre:before {
+  content: "";
+}
+
+.bookory-icon-gift-1:before {
+  content: "";
+}
+
+.bookory-icon-google-plus-g:before {
+  content: "";
+}
+
+.bookory-icon-heart-1:before {
+  content: "";
+}
+
+.bookory-icon-historical:before {
+  content: "";
+}
+
+.bookory-icon-horror:before {
+  content: "";
+}
+
+.bookory-icon-left-arrow:before {
+  content: "";
+}
+
+.bookory-icon-linkedin-in:before {
+  content: "";
+}
+
+.bookory-icon-list-ul:before {
+  content: "";
+}
+
+.bookory-icon-long-arrow-down:before {
+  content: "";
+}
+
+.bookory-icon-long-arrow-left:before {
+  content: "";
+}
+
+.bookory-icon-long-arrow-right:before {
+  content: "";
+}
+
+.bookory-icon-long-arrow-up:before {
+  content: "";
+}
+
+.bookory-icon-map-marker-alt:before {
+  content: "";
+}
+
+.bookory-icon-pen:before {
+  content: "";
+}
+
+.bookory-icon-philosophy:before {
+  content: "";
+}
+
+.bookory-icon-phone-2:before {
+  content: "";
+}
+
+.bookory-icon-phone:before {
+  content: "";
+}
+
+.bookory-icon-play:before {
+  content: "";
+}
+
+.bookory-icon-popular:before {
+  content: "";
+}
+
+.bookory-icon-quick-view:before {
+  content: "";
+}
+
+.bookory-icon-quote:before {
+  content: "";
+}
+
+.bookory-icon-regilion:before {
+  content: "";
+}
+
+.bookory-icon-returned-order:before {
+  content: "";
+}
+
+.bookory-icon-right-arrow-cicrle:before {
+  content: "";
+}
+
+.bookory-icon-right-arrow:before {
+  content: "";
+}
+
+.bookory-icon-romance:before {
+  content: "";
+}
+
+.bookory-icon-search-1:before {
+  content: "";
+}
+
+.bookory-icon-search-all:before {
+  content: "";
+}
+
+.bookory-icon-secure-payment:before {
+  content: "";
+}
+
+.bookory-icon-shipping-truck:before {
+  content: "";
+}
+
+.bookory-icon-shopping-bag:before {
+  content: "";
+}
+
+.bookory-icon-sliders-v:before {
+  content: "";
+}
+
+.bookory-icon-sold:before {
+  content: "";
+}
+
+.bookory-icon-star-bestseller:before {
+  content: "";
+}
+
+.bookory-icon-store-2:before {
+  content: "";
+}
+
+.bookory-icon-twitte-1:before {
+  content: "";
+}
+
+.bookory-icon-360:before {
+  content: "";
+}
+
+.bookory-icon-bars:before {
+  content: "";
+}
+
+.bookory-icon-caret-down:before {
+  content: "";
+}
+
+.bookory-icon-caret-left:before {
+  content: "";
+}
+
+.bookory-icon-caret-right:before {
+  content: "";
+}
+
+.bookory-icon-caret-up:before {
+  content: "";
+}
+
+.bookory-icon-cart-empty:before {
+  content: "";
+}
+
+.bookory-icon-check-square:before {
+  content: "";
+}
+
+.bookory-icon-circle:before {
+  content: "";
+}
+
+.bookory-icon-cloud-download-alt:before {
+  content: "";
+}
+
+.bookory-icon-comment:before {
+  content: "";
+}
+
+.bookory-icon-comments:before {
+  content: "";
+}
+
+.bookory-icon-contact:before {
+  content: "";
+}
+
+.bookory-icon-credit-card:before {
+  content: "";
+}
+
+.bookory-icon-dot-circle:before {
+  content: "";
+}
+
+.bookory-icon-edit:before {
+  content: "";
+}
+
+.bookory-icon-envelope:before {
+  content: "";
+}
+
+.bookory-icon-expand-alt:before {
+  content: "";
+}
+
+.bookory-icon-external-link-alt:before {
+  content: "";
+}
+
+.bookory-icon-file-alt:before {
+  content: "";
+}
+
+.bookory-icon-file-archive:before {
+  content: "";
+}
+
+.bookory-icon-filter:before {
+  content: "";
+}
+
+.bookory-icon-folder-open:before {
+  content: "";
+}
+
+.bookory-icon-folder:before {
+  content: "";
+}
+
+.bookory-icon-frown:before {
+  content: "";
+}
+
+.bookory-icon-gift:before {
+  content: "";
+}
+
+.bookory-icon-grid:before {
+  content: "";
+}
+
+.bookory-icon-grip-horizontal:before {
+  content: "";
+}
+
+.bookory-icon-heart-fill:before {
+  content: "";
+}
+
+.bookory-icon-heart:before {
+  content: "";
+}
+
+.bookory-icon-history:before {
+  content: "";
+}
+
+.bookory-icon-home:before {
+  content: "";
+}
+
+.bookory-icon-info-circle:before {
+  content: "";
+}
+
+.bookory-icon-instagram:before {
+  content: "";
+}
+
+.bookory-icon-level-up-alt:before {
+  content: "";
+}
+
+.bookory-icon-list:before {
+  content: "";
+}
+
+.bookory-icon-map-marker-check:before {
+  content: "";
+}
+
+.bookory-icon-meh:before {
+  content: "";
+}
+
+.bookory-icon-minus-circle:before {
+  content: "";
+}
+
+.bookory-icon-minus:before {
+  content: "";
+}
+
+.bookory-icon-mobile-android-alt:before {
+  content: "";
+}
+
+.bookory-icon-money-bill:before {
+  content: "";
+}
+
+.bookory-icon-pencil-alt:before {
+  content: "";
+}
+
+.bookory-icon-plus-circle:before {
+  content: "";
+}
+
+.bookory-icon-plus:before {
+  content: "";
+}
+
+.bookory-icon-random:before {
+  content: "";
+}
+
+.bookory-icon-reply-all:before {
+  content: "";
+}
+
+.bookory-icon-reply:before {
+  content: "";
+}
+
+.bookory-icon-search-plus:before {
+  content: "";
+}
+
+.bookory-icon-search:before {
+  content: "";
+}
+
+.bookory-icon-shield-check:before {
+  content: "";
+}
+
+.bookory-icon-shopping-basket:before {
+  content: "";
+}
+
+.bookory-icon-shopping-cart:before {
+  content: "";
+}
+
+.bookory-icon-sign-out-alt:before {
+  content: "";
+}
+
+.bookory-icon-smile:before {
+  content: "";
+}
+
+.bookory-icon-spinner:before {
+  content: "";
+}
+
+.bookory-icon-square:before {
+  content: "";
+}
+
+.bookory-icon-star:before {
+  content: "";
+}
+
+.bookory-icon-store:before {
+  content: "";
+}
+
+.bookory-icon-sync:before {
+  content: "";
+}
+
+.bookory-icon-tachometer-alt:before {
+  content: "";
+}
+
+.bookory-icon-th-large:before {
+  content: "";
+}
+
+.bookory-icon-th-list:before {
+  content: "";
+}
+
+.bookory-icon-thumbtack:before {
+  content: "";
+}
+
+.bookory-icon-ticket:before {
+  content: "";
+}
+
+.bookory-icon-times-circle:before {
+  content: "";
+}
+
+.bookory-icon-times:before {
+  content: "";
+}
+
+.bookory-icon-trophy-alt:before {
+  content: "";
+}
+
+.bookory-icon-truck:before {
+  content: "";
+}
+
+.bookory-icon-user-headset:before {
+  content: "";
+}
+
+.bookory-icon-user-shield:before {
+  content: "";
+}
+
+.bookory-icon-user:before {
+  content: "";
+}
+
+.bookory-icon-video:before {
+  content: "";
+}
+
+.bookory-icon-adobe:before {
+  content: "";
+}
+
+.bookory-icon-amazon:before {
+  content: "";
+}
+
+.bookory-icon-android:before {
+  content: "";
+}
+
+.bookory-icon-angular:before {
+  content: "";
+}
+
+.bookory-icon-apper:before {
+  content: "";
+}
+
+.bookory-icon-apple:before {
+  content: "";
+}
+
+.bookory-icon-atlassian:before {
+  content: "";
+}
+
+.bookory-icon-behance:before {
+  content: "";
+}
+
+.bookory-icon-bitbucket:before {
+  content: "";
+}
+
+.bookory-icon-bitcoin:before {
+  content: "";
+}
+
+.bookory-icon-bity:before {
+  content: "";
+}
+
+.bookory-icon-bluetooth:before {
+  content: "";
+}
+
+.bookory-icon-btc:before {
+  content: "";
+}
+
+.bookory-icon-centos:before {
+  content: "";
+}
+
+.bookory-icon-chrome:before {
+  content: "";
+}
+
+.bookory-icon-codepen:before {
+  content: "";
+}
+
+.bookory-icon-cpanel:before {
+  content: "";
+}
+
+.bookory-icon-discord:before {
+  content: "";
+}
+
+.bookory-icon-dochub:before {
+  content: "";
+}
+
+.bookory-icon-docker:before {
+  content: "";
+}
+
+.bookory-icon-dribbble:before {
+  content: "";
+}
+
+.bookory-icon-dropbox:before {
+  content: "";
+}
+
+.bookory-icon-drupal:before {
+  content: "";
+}
+
+.bookory-icon-ebay:before {
+  content: "";
+}
+
+.bookory-icon-facebook:before {
+  content: "";
+}
+
+.bookory-icon-figma:before {
+  content: "";
+}
+
+.bookory-icon-firefox:before {
+  content: "";
+}
+
+.bookory-icon-google-plus:before {
+  content: "";
+}
+
+.bookory-icon-google:before {
+  content: "";
+}
+
+.bookory-icon-grunt:before {
+  content: "";
+}
+
+.bookory-icon-gulp:before {
+  content: "";
+}
+
+.bookory-icon-html5:before {
+  content: "";
+}
+
+.bookory-icon-joomla:before {
+  content: "";
+}
+
+.bookory-icon-link-brand:before {
+  content: "";
+}
+
+.bookory-icon-linkedin:before {
+  content: "";
+}
+
+.bookory-icon-mailchimp:before {
+  content: "";
+}
+
+.bookory-icon-opencart:before {
+  content: "";
+}
+
+.bookory-icon-paypal:before {
+  content: "";
+}
+
+.bookory-icon-pinterest-p:before {
+  content: "";
+}
+
+.bookory-icon-reddit:before {
+  content: "";
+}
+
+.bookory-icon-skype:before {
+  content: "";
+}
+
+.bookory-icon-slack:before {
+  content: "";
+}
+
+.bookory-icon-snapchat:before {
+  content: "";
+}
+
+.bookory-icon-spotify:before {
+  content: "";
+}
+
+.bookory-icon-trello:before {
+  content: "";
+}
+
+.bookory-icon-twitter:before {
+  content: "";
+}
+
+.bookory-icon-vimeo:before {
+  content: "";
+}
+
+.bookory-icon-whatsapp:before {
+  content: "";
+}
+
+.bookory-icon-wordpress:before {
+  content: "";
+}
+
+.bookory-icon-yoast:before {
+  content: "";
+}
+
+.bookory-icon-youtube:before {
+  content: "";
+}
+
+/* ===== End ICONS CSS ===== */
+.editor-styles-wrapper .wp-block-quote,
+.hentry .entry-content .wp-block-quote {
+  position: relative;
+}
+.editor-styles-wrapper .wp-block-quote:before,
+.hentry .entry-content .wp-block-quote:before {
+  position: absolute;
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  left: 45px;
+  top: 30px;
+  padding: 15px 0;
+  background-color: var(--background);
+  color: var(--primary);
+  font-size: 44px;
+}
+
+.bookory-social ul {
+  margin: 0;
+  list-style-type: none;
+}
+.bookory-social ul li {
+  display: inline-block;
+  margin-right: 10px;
+  line-height: 1;
+}
+.bookory-social ul li:last-child {
+  margin-right: 0;
+}
+.bookory-social ul li a:before {
+  position: relative;
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+.bookory-social ul li a[href*=twitter]:before {
+  content: "";
+  color: #1DA1F2;
+}
+.bookory-social ul li a[href*=instagram]:before {
+  content: "";
+  color: #262626;
+}
+.bookory-social ul li a[href*=docker]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=dochub]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=yelp]:before {
+  content: "";
+  color: #af0606;
+}
+.bookory-social ul li a[href*=flickr]:before {
+  content: "";
+  color: #0063dc;
+}
+.bookory-social ul li a[href*=github]:before {
+  content: "";
+  color: #333333;
+}
+.bookory-social ul li a[href*=dribbble]:before {
+  content: "";
+  color: #ea4c89;
+}
+.bookory-social ul li a[href*=wordpress]:before {
+  content: "";
+  color: #21759b;
+}
+.bookory-social ul li a[href*=tumblr]:before {
+  content: "";
+  color: #35465c;
+}
+.bookory-social ul li a[href*=angular]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=atlassian]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=snapchat]:before {
+  content: "";
+  color: #fffc00;
+}
+.bookory-social ul li a[href*=apper]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=codepen]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=gulp]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=cpanel]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=skype]:before {
+  content: "";
+  color: #00AFF0;
+}
+.bookory-social ul li a[href*=reddit]:before {
+  content: "";
+  color: #ff4500;
+}
+.bookory-social ul li a[href*=whatsapp]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=slack]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=amazon]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=android]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=grunt]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=firefox]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=adobe]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=behance]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=dropbox]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=facebook]:before {
+  content: "";
+  color: #3b5998;
+}
+.bookory-social ul li a[href*=linkedin]:before {
+  content: "";
+  color: #0077b5;
+}
+.bookory-social ul li a[href*=paypal]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=trello]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=vimeo]:before {
+  content: "";
+  color: #1ab7ea;
+}
+.bookory-social ul li a[href*=youtube]:before {
+  content: "";
+  color: #cd201f;
+}
+.bookory-social ul li a[href*=apple]:before {
+  content: "";
+  color: #999999;
+}
+.bookory-social ul li a[href*=bitbucket]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=bitcoin]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=bluetooth]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=bity]:before {
+  content: "";
+}
+.bookory-social ul li a[href*="google/chrome"]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=drupal]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=html5]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=mailchimp]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=jenkins]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=spotify]:before {
+  content: "";
+  color: #2ebd59;
+}
+.bookory-social ul li a[href*=ebay]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=telegram]:before {
+  content: "";
+  color: #2CA5E0;
+}
+.bookory-social ul li a[href*=yoast]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=btc-e]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=discord]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=google]:before {
+  content: "";
+  color: #dd4b39;
+}
+.bookory-social ul li a[href*=google-plus]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=figma]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=joomla]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=opencart]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=pinterest]:before {
+  content: "";
+  color: #bd081c;
+}
+.bookory-social ul li a[href*=vimeo]:before {
+  content: "";
+  color: #1ab7ea;
+}
+.bookory-social ul li a[href*=centos]:before {
+  content: "";
+}
+.bookory-social ul li a[href*=whatsapp]:before {
+  content: "";
+}
+
+#comments .commentlist .bypostauthor > .comment-body cite::after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407911001em;
+}
+#comments .reply a::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-top: -3px;
+  font-size: 11px;
+}
+#comments .reply a.comment-edit-link::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+#respond #cancel-comment-reply-link::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  display: block;
+}
+
+.sticky .entry-title::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+button.loading,
+input[type=button].loading,
+input[type=reset].loading,
+input[type=submit].loading,
+.button.loading,
+.wc-block-grid__products .wc-block-grid__product .wp-block-button__link.loading,
+.added_to_cart.loading {
+  position: relative;
+}
+button.loading::after,
+input[type=button].loading::after,
+input[type=reset].loading::after,
+input[type=submit].loading::after,
+.button.loading::after,
+.wc-block-grid__products .wc-block-grid__product .wp-block-button__link.loading::after,
+.added_to_cart.loading::after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+  height: 20px;
+  width: 20px;
+  line-height: 20px;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -10px;
+  margin-top: -10px;
+  display: block;
+}
+
+.shop-action .blockUI.blockOverlay:before,
+.shop-action .loader:before {
+  top: 50%;
+  left: 50%;
+  opacity: 1 !important;
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+  font-size: 20px;
+  width: 20px;
+  height: 20px;
+  line-height: 1;
+  position: absolute;
+  display: block !important;
+  margin-left: -10px;
+  margin-top: -10px;
+  color: #000;
+}
+
+.shop-action .blockUI.blockOverlay {
+  opacity: 1 !important;
+  overflow: hidden;
+  background-image: none !important;
+  background: #fff !important;
+}
+
+.main-navigtion ul li a::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+.mobile-navigation ul li button::after, .mobile-navigation-categories ul li button::after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+.rtl .mobile-navigation ul li button::after, .rtl .mobile-navigation-categories ul li button::after {
+  transform: rotateY(180deg);
+}
+.mobile-navigation ul li button.toggled-on::after, .mobile-navigation-categories ul li button.toggled-on::after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.wp-block-archives li:before,
+.wp-block-categories li:before,
+.widget_categories li:before,
+.widget_archive li:before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  line-height: 16px;
+  font-size: 16px;
+  color: #ccc;
+  border-radius: 50%;
+  margin-right: 10px;
+  margin-top: -3px;
+}
+
+.widget_search form::before,
+.widget_product_search form::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translate(0, -50%);
+  z-index: 1;
+}
+.widget_search.widget_block form::before,
+.widget_product_search.widget_block form::before {
+  content: none;
+}
+.widget_search.widget_block form .wp-block-search__inside-wrapper,
+.widget_product_search.widget_block form .wp-block-search__inside-wrapper {
+  position: relative;
+}
+.widget_search.widget_block form .wp-block-search__inside-wrapper:before,
+.widget_product_search.widget_block form .wp-block-search__inside-wrapper:before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translate(0, -50%);
+  z-index: 1;
+}
+
+.elementor-widget-bookory-search .widget_product_search form button::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translate(0, -50%);
+  z-index: 1;
+  font-size: 16px;
+}
+
+.single-product .pswp__button {
+  background-color: transparent;
+}
+.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger {
+  text-indent: -999px;
+  overflow: hidden;
+}
+.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  display: block;
+  line-height: 20px;
+  text-indent: 0;
+  font-size: 18px;
+}
+.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger img {
+  display: none !important;
+}
+.single-product div.product .entry-summary .yith-wcwl-add-to-wishlist > div > a:before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+.single-product div.product .entry-summary .compare:before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+.single-product div.product .entry-summary .single_add_to_cart_button:before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 8px;
+  font-size: 15px;
+  margin-top: -3px;
+}
+
+.stock::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  margin-right: 0.5407911001em;
+  margin-top: -4px;
+}
+.stock.in-stock::before {
+  content: "";
+}
+
+.content-area .bookory-dropdown-filter-wrap .widget_layered_nav ul {
+  margin-left: 0;
+}
+.content-area .bookory-dropdown-filter-wrap .widget_layered_nav ul li {
+  padding-left: 1.618em;
+}
+.content-area .bookory-dropdown-filter-wrap .widget_layered_nav ul li::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  margin-right: 0.5407911001em;
+  display: block;
+  float: left;
+  opacity: 0.35;
+  margin-left: -1.618em;
+  width: 1em;
+}
+.content-area .bookory-dropdown-filter-wrap .widget_layered_nav ul li .children {
+  margin-left: 0;
+}
+.content-area .bookory-dropdown-filter-wrap .widget_layered_nav li::before {
+  content: "";
+}
+.content-area .bookory-dropdown-filter-wrap .widget_layered_nav .chosen::before {
+  content: "";
+}
+
+a.remove {
+  display: block;
+  width: 1.618em;
+  height: 1.618em;
+  line-height: 1.618;
+  font-weight: 400;
+  text-indent: -9999px;
+  position: relative;
+}
+a.remove::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  color: #999999;
+  line-height: 1.618;
+  text-indent: 0;
+  text-align: center;
+}
+
+.woocommerce-shipping-calculator > p:first-child a::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.3342343017em;
+}
+
+.blockUI::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+  height: 30px;
+  width: 30px;
+  line-height: 30px;
+  font-size: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -15px;
+  margin-top: -15px;
+}
+
+.woocommerce-pagination .next,
+.woocommerce-pagination .prev {
+  display: inline-block;
+  position: relative;
+}
+
+#shipping_method li > label {
+  cursor: pointer;
+}
+#shipping_method li > label::after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407911001em;
+  transition: color, ease, 0.2s;
+}
+#shipping_method li > input[type=radio]:first-child {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  -webkit-clip-path: inset(50%);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+}
+#shipping_method li > input[type=radio]:first-child:checked + label::after {
+  font-weight: 700;
+  content: "";
+}
+
+#payment .payment_methods li > label {
+  cursor: pointer;
+}
+#payment .payment_methods li > label::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+  transition: color, ease, 0.2s;
+}
+#payment .payment_methods li > input[type=radio]:first-child {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  -webkit-clip-path: inset(50%);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+}
+#payment .payment_methods li > input[type=radio]:first-child:checked + label::before {
+  font-weight: 700;
+  content: "";
+}
+
+.woocommerce-password-strength::after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407911001em;
+}
+.woocommerce-password-strength.strong::after {
+  content: "";
+}
+.woocommerce-password-strength.good::after {
+  content: "";
+}
+
+.woocommerce-MyAccount-navigation ul li.is-active a::before {
+  opacity: 1;
+}
+.woocommerce-MyAccount-navigation ul li a::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  line-height: 1.618;
+  margin-left: 0.5407911001em;
+  width: 1.41575em;
+  text-align: right;
+  float: right;
+  opacity: 0.25;
+  font-weight: 700;
+}
+.woocommerce-MyAccount-navigation ul li a:hover::before {
+  opacity: 1;
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--dashboard a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--orders a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--downloads a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--edit-address a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--payment-methods a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--edit-account a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--customer-logout a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--subscriptions a::before {
+  content: "";
+}
+
+.my_account_orders .button.view::after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407911001em;
+}
+
+p.order-again .button::after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407911001em;
+}
+
+.woocommerce-MyAccount-downloads .button::after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407911001em;
+}
+
+.demo_store::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+#reviews .commentlist li p.meta .verified {
+  display: inline-block;
+  height: 1.41575em;
+  width: 1.41575em;
+  position: relative;
+  text-indent: -9999px;
+}
+#reviews .commentlist li p.meta .verified::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  color: #0f834d;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1.41575em;
+  height: 1.41575em;
+  text-indent: 0;
+  text-align: center;
+  line-height: 1.618em;
+}
+
+/**
+ * Composite Products
+ */
+.single-product div.product .component_selections .clear_component_options::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+/**
+ * Mix and Match
+ */
+.cart .mnm_table_item .mnm_table_item_indent::before,
+.shop_table .mnm_table_item .mnm_table_item_indent::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  transform: rotate(90deg);
+  margin-right: 0.3819820591em;
+  opacity: 0.25;
+}
+
+/**
+ * Quick view
+ */
+.quick-view-button::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.6180469716em;
+}
+
+/**
+ * Ship multiple addresses
+ */
+.woocommerce-page .ship_address .gift-form label::after,
+.woocommerce-page .no_shipping_address .gift-form label::after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407911001em;
+}
+.woocommerce-page .ship_address .modify-address-button::before,
+.woocommerce-page .no_shipping_address .modify-address-button::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+.woocommerce-page .addresses + .addresses header.title a::before {
+  content: "";
+}
+
+/**
+ * Product reviews pro
+ */
+.woocommerce .woocommerce-MyAccount-navigation li.woocommerce-MyAccount-navigation-link--contributions a::before,
+.woocommerce-page .woocommerce-MyAccount-navigation li.woocommerce-MyAccount-navigation-link--contributions a::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+/**
+ * Variation Swatches
+ */
+a#variations_clear::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+/**
+ * Wishlists
+ */
+.wl-add-link::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+.button.wl-create-new::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+.site-header-cart .cart-contents::before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.elementor-widget-bookory-vertical-menu .vertical-navigation .bookory-icon {
+  position: relative;
+}
+.elementor-widget-bookory-vertical-menu .vertical-navigation .bookory-icon::after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 16px;
+  font-weight: 700;
+  transition: transform 0.2s;
+}
+.elementor-widget-bookory-vertical-menu .vertical-navigation .bookory-icon::before {
+  position: absolute;
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 16px;
+  font-weight: 700;
+  transform: translate3d(0, 250%, 0);
+  transition: transform 0.2s;
+}
+.elementor-widget-bookory-vertical-menu .vertical-navigation:hover .bookory-icon::after {
+  transform: translate3d(0, -250%, 0);
+}
+.elementor-widget-bookory-vertical-menu .vertical-navigation:hover .bookory-icon::before {
+  transform: translate3d(0, 0, 0);
+}
+
+@media (min-width: 768px) {
+  .main-navigation ul.menu > li.menu-item-has-children > a:after, .main-navigation ul.menu > li.page_item_has_children > a:after, .main-navigation ul.menu > li.has-mega-menu > a:after,
+.main-navigation ul.nav-menu > li.menu-item-has-children > a:after,
+.main-navigation ul.nav-menu > li.page_item_has_children > a:after,
+.main-navigation ul.nav-menu > li.has-mega-menu > a:after {
+    font-family: "bookory-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    margin-left: 7px;
+    font-size: 16px;
+    margin-bottom: 3px;
+  }
+  .gecko .main-navigation ul.menu > li.menu-item-has-children > a:after, .gecko .main-navigation ul.menu > li.page_item_has_children > a:after, .gecko .main-navigation ul.menu > li.has-mega-menu > a:after,
+.gecko .main-navigation ul.nav-menu > li.menu-item-has-children > a:after,
+.gecko .main-navigation ul.nav-menu > li.page_item_has_children > a:after,
+.gecko .main-navigation ul.nav-menu > li.has-mega-menu > a:after {
+    margin-bottom: 0;
+    vertical-align: sub;
+  }
+
+  .header-side .main-navigation ul.menu > li.menu-item-has-children > a::after, .header-side .main-navigation ul.menu > li.page_item_has_children > a::after, .header-side .main-navigation ul.menu > li.has-mega-menu > a::after,
+.header-side .main-navigation ul.nav-menu > li.menu-item-has-children > a::after,
+.header-side .main-navigation ul.nav-menu > li.page_item_has_children > a::after,
+.header-side .main-navigation ul.nav-menu > li.has-mega-menu > a::after {
+    font-family: "bookory-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    margin-left: 1em;
+    margin-right: -25px;
+  }
+
+  .vertical-navigation ul.menu > li.menu-item-has-children > a::after, .vertical-navigation ul.menu > li.page_item_has_children > a::after, .vertical-navigation ul.menu > li.has-mega-menu > a::after,
+.vertical-navigation ul.nav-menu > li.menu-item-has-children > a::after,
+.vertical-navigation ul.nav-menu > li.page_item_has_children > a::after,
+.vertical-navigation ul.nav-menu > li.has-mega-menu > a::after {
+    font-family: "bookory-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    margin-left: auto;
+    float: right;
+  }
+
+  .main-navigation ul.menu ul li.menu-item-has-children > a::after, .main-navigation ul.menu ul li.page_item_has_children > a::after,
+.main-navigation ul.nav-menu ul li.menu-item-has-children > a::after,
+.main-navigation ul.nav-menu ul li.page_item_has_children > a::after {
+    font-family: "bookory-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    float: right;
+    margin-left: 10px;
+    line-height: 1.5;
+  }
+
+  .demo_store a.woocommerce-store-notice__dismiss-link::before {
+    font-family: "bookory-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    margin-right: 0.3342343017em;
+  }
+
+  .addresses header.title a {
+    display: block;
+    width: 1em;
+    height: 1em;
+    text-indent: -9999px;
+    position: relative;
+    padding: 0.875em;
+    margin-top: 0.6180469716em;
+  }
+  .addresses header.title a::before {
+    font-family: "bookory-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    line-height: 1.618;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    text-indent: 0;
+  }
+
+  /**
+   * Wishlists
+   */
+  #wl-wrapper .wl-tabs > li.active::after {
+    font-family: "bookory-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    display: block !important;
+    position: absolute;
+    top: 50%;
+    height: 1em;
+    width: 1em;
+    margin-top: -0.5em;
+  }
+}
+ul.wishlist_table.mobile .remove_from_wishlist:before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.slick-prev:before,
+.slick-next:before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.slick-prev:before {
+  content: "";
+}
+[dir=rtl] .slick-prev:before {
+  content: "";
+}
+.woocommerce-product-gallery-vertical .slick-prev:before {
+  content: "";
+}
+.woocommerce-product-gallery-horizontal .slick-prev:before {
+  content: "";
+}
+
+.slick-next:before {
+  content: "";
+}
+[dir=rtl] .slick-next:before {
+  content: "";
+}
+.woocommerce-product-gallery-vertical .slick-next:before {
+  content: "";
+}
+.woocommerce-product-gallery-horizontal .slick-next:before {
+  content: "";
+}
+
+.arrow-style-3 .slick-prev:before {
+  content: "";
+}
+[dir=rtl] .arrow-style-3 .slick-prev:before {
+  content: "";
+}
+.arrow-style-3 .slick-next:before {
+  content: "";
+}
+[dir=rtl] .arrow-style-3 .slick-next:before {
+  content: "";
+}
+
+body.loading {
+  position: relative;
+}
+body.loading::after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+  height: 40px;
+  width: 40px;
+  line-height: 40px;
+  font-size: 40px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  display: block;
+  z-index: 999999;
+  color: #fff;
+}
+body.loading:before {
+  content: "";
+  display: block;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 999998;
+}
+
+.woocommerce-cart .cart-empty:before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 164px;
+  color: var(--light);
+  display: block;
+}
+
+h2.resp-accordion:before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 10px;
+}
+h2.resp-accordion.active:before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.widget_product_categories .icon-minus {
+  float: right;
+  width: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+.widget_product_categories .icon-minus:before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 14px;
+}
+.widget_product_categories .icon-plus {
+  float: right;
+  width: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+.widget_product_categories .icon-plus:before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 14px;
+}
+
+.widget_product_brands ul li a:before,
+.widget_product_categories ul li a:before,
+.widget_layered_nav ul li a:before,
+.widget_layered_nav_filters ul li a:before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 8px;
+  margin-top: -2px;
+}
+.widget_product_brands ul li.current-cat a:before,
+.widget_product_categories ul li.current-cat a:before,
+.widget_layered_nav ul li.current-cat a:before,
+.widget_layered_nav_filters ul li.current-cat a:before {
+  content: "";
+}
+.widget_product_brands ul li.chosen a:before,
+.widget_product_categories ul li.chosen a:before,
+.widget_layered_nav ul li.chosen a:before,
+.widget_layered_nav_filters ul li.chosen a:before {
+  content: "";
+}
+
+.shop-action .woosc-btn:before,
+.shop-action .woosq-btn:before,
+.shop-action .woosw-btn:before,
+.shop-action a[class*=product_type_]:before, .product-list .woosc-btn:before,
+.product-list .woosq-btn:before,
+.product-list .woosw-btn:before,
+.product-list a[class*=product_type_]:before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+.shop-action .woosw-btn:before, .product-list .woosw-btn:before {
+  content: "";
+}
+.shop-action .woosw-btn.woosw-added:before, .product-list .woosw-btn.woosw-added:before {
+  content: "";
+  color: red;
+  margin-right: 0;
+}
+.shop-action .woosw-btn.woosw-adding::after, .product-list .woosw-btn.woosw-adding::after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  line-height: inherit;
+  content: "" !important;
+  animation: fa-spin 0.75s linear infinite;
+  height: 20px;
+  width: 20px;
+  line-height: 20px;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -10px;
+  margin-top: -10px;
+  display: block;
+  transform: translate(0);
+}
+.shop-action .woosc-btn:before, .product-list .woosc-btn:before {
+  content: "";
+}
+.shop-action .woosq-btn:before, .product-list .woosq-btn:before {
+  content: "";
+}
+.shop-action a[class*=product_type_]:before, .product-list a[class*=product_type_]:before {
+  content: "";
+}
+
+.single-product div.product .entry-summary .woosc-btn:before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  line-height: inherit;
+  font-size: 14px;
+  color: var(--accent);
+}
+.single-product div.product .entry-summary .woosw-btn:before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  line-height: inherit;
+  font-size: 14px;
+  color: var(--accent);
+}
+.single-product div.product .entry-summary .woosw-btn.woosw-added:before {
+  content: "";
+  font-size: 14px;
+}
+
+a.read-more:after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 5px;
+}
+
+.ajax-search .widget_product_search .woocommerce-product-search.loading button[type=submit]::after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+}
+
+.elementor-widget-bookory-language-switcher.language-switcher-style-mobile .bookory-language-switcher .language-switcher-head:after {
+  position: relative;
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5em;
+  line-height: 12px;
+}
+
+.loading-quick-shop .product-transition::after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.search-by-category .input-dropdown-inner > a:after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.popup-navigation ul.menu > li.menu-item-has-children > a:after, .popup-navigation ul.menu > li.page_item_has_children > a:after, .popup-navigation ul.menu > li.has-mega-menu > a:after,
+.popup-navigation ul.nav-menu > li.menu-item-has-children > a:after,
+.popup-navigation ul.nav-menu > li.page_item_has_children > a:after,
+.popup-navigation ul.nav-menu > li.has-mega-menu > a:after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5em;
+  font-size: 16px;
+}
+
+.popup-navigation ul.menu ul li.menu-item-has-children > a::after, .popup-navigation ul.menu ul li.page_item_has_children > a::after,
+.popup-navigation ul.nav-menu ul li.menu-item-has-children > a::after,
+.popup-navigation ul.nav-menu ul li.page_item_has_children > a::after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  float: right;
+  margin-left: 0.5em;
+  line-height: 20px;
+  font-size: 14px;
+}
+
+.bookory-elementor-single-product .shop-button a[class*=product_type_]:before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 5px;
+  margin-top: 3px;
+  float: right;
+  transition: all 0.3s ease;
+}
+
+.elementor-widget-bookory-image-gallery .column-item a:after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.elementor-testimonial-item-wrapper .details:after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.elementor-widget-bookory-author.style-1 .name:after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  text-align: center;
+  margin-left: 15px;
+  line-height: 30px;
+  background: #fff;
+}
+.rtl .elementor-widget-bookory-author.style-1 .name:after {
+  transform: rotateY(180deg);
+}
+
+.bookory-frequently-bought .bookory_add_to_cart_button:before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 8px;
+  font-size: 15px;
+  margin-top: -3px;
+}
+.bookory-frequently-bought .select-item:before {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.woocommerce,
+.woocommerce-page {
+  /**
+  * Forms
+  */
+}
+.woocommerce form .show-password-input:after,
+.woocommerce-page form .show-password-input:after {
+  font-family: "bookory-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+/*# sourceMappingURL=icons.css.map */

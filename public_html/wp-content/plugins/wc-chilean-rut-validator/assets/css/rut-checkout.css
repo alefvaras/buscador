@@ -1,0 +1,67 @@
+/**
+ * WC Chilean RUT - Styles
+ */
+
+/* Campo RUT con iconos */
+#billing_rut_field {
+	position: relative;
+}
+
+#billing_rut {
+	padding-right: 40px !important;
+}
+
+/* Error state */
+.woocommerce-invalid input#billing_rut {
+	border-color: #b81c23 !important;
+	background-color: #fff5f5 !important;
+}
+
+/* Success state */
+.woocommerce-validated input#billing_rut {
+	border-color: #2e7d32 !important;
+	background-color: #f1f8f4 !important;
+}
+
+/* Icono de validación */
+.wc-rut-icon {
+	position: absolute;
+	right: 12px;
+	top: 50%;
+	transform: translateY(-50%);
+	font-size: 20px;
+	font-weight: bold;
+	pointer-events: none;
+	z-index: 10;
+}
+
+.wc-rut-icon.valid {
+	color: #2e7d32;
+}
+
+.wc-rut-icon.invalid {
+	color: #b81c23;
+}
+
+/* Error message */
+.wc-rut-error {
+	display: block;
+	color: #b81c23;
+	font-size: 12px;
+	margin-top: 5px;
+	font-weight: 500;
+}
+
+.wc-rut-error:before {
+	content: '⚠ ';
+}
+
+/* Animación del icono */
+.wc-rut-icon {
+	animation: fadeIn 0.2s ease-in;
+}
+
+@keyframes fadeIn {
+	from { opacity: 0; }
+	to { opacity: 1; }
+}

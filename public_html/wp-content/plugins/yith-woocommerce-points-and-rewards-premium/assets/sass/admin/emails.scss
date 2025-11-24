@@ -1,0 +1,180 @@
+#ywcpar-emails-wrapper{
+
+	.description{
+		margin: 15px 0 40px 0;
+		font-size: 13px;
+	}
+
+	h2, table{
+		border: none;
+	}
+
+	h2{
+		padding-bottom: 15px;
+	}
+
+	.woocommerce-help-tip{
+		display: none;
+	}
+
+	.heading-table,
+	.ywcpar-row{
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+	}
+
+	.heading-table{
+
+		margin-bottom: 20px;
+
+		.ywcpar-column{
+
+			font-size: 14px;
+			color: #2c3338;
+			font-weight: 600;
+
+			&.status{
+				padding-right: 40px;
+			}
+		}
+	}
+
+	.content-table{
+
+		.ywcpar-column{
+
+			line-height: 30px;
+			box-sizing: border-box;
+
+			&.action{
+				opacity: 0;
+				pointer-events: none;
+				position: relative;
+			}
+
+			&.status{
+				padding-right: 30px;
+				padding-top: 5px;
+			}
+
+		}
+
+		.ywcpar-row{
+			background: var(--yith-content-bg);
+			border-radius: 5px;
+			box-shadow: 0 0 0 1px var(--yith-light-border-color), 0 3px 11px 6px var(--yith-light-shadow);
+			transition: background-color .2s ease-in-out;
+			margin-bottom: 30px;
+			padding: 20px 0;
+
+			&:hover{
+				background: var(--yith-table-row-highlight);
+
+				.ywcpar-column{
+
+					&.action{
+						opacity: 1;
+						pointer-events: auto;
+					}
+
+				}
+			}
+
+			&.active{
+				background: var(--yith-table-row-highlight);
+				padding-bottom: 0;
+			}
+
+			.email-settings{
+				flex-basis: 100%;
+				display: none;
+				padding: 20px;
+				background-color: #fff;
+
+				.yit-admin-panel-container{
+
+					margin-right: 0;
+
+					h2{
+						display: none;
+
+						+ p{
+							display: none;
+						}
+					}
+
+					form{
+
+						background: #ffffff;
+						margin-bottom: 0;
+
+						table{
+							border: none!important;
+						}
+
+						#template{
+							display: none;
+						}
+
+						tr{
+							&:first-child{
+								display: none;
+							}
+
+						}
+
+						.submit{
+							text-align: right;
+							margin-right: 20px;
+						}
+					}
+				}
+
+				p.submit{
+					text-align: right;
+					padding-right: 10px;
+				}
+			}
+		}
+
+	}
+
+	.ywcpar-column{
+
+		&:nth-child(1){
+			flex-basis: 40%;
+		}
+		&:nth-child(2){
+			flex-basis: 40%;
+		}
+		&:nth-child(3){
+			flex-basis: 10%;
+			text-align: right;
+		}
+		&:nth-child(4){
+			flex-basis: 10%;
+		}
+
+		&.status{
+			text-align: right;
+			box-sizing: border-box;
+		}
+
+		&.email{
+			padding-left: 20px;
+			box-sizing: border-box;
+		}
+
+	}
+
+
+	table{
+		padding: 0 40px;
+
+		th{
+			font-size: 13px;
+		}
+	}
+
+}

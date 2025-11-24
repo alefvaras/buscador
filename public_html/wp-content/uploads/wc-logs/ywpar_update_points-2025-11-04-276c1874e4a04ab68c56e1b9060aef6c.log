@@ -1,0 +1,30 @@
+2025-11-04T15:26:43+00:00 NOTICE Updated points to 1: Array
+(
+    [user_id] => 1
+    [action] => order_completed
+    [order_id] => 12355
+    [description] => 
+    [amount] => 1500
+    [info] => 
+)
+ CONTEXT: {"_legacy":true}
+2025-11-04T15:40:52+00:00 NOTICE Updated points to 1: Array
+(
+    [user_id] => 1
+    [action] => order_completed
+    [order_id] => 12192
+    [description] => 
+    [amount] => 3000
+    [info] => 
+)
+ CONTEXT: {"_legacy":true}
+2025-11-04T17:26:30+00:00 NOTICE Updated points to 1: Array
+(
+    [user_id] => 1
+    [action] => admin_action
+    [order_id] => 0
+    [description] => 
+    [amount] => 10000
+    [info] => 
+)
+ CONTEXT: {"_legacy":true}

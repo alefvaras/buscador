@@ -1,0 +1,5677 @@
+# Translation of YITH WooCommerce Points and Rewards in Spanish (Mexico)
+# This file is distributed under the same license as the YITH WooCommerce Points and Rewards package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Points and Rewards\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/yith-woocommerce-"
+"points-and-rewards\n"
+"POT-Creation-Date: 2025-06-24T08:54:18+00:00\n"
+"PO-Revision-Date: 2020-10-20 15:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_MX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.7\n"
+
+#. Plugin URI of the plugin
+#: init.php
+msgid ""
+"https://yithemes.com/themes/plugins/yith-woocommerce-points-and-rewards/"
+msgstr ""
+"https://yithemes.com/themes/plugins/yith-woocommerce-points-and-rewards/"
+
+#. Description of the plugin
+#: init.php
+msgid ""
+"With <code><strong>YITH WooCommerce Points and Rewards</strong></code> you "
+"can start a rewards program with points to gain your customers' loyalty. "
+"Your customers will be able to use their points to get discounts making it a "
+"perfect marketing strategy for your store. <a href=\"https://yithemes.com/\" "
+"target=\"_blank\">Get more plugins for your e-commerce shop on <strong>YITH</"
+"strong></a>."
+msgstr ""
+"Con <code><strong>YITH WooCommerce Points and Rewards</strong></code> puedes "
+"comenzar un programa de recompensas con puntos para ganar la lealtad de tus "
+"clientes. Tus clientes podrán usar sus puntos para obtener descuentos. Es "
+"una estrategia de marketing perfecta para tu tienda <a href=\"https://"
+"yithemes.com/\" target=\"_blank\">Obtén más plugins para tu comercio "
+"electrónico en <strong>YITH</strong></a>."
+
+#: includes/admin/class-yith-wc-points-rewards-customer-bulk-actions.php:77
+#: includes/class-yith-wc-points-rewards-assets.php:125
+#, fuzzy
+msgid "Bulk actions"
+msgstr "Acciones en masa"
+
+#: includes/admin/class-yith-wc-points-rewards-customer-history-list-table.php:58
+#: templates/emails/latest-updates.php:51
+#: templates/myaccount/my-points-view.php:183
+#: templates/myaccount/my-points-view.php:192
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/admin/class-yith-wc-points-rewards-customer-history-list-table.php:59
+msgid "Amount"
+msgstr "Cantidad"
+
+#: includes/admin/class-yith-wc-points-rewards-customer-history-list-table.php:60
+#: templates/emails/latest-updates.php:53
+#: templates/myaccount/my-points-view.php:185
+#: templates/myaccount/my-points-view.php:198
+msgid "Order No."
+msgstr "Pedido nº"
+
+#: includes/admin/class-yith-wc-points-rewards-customer-history-list-table.php:61
+#: templates/myaccount/my-points-view.php:184
+#: templates/myaccount/my-points-view.php:195
+msgid "Reason"
+msgstr ""
+
+#: includes/admin/class-yith-wc-points-rewards-customer-history-list-table.php:62
+#: views/tabs/bulk-actions.php:161
+#: views/tabs/customers/bulk-actions/modal/content.php:153
+#: views/tabs/emails-tab.php:159
+msgid "Description"
+msgstr "Descripción"
+
+#: includes/admin/class-yith-wc-points-rewards-customer-history-list-table.php:204
+#, fuzzy
+msgid "This user has not collected any points yet."
+msgstr "Este usuario aún no ha conseguido puntos."
+
+#: includes/admin/class-yith-wc-points-rewards-customer-history-list-table.php:233
+#, fuzzy
+msgctxt "Customer Points action"
+msgid "Add points"
+msgstr "Añadir puntos a"
+
+#: includes/admin/class-yith-wc-points-rewards-customer-history-list-table.php:243
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:304
+#, fuzzy
+msgctxt "Customer Points action"
+msgid "Remove points"
+msgstr "Restablecer puntos"
+
+#: includes/admin/class-yith-wc-points-rewards-customer-history-list-table.php:254
+#, fuzzy
+msgctxt "Customer Points action"
+msgid "Remove all points"
+msgstr "Restablecer puntos"
+
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:48
+msgid "User"
+msgstr "Usuario"
+
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:49
+#, fuzzy
+msgid "Points collected"
+msgstr "Puntos obtenidos:"
+
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:50
+#: views/tabs/customers/customer-history.php:64
+#, fuzzy
+msgid "Points to redeem"
+msgstr "Canjeo de puntos"
+
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:51
+#: views/tabs/customers/customer-history.php:74
+msgid "Rank"
+msgstr ""
+
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:178
+#, fuzzy
+msgid "Remove points"
+msgstr "Restablecer puntos"
+
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:179
+#: views/tabs/bulk-actions.php:23
+#: views/tabs/customers/bulk-actions/modal/content.php:15
+#, fuzzy
+msgid "Ban users"
+msgstr "Bloquear usuario"
+
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:180
+#: views/tabs/bulk-actions.php:24
+#: views/tabs/customers/bulk-actions/modal/content.php:16
+msgid "Unban users"
+msgstr "Desbloquear usuarios"
+
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:181
+#, fuzzy
+msgid "Apply extra points rules"
+msgstr "Aplicar puntos"
+
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:263
+#: views/tabs/customers/customer-history.php:44
+#, fuzzy
+msgid "banned"
+msgstr "bloqueado"
+
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:290
+#, fuzzy
+msgctxt "Customer Points action"
+msgid "View history"
+msgstr "Ver historial"
+
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:319
+#, fuzzy
+msgctxt "Customer Points action"
+msgid "Unban user"
+msgstr "Desbloquear usuarios"
+
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:333
+#, fuzzy
+msgctxt "Customer Points action"
+msgid "Ban user"
+msgstr "Bloquear usuario"
+
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:384
+#, fuzzy
+msgid "Show all users"
+msgstr "Mostrar todos los clientes"
+
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:395
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:415
+msgid "Filter"
+msgstr "Filtro"
+
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:400
+#: plugin-options/metaboxes/points-earning-rules-options.php:27
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:38
+#: plugin-options/points/standard-options.php:58 views/tabs/bulk-actions.php:37
+#: views/tabs/customers/bulk-actions/modal/content.php:29
+msgid "All users"
+msgstr "Todos los usuarios"
+
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:401
+msgid "Only users with points"
+msgstr "Solo usuarios con puntos"
+
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:402
+#, fuzzy
+msgid "Only banned users"
+msgstr "Solo usuarios específicados"
+
+#: includes/admin/class-yith-wc-points-rewards-customers-list-table.php:427
+#, fuzzy
+msgid "Reset filters"
+msgstr "Restablecer puntos"
+
+#: includes/admin/cpt/abstract-class-yith-wc-points-rewards-editor.php:276
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:330
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:309
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:277
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:325
+#, fuzzy
+msgid "Update"
+msgstr "Actualizar puntos"
+
+#: includes/admin/cpt/abstract-class-yith-wc-points-rewards-editor.php:277
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:331
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:313
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:278
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:326
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/cpt/abstract-class-yith-wc-points-rewards-editor.php:280
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:317
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:329
+msgid "Save Rule"
+msgstr ""
+
+#: includes/admin/cpt/abstract-class-yith-wc-points-rewards-editor.php:348
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:259
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:217
+msgctxt "Admin action label to activate post type"
+msgid "Activate"
+msgstr ""
+
+#: includes/admin/cpt/abstract-class-yith-wc-points-rewards-editor.php:349
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:260
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:218
+msgctxt "Admin action label to deactivate post type"
+msgid "Deactivate"
+msgstr ""
+
+#: includes/admin/cpt/abstract-class-yith-wc-points-rewards-editor.php:350
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:261
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:220
+msgctxt "Admin action label to delete a post type"
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/cpt/abstract-class-yith-wc-points-rewards-editor.php:436
+#, fuzzy
+msgid "Options"
+msgstr "Opciones de puntos"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:82
+#, fuzzy
+msgctxt "Message that appears when a post is updated"
+msgid "Banner updated"
+msgstr "bloqueado"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:83
+#, fuzzy
+msgctxt "Message that appears when a post is published"
+msgid "Banner published"
+msgstr "bloqueado"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:100
+msgid "%s banner permanently deleted."
+msgid_plural "%s banners permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:119
+msgctxt "Description for Banner list table"
+msgid ""
+"Banners are shown in the “My Account” page. You can use banners to create "
+"targets your users can achieve and push them to collect points.."
+msgstr ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:134
+#: plugin-options/metaboxes/banners-options.php:52
+#, fuzzy
+msgid "Banner name"
+msgstr "bloqueado"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:135
+#: plugin-options/metaboxes/banners-options.php:79
+#, fuzzy
+msgid "Banner type"
+msgstr "bloqueado"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:136
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:118
+#: templates/myaccount/ywpar-share-points.php:100
+#: templates/myaccount/ywpar-share-points.php:118
+msgid "Status"
+msgstr ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:167
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:163
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:193
+msgid "Duplicate"
+msgstr ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:174
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:171
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:200
+msgid "Move"
+msgstr ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:185
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:183
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:144
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:211
+msgctxt "Post action"
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:190
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:188
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:149
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:216
+msgid "Confirm delete"
+msgstr ""
+
+#. translators: %s is the title of the post object.
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:192
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:191
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:151
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:218
+msgid "Are you sure you want to delete \"%s\"?"
+msgstr ""
+
+#. translators: %s is the title of the post object.
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:192
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:196
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:151
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:218
+msgid ""
+"This action cannot be undone and you will not be able to recover this data."
+msgstr ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:193
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:200
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:152
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:219
+#: plugin-options/gutenberg/blocks.php:58
+msgid "No"
+msgstr ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:194
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:201
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:153
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:220
+msgctxt "Delete confirmation action"
+msgid "Yes, delete"
+msgstr ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:245
+#, fuzzy
+msgid "back to banners list"
+msgstr "< Volver a la lista"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:313
+#, fuzzy
+msgid "Default title:"
+msgstr "Predeterminado"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:313
+#, fuzzy
+msgid "Default text:"
+msgstr "Predeterminado"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:334
+#, fuzzy
+msgid "Save Banner"
+msgstr "bloqueado"
+
+#. translators: placeholder is an html tag.
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:422
+msgctxt "placeholder is an html tag"
+msgid ""
+"You have no banners created yet.%1$sCreate your first one to show in your "
+"user's account %1$sand push him to collect points."
+msgstr ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:424
+#, fuzzy
+msgid "Create banner"
+msgstr "bloqueado"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-banners.php:449
+msgctxt "Description of custom post type \"Banners\""
+msgid ""
+"Create visual banners to display on your customers' account pages and "
+"encourage them to collect points."
+msgstr ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:79
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:80
+#, fuzzy
+msgctxt "Message that appears when a post is updated"
+msgid "Rule updated"
+msgstr "Tipo de correo"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:84
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:81
+#, fuzzy
+msgctxt "Message that appears when a post is published"
+msgid "Rule published"
+msgstr "Tipo de correo"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:106
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:98
+msgid "%s rule permanently deleted."
+msgid_plural "%s rules permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:130
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:161
+#: plugin-options/metaboxes/points-earning-rules-options.php:112
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:150
+msgid "Rule name"
+msgstr ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:131
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:162
+#, fuzzy
+msgid "Active"
+msgstr "Acción"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:253
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:266
+#, fuzzy
+msgid "back to rules list"
+msgstr "< Volver a la lista"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:345
+msgctxt "placeholder is an html tag"
+msgid "You have no points rules created yet.%1$sCreate your first one now!"
+msgstr ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:353
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:425
+#, fuzzy
+msgid "Create rule"
+msgstr "Importar"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:444
+#, fuzzy
+msgctxt "Description of custom post type \"Points assignment rules\""
+msgid "Create advanced rules to automatically assign points to your customers."
+msgstr ""
+"Si está activado, los productos en descuento no asignarán puntos a tus "
+"usuarios"
+
+#. translators:Description of Points Rules. Placeholder are tag html.
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-earning-rules.php:453
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:113
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:137
+msgctxt "Description of Points Rules. Placeholder are tag html."
+msgid ""
+"Please note: rules applied to products have a higher priority by default. "
+"%1$sRead the documentation to better understand how rules work >%2$s"
+msgstr ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:80
+#, fuzzy
+msgctxt "Message that appears when a post is updated"
+msgid "Level updated"
+msgstr "Nombre del sitio web"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:81
+msgctxt "Message that appears when a post is published"
+msgid "Level published"
+msgstr ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:99
+msgid "%s badge permanently deleted."
+msgid_plural "%s badges permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:115
+#, fuzzy
+msgid "Level name"
+msgstr "Nombre del sitio web"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:116
+#, fuzzy
+msgid "Points to collect"
+msgstr "Puntos obtenidos:"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:117
+msgid "Badge"
+msgstr ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:165
+#: plugin-options/metaboxes/points-earning-rules-options.php:206
+#: views/panel/types/options-levels-badges-range.php:22
+msgid "From"
+msgstr ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:166
+#: views/panel/types/options-levels-badges-range.php:24
+msgid "to"
+msgstr ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:202
+#, fuzzy
+msgid "back to levels list"
+msgstr "< Volver a la lista"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:219
+#, fuzzy
+msgctxt "Admin action label to associate the levels to the customers"
+msgid "Associate to customers"
+msgstr "Asignar puntos al usuario"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:281
+msgid "Save Level"
+msgstr ""
+
+#. translators: placeholder is an html tag.
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:366
+msgctxt "placeholder is an html tag"
+msgid "You have no points levels created yet.%1$sCreate your first one now!"
+msgstr ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:368
+#, fuzzy
+msgid "Create level"
+msgstr "Escoge qué usuarios"
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-levels-badges.php:384
+msgctxt "Description of custom post type \"Points Assignment Rules\""
+msgid "Set levels and visual badges to highlight your customers' progress."
+msgstr ""
+
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:129
+#, fuzzy
+msgctxt "Description of custom post type \"Points redeeming rules\""
+msgid "Create advanced rules to redeem points."
+msgstr "Permitir a los usuarios canjear puntos"
+
+#. translators: placeholder is an html tag.
+#: includes/admin/cpt/class-yith-wc-points-rewards-editor-redeeming-rules.php:423
+msgctxt "placeholder is an html tag"
+msgid "You have no redeeming rules created yet.%1$sCreate your first one now!"
+msgstr ""
+
+#: includes/blocks/class-yith-wc-points-rewards-blocks.php:74
+msgid "Use Shortcode/Block"
+msgstr ""
+
+#: includes/blocks/class-yith-wc-points-rewards-blocks.php:162
+#: includes/class-yith-wc-points-rewards-frontend.php:837
+#, fuzzy
+msgid ""
+"You have {points} {points_label}. Use {points_field} {points_label} to get a "
+"discount of {max_discount} on this order."
+msgstr ""
+"¡Utiliza <strong>{points}</strong> {points_label} para "
+"un<strong>{max_discount}</strong> descuento en este pedido!"
+
+#: includes/blocks/class-yith-wc-points-rewards-blocks.php:169
+#: includes/class-yith-wc-points-rewards-frontend.php:861
+#, fuzzy
+msgid ""
+"Use {points} {points_label} for a {max_discount} discount on this order!"
+msgstr ""
+"¡Utiliza <strong>{points}</strong> {points_label} para "
+"un<strong>{max_discount}</strong> descuento en este pedido!"
+
+#: includes/class-yith-wc-points-rewards-admin.php:227
+#, fuzzy
+msgid "Customers Points"
+msgstr "Puntos de los clientes"
+
+#: includes/class-yith-wc-points-rewards-admin.php:231
+msgid "Points Options"
+msgstr "Opciones de puntos"
+
+#: includes/class-yith-wc-points-rewards-admin.php:235
+#, fuzzy
+msgid "Points Redeeming"
+msgstr "Canjeo de puntos"
+
+#: includes/class-yith-wc-points-rewards-admin.php:239
+#, fuzzy
+msgid "Customization"
+msgstr "Personalizado"
+
+#: includes/class-yith-wc-points-rewards-admin.php:241
+msgid ""
+"Customize the labels and the messages shown in your shop related to points "
+"collection."
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-admin.php:247
+#: plugin-options/emails-options.php:18
+msgid "Emails"
+msgstr "Correos electrónicos"
+
+#: includes/class-yith-wc-points-rewards-admin.php:249
+#, fuzzy
+msgid ""
+"Enable and customize email notifications sent to your customers related to "
+"points collection."
+msgstr ""
+"Activa esta notificación de correo electrónico para puntos actualizados"
+
+#: includes/class-yith-wc-points-rewards-admin.php:283
+msgctxt "[HELP TAB] Video title"
+msgid ""
+"Check this video to learn how to set up a <b>points and rewards system</b> "
+"in your shop:"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-admin.php:309
+msgctxt ""
+"[YOUR STORE TOOLS TAB] Description for plugin YITH WooCommerce Wishlist"
+msgid ""
+"Allow your customers to create lists of products they want and share them "
+"with family and friends."
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-admin.php:321
+msgctxt ""
+"[YOUR STORE TOOLS TAB] Description for plugin YITH WooCommerce Gift Cards"
+msgid ""
+"Sell gift cards in your shop to increase your earnings and attract new "
+"customers."
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-admin.php:333
+msgctxt ""
+"[YOUR STORE TOOLS TAB] Description for plugin YITH WooCommerce Request a "
+"Quote"
+msgid ""
+"Hide prices and/or the \"Add to cart\" button and let your customers request "
+"a custom quote for every product."
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-admin.php:345
+msgctxt ""
+"[YOUR STORE TOOLS TAB] Description for plugin YITH WooCommerce Ajax Product "
+"Filter"
+msgid ""
+"Help your customers to easily find the products they are looking for and "
+"improve the user experience of your shop."
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-admin.php:357
+msgctxt ""
+"[YOUR STORE TOOLS TAB] Description for plugin YITH WooCommerce Product Add-"
+"Ons"
+msgid ""
+"Add paid or free advanced options to your product pages using fields like "
+"radio buttons, checkboxes, drop-downs, custom text inputs, and more."
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-admin.php:369
+msgctxt ""
+"[YOUR STORE TOOLS TAB] Description for plugin YITH WooCommerce Dynamic "
+"Pricing & Discounts"
+msgid ""
+"Increase conversions through dynamic discounts and price rules, and build "
+"powerful and targeted offers."
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-admin.php:381
+msgctxt ""
+"[YOUR STORE TOOLS TAB] Description for plugin YITH WooCommerce Customize My "
+"Account"
+msgid ""
+"Customize the My Account page of your customers by creating custom sections "
+"with promotions and ad-hoc content based on your needs."
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-admin.php:393
+msgctxt "[YOUR STORE TOOLS TAB] Description for plugin Recover Abandoned Cart"
+msgid ""
+"Contact users who have added products to the cart without completing the "
+"order and try to recover lost sales."
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-admin.php:697
+msgid "Best Point Earners"
+msgstr "Usuarios con más puntos"
+
+#: includes/class-yith-wc-points-rewards-admin.php:702
+msgid "Best Point Rewards"
+msgstr "Recompensas de más puntos"
+
+#: includes/class-yith-wc-points-rewards-admin.php:733
+#: includes/class-yith-wc-points-rewards-admin.php:777
+msgid "View History"
+msgstr "Ver historial"
+
+#: includes/class-yith-wc-points-rewards-admin.php:744
+#: includes/class-yith-wc-points-rewards-admin.php:786
+msgid "No users found"
+msgstr "No se han encontrado usuarios"
+
+#: includes/class-yith-wc-points-rewards-admin.php:888
+msgid "YITH WooCommerce Points and Rewards"
+msgstr "YITH WooCommerce Points and Rewards"
+
+#: includes/class-yith-wc-points-rewards-admin.php:898
+msgid ""
+"WooCommerce coupon system has been disabled. In order to make YITH "
+"WooCommerce Points and Rewards work correctly, you have to enable coupons."
+msgstr ""
+"El sistema de cupones de WooCommerce está desactivado. Para que YITH "
+"WooCommerce Points and Rewards funcione correctamente, debes activar los "
+"cupones."
+
+#: includes/class-yith-wc-points-rewards-admin.php:908
+msgid "Enable the use of coupons"
+msgstr "Activa el uso de cupones"
+
+#: includes/class-yith-wc-points-rewards-ajax.php:208
+msgctxt "Name of duplicated rule"
+msgid " - Copy"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-ajax.php:260
+msgid "An error occurred during the bulk operation"
+msgstr "Ha ocurrido un error durante la operación en masa"
+
+#: includes/class-yith-wc-points-rewards-ajax.php:272
+#, fuzzy
+msgid "Points added correctly."
+msgstr "Puntos obtenidos:"
+
+#: includes/class-yith-wc-points-rewards-ajax.php:276
+#, fuzzy
+msgid "Points removed correctly."
+msgstr "Puntos obtenidos:"
+
+#: includes/class-yith-wc-points-rewards-ajax.php:280
+msgid "User banned correctly."
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-ajax.php:284
+msgid "User unbanned correctly."
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-ajax.php:288
+#, fuzzy
+msgid "Points reset correctly."
+msgstr "Puntos obtenidos:"
+
+#: includes/class-yith-wc-points-rewards-ajax.php:293
+#, fuzzy
+msgid "Done."
+msgstr "¡Hecho!"
+
+#: includes/class-yith-wc-points-rewards-ajax.php:297
+msgid "Error."
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-ajax.php:318
+#: includes/class-yith-wc-points-rewards-ajax.php:354
+#: includes/class-yith-wc-points-rewards-ajax.php:383
+#: includes/class-yith-wc-points-rewards-ajax.php:409
+#: includes/class-yith-wc-points-rewards-ajax.php:435
+#: includes/class-yith-wc-points-rewards-ajax.php:460
+#: includes/class-yith-wc-points-rewards-ajax.php:484
+msgctxt "Error message during admin actions"
+msgid "Some fields are missing"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-ajax.php:497
+msgctxt "Error message during share points coupon creation"
+msgid "You don't have enough points to create this coupon."
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-ajax.php:508
+#, fuzzy
+msgctxt "Error message during share points coupon creation"
+msgid "Please check the number of points to share."
+msgstr ""
+"Este correo electrónico es enviado cuando el número de puntos del usuario "
+"cambia"
+
+#. translators: placeholder number of points.
+#: includes/class-yith-wc-points-rewards-ajax.php:536
+#, fuzzy
+msgid "<strong>%d</strong> point has been updated"
+msgid_plural "<strong>%d</strong> points have been updated"
+msgstr[0] "<strong>%d</strong> pedido ha sido actualizado"
+msgstr[1] "<strong>%d</strong> pedidos han sido actualizados"
+
+#: includes/class-yith-wc-points-rewards-assets.php:94
+#, fuzzy
+msgctxt "Customer add points title"
+msgid "Add points to the customer"
+msgstr "Aplicar puntos a usuarios"
+
+#: includes/class-yith-wc-points-rewards-assets.php:95
+#, fuzzy
+msgctxt "Customer add points save button"
+msgid "Add points"
+msgstr "Añadir puntos a"
+
+#: includes/class-yith-wc-points-rewards-assets.php:96
+#, fuzzy
+msgctxt "Customer remove points title"
+msgid "Remove points from the customer"
+msgstr "Eliminar puntos a los usuarios"
+
+#: includes/class-yith-wc-points-rewards-assets.php:97
+#, fuzzy
+msgctxt "Customer remove points save button"
+msgid "Remove points"
+msgstr "Restablecer puntos"
+
+#: includes/class-yith-wc-points-rewards-assets.php:98
+#, fuzzy
+msgctxt "Customer remove points save button"
+msgid "Remove all points "
+msgstr "Eliminar puntos a los usuarios"
+
+#: includes/class-yith-wc-points-rewards-assets.php:99
+#, fuzzy
+msgctxt "Customer remove points confirmation message"
+msgid "Are you sure you want to remove all the customer's points?"
+msgstr ""
+"¿Estás seguro de que quieres reiniciar todos los puntos? Este proceso es "
+"irreversible"
+
+#: includes/class-yith-wc-points-rewards-assets.php:100
+#, fuzzy
+msgctxt "Customer remove points confirmation message for bulk action"
+msgid "Are you sure you want to remove all points of the selected customers?"
+msgstr ""
+"¿Estás seguro de que quieres reiniciar todos los puntos? Este proceso es "
+"irreversible"
+
+#: includes/class-yith-wc-points-rewards-assets.php:102
+msgid "Start Import"
+msgstr "Iniciar Importación"
+
+#: includes/class-yith-wc-points-rewards-assets.php:103
+msgid "Start Export"
+msgstr "Iniciar Exportación"
+
+#: includes/class-yith-wc-points-rewards-assets.php:113
+msgid "Export done"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-assets.php:114
+#, fuzzy
+msgid "Import done"
+msgstr "Importar puntos"
+
+#: includes/class-yith-wc-points-rewards-assets.php:115
+#, fuzzy
+msgid "Choose action"
+msgstr "Escoge qué roles"
+
+#. translators:First placeholder: user id; second placeholder: user first name; third placeholder: user last name.
+#: includes/class-yith-wc-points-rewards-customer.php:451
+msgctxt ""
+"First placeholder: user id; second placeholder: user first name; third "
+"placeholder: user last name"
+msgid "#%1$d - %2$s %3$s"
+msgstr "#%1$d - %2$s %3$s"
+
+#. translators:First placeholder: user id; second placeholder: user display name.
+#: includes/class-yith-wc-points-rewards-customer.php:454
+msgctxt "First placeholder: user id; second placeholder: user display name"
+msgid "#%1$d - %2$s"
+msgstr "#%1$d - %2$s"
+
+#. translators: First placeholder: number of points; second placeholder: label of points.
+#: includes/class-yith-wc-points-rewards-earning.php:306
+#: includes/class-yith-wc-points-rewards-orders.php:359
+#: includes/compatibility/class-ywpar-yith-woocommerce-subscription.php:139
+msgctxt ""
+"First placeholder: number of points; second placeholder: label of points"
+msgid "Customer earned %1$d %2$s for this purchase."
+msgstr "El cliente ha ganado %1$d %2$s por esta compra."
+
+#: includes/class-yith-wc-points-rewards-extra-points-birthdate.php:97
+#: includes/class-yith-wc-points-rewards-extra-points-birthdate.php:124
+#: includes/class-yith-wc-points-rewards-extra-points-birthdate.php:169
+#: includes/class-yith-wc-points-rewards-extra-points-birthdate.php:221
+msgid "Date of birth"
+msgstr "Fecha de nacimiento"
+
+#: includes/class-yith-wc-points-rewards-extra-points-birthdate.php:113
+#, fuzzy
+msgid ""
+"If you need to change your date of birth, please contact the website "
+"administrator."
+msgstr ""
+"Si necesitas cambiar la fecha de cumpleaños, por favor, contacta con el "
+"administrador del sitio."
+
+#: includes/class-yith-wc-points-rewards-extra-points-birthdate.php:217
+msgid "Points and Rewards"
+msgstr "Puntos y recompensas"
+
+#: includes/class-yith-wc-points-rewards-frontend.php:676
+#: includes/class-yith-wc-points-rewards-frontend.php:899
+#: includes/class-yith-wc-points-rewards.php:462
+#: includes/widgets/class-yith-wc-points-rewards-widget.php:133
+#: plugin-options/customization-options.php:210
+msgid "My Points"
+msgstr "Mis puntos"
+
+#: includes/class-yith-wc-points-rewards-frontend.php:783
+#, fuzzy
+msgid "The minimum value to redeem is "
+msgstr "El mínimo valor a redimir es "
+
+#: includes/class-yith-wc-points-rewards-frontend.php:960
+#, fuzzy
+msgid "Enter points to use"
+msgstr "Asignar puntos al usuario"
+
+#: includes/class-yith-wc-points-rewards-import-export.php:73
+#, fuzzy
+msgid "Export/Import"
+msgstr "Importar/Exportar"
+
+#: includes/class-yith-wc-points-rewards-import-export.php:115
+#, fuzzy
+msgid "The CSV file cannot be imported."
+msgstr "El CSV ha sido importado."
+
+#: includes/class-yith-wc-points-rewards-import-export.php:196
+#: includes/class-yith-wc-points-rewards-porting.php:365
+msgid "Import"
+msgstr "Importar"
+
+#: includes/class-yith-wc-points-rewards-import-export.php:215
+#, fuzzy
+msgid "The CSV file has been imported."
+msgstr "El CSV ha sido importado."
+
+#: includes/class-yith-wc-points-rewards-import-export.php:221
+#, fuzzy
+msgid "The CSV file is not valid."
+msgstr "EL CSV no es válido."
+
+#. translators:First placeholder: number of points; second placeholder: label of points.
+#: includes/class-yith-wc-points-rewards-orders.php:149
+msgctxt ""
+"First placeholder: number of points; second placeholder: label of points"
+msgid "Removed %1$d %2$s for order %3$s."
+msgstr "Eliminado %1$d %2$s para pedido %3$s."
+
+#. translators: Total number of orders updated.
+#: includes/class-yith-wc-points-rewards-orders.php:322
+msgctxt "Total number of orders updated."
+msgid "<strong>%d</strong> order has been updated"
+msgid_plural "<strong>%d</strong> orders have been updated"
+msgstr[0] "<strong>%d</strong> pedido ha sido actualizado"
+msgstr[1] "<strong>%d</strong> pedidos han sido actualizados"
+
+#. translators:First placeholder: number of points; second placeholder: label of points.
+#: includes/class-yith-wc-points-rewards-orders.php:667
+#, fuzzy
+msgctxt ""
+"First placeholder: number of points; second placeholder: label of points"
+msgid "Customer redeemed %1$d %2$s to get a reward"
+msgstr "%1$d %2$s para obtener una recompensa"
+
+#. translators: 'First placeholder: number of points; second placeholder: reason'.
+#: includes/class-yith-wc-points-rewards-orders.php:702
+#, fuzzy
+msgctxt ""
+"First placeholder: number of points; second placeholder: label of points"
+msgid "Removed %1$s for %2$s."
+msgstr "Eliminado %1$d %2$s para pedido %3$s."
+
+#. translators: 'First placeholder: number of points; second placeholder: reason of action'.
+#: includes/class-yith-wc-points-rewards-orders.php:739
+#, fuzzy
+msgctxt ""
+"First placeholder: number of points; second placeholder: reason of action"
+msgid "Returned %1$s to customer for %2$s."
+msgstr "Añadido %1$d %2$s por el pedido %3$s."
+
+#. translators:First placeholder: number of point; second placeholder: label of points.
+#: includes/class-yith-wc-points-rewards-orders.php:894
+#, fuzzy
+msgctxt ""
+"First placeholder: number of point; second placeholder: label of points"
+msgid "Removed %1$d %2$s to customer for order refund."
+msgstr "Eliminado %1$d %2$s para reembolso de pedido."
+
+#: includes/class-yith-wc-points-rewards-porting.php:72
+#, fuzzy
+msgid "Apply points from WooCommerce Points and Rewards"
+msgstr "Aplicar puntos de WooCommerce Points and Rewards"
+
+#: includes/class-yith-wc-points-rewards-porting.php:73
+msgid "You can do this action only one time"
+msgstr "Puedes hacer esta acción sólo una vez"
+
+#: includes/class-yith-wc-points-rewards-porting.php:76
+msgid "Import points"
+msgstr "Importar puntos"
+
+#: includes/class-yith-wc-points-rewards-porting.php:78
+msgid "Import Points"
+msgstr "Importar puntos"
+
+#: includes/class-yith-wc-points-rewards-porting.php:85
+msgid "WooCommerce Points and Rewards points import"
+msgstr "Importación de puntos de WooCommerce Points and Rewards"
+
+#: includes/class-yith-wc-points-rewards-porting.php:293
+#: includes/class-yith-wc-points-rewards-porting.php:306
+#, fuzzy
+msgid "The CSV cannot be imported."
+msgstr "El CSV ha sido importado."
+
+#: includes/class-yith-wc-points-rewards-porting.php:379
+#, fuzzy
+msgid "The CSV has been imported."
+msgstr "El CSV ha sido importado."
+
+#: includes/class-yith-wc-points-rewards-porting.php:385
+#, fuzzy
+msgid "The CSV is invalid."
+msgstr "EL CSV no es válido."
+
+#: includes/class-yith-wc-points-rewards-post-types.php:105
+msgctxt "Post Type General Name"
+msgid "Levels & Badges"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-post-types.php:110
+msgctxt "Post Type Singular Name"
+msgid "Levels & Badges"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-post-types.php:115
+#: includes/class-yith-wc-points-rewards-post-types.php:117
+msgid "Add new level"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-post-types.php:116
+#, fuzzy
+msgid "+ Add new level"
+msgstr "+ Añadir regla"
+
+#: includes/class-yith-wc-points-rewards-post-types.php:118
+msgid "Edit level"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-post-types.php:119
+msgid "View level"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-post-types.php:120
+msgid "Search level"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-post-types.php:121
+#: includes/class-yith-wc-points-rewards-post-types.php:174
+#: includes/class-yith-wc-points-rewards-post-types.php:227
+#: includes/class-yith-wc-points-rewards-post-types.php:280
+#, fuzzy
+msgid "Not found"
+msgstr "No se han encontrado usuarios"
+
+#: includes/class-yith-wc-points-rewards-post-types.php:122
+#: includes/class-yith-wc-points-rewards-post-types.php:175
+#: includes/class-yith-wc-points-rewards-post-types.php:228
+#: includes/class-yith-wc-points-rewards-post-types.php:281
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-post-types.php:158
+#, fuzzy
+msgctxt "Post Type General Name"
+msgid "Banners"
+msgstr "bloqueado"
+
+#: includes/class-yith-wc-points-rewards-post-types.php:163
+#, fuzzy
+msgctxt "Post Type Singular Name"
+msgid "Banner"
+msgstr "bloqueado"
+
+#: includes/class-yith-wc-points-rewards-post-types.php:168
+msgid "Add banner"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-post-types.php:169
+#, fuzzy
+msgid "+ Add banner"
+msgstr "+ Añadir regla"
+
+#: includes/class-yith-wc-points-rewards-post-types.php:170
+msgid "Add new banner"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-post-types.php:171
+msgid "Edit banner"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-post-types.php:172
+msgid "View banner"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-post-types.php:173
+msgid "Search banner"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-post-types.php:211
+#, fuzzy
+msgctxt "Post Type General Name"
+msgid "Points Assignment Rules"
+msgstr "Asignaciones de puntos"
+
+#: includes/class-yith-wc-points-rewards-post-types.php:216
+#, fuzzy
+msgctxt "Post Type Singular Name"
+msgid "Points Assignment Rule"
+msgstr "Asignaciones de puntos"
+
+#: includes/class-yith-wc-points-rewards-post-types.php:221
+#: includes/class-yith-wc-points-rewards-post-types.php:223
+#: includes/class-yith-wc-points-rewards-post-types.php:274
+#: includes/class-yith-wc-points-rewards-post-types.php:276
+#, fuzzy
+msgid "Add new rule"
+msgstr "+ Añadir regla"
+
+#: includes/class-yith-wc-points-rewards-post-types.php:222
+#: includes/class-yith-wc-points-rewards-post-types.php:275
+#, fuzzy
+msgid "+ Add new rule"
+msgstr "+ Añadir regla"
+
+#: includes/class-yith-wc-points-rewards-post-types.php:224
+#: includes/class-yith-wc-points-rewards-post-types.php:277
+#, fuzzy
+msgid "Edit rule"
+msgstr "+ Añadir regla"
+
+#: includes/class-yith-wc-points-rewards-post-types.php:225
+#: includes/class-yith-wc-points-rewards-post-types.php:278
+msgid "View rule"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-post-types.php:226
+#: includes/class-yith-wc-points-rewards-post-types.php:279
+msgid "Search rule"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-post-types.php:264
+#, fuzzy
+msgctxt "Post Type General Name"
+msgid "Points Redeeming Rules"
+msgstr "Canjeo de puntos"
+
+#: includes/class-yith-wc-points-rewards-post-types.php:269
+#, fuzzy
+msgctxt "Post Type Singular Name"
+msgid "Points Redeeming Rule"
+msgstr "Canjeo de puntos"
+
+#: includes/class-yith-wc-points-rewards-post-types.php:404
+msgctxt "Name of duplicated post type"
+msgid " - Copy"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-redeeming.php:168
+msgctxt "20% on order total"
+msgid "on order total"
+msgstr "en el total del pedido"
+
+#: includes/class-yith-wc-points-rewards-redeeming.php:1093
+#: plugin-options/customization-options.php:575
+#, fuzzy
+msgid "Redeem points"
+msgstr "Puntos canjeados"
+
+#: includes/class-yith-wc-points-rewards-redeeming.php:1200
+#, fuzzy
+msgid "Reward discount applied Successfully"
+msgstr "Descuento de recompensa aplicado satisfactoriamente"
+
+#: includes/class-yith-wc-points-rewards-redeeming.php:1205
+msgid ""
+"Reward Discount has been removed. You can't use this discount with other "
+"coupons."
+msgstr ""
+"Se ha eliminado el descuento de recompensa. No puedes usar este descuento "
+"con otros cupones."
+
+#: includes/class-yith-wc-points-rewards-redeeming.php:1207
+msgid "You can't use this coupon in conjunction with other coupons"
+msgstr "No puedes usar este cupón junto con otros cupones"
+
+#: includes/class-yith-wc-points-rewards-redeeming.php:1212
+#, fuzzy
+msgid "Coupon removed. You can't use this coupon with a reward discount"
+msgstr ""
+"El cupón se ha eliminado. No puedes usar este cupón con descuentos de "
+"recompensa"
+
+#: includes/class-yith-wc-points-rewards-redeeming.php:1214
+#, fuzzy
+msgid "You can't use this coupon with a rewards discount"
+msgstr "No puedes usar este cupón con descuentos de recompensa"
+
+#: includes/class-yith-wc-points-rewards-referral.php:219
+#, fuzzy
+msgid "Points from a referred purchase"
+msgstr "Puntos asignados por cada compra de producto"
+
+#. translators: Placeholder is the id of the customer.
+#: includes/class-yith-wc-points-rewards-referral.php:231
+#, fuzzy
+msgctxt "Placeholder is the id of the customer."
+msgid "Points from registration of a new user with ID (%1$d)"
+msgstr "Puntos a asignar a los nuevos usuarios"
+
+#. translators: placeholder is the user id.
+#: includes/class-yith-wc-points-rewards-referral.php:267
+msgid "The referred user with ID (%1$d) has been deleted"
+msgstr ""
+
+#. translators: Placeholder is the if of the order.
+#: includes/class-yith-wc-points-rewards-referral.php:330
+msgctxt " Placeholder is the if of the order."
+msgid ""
+"Points removed from order with ID %1$s because the user has been banned or "
+"deleted"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-referral.php:383
+msgid "Get the referral link"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-referral.php:390
+#: includes/class-yith-wc-points-rewards-share-points.php:305
+msgctxt "Copy-to-clipboard message"
+msgid "Copied!"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-referral.php:394
+#: includes/class-yith-wc-points-rewards-share-points.php:309
+msgctxt "Copy-to-clipboard button text"
+msgid "Copy"
+msgstr ""
+
+#. translators: Placeholder number of points and customer name.
+#: includes/class-yith-wc-points-rewards-share-points.php:214
+#, fuzzy
+msgctxt "Placeholder number of points and customer name"
+msgid "%1$s converted by customer %2$s"
+msgstr "Añadido %1$d %2$s por el pedido %3$s."
+
+#. translators:Placeholder is the coupon code.
+#: includes/class-yith-wc-points-rewards-share-points.php:227
+#, fuzzy
+msgctxt ""
+"Text displayed inside the history table. Placeholder is the coupon code."
+msgid "Created coupon: %s"
+msgstr "Eliminar cupones usados"
+
+#: includes/class-yith-wc-points-rewards-share-points.php:253
+msgctxt "the shared point coupon has beed used"
+msgid "Used"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-share-points.php:255
+#, fuzzy
+msgctxt "the shared point coupon has beed used"
+msgid "Expired"
+msgstr "Puntos caducados"
+
+#: includes/class-yith-wc-points-rewards-share-points.php:257
+#, fuzzy
+msgctxt "the shared point coupon is still valid"
+msgid "Not used"
+msgstr "No se han encontrado usuarios"
+
+#: includes/class-yith-wc-points-rewards-share-points.php:263
+msgctxt "the shared point coupon is still valid"
+msgid "Deleted"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-shortcodes.php:75
+#, fuzzy
+msgid "Share to Earn"
+msgstr "Puntos estándar"
+
+#: includes/class-yith-wc-points-rewards-shortcodes.php:76
+msgid "Your referral link"
+msgstr ""
+
+#: includes/class-yith-wc-points-rewards-shortcodes.php:271
+#, fuzzy
+msgid "Points you can get:"
+msgstr "Puntos ganados:"
+
+#: includes/class-yith-wc-points-rewards-shortcodes.php:357
+msgid "Your credit is "
+msgstr "Tu crédito es "
+
+#. translators: First placeholder: number of points; second and third placeholder: labels of points.
+#: includes/class-yith-wc-points-rewards-shortcodes.php:373
+#, fuzzy
+msgctxt ""
+"First placeholder: number of points; second and third placeholder: labels of "
+"points"
+msgid "<strong>%1$s</strong> %2$s"
+msgid_plural "<strong>%1$s</strong> %3$s"
+msgstr[0] "<strong>%1$s</strong> %2$s"
+msgstr[1] "<strong>%3$s</strong> %4$s"
+
+#: includes/class-yith-wc-points-rewards-shortcodes.php:375
+#, fuzzy
+msgid "worth"
+msgstr "valor"
+
+#: includes/class-yith-wc-points-rewards-version-compatibility.php:98
+#, fuzzy
+msgid ""
+"Update of YITH WooCommerce Points and Rewards: we are regenerating the "
+"points rules."
+msgstr "YITH WooCommerce Points And Rewards - Saldo"
+
+#: includes/class-yith-wc-points-rewards-version-compatibility.php:102
+msgid ""
+"The process is automatic, you will not lose any data and it will only take a "
+"few minutes. Don't worry if something looks weird for now, please wait."
+msgstr ""
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:116
+msgid "Removed commission for refunded order"
+msgstr "Comisión eliminada por pedido reembolsado"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:149
+#, fuzzy
+msgid "Points earned:"
+msgstr "Puntos ganados:"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:289
+msgid "Removed commission"
+msgstr "Comisión eliminada"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:307
+#, fuzzy
+msgid "Extra points to YITH WooCommerce Affiliates"
+msgstr "Activar la integración con el plugin YITH WooCommerce Affiliates"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:316
+#, fuzzy
+msgid "Assign points to the affiliates"
+msgstr "Asignar puntos al usuario"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:327
+#: plugin-options/affiliates-options.php:29
+msgid "Points for affiliates"
+msgstr "Puntos para afiliados"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:328
+#, fuzzy
+msgid "Select the method to calculate points for affiliates."
+msgstr "Selecciona el método para calcular los puntos para tus afiliados."
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:336
+msgid "Select a value"
+msgstr ""
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:337
+#: plugin-options/affiliates-options.php:35
+msgid "Fixed amount of points for each order"
+msgstr "Cantidad fija de puntos por cada pedido"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:341
+#: plugin-options/affiliates-options.php:36
+#: plugin-options/affiliates-options.php:62
+msgid "Percent of points earned by customer"
+msgstr "Porcentaje de puntos ganados por el cliente"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:345
+#: plugin-options/affiliates-options.php:37
+msgid "Conversion based on order subtotal"
+msgstr "Conversión basada en el subtotal del pedido"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:355
+#: plugin-options/affiliates-options.php:47
+msgid "Number of points earned for each commission"
+msgstr "Número de puntos ganados por cada comisión"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:359
+#, fuzzy
+msgid "Set a fix amount of points to assign for each commission."
+msgstr "Número de puntos ganados por cada comisión"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:376
+#: plugin-options/affiliates-options.php:61
+msgid "Percent of points"
+msgstr "Porcentaje de puntos"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:377
+#, fuzzy
+msgid "Percent of points earned by customer."
+msgstr "Porcentaje de puntos ganados por el cliente"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:398
+msgid "Assign points based on the order subtotal."
+msgstr "Asignar puntos basado en el subtotal del pedido."
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:402
+msgid ""
+"Decide how many points will be assigned to each order based on the currency."
+msgstr ""
+"Decide cuantos puntos serán asignados por cada pedido en base a la moneda."
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:422
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:426
+#: plugin-options/affiliates-options.php:98
+#: plugin-options/affiliates-options.php:102
+msgid "Affiliate commission"
+msgstr "Comisión de afiliado"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-affiliates.php:511
+msgid "Order refunded"
+msgstr "Pedido reembolsado"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-membership.php:89
+#: includes/compatibility/class-ywpar-yith-woocommerce-membership.php:121
+#: includes/compatibility/class-ywpar-yith-woocommerce-membership.php:167
+msgid "Users with a membership plan"
+msgstr ""
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-membership.php:98
+#: includes/compatibility/class-ywpar-yith-woocommerce-membership.php:144
+#: includes/compatibility/class-ywpar-yith-woocommerce-membership.php:176
+msgid "Choose membership plans"
+msgstr ""
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-membership.php:102
+#: includes/compatibility/class-ywpar-yith-woocommerce-membership.php:147
+#: includes/compatibility/class-ywpar-yith-woocommerce-membership.php:179
+msgid "Search membership plan"
+msgstr ""
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-membership.php:219
+#, fuzzy
+msgid "Extra points for members of specific plans"
+msgstr "Puntos extra por cantidad gastada"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-membership.php:225
+#: includes/compatibility/class-ywpar-yith-woocommerce-membership.php:226
+#, fuzzy
+msgid "Assign points to the members of a membership"
+msgstr "Asignar puntos cuando un usuario se registra"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-membership.php:234
+#: plugin-options/points/extra-options.php:38
+#: plugin-options/points/extra-options.php:72
+#: plugin-options/points/extra-options.php:104
+#: plugin-options/points/extra-options.php:136
+#: plugin-options/points/extra-options.php:177
+#: plugin-options/points/extra-options.php:218
+#: plugin-options/points/extra-options.php:265
+#: plugin-options/points/extra-options.php:304
+#: plugin-options/points/extra-options.php:343
+#: plugin-options/points/extra-options.php:397
+#: plugin-options/points/extra-options.php:437
+#: plugin-options/points/extra-options.php:476
+#: plugin-options/points/extra-options.php:547
+#, fuzzy
+msgid "Points to assign:"
+msgstr "Puntos a asignar por pedido"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-membership.php:235
+#, fuzzy
+msgid "Set how many points to assign to members"
+msgstr "Establece cuántos puntos asignar a los nuevos usuarios"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-membership.php:285
+msgid "Achieved membership plan"
+msgstr ""
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-membership.php:306
+msgid "Target - Membership Plan"
+msgstr ""
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-membership.php:310
+#, fuzzy
+msgid "Target achieved - Membership Plan"
+msgstr "Objetivo alcanzado - Cumpleaños"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-subscription.php:158
+#, fuzzy
+msgid "Extra points for subscribers"
+msgstr "Puntos extra por pedidos"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-subscription.php:164
+#, fuzzy
+msgid "Enable to assign points on the subscriptions fees"
+msgstr "Ganar puntos en la cuota de suscripción"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-subscription.php:165
+msgid ""
+"Enable to assign points on the subscriptions fees. If disabled, users will "
+"get points only for the price of the subscription-based products."
+msgstr ""
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-subscription.php:173
+#, fuzzy
+msgid "\tEnable to assign points on each renewal order"
+msgstr "Ganar puntos en las renovaciones de pedidos"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-subscription.php:174
+msgid ""
+"Enable to assign points on each renewal order (each subscription payment). "
+"If disabled, users will get points only for the 1st payment."
+msgstr ""
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-subscription.php:182
+#, fuzzy
+msgctxt "Reason to show when the customer earns points from recurring payment"
+msgid "Renew order label"
+msgstr "Etiqueta de renovación de pedido"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-subscription.php:183
+#, fuzzy
+msgid ""
+"Enter the renew order label to identify point assignment in the user's "
+"points history page"
+msgstr ""
+"Introduce la etiqueta para identificar la sección de puntos en la página Mi "
+"Cuenta"
+
+#: includes/compatibility/class-ywpar-yith-woocommerce-subscription.php:186
+msgid "Renew order"
+msgstr "Renovar pedido"
+
+#: includes/emails/class-yith-ywpar-expiration.php:46
+#: views/tabs/emails-tab.php:4
+msgid "Expiring Points"
+msgstr "Puntos a punto de caducar"
+
+#: includes/emails/class-yith-ywpar-expiration.php:47
+msgid "This email is sent to users, a few days before their points expire."
+msgstr ""
+"Este correo electrónico es enviado a los usuarios unos días antes de que "
+"caduquen sus puntos."
+
+#: includes/emails/class-yith-ywpar-expiration.php:49
+#: includes/emails/class-yith-ywpar-expiration.php:84
+msgid "Don't lose your points!"
+msgstr "¡No pierdas tus puntos!"
+
+#: includes/emails/class-yith-ywpar-expiration.php:50
+#: includes/emails/class-yith-ywpar-expiration.php:83
+msgid "[Expiring points]"
+msgstr "[Puntos caducados]"
+
+#: includes/emails/class-yith-ywpar-expiration.php:230
+#: includes/emails/class-yith-ywpar-update-points.php:217
+msgid "Enable/Disable"
+msgstr "Activar/Desactivar"
+
+#: includes/emails/class-yith-ywpar-expiration.php:232
+#: includes/emails/class-yith-ywpar-update-points.php:219
+msgid "Enable this email notification"
+msgstr "Activa esta notificación de correo electrónico"
+
+#: includes/emails/class-yith-ywpar-expiration.php:236
+#: includes/emails/class-yith-ywpar-update-points.php:223
+msgid "From (Name)"
+msgstr "De (Nombre)"
+
+#: includes/emails/class-yith-ywpar-expiration.php:243
+#: includes/emails/class-yith-ywpar-update-points.php:230
+msgid "From (Email Address)"
+msgstr "De (Dirección de correo)"
+
+#: includes/emails/class-yith-ywpar-expiration.php:250
+#: includes/emails/class-yith-ywpar-update-points.php:237
+msgid "Subject"
+msgstr "Asunto"
+
+#. translators: Placeholder: subject.
+#: includes/emails/class-yith-ywpar-expiration.php:253
+#: includes/emails/class-yith-ywpar-update-points.php:240
+msgctxt "Placeholder: subject"
+msgid ""
+"This field lets you edit the email subject line. Leave it blank to use the "
+"default subject text: <code>%s</code>."
+msgstr ""
+"Este campo te permite editar la línea de Asunto del correo electrónico. "
+"Déjalo en blanco para usar el texto de Asunto predeterminado: <code>%s</"
+"code>."
+
+#: includes/emails/class-yith-ywpar-expiration.php:258
+#: includes/emails/class-yith-ywpar-update-points.php:245
+msgid "Recipient(s)"
+msgstr "Destinatario(s)"
+
+#. translators: Placeholder: admin email.
+#: includes/emails/class-yith-ywpar-expiration.php:261
+msgctxt "Placeholder: admin email"
+msgid ""
+"Enter recipients (separated by commas) for this email. Defaults to <code>%s</"
+"code>"
+msgstr ""
+"Introduce los destinatarios (separados por coma) para este correo "
+"electrónico. Predeterminado a <code>%s</code>"
+
+#: includes/emails/class-yith-ywpar-expiration.php:267
+#: includes/emails/class-yith-ywpar-update-points.php:253
+#, fuzzy
+msgid "Email heading"
+msgstr "Encabezado del correo"
+
+#. translators: Placeholder: email heading.
+#: includes/emails/class-yith-ywpar-expiration.php:270
+#: includes/emails/class-yith-ywpar-update-points.php:256
+msgctxt "Placeholder: email heading"
+msgid ""
+"This field lets you change the main heading in email notification. Leave it "
+"blank to use the default heading type: <code>%s</code>."
+msgstr ""
+"Este campo te permite cambiar el encabezado principal en la notificación de "
+"correo electrónico. Déjalo en blanco para usar el encabezado predeterminado: "
+"<code>%s</code>."
+
+#: includes/emails/class-yith-ywpar-expiration.php:276
+#: includes/emails/class-yith-ywpar-update-points.php:262
+#, fuzzy
+msgid "Email description"
+msgstr "Descripción del correo"
+
+#: includes/emails/class-yith-ywpar-expiration.php:283
+#: includes/emails/class-yith-ywpar-update-points.php:269
+msgid "Email type"
+msgstr "Tipo de correo"
+
+#: includes/emails/class-yith-ywpar-expiration.php:285
+#, fuzzy
+msgid "Choose the format of the email that will be sent."
+msgstr "Elige el formato en el que se tiene que enviar el correo."
+
+#: includes/emails/class-yith-ywpar-expiration.php:289
+#: includes/emails/class-yith-ywpar-update-points.php:275
+msgid "Plain text"
+msgstr "Texto sin formato"
+
+#: includes/emails/class-yith-ywpar-expiration.php:290
+#: includes/emails/class-yith-ywpar-update-points.php:276
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/emails/class-yith-ywpar-expiration.php:291
+#: includes/emails/class-yith-ywpar-update-points.php:277
+msgid "Multipart"
+msgstr "Multiparte"
+
+#: includes/emails/class-yith-ywpar-update-points.php:47
+#: views/tabs/emails-tab.php:64
+#, fuzzy
+msgid "Updated Points"
+msgstr "Actualizar puntos"
+
+#: includes/emails/class-yith-ywpar-update-points.php:48
+#, fuzzy
+msgid "This email is sent when the number of points a user has changes."
+msgstr ""
+"Este correo electrónico es enviado cuando el número de puntos del usuario "
+"cambia"
+
+#: includes/emails/class-yith-ywpar-update-points.php:50
+msgid "Your Points in "
+msgstr "Tus Puntos en "
+
+#: includes/emails/class-yith-ywpar-update-points.php:51
+msgid "[Points updated]"
+msgstr "[Puntos actualizados]"
+
+#. translators: Placeholder: admin email.
+#: includes/emails/class-yith-ywpar-update-points.php:248
+#, fuzzy
+msgctxt "Placeholder: admin email"
+msgid ""
+"Enter recipients (separated by commas) for this email. Defaults to <code>%s</"
+"code>."
+msgstr ""
+"Introduce los destinatarios (separados por coma) para este correo "
+"electrónico. Predeterminado a <code>%s</code>"
+
+#: includes/emails/class-yith-ywpar-update-points.php:271
+msgid "Choose the format of the email that has to be sent."
+msgstr "Elige el formato en el que se tiene que enviar el correo."
+
+#: includes/functions-yith-wc-points-rewards.php:173
+#: plugin-options/customization-options.php:354
+#: plugin-options/customization-options.php:358
+msgid "Order Completed"
+msgstr "Pedido completado"
+
+#: includes/functions-yith-wc-points-rewards.php:174
+msgid "Payment Completed"
+msgstr "Pago completado"
+
+#: includes/functions-yith-wc-points-rewards.php:175
+#: plugin-options/customization-options.php:363
+#: plugin-options/customization-options.php:367
+msgid "Order Processing"
+msgstr "Pedido pendiente"
+
+#: includes/functions-yith-wc-points-rewards.php:409
+#: includes/functions-yith-wc-points-rewards.php:410
+msgid "When you achieve %points%"
+msgstr ""
+
+#: includes/functions-yith-wc-points-rewards.php:411
+msgid ""
+"When you spend a total of %amount% in our shop you will earn an extra "
+"%points%"
+msgstr ""
+
+#: includes/functions-yith-wc-points-rewards.php:412
+#, fuzzy
+msgid ""
+"Get %points% for each user that registers by clicking on your referral link"
+msgstr "Asignar puntos cuando un usuario se registra"
+
+#: includes/functions-yith-wc-points-rewards.php:413
+#, fuzzy
+msgid ""
+"Get %points% for each user that complete an order by clicking on your "
+"referral link"
+msgstr "Asignar puntos cuando un usuario se registra"
+
+#: includes/functions-yith-wc-points-rewards.php:414
+msgid ""
+"Get %points% extra if you leave a review for %products% you've purchased"
+msgstr ""
+
+#: includes/functions-yith-wc-points-rewards.php:415
+#, fuzzy
+msgid "and get %points%"
+msgstr "Puntos estándar"
+
+#: includes/functions-yith-wc-points-rewards.php:447
+msgid "Upgrade to %level%"
+msgstr ""
+
+#: includes/functions-yith-wc-points-rewards.php:448
+msgid "Get %points% Extra Points"
+msgstr ""
+
+#: includes/functions-yith-wc-points-rewards.php:449
+#, fuzzy
+msgid "Get %points% when you spend %amount%"
+msgstr "Asignar puntos basado en la cantidad total gastada "
+
+#: includes/functions-yith-wc-points-rewards.php:450
+#: plugin-options/metaboxes/banners-options.php:20
+msgid "Refer a friend"
+msgstr ""
+
+#: includes/functions-yith-wc-points-rewards.php:451
+#: plugin-options/metaboxes/banners-options.php:21
+#, fuzzy
+msgid "Referral purchase"
+msgstr "Puntos extra por pedidos"
+
+#: includes/functions-yith-wc-points-rewards.php:452
+#: plugin-options/metaboxes/banners-options.php:22
+msgid "Leave a review"
+msgstr ""
+
+#: includes/functions-yith-wc-points-rewards.php:453
+msgid "Complete your profile"
+msgstr ""
+
+#: includes/functions-yith-wc-points-rewards.php:1328
+#: includes/functions-yith-wc-points-rewards.php:1330
+msgid "earned:"
+msgstr "ganado:"
+
+#: includes/functions-yith-wc-points-rewards.php:1334
+msgid "used:"
+msgstr "usado:"
+
+#: includes/objects/class-yith-wc-points-rewards-banner.php:112
+#: includes/widgets/class-yith-wc-points-customers-points-widget.php:124
+#: includes/widgets/class-yith-wc-points-customers-points-widget.php:138
+#: plugin-options/metaboxes/banners-options.php:75
+msgid "Simple"
+msgstr ""
+
+#: includes/objects/class-yith-wc-points-rewards-banner.php:116
+#: plugin-options/metaboxes/banners-options.php:76
+msgid "Target"
+msgstr ""
+
+#: includes/objects/class-yith-wc-points-rewards-banner.php:120
+#: plugin-options/metaboxes/banners-options.php:77
+#, fuzzy
+msgid "Get points"
+msgstr "Restablecer puntos"
+
+#: includes/widgets/class-yith-wc-points-customers-points-widget.php:31
+#, fuzzy
+msgid "Show customers' points "
+msgstr "Puntos del cliente"
+
+#: includes/widgets/class-yith-wc-points-customers-points-widget.php:33
+#, fuzzy
+msgid "YITH WooCommerce Points And Rewards - Customers Points"
+msgstr "YITH WooCommerce Points And Rewards - Saldo"
+
+#: includes/widgets/class-yith-wc-points-customers-points-widget.php:123
+#, fuzzy
+msgid "Best Users"
+msgstr "Bloquear usuarios"
+
+#: includes/widgets/class-yith-wc-points-customers-points-widget.php:125
+msgid "Number of customers to show"
+msgstr ""
+
+#: includes/widgets/class-yith-wc-points-customers-points-widget.php:130
+#: includes/widgets/class-yith-wc-points-rewards-widget.php:142
+msgid "Title:"
+msgstr "Título:"
+
+#: includes/widgets/class-yith-wc-points-customers-points-widget.php:136
+msgid "Style:"
+msgstr ""
+
+#: includes/widgets/class-yith-wc-points-customers-points-widget.php:139
+msgid "Boxed"
+msgstr ""
+
+#: includes/widgets/class-yith-wc-points-customers-points-widget.php:144
+msgid "Number of customers to show:"
+msgstr ""
+
+#: includes/widgets/class-yith-wc-points-rewards-widget.php:33
+msgid "Show points collected by the user so far"
+msgstr "Mostrar puntos reunidos por el usuario hasta ahora"
+
+#: includes/widgets/class-yith-wc-points-rewards-widget.php:35
+msgid "YITH WooCommerce Points And Rewards - Balance"
+msgstr "YITH WooCommerce Points And Rewards - Saldo"
+
+#. translators: First placeholder: number of points; second and third placeholders: label of points plural and singular.
+#: includes/widgets/class-yith-wc-points-rewards-widget.php:98
+#, fuzzy
+msgctxt ""
+"First placeholder: number of points; second placeholder: label of points"
+msgid "<strong>%1$s</strong> %2$s"
+msgid_plural "<strong>%1$s</strong> %3$s"
+msgstr[0] "<strong>%1$s</strong> %2$s"
+msgstr[1] "<strong>%3$s</strong> %4$s"
+
+#: includes/widgets/class-yith-wc-points-rewards-widget.php:134
+msgid "Your balance is "
+msgstr "Tu saldo es "
+
+#: includes/widgets/class-yith-wc-points-rewards-widget.php:147
+msgid "Label:"
+msgstr "Etiqueta:"
+
+#: init.php:65
+msgid ""
+"YITH WooCommerce Points and Rewards is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Points and Rewards está activado pero no es efectivo. "
+"Requiere WooCommerce para funcionar."
+
+#: plugin-options/affiliates-options.php:14
+msgid "YITH WooCommerce Affiliates Integration"
+msgstr "Integración con YITH WooCommerce Affiliates"
+
+#: plugin-options/affiliates-options.php:20
+msgid "Enable Integration"
+msgstr "Activar la integración"
+
+#: plugin-options/affiliates-options.php:21
+#, fuzzy
+msgid "Enable the integration with the YITH WooCommerce Affiliates plugin"
+msgstr "Activar la integración con el plugin YITH WooCommerce Affiliates"
+
+#: plugin-options/affiliates-options.php:30
+#, fuzzy
+msgid "Select the method to calculate points for your affiliates"
+msgstr "Selecciona el método para calcular los puntos para tus afiliados."
+
+#: plugin-options/affiliates-options.php:80
+#, fuzzy
+msgid "Assign points based on the order subtotal"
+msgstr "Asignar puntos basado en el subtotal del pedido."
+
+#: plugin-options/affiliates-options.php:81
+#, fuzzy
+msgid ""
+"Decide how many points will be assigned to each order based on the currency"
+msgstr ""
+"Decide cuantos puntos serán asignados por cada pedido en base a la moneda."
+
+#: plugin-options/customers-options.php:18
+#, fuzzy
+msgid "Customer Points"
+msgstr "Puntos de los clientes"
+
+#: plugin-options/customers-options.php:19
+#, fuzzy
+msgid "Monitor and manage all points collected from your customers."
+msgstr "Activa Asignar puntos en el cumpleaños del cliente"
+
+#: plugin-options/customization-options.php:18
+#, fuzzy
+msgid "General"
+msgstr "Opciones generales"
+
+#: plugin-options/customization-options.php:24
+msgid "Hide points messages to guest users"
+msgstr "Ocultar mensajes de puntos para usuarios no registrados"
+
+#: plugin-options/customization-options.php:25
+#, fuzzy
+msgid "Enable to hide points messages to guest users"
+msgstr "Activa Ocultar mensajes de puntos para usuarios no registrados."
+
+#: plugin-options/customization-options.php:39
+msgid "Points in shop pages"
+msgstr "Puntos en las páginas de Tienda"
+
+#: plugin-options/customization-options.php:45
+msgid "Show points message in shop pages (loop)"
+msgstr "Mostrar mensaje de puntos en las páginas de Tienda (bucle)"
+
+#: plugin-options/customization-options.php:46
+msgid "Enable to show the message related to points in all shop pages"
+msgstr ""
+"Activa mostrar el mensaje relacionado con los puntos en todas las páginas de "
+"la Tienda"
+
+#: plugin-options/customization-options.php:54
+#, fuzzy
+msgid "Loop message"
+msgstr "Mensaje en el Loop"
+
+#: plugin-options/customization-options.php:55
+msgctxt "do not translate the text inside the brackets"
+msgid ""
+"{points} number of points earned;<br>{points_label} of points;"
+"<br>{price_discount_fixed_conversion} the value corresponding to points"
+msgstr ""
+"{points} número de puntos ganados;<br>{points_label} de puntos;"
+"<br>{price_discount_fixed_conversion} el valor correspondiente a los puntos"
+
+#: plugin-options/customization-options.php:58
+msgctxt "do not translate the text inside the brackets"
+msgid "<strong>{points}</strong> {points_label}"
+msgstr "<strong>{points}</strong> {points_label}"
+
+#: plugin-options/customization-options.php:72
+#: plugin-options/customization-options.php:163
+msgid "Colors"
+msgstr ""
+
+#: plugin-options/customization-options.php:76
+#: plugin-options/customization-options.php:167
+#: plugin-options/metaboxes/banners-options.php:173
+msgid "Text"
+msgstr ""
+
+#: plugin-options/customization-options.php:81
+#: plugin-options/customization-options.php:172
+#: plugin-options/metaboxes/banners-options.php:163
+#, fuzzy
+msgid "Background"
+msgstr "Color de fondo"
+
+#: plugin-options/customization-options.php:86
+#, fuzzy
+msgid "Border"
+msgstr "pedido(s) ="
+
+#: plugin-options/customization-options.php:99
+msgid "Show points message in product page"
+msgstr "Mostrar mensaje de puntos en la página del producto"
+
+#: plugin-options/customization-options.php:100
+msgid "Enable to show the message related to points in all product pages"
+msgstr ""
+"Activa Mostrar el mensaje relacionado con los puntos en todas las páginas de "
+"producto"
+
+#: plugin-options/customization-options.php:108
+msgctxt "settings panel option name"
+msgid "Update the message when the product quantity changes"
+msgstr ""
+
+#: plugin-options/customization-options.php:120
+msgid "Message position"
+msgstr "Posición del mensaje"
+
+#: plugin-options/customization-options.php:121
+msgid "Choose where to show the points message in the product page"
+msgstr "Escoge donde mostrar el mensaje de puntos en la página del producto"
+
+#: plugin-options/customization-options.php:128
+msgid "Before \"Add to cart\" button"
+msgstr "Antes del botón \"Añadir al carrito\""
+
+#: plugin-options/customization-options.php:129
+msgid "After \"Add to cart\" button"
+msgstr "Después del botón \"Añadir al carrito\""
+
+#: plugin-options/customization-options.php:130
+msgid "Before excerpt"
+msgstr "Antes del resumen"
+
+#: plugin-options/customization-options.php:131
+msgid "After excerpt"
+msgstr "Después del resumen"
+
+#: plugin-options/customization-options.php:132
+msgid "After product meta"
+msgstr "Después de product meta"
+
+#: plugin-options/customization-options.php:145
+#, fuzzy
+msgid "Single product page message"
+msgstr "Mensaje en la página de producto"
+
+#: plugin-options/customization-options.php:146
+msgctxt "do not translate the text inside the brackets"
+msgid ""
+"{points} number of points earned;<br>{points_label} of points;"
+"<br>{price_discount_fixed_conversion} the value corresponding to points "
+msgstr ""
+"{points} número de puntos ganados;<br>{points_label} de "
+"puntos<br>{price_discount_fixed_conversion} el valor correspondiente a los "
+"puntos "
+
+#: plugin-options/customization-options.php:149
+#, fuzzy
+msgctxt "do not translate the text inside the brackets"
+msgid ""
+"Purchase this item and get <strong>{points} {points_label}</strong> - a "
+"worth of <strong>{price_discount_fixed_conversion}</strong>"
+msgstr ""
+"Si compras este producto ganarás <strong>{points}</strong> {points_label} "
+"por el valor de {price_discount_fixed_conversion}!"
+
+#: plugin-options/customization-options.php:190
+msgid "Points in My Account"
+msgstr "Puntos en Mi Cuenta"
+
+#: plugin-options/customization-options.php:197
+msgid "Show points on My Account"
+msgstr "Mostrar puntos en Mi Cuenta"
+
+#: plugin-options/customization-options.php:198
+#, fuzzy
+msgid "Enable to show points on the My Account page of all users"
+msgstr ""
+"Activa mostrar los puntos en la página Mi Cuenta para todos los usuarios"
+
+#: plugin-options/customization-options.php:206
+msgid "Label for points section"
+msgstr "Etiqueta para sección de puntos"
+
+#: plugin-options/customization-options.php:207
+#, fuzzy
+msgid "Enter a label to identify the points section on the My Account page"
+msgstr ""
+"Introduce la etiqueta para identificar la sección de puntos en la página Mi "
+"Cuenta"
+
+#: plugin-options/customization-options.php:220
+msgid "Endpoint for points section"
+msgstr "Endpoint para sección de puntos"
+
+#: plugin-options/customization-options.php:221
+#, fuzzy
+msgid ""
+"Enter the endpoint of the points on the My Account page. Endpoints cannot "
+"contain spaces or uppercase letters"
+msgstr ""
+"Introduce el endpoint para los Puntos en la página Mi Cuenta. Los endpoints "
+"no pueden contener espacios ni mayúsculas."
+
+#: plugin-options/customization-options.php:234
+#, fuzzy
+msgid "Show points value"
+msgstr "Mostrar valor de puntos"
+
+#: plugin-options/customization-options.php:235
+#, fuzzy
+msgid ""
+"Enable to show the points value. For example: \"You have 100 points - $15\""
+msgstr ""
+"activa mostrar el valor de los puntos. Ejemplo: ''Tienes 100 puntos - 15€''"
+
+#: plugin-options/customization-options.php:248
+#, fuzzy
+msgid "Show points in My Account"
+msgstr "Mostrar puntos en Mi Cuenta"
+
+#: plugin-options/customization-options.php:249
+msgid "Show points earned and spent in My Account > Order details"
+msgstr "Mostrar puntos ganados y gastados en Mi cuenta > Detalles del pedido"
+
+#: plugin-options/customization-options.php:256
+#, fuzzy
+msgid "Show points in email"
+msgstr "Mostrar puntos en la página del Carrito"
+
+#: plugin-options/customization-options.php:257
+#, fuzzy
+msgid "Show points earned and spent in the Completed order email"
+msgstr ""
+"Mostrar puntos ganados y gastados en el correo electrónico de Pedido "
+"completado"
+
+#: plugin-options/customization-options.php:270
+msgid "Points in Cart & Checkout"
+msgstr "Puntos en el Carrito y Proceso de pago"
+
+#: plugin-options/customization-options.php:276
+msgid "Show points in Cart page"
+msgstr "Mostrar puntos en la página del Carrito"
+
+#: plugin-options/customization-options.php:277
+#, fuzzy
+msgid "Enable to show the points message on the Cart page"
+msgstr "Activa mostrar el mensaje de puntos en la página del carrito"
+
+#: plugin-options/customization-options.php:285
+msgid "Message text in cart"
+msgstr "Texto del mensaje en el carrito"
+
+#: plugin-options/customization-options.php:286
+#: plugin-options/customization-options.php:310
+#, fuzzy
+msgctxt "do not translate the text inside the brackets"
+msgid ""
+"You can use the following placeholders:<br> {points} number of points earned;"
+"<br>{points_label} of points;<br>{price_discount_fixed_conversion} the value "
+"corresponding to points"
+msgstr ""
+"{points} número de puntos ganados;<br>{points_label} de puntos;"
+"<br>{price_discount_fixed_conversion} el valor correspondiente a los puntos"
+
+#: plugin-options/customization-options.php:289
+#: plugin-options/customization-options.php:313
+msgctxt "do not translate the text inside the brackets"
+msgid ""
+"If you proceed to checkout, you will earn <strong>{points}</strong> "
+"{points_label}!"
+msgstr ""
+"¡Si continuas con el proceso de pago, ganarás <strong>{points}</strong> "
+"{points_label}!"
+
+#: plugin-options/customization-options.php:300
+msgid "Show points in Checkout page"
+msgstr "Mostrar puntos en la página de Proceso de pago"
+
+#: plugin-options/customization-options.php:301
+#, fuzzy
+msgid "Enable to show the points message on the Checkout page"
+msgstr "Activa mostrar el mensaje de puntos en la página de proceso de pago"
+
+#: plugin-options/customization-options.php:309
+msgid "Message text in checkout"
+msgstr "Texto del mensaje en el proceso de pago"
+
+#: plugin-options/customization-options.php:330
+#, fuzzy
+msgid "Labels settings"
+msgstr "Ajustes de etiquetas"
+
+#: plugin-options/customization-options.php:336
+msgid "Singular label replacing \"point\""
+msgstr "Etiqueta en singular que sustituye a \"punto\""
+
+#: plugin-options/customization-options.php:340
+msgid "Point"
+msgstr "punto"
+
+#: plugin-options/customization-options.php:345
+msgid "Plural label replacing \"points\""
+msgstr "Etiqueta en plural que sustituye a \"puntos\""
+
+#: plugin-options/customization-options.php:349
+#: views/panel/types/options-conversion-earning.php:44
+#: views/panel/types/options-conversion.php:39
+#: views/panel/types/options-percentage-conversion.php:42
+#: views/panel/types/options-role-conversion.php:79
+#: views/panel/types/options-role-conversion.php:88
+#: views/panel/types/options-role-percentage-conversion.php:66
+#: views/tabs/bulk-actions.php:146
+#: views/tabs/customers/bulk-actions/modal/content.php:138
+msgid "Points"
+msgstr "Puntos"
+
+#: plugin-options/customization-options.php:372
+#: plugin-options/customization-options.php:376
+msgid "Order Cancelled"
+msgstr "Pedido cancelado"
+
+#: plugin-options/customization-options.php:381
+#: plugin-options/customization-options.php:385
+msgid "Admin Action"
+msgstr "Acción admin"
+
+#: plugin-options/customization-options.php:390
+#: plugin-options/customization-options.php:394
+msgid "Reviews"
+msgstr "Reseñas"
+
+#: plugin-options/customization-options.php:399
+#: plugin-options/customization-options.php:403
+msgid "Registration"
+msgstr "Registro"
+
+#: plugin-options/customization-options.php:408
+msgid "Target - Total Points"
+msgstr "Objetivo - Puntos totales"
+
+#: plugin-options/customization-options.php:412
+msgid "Target achieved - Points collected"
+msgstr "Objetivo alcanzado - Puntos reunidos"
+
+#: plugin-options/customization-options.php:417
+msgid "Target - Total Amount"
+msgstr "Objetivo - Cantidad total"
+
+#: plugin-options/customization-options.php:421
+msgid "Target achieved - Total spend"
+msgstr "Objetivo alcanzado - Total gastado"
+
+#: plugin-options/customization-options.php:426
+msgid "Target - Total Orders"
+msgstr "Objetivo - Pedidos totales"
+
+#: plugin-options/customization-options.php:430
+msgid "Target achieved - Total Orders"
+msgstr "Objetivo alcanzado - Pedidos alcanzados"
+
+#: plugin-options/customization-options.php:434
+#, fuzzy
+msgid "Target - Checkout Total Threshold"
+msgstr "Objetivo Límite mínimo del total en el proceso de pago"
+
+#: plugin-options/customization-options.php:438
+msgid "Target achieved - Checkout Total Threshold"
+msgstr "Objetivo alcanzado - Límite mínimo del total en el proceso de pago"
+
+#: plugin-options/customization-options.php:442
+msgid "Birthday"
+msgstr "Cumpleaños"
+
+#: plugin-options/customization-options.php:446
+msgid "Target achieved - Birthday"
+msgstr "Objetivo alcanzado - Cumpleaños"
+
+#: plugin-options/customization-options.php:450
+msgid "Daily Login"
+msgstr ""
+
+#: plugin-options/customization-options.php:454
+#, fuzzy
+msgid "Target achieved - Daily Login"
+msgstr "Objetivo alcanzado - Total gastado"
+
+#: plugin-options/customization-options.php:458
+#, fuzzy
+msgid "Registration by referral"
+msgstr "Formulario de registro"
+
+#: plugin-options/customization-options.php:462
+msgid "User registration by referral"
+msgstr ""
+
+#: plugin-options/customization-options.php:466
+#: plugin-options/customization-options.php:470
+msgid "Removed registration points due to a referred user cancellation"
+msgstr ""
+
+#: plugin-options/customization-options.php:474
+#: plugin-options/customization-options.php:478
+msgid "Purchase by referral"
+msgstr ""
+
+#: plugin-options/customization-options.php:483
+#: plugin-options/customization-options.php:487
+msgid "Removed points due to a referred user cancellation"
+msgstr ""
+
+#: plugin-options/customization-options.php:492
+#: plugin-options/customization-options.php:496
+#, fuzzy
+msgid "Collected Points"
+msgstr "Puntos canjeados"
+
+#: plugin-options/customization-options.php:501
+msgid "Level Achieved"
+msgstr ""
+
+#: plugin-options/customization-options.php:505
+#, fuzzy
+msgid "Target achieved - Level"
+msgstr "Objetivo alcanzado - Cumpleaños"
+
+#: plugin-options/customization-options.php:509
+#, fuzzy
+msgid "Profile Completed"
+msgstr "Pedido completado"
+
+#: plugin-options/customization-options.php:513
+#, fuzzy
+msgid "Target achieved - Profile Completed"
+msgstr "Objetivo alcanzado - Puntos reunidos"
+
+#: plugin-options/customization-options.php:517
+#: plugin-options/customization-options.php:521
+msgid "Expired Points"
+msgstr "Puntos caducados"
+
+#: plugin-options/customization-options.php:526
+#: plugin-options/customization-options.php:530
+msgid "Order Refund"
+msgstr "Pedido reembolsado"
+
+#: plugin-options/customization-options.php:535
+#: plugin-options/customization-options.php:539
+msgid "Order Refund Deleted"
+msgstr "Pedido reembolsado borrado"
+
+#: plugin-options/customization-options.php:544
+msgid "Redeemed Points"
+msgstr "Puntos canjeados"
+
+#: plugin-options/customization-options.php:548
+#, fuzzy
+msgid "Redeemed points for order"
+msgstr "Puntos canjeados"
+
+#: plugin-options/customization-options.php:553
+#, fuzzy
+msgid "Shared Points"
+msgstr "Puntos caducados"
+
+#: plugin-options/customization-options.php:557
+#, fuzzy
+msgid "Points shared with a coupon"
+msgstr "Canjeo de puntos"
+
+#: plugin-options/customization-options.php:562
+msgid "Apply Discount Button"
+msgstr "Botón de aplicar descuento"
+
+#: plugin-options/customization-options.php:566
+msgid "Apply Points"
+msgstr "Aplicar puntos"
+
+#: plugin-options/customization-options.php:571
+#, fuzzy
+msgid "Applied Points Discount Label"
+msgstr "Descuento de precio fijo"
+
+#: plugin-options/gutenberg/blocks.php:31
+#, fuzzy
+msgctxt "[gutenberg]: block name"
+msgid "Best Users List - YITH WooCommerce Points and Rewards"
+msgstr "Puntos y recompensas"
+
+#: plugin-options/gutenberg/blocks.php:32
+#, fuzzy
+msgctxt "[gutenberg]: block description"
+msgid "Show the list of your best customers."
+msgstr "Mostrar todos los clientes"
+
+#: plugin-options/gutenberg/blocks.php:38
+#, fuzzy
+msgctxt "[gutenberg]: keywords"
+msgid "YITH"
+msgstr "YITH"
+
+#: plugin-options/gutenberg/blocks.php:39
+#: plugin-options/gutenberg/blocks.php:77
+#: plugin-options/gutenberg/blocks.php:114
+#: plugin-options/gutenberg/blocks.php:149
+#, fuzzy
+msgctxt "[gutenberg]: keywords"
+msgid "Points and Rewards"
+msgstr "Puntos y recompensas"
+
+#: plugin-options/gutenberg/blocks.php:40
+#, fuzzy
+msgctxt "[gutenberg]: keywords"
+msgid "Points and Rewards Widget"
+msgstr "Puntos y recompensas"
+
+#: plugin-options/gutenberg/blocks.php:45
+#, fuzzy
+msgctxt "[gutenberg]: Name of gutenberg attribute"
+msgid "Style of list"
+msgstr "Fecha de nacimiento"
+
+#: plugin-options/gutenberg/blocks.php:48
+msgctxt "[gutenberg]: Label for gutenberg attribute"
+msgid "Simple"
+msgstr ""
+
+#: plugin-options/gutenberg/blocks.php:49
+msgctxt "[gutenberg]: Label for gutenberg attribute"
+msgid "Boxed"
+msgstr ""
+
+#: plugin-options/gutenberg/blocks.php:54
+msgctxt "[gutenberg]: show or hide the tabs"
+msgid "Tabs"
+msgstr ""
+
+#: plugin-options/gutenberg/blocks.php:57
+msgid "Yes"
+msgstr ""
+
+#: plugin-options/gutenberg/blocks.php:63
+#, fuzzy
+msgctxt "[gutenberg]: number od customers to show"
+msgid "Number of customers"
+msgstr "Solo clientes bloqueados"
+
+#: plugin-options/gutenberg/blocks.php:70
+#, fuzzy
+msgctxt "[gutenberg]: block name"
+msgid "Customer Total Points - YITH WooCommerce Points and Rewards"
+msgstr "YITH WooCommerce Points and Rewards"
+
+#: plugin-options/gutenberg/blocks.php:71
+#, fuzzy
+msgctxt "[gutenberg]: block description"
+msgid "Show customer credit points."
+msgstr "Puntos del cliente"
+
+#: plugin-options/gutenberg/blocks.php:78
+#: plugin-options/gutenberg/blocks.php:150
+#, fuzzy
+msgctxt "[gutenberg]: keywords"
+msgid "Points"
+msgstr "Puntos"
+
+#: plugin-options/gutenberg/blocks.php:83
+#: plugin-options/gutenberg/blocks.php:155
+#, fuzzy
+msgctxt "[gutenberg]: Name of gutenberg attribute"
+msgid "Text before points"
+msgstr "etiqueta de puntos"
+
+#: plugin-options/gutenberg/blocks.php:84
+#: plugin-options/gutenberg/blocks.php:156
+#, fuzzy
+msgctxt "[gutenberg]: Label for gutenberg attribute"
+msgid "Your credit is "
+msgstr "Tu crédito es "
+
+#: plugin-options/gutenberg/blocks.php:90
+#, fuzzy
+msgctxt "[gutenberg]: block name"
+msgid "Points Message on Product Page - YITH WooCommerce Points and Rewards"
+msgstr "Aplicar puntos de WooCommerce Points and Rewards"
+
+#: plugin-options/gutenberg/blocks.php:91
+#, fuzzy
+msgctxt "[gutenberg]: block description"
+msgid "Show a single product page message"
+msgstr "Mensaje en la página de producto"
+
+#: plugin-options/gutenberg/blocks.php:115
+#, fuzzy
+msgctxt "[gutenberg]: keywords"
+msgid "Points message"
+msgstr "Redondeo de puntos"
+
+#: plugin-options/gutenberg/blocks.php:120
+#, fuzzy
+msgctxt "[gutenberg]: Name of gutenberg attribute"
+msgid "Product id"
+msgstr "ID de producto"
+
+#: plugin-options/gutenberg/blocks.php:125
+#, fuzzy
+msgctxt "[gutenberg]: Name of gutenberg attribute"
+msgid "Message"
+msgstr "Mensaje"
+
+#: plugin-options/gutenberg/blocks.php:130
+msgctxt "[gutenberg]: title of widget"
+msgid "Text Color"
+msgstr ""
+
+#: plugin-options/gutenberg/blocks.php:135
+#, fuzzy
+msgctxt "[gutenberg]: title of widget"
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: plugin-options/gutenberg/blocks.php:142
+#, fuzzy
+msgctxt "[gutenberg]: block name"
+msgid "Threshold Points Message - YITH WooCommerce Points and Rewards"
+msgstr "Aplicar puntos de WooCommerce Points and Rewards"
+
+#: plugin-options/gutenberg/blocks.php:143
+#, fuzzy
+msgctxt "[gutenberg]: block description"
+msgid "Show messages about thresholds achieved on Cart & Checkout pages"
+msgstr ""
+"Activa Mostrar mensajes sobre límites mínimos alcanzados en las páginas del "
+"Carrito y Proceso de pago"
+
+#: plugin-options/metaboxes/banners-options.php:14
+#, fuzzy
+msgid "Points of next level"
+msgstr "Total de puntos"
+
+#: plugin-options/metaboxes/banners-options.php:15
+#: plugin-options/points/extra-options.php:533
+msgid "Extra points for amount spent"
+msgstr "Puntos extra por cantidad gastada"
+
+#: plugin-options/metaboxes/banners-options.php:16
+#, fuzzy
+msgid "Extra points for points collected"
+msgstr "Puntos a asignar por puntos obtenidos"
+
+#: plugin-options/metaboxes/banners-options.php:23
+msgid "Complete Profile"
+msgstr ""
+
+#: plugin-options/metaboxes/banners-options.php:53
+#, fuzzy
+msgid "Enter a name to identify this banner"
+msgstr ""
+"Introduce la etiqueta para identificar la sección de puntos en la página Mi "
+"Cuenta"
+
+#: plugin-options/metaboxes/banners-options.php:80
+#, fuzzy
+msgid "Choose the banner type"
+msgstr "bloqueado"
+
+#: plugin-options/metaboxes/banners-options.php:88
+#: plugin-options/metaboxes/banners-options.php:104
+#, fuzzy
+msgid "Action type"
+msgstr "Acción"
+
+#: plugin-options/metaboxes/banners-options.php:89
+msgid ""
+"Choose the banner action type. To create target banners you need to enable "
+"extra points options first."
+msgstr ""
+
+#: plugin-options/metaboxes/banners-options.php:92
+#: plugin-options/metaboxes/banners-options.php:109
+#, fuzzy
+msgid " No extra rules found"
+msgstr "No se han encontrado usuarios"
+
+#. translators: placeholder is an html tag.
+#: plugin-options/metaboxes/banners-options.php:106
+msgctxt "placeholder is an html tag"
+msgid ""
+"Choose the banner action type.%s To create target banners you need to enable "
+"extra points options first."
+msgstr ""
+
+#: plugin-options/metaboxes/banners-options.php:119
+#, fuzzy
+msgid "Products to show"
+msgstr "ID de producto"
+
+#: plugin-options/metaboxes/banners-options.php:120
+msgid ""
+"Enter the maximum number of products the user can review to earn extra points"
+msgstr ""
+
+#: plugin-options/metaboxes/banners-options.php:132
+#, fuzzy
+msgid "Banner title"
+msgstr "bloqueado"
+
+#: plugin-options/metaboxes/banners-options.php:133
+#, fuzzy
+msgid "Enter the title to show in this banner"
+msgstr "Introduce el texto a mostrar en la página del carrito"
+
+#: plugin-options/metaboxes/banners-options.php:141
+#, fuzzy
+msgid "Banner text"
+msgstr "bloqueado"
+
+#: plugin-options/metaboxes/banners-options.php:142
+#, fuzzy
+msgid "Enter the text to show in this banner"
+msgstr "Introduce el texto a mostrar en la página del carrito"
+
+#: plugin-options/metaboxes/banners-options.php:150
+#, fuzzy
+msgid "Banner image"
+msgstr "bloqueado"
+
+#: plugin-options/metaboxes/banners-options.php:151
+msgid "Upload an image for this banner"
+msgstr ""
+
+#: plugin-options/metaboxes/banners-options.php:158
+#, fuzzy
+msgid "Banner colors"
+msgstr "bloqueado"
+
+#: plugin-options/metaboxes/banners-options.php:168
+#, fuzzy
+msgid "Title"
+msgstr "Título:"
+
+#: plugin-options/metaboxes/banners-options.php:183
+msgid "Add link"
+msgstr ""
+
+#: plugin-options/metaboxes/banners-options.php:184
+msgid "Enable to add a link to this banner"
+msgstr ""
+
+#: plugin-options/metaboxes/banners-options.php:195
+#, fuzzy
+msgid "Banner links to"
+msgstr "bloqueado"
+
+#: plugin-options/metaboxes/banners-options.php:196
+#, fuzzy
+msgid "Enter the URL of this banner"
+msgstr "Introduce el texto a mostrar en la página del carrito"
+
+#: plugin-options/metaboxes/banners-options.php:207
+msgid "Show progress slider"
+msgstr ""
+
+#: plugin-options/metaboxes/banners-options.php:208
+#, fuzzy
+msgid "Enable to show a slider with the user's progress"
+msgstr "Activa mostrar el mensaje de puntos en la página del carrito"
+
+#: plugin-options/metaboxes/banners-options.php:220
+msgid "Banner progress bar colors"
+msgstr ""
+
+#: plugin-options/metaboxes/banners-options.php:225
+#, fuzzy
+msgid "Bar"
+msgstr "bloqueado"
+
+#: plugin-options/metaboxes/banners-options.php:230
+msgid "Progress"
+msgstr ""
+
+#: plugin-options/metaboxes/banners-options.php:243
+msgid "Show"
+msgstr ""
+
+#: plugin-options/metaboxes/banners-options.php:244
+#, fuzzy
+msgid "Choose in which section to show this banner"
+msgstr "Introduce el texto a mostrar en la página del carrito"
+
+#: plugin-options/metaboxes/banners-options.php:246
+msgid "in Target tab"
+msgstr ""
+
+#: plugin-options/metaboxes/banners-options.php:247
+#, fuzzy
+msgid "in Get points tab"
+msgstr "Restablecer puntos"
+
+#: plugin-options/metaboxes/levels-badges-options.php:18
+#, fuzzy
+msgctxt "Admin option title"
+msgid "Level name"
+msgstr "Nombre del sitio web"
+
+#: plugin-options/metaboxes/levels-badges-options.php:19
+#, fuzzy
+msgctxt "Admin option description"
+msgid "Enter a name to identify this level"
+msgstr ""
+"Introduce la etiqueta para identificar la sección de puntos en la página Mi "
+"Cuenta"
+
+#: plugin-options/metaboxes/levels-badges-options.php:33
+#, fuzzy
+msgctxt "Admin option title"
+msgid "Points to collect"
+msgstr "Puntos obtenidos:"
+
+#: plugin-options/metaboxes/levels-badges-options.php:34
+#, fuzzy
+msgctxt "Admin option description"
+msgid "Set how many points the user has to collect to achieve this level."
+msgstr "Establece cuántos puntos asignar en base al total de puntos obtenidos"
+
+#: plugin-options/metaboxes/levels-badges-options.php:34
+msgctxt "Admin option description"
+msgid "Leave \"to\" empty if this level is the last achievable."
+msgstr ""
+
+#: plugin-options/metaboxes/levels-badges-options.php:41
+msgctxt "Admin option title"
+msgid "Add a badge image"
+msgstr ""
+
+#: plugin-options/metaboxes/levels-badges-options.php:42
+msgctxt "Admin option description"
+msgid "Enable if you want to upload a badge image to identify this level"
+msgstr ""
+
+#: plugin-options/metaboxes/levels-badges-options.php:49
+#, fuzzy
+msgctxt "Admin option title"
+msgid "Upload badge"
+msgstr "Subir"
+
+#: plugin-options/metaboxes/levels-badges-options.php:50
+msgctxt "Admin option description"
+msgid "Upload an image to identify this level"
+msgstr ""
+
+#: plugin-options/metaboxes/levels-badges-options.php:61
+msgctxt "Admin option title"
+msgid "Level text color"
+msgstr ""
+
+#: plugin-options/metaboxes/levels-badges-options.php:62
+msgctxt "Admin option description"
+msgid "Set the color for level label text (shown in shortcodes and widgets)"
+msgstr ""
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:28
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:39
+#: plugin-options/points/standard-options.php:59
+#: plugin-options/redeem/standard-options.php:41 views/tabs/bulk-actions.php:38
+#: views/tabs/customers/bulk-actions/modal/content.php:30
+msgid "Only specified user roles"
+msgstr "Sólo roles de usuario específicos"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:29
+#: plugin-options/metaboxes/points-earning-rules-options.php:79
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:40
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:75
+msgid "Users with specific points level"
+msgstr ""
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:39
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:49
+#, fuzzy
+msgid "Choose user roles"
+msgstr "Escoge qué roles"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:42
+#, fuzzy
+msgid "Search user role"
+msgstr "Roles de usuario especificados"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:50
+#: plugin-options/metaboxes/points-earning-rules-options.php:81
+#: plugin-options/metaboxes/points-earning-rules-options.php:251
+#, fuzzy
+msgid "Apply rule to:"
+msgstr "Aplicar esta acción a"
+
+#. translators: Placeholder are html tags.
+#: plugin-options/metaboxes/points-earning-rules-options.php:52
+#: plugin-options/metaboxes/points-earning-rules-options.php:83
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:31
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:79
+msgctxt "Placeholder are html tags."
+msgid ""
+"Choose to which users apply this rule. %1$sNote:%2$s you can apply rules "
+"only to user roles enabled in the global option. If you want to create rules "
+"for all users or other user roles you need to %3$sedit the global option%4$s"
+msgstr ""
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:113
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:151
+#, fuzzy
+msgid "Enter a name to identify this rule"
+msgstr ""
+"Introduce la etiqueta para identificar la sección de puntos en la página Mi "
+"Cuenta"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:127
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:165
+msgid "Priority"
+msgstr ""
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:128
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:166
+msgid ""
+"Set the priority to assign to this rule. This is important to overwrite "
+"rules. 1 is highest priority"
+msgstr ""
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:136
+#, fuzzy
+msgctxt "Admin option"
+msgid "Assign a fixed amount of points"
+msgstr "Establece un número fijo de puntos"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:137
+#, fuzzy
+msgctxt "Admin option"
+msgid "Set a % amount of points based on global points rules"
+msgstr ""
+"Establece una cantidad % de puntos en base a las reglas globales de puntos"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:138
+#, fuzzy
+msgctxt "Admin option"
+msgid "Set a fixed amount of points based on product prices"
+msgstr ""
+"Establece una cantidad % de puntos en base a las reglas globales de puntos"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:139
+#, fuzzy
+msgctxt "Admin option"
+msgid "Don't assign points"
+msgstr "No asignar puntos"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:141
+#, fuzzy
+msgid "Points type"
+msgstr "Historial de puntos"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:142
+#, fuzzy
+msgid ""
+"Choose if you want to assign a fixed amount of points, calculate the points "
+"from the product price, or don't assign points at all"
+msgstr ""
+"Establece una cantidad % de puntos en base a las reglas globales de puntos"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:146
+#: plugin-options/metaboxes/points-earning-rules-options.php:159
+#: plugin-options/metaboxes/points-earning-rules-options.php:171
+#, fuzzy
+msgid "Points to assign"
+msgstr "Puntos a asignar por pedido"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:155
+#: plugin-options/redeem/standard-options.php:383
+#: plugin-options/redeem/standard-options.php:400
+#: views/panel/types/options-extrapoints-multi.php:69
+#: views/panel/types/options-extrapoints.php:55
+msgid "points"
+msgstr "puntos"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:192
+#, fuzzy
+msgctxt "Admin option"
+msgid "From now, until\tit's ended manually"
+msgstr "Desde ahora, hasta que sea finalizado manualmente"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:193
+#, fuzzy
+msgctxt "Admin option"
+msgid "Schedule a start and end date"
+msgstr "Programar una fecha de inicio y finalización"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:195
+#, fuzzy
+msgid "Rule will be valid"
+msgstr "Sobrescribir será válido"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:196
+#: plugin-options/metaboxes/points-earning-rules-options.php:236
+#, fuzzy
+msgid ""
+"Choose to schedule the rule to override global points options or to start "
+"and end it manually"
+msgstr ""
+"Escoge programar los puntos globales sobrescribiendo o si iniciarlo y "
+"finalizarlo manualmente."
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:209
+#: views/tabs/bulk-actions.php:192
+#: views/tabs/customers/bulk-actions/modal/content.php:184
+msgid "Add points to orders placed from"
+msgstr "Añadir puntos a pedidos realizados desde"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:210
+#: plugin-options/metaboxes/points-earning-rules-options.php:223
+#: views/tabs/bulk-actions.php:193
+#: views/tabs/customers/bulk-actions/modal/content.php:185
+msgid "Choose from which date to assign points to previous orders"
+msgstr "Escoge desde qué fecha asignar los puntos a pedidos anteriores"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:219
+msgid "To"
+msgstr ""
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:245
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:241
+#, fuzzy
+msgid "All products"
+msgstr "Excluir productos en descuento"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:246
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:242
+#, fuzzy
+msgid "Specific products"
+msgstr "Usuarios específicados"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:247
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:243
+#, fuzzy
+msgid "On sale products"
+msgstr "Excluir productos en descuento"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:248
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:244
+msgid "Products of specific categories"
+msgstr ""
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:249
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:245
+msgid "Products of specific tags"
+msgstr ""
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:252
+msgid ""
+"Choose if you want to assign these points when the user purchases all "
+"products or only specific products or products of specific categories"
+msgstr ""
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:256
+#: plugin-options/metaboxes/points-earning-rules-options.php:319
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:252
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:315
+#, fuzzy
+msgid "Choose products"
+msgstr "Para este producto"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:257
+#: plugin-options/metaboxes/points-earning-rules-options.php:274
+#: plugin-options/metaboxes/points-earning-rules-options.php:291
+#, fuzzy
+msgid "Choose for which products to apply these points"
+msgstr "Escoge a qué usuarios aplicar esta acción"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:273
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:269
+#, fuzzy
+msgid "Choose categories"
+msgstr "Escoge qué roles"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:279
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:275
+msgid "Search for a category"
+msgstr ""
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:290
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:286
+#, fuzzy
+msgid "Choose tags"
+msgstr "Escoge qué roles"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:296
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:292
+msgid "Search for a tag"
+msgstr ""
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:311
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:307
+#, fuzzy
+msgid "Exclude products"
+msgstr "Excluir productos en descuento"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:312
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:308
+#, fuzzy
+msgid "Enable if you want to exclude some products from this rule"
+msgstr "Activa si quieres excluir usuarios o roles de usuario específicos"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:320
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:316
+#, fuzzy
+msgid "Choose which products to exclude"
+msgstr "Escoge qué roles de usuario excluir"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:345
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:345
+#, fuzzy
+msgid "Choose user levels"
+msgstr "Escoge qué usuarios"
+
+#: plugin-options/metaboxes/points-earning-rules-options.php:349
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:347
+msgid "Search user level"
+msgstr ""
+
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:29
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:77
+#, fuzzy
+msgid "Apply rule to"
+msgstr "Aplicar esta acción a"
+
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:105
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:125
+#: plugin-options/redeem/standard-options.php:87
+#: plugin-options/redeem/standard-options.php:106
+#, fuzzy
+msgid "Reward conversion rate"
+msgstr "Ratio de conversión de recompensa"
+
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:106
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:126
+#: plugin-options/redeem/standard-options.php:88
+#: plugin-options/redeem/standard-options.php:107
+#, fuzzy
+msgid ""
+"Choose how to calculate the discount when customers use their available "
+"points"
+msgstr ""
+"Elige como calcular el descuento cuando los clientes utilizan sus puntos "
+"disponibles"
+
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:174
+#, fuzzy
+msgid "Redeem conversion rate"
+msgstr "Ratio de conversión de recompensa"
+
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:175
+#, fuzzy
+msgid "Redeem max discount rate"
+msgstr "Establecer un valor fijo de descuento máximo"
+
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:177
+#, fuzzy
+msgid "Rule type"
+msgstr "Tipo de correo"
+
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:178
+#, fuzzy
+msgid ""
+"Choose how to apply the discount. The discount can either be a percentage or "
+"a fixed amount"
+msgstr ""
+"Elige cómo aplicar el descuento. El descuento puede ser una cantidad fija o "
+"porcentual."
+
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:191
+#, fuzzy
+msgid ""
+"Set a % max discount based on the global max discount\n"
+"((for example: with a global max discount of $50, if you set a max discount "
+"of 10% for this product, the user will get a max discount of $5))"
+msgstr ""
+"(Ejemplo: con un descuento global máximo de 50€ si establecer un descuento "
+"máximo del 10% para este producto, el usuario obtendrá un descuento máximo "
+"de 5€ por este producto)."
+
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:196
+#, fuzzy
+msgid ""
+"Set a fixed max discount value\n"
+"(for example: a max discount of $5 for this product)"
+msgstr "(Ejemplo: máx. de 5€ de descuento para este producto)."
+
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:203
+#, fuzzy
+msgid "Max discount type"
+msgstr "Máximo valor de descuento"
+
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:215
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:227
+msgid "Max discount value"
+msgstr "Máximo valor de descuento"
+
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:247
+#, fuzzy
+msgid "Apply rule to these products"
+msgstr "Excluir productos en descuento"
+
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:248
+msgid ""
+"Choose if you want to set a max discount when the user purchases all "
+"products or only specific products or products of specific categories"
+msgstr ""
+
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:253
+#, fuzzy
+msgid "Choose for which products to apply this rule"
+msgstr "Escoge a qué usuarios aplicar esta acción"
+
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:270
+#, fuzzy
+msgid "Choose for which categories to apply this rule"
+msgstr "Escoge a qué usuarios aplicar esta acción"
+
+#: plugin-options/metaboxes/points-redeeming-rules-options.php:287
+#, fuzzy
+msgid "Choose for which tags to apply this rule"
+msgstr "Escoge a qué usuarios aplicar esta acción"
+
+#: plugin-options/points-options.php:18
+#, fuzzy
+msgid "Points Assignment"
+msgstr "Asignaciones de puntos"
+
+#: plugin-options/points-options.php:19
+#, fuzzy
+msgid "Set how to assign and remove points to your customers."
+msgstr "Activa Asignar puntos en el cumpleaños del cliente"
+
+#: plugin-options/points-options.php:25
+#, fuzzy
+msgid "Points Rules"
+msgstr "Redondeo de puntos"
+
+#: plugin-options/points-options.php:28
+#, fuzzy
+msgid "Extra Points"
+msgstr "Puntos extra"
+
+#: plugin-options/points-options.php:29
+#, fuzzy
+msgid ""
+"Choose whether or not to award extra points to your customers when specific "
+"conditions are met."
+msgstr ""
+"Elige si recompensar a los usuarios con puntos automáticamente o manualmente"
+
+#: plugin-options/points-options.php:35
+msgid "Levels & Badges"
+msgstr ""
+
+#: plugin-options/points-options.php:38
+#, fuzzy
+msgid "Banners"
+msgstr "bloqueado"
+
+#: plugin-options/points-options.php:41
+msgid "Ranking"
+msgstr ""
+
+#: plugin-options/points-options.php:42
+#, fuzzy
+msgid ""
+"Configure the customers' ranking according to the points they have collected"
+msgstr "Activa Asignar puntos al usuario en base a los puntos que ha obtenido"
+
+#: plugin-options/points/extra-options.php:14
+#, fuzzy
+msgid "My Account page"
+msgstr "Página Mi cuenta"
+
+#: plugin-options/points/extra-options.php:15
+#, fuzzy
+msgid "Registration form"
+msgstr "Formulario de registro"
+
+#: plugin-options/points/extra-options.php:16
+#, fuzzy
+msgid "Checkout page"
+msgstr "Página de Proceso de pago"
+
+#: plugin-options/points/extra-options.php:24
+msgid "Extra points for user registration"
+msgstr "Puntos extra por registro del cliente"
+
+#: plugin-options/points/extra-options.php:30
+msgid "Assign points when a user registers"
+msgstr "Asignar puntos cuando un usuario se registra"
+
+#: plugin-options/points/extra-options.php:39
+#, fuzzy
+msgid "Set how many points to assign to new users"
+msgstr "Establece cuántos puntos asignar a los nuevos usuarios"
+
+#: plugin-options/points/extra-options.php:58
+#, fuzzy
+msgid "Extra points for the first daily login"
+msgstr "Puntos extra por registro del cliente"
+
+#: plugin-options/points/extra-options.php:64
+#, fuzzy
+msgid "Assign points each first time the user logs in daily"
+msgstr "Asignar puntos cuando un usuario se registra"
+
+#: plugin-options/points/extra-options.php:73
+#: plugin-options/points/extra-options.php:105
+#: plugin-options/points/extra-options.php:137
+#: plugin-options/points/extra-options.php:178
+#, fuzzy
+msgid "Set how many points to assign"
+msgstr "Establece cuántos puntos asignar a los nuevos usuarios"
+
+#: plugin-options/points/extra-options.php:90
+#, fuzzy
+msgid "Extra points for completed profile"
+msgstr "Puntos extra por pedidos"
+
+#: plugin-options/points/extra-options.php:96
+#, fuzzy
+msgid "Assign points when the user completes all fields in the user profile"
+msgstr "Asignar puntos cuando un usuario se registra"
+
+#: plugin-options/points/extra-options.php:122
+#, fuzzy
+msgid "Extra points for referrals"
+msgstr "Puntos extra por pedidos"
+
+#: plugin-options/points/extra-options.php:128
+msgid "Referral link signup"
+msgstr ""
+
+#: plugin-options/points/extra-options.php:148
+#: plugin-options/points/extra-options.php:189
+msgid "Revoke referral points if referred user account is deleted or banned"
+msgstr ""
+
+#: plugin-options/points/extra-options.php:149
+#: plugin-options/points/extra-options.php:190
+#, fuzzy
+msgid ""
+"Enable to automatically revoke referral points if the referred user account "
+"is deleted or banned"
+msgstr ""
+"Activa aplicar puntos automáticamente en la página de carrito/proceso de pago"
+
+#: plugin-options/points/extra-options.php:163
+#, fuzzy
+msgid "Extra points for referral purchase"
+msgstr "Puntos extra por pedidos"
+
+#: plugin-options/points/extra-options.php:169
+#, fuzzy
+msgid "Assign points when a user purchases through the user's referral link"
+msgstr "Asignar puntos cuando un usuario se registra"
+
+#: plugin-options/points/extra-options.php:204
+#, fuzzy
+msgid "Extra points for user that collected the most points"
+msgstr "Puntos extra por registro del cliente"
+
+#: plugin-options/points/extra-options.php:210
+#, fuzzy
+msgid "Assign points to the user that collected the most points"
+msgstr "Asignar puntos a los usuarios que dejan una valoración de producto"
+
+#: plugin-options/points/extra-options.php:219
+#, fuzzy
+msgid ""
+"Set how many points to assign to the user that collected the most points"
+msgstr "Asignar puntos a los usuarios que dejan una valoración de producto"
+
+#: plugin-options/points/extra-options.php:230
+#, fuzzy
+msgid "Check and assign points on:"
+msgstr "No asignar puntos"
+
+#: plugin-options/points/extra-options.php:231
+msgid "Set when to check points of all users and assign these extra points"
+msgstr ""
+
+#: plugin-options/points/extra-options.php:251
+#, fuzzy
+msgid "Extra points for users that achieve specific levels"
+msgstr "Puntos extra por registro del cliente"
+
+#: plugin-options/points/extra-options.php:257
+#, fuzzy
+msgid "Assign points to the users that achieve levels"
+msgstr "Asignar puntos a los usuarios que dejan una valoración de producto"
+
+#: plugin-options/points/extra-options.php:266
+#, fuzzy
+msgid ""
+"Set how many points to assign to users when they achieve a specific level"
+msgstr ""
+"Establece cuántos puntos serán asignados por cada pedido en base a la moneda"
+
+#: plugin-options/points/extra-options.php:290
+msgid "Enable points incentive on total collected points"
+msgstr "Activa incentivos de puntos en el total de puntos obtenidos"
+
+#: plugin-options/points/extra-options.php:296
+msgid "Assign extra points based on the total number of points collected"
+msgstr "Asignar puntos extra en base al número de puntos obtenidos"
+
+#: plugin-options/points/extra-options.php:305
+#, fuzzy
+msgid "Set how many points to assign based on the total points collected"
+msgstr "Establece cuántos puntos asignar en base al total de puntos obtenidos"
+
+#: plugin-options/points/extra-options.php:308
+msgid "points ="
+msgstr "punto(s) ="
+
+#: plugin-options/points/extra-options.php:329
+msgid "Extra points for users' birthday"
+msgstr "Puntos extra por el cumpleaños del cliente"
+
+#: plugin-options/points/extra-options.php:335
+msgid "Assign extra points on customer's birthday"
+msgstr "Asignar puntos extra en el cumpleaños del cliente"
+
+#: plugin-options/points/extra-options.php:344
+msgid "Set how many points to assign to users on their birthday"
+msgstr ""
+"Establece cuántos puntos serán asignados por cada pedido en base a la moneda"
+
+#: plugin-options/points/extra-options.php:355
+msgid "Show birthday input field in"
+msgstr "Mostrar campo de entrada de fecha de cumpleaños"
+
+#: plugin-options/points/extra-options.php:356
+#, fuzzy
+msgid "Choose where to show the Birth Date field"
+msgstr "Selecciona donde quieres mostrar el campo de fecha de cumpleaños."
+
+#: plugin-options/points/extra-options.php:366
+msgid "Birthday input date format"
+msgstr "Entrada de formato de fecha de cumpleaños"
+
+#: plugin-options/points/extra-options.php:367
+#, fuzzy
+msgid "Choose the format to use for the Birth Date field"
+msgstr "Selecciona el formato a usar para el campo de Cumpleaños."
+
+#: plugin-options/points/extra-options.php:383
+#, fuzzy
+msgid "Extra points for reviews"
+msgstr "Puntos extra por valoración"
+
+#: plugin-options/points/extra-options.php:389
+msgid "Assign points to users that leave a product review"
+msgstr "Asignar puntos a los usuarios que dejan una valoración de producto"
+
+#: plugin-options/points/extra-options.php:398
+#, fuzzy
+msgid ""
+"Set how many points to assign for reviews. Check \"repeat\" to repeat the "
+"rules, for example: if you set 5 reviews = 10 points and you check "
+"\"repeat\", then 10 reviews = 20 points, and so on"
+msgstr ""
+"Establece cuántos puntos asignar por las valoraciones. Marca ''repetir'' "
+"para repetir las reglas: si estableces 5 valoraciones = 10 puntos y marcas "
+"'repetir', 10 valoraciones serán 20 puntos y así sucesivamente."
+
+#: plugin-options/points/extra-options.php:401
+#, fuzzy
+msgctxt "Part of an option where for each renew are assigned some points"
+msgid "review(s) is equivalent to"
+msgstr "Valoración(es) es equivalente a"
+
+#: plugin-options/points/extra-options.php:423
+msgid "Extra points for orders"
+msgstr "Puntos extra por pedidos"
+
+#: plugin-options/points/extra-options.php:429
+msgid "Assign points based on orders placed"
+msgstr "Asignar puntos en base al número de pedidos realizados"
+
+#: plugin-options/points/extra-options.php:438
+msgid "Set how many points to assign per order placed"
+msgstr ""
+"Decide cuantos puntos serán asignados para cada pedido basado en la moneda"
+
+#: plugin-options/points/extra-options.php:441
+msgid "order(s) ="
+msgstr "pedido(s) ="
+
+#: plugin-options/points/extra-options.php:462
+#, fuzzy
+msgid "Extra points for cart total"
+msgstr "Puntos extra por total del carrito"
+
+#: plugin-options/points/extra-options.php:468
+msgid "Assign points based on the cart total"
+msgstr "Asignar puntos en base al total del carrito"
+
+#: plugin-options/points/extra-options.php:477
+msgid "Set how many points to assign based on cart total"
+msgstr "Establece cuántos puntos asignar en base al total del carrito"
+
+#: plugin-options/points/extra-options.php:494
+msgid "Based on cart total, allow user to achieve multiple thresholds"
+msgstr ""
+"En base al total del carrito, permite al usuario alcanzar múltiples límites "
+"mínimos"
+
+#: plugin-options/points/extra-options.php:495
+#, fuzzy
+msgid ""
+"If you created multiple points based rules on cart total, choose whether to "
+"apply all rules or just the highest value rule"
+msgstr ""
+"Si has creado múltiples reglas de puntos en base al total del carrito, elige "
+"si aplicar todas las reglas o solo la regla con el valor más alto."
+
+#: plugin-options/points/extra-options.php:500
+msgid "Apply all rules and sum up the points"
+msgstr "Aplicar todas las reglas y sumar los puntos"
+
+#: plugin-options/points/extra-options.php:501
+msgid "Apply only the rule with the highest number of points in cart"
+msgstr "Aplicar solo la regla con el número más alto de puntos en el carrito"
+
+#: plugin-options/points/extra-options.php:507
+#, fuzzy
+msgid "Show threshold message in Cart and Checkout"
+msgstr "Mostrar mensaje de límite mínimo en el carrito y en el proceso de pago"
+
+#: plugin-options/points/extra-options.php:508
+#, fuzzy
+msgid ""
+"Enable to show messages about thresholds achieved on Cart and Checkout pages"
+msgstr ""
+"Activa Mostrar mensajes sobre límites mínimos alcanzados en las páginas del "
+"Carrito y Proceso de pago"
+
+#: plugin-options/points/extra-options.php:515
+msgid "Title of threshold message"
+msgstr ""
+
+#: plugin-options/points/extra-options.php:516
+#, fuzzy
+msgid "Set the text to show as title of threshold message"
+msgstr "Introduce el texto a mostrar en la página de Proceso de pago"
+
+#: plugin-options/points/extra-options.php:519
+#, fuzzy
+msgid "Get points based on your order amount!"
+msgstr "Asignar puntos basado en el subtotal del pedido."
+
+#: plugin-options/points/extra-options.php:539
+msgid "Assign points based on the total amount spent"
+msgstr "Asignar puntos basado en la cantidad total gastada "
+
+#: plugin-options/points/extra-options.php:548
+#, fuzzy
+msgid "Set how many points to assign for each amount spent"
+msgstr "Establece cuántos puntos asignar a los nuevos usuarios"
+
+#: plugin-options/points/ranking-options.php:17
+#, fuzzy
+msgid "Customers' ranking"
+msgstr "Puntos del cliente"
+
+#: plugin-options/points/ranking-options.php:21
+#, fuzzy
+msgid "Enable customer ranking"
+msgstr "Activar la integración"
+
+#: plugin-options/points/ranking-options.php:22
+#, fuzzy
+msgid "Enable the customers' ranking by points"
+msgstr "Activa Asignar puntos en el cumpleaños del cliente"
+
+#: plugin-options/points/ranking-options.php:36
+#: plugin-options/points/ranking-options.php:67
+#, fuzzy
+msgid "Show ranking in My Account"
+msgstr "Mostrar puntos en Mi Cuenta"
+
+#: plugin-options/points/ranking-options.php:37
+#: plugin-options/points/ranking-options.php:68
+#, fuzzy
+msgid "Enable to show the customers' ranking on their My Account page"
+msgstr "Activa mostrar el mensaje de puntos en la página de proceso de pago"
+
+#: plugin-options/points/ranking-options.php:58
+msgid "Ranking shortcodes"
+msgstr ""
+
+#: plugin-options/points/standard-options.php:19
+#, fuzzy
+msgid "Points assignments"
+msgstr "Asignaciones de puntos"
+
+#: plugin-options/points/standard-options.php:25
+#, fuzzy
+msgid "Assign points to users"
+msgstr "Asignar puntos al usuario"
+
+#: plugin-options/points/standard-options.php:26
+msgid "Choose whether to award points to users automatically or manually"
+msgstr ""
+"Elige si recompensar a los usuarios con puntos automáticamente o manualmente"
+
+#: plugin-options/points/standard-options.php:33
+msgid "Automatically - Points will be assigned automatically for each purchase"
+msgstr ""
+"Automáticamente - Los puntos serán asignados automáticamente por cada compra"
+
+#: plugin-options/points/standard-options.php:37
+msgid "Manually - You can assign points manually in 'Customer Points' tab"
+msgstr ""
+"Manualmente - Podrás asignar los puntos manualmente en la pestaña ''Puntos "
+"del cliente''"
+
+#: plugin-options/points/standard-options.php:47
+msgid "Assign points to"
+msgstr "Asignar puntos a"
+
+#: plugin-options/points/standard-options.php:48
+#, fuzzy
+msgid ""
+"Choose whether to assign points to all users or only to specified user roles"
+msgstr ""
+"Escoge si asignar puntos a todos los usuarios o solo a los roles de usuario "
+"especificados"
+
+#: plugin-options/points/standard-options.php:70
+#, fuzzy
+msgid "Assign points to roles"
+msgstr "Asignar puntos a"
+
+#: plugin-options/points/standard-options.php:71
+#, fuzzy
+msgid "Choose which user roles can collect points with their purchases"
+msgstr "Escoge qué roles de usuario pueden canjear puntos"
+
+#: plugin-options/points/standard-options.php:93
+#, fuzzy
+msgid "Default points assigned"
+msgstr "Establece cuántos puntos asignar a los nuevos usuarios"
+
+#: plugin-options/points/standard-options.php:95
+#, fuzzy
+msgid ""
+"Set how many points per product will be earned based on the product value. "
+"You can override this value for specific products or users using the points "
+"rules.%sPlease, note: points are awarded on a product basis and not on the "
+"cart total"
+msgstr ""
+"Establece cuántos puntos por producto se ganarán en base al valor del "
+"producto. Por favor, ten en cuenta: los puntos son recompensados en base al "
+"producto y no en el total del carrito"
+
+#: plugin-options/points/standard-options.php:116
+msgid "Calculate points considering:"
+msgstr ""
+
+#: plugin-options/points/standard-options.php:120
+#, fuzzy
+msgid ""
+"Choose whether to calculate points considering unit prices or product "
+"subtotal."
+msgstr ""
+"Elige como calcular el descuento cuando los clientes utilizan sus puntos "
+"disponibles"
+
+#: plugin-options/points/standard-options.php:123
+msgid ""
+"Example: a rule that gives 1 point for every €10 spent. If a customer adds "
+"10 products priced at €8 each to their cart:"
+msgstr ""
+
+#: plugin-options/points/standard-options.php:126
+msgid "Calculating points on the unit price won’t award any points."
+msgstr ""
+
+#: plugin-options/points/standard-options.php:129
+msgid "Calculating points on the subtotal will award 8 points."
+msgstr ""
+
+#: plugin-options/points/standard-options.php:138
+msgid "Unit price"
+msgstr ""
+
+#: plugin-options/points/standard-options.php:139
+#, fuzzy
+msgid "Product subtotal"
+msgstr "ID de producto"
+
+#: plugin-options/points/standard-options.php:148
+msgid "Calculate points considering product price with:"
+msgstr ""
+
+#: plugin-options/points/standard-options.php:152
+msgid ""
+"Choose whether to calculate points considering prices with taxes or without "
+"taxes"
+msgstr ""
+
+#: plugin-options/points/standard-options.php:160
+#: plugin-options/redeem/standard-options.php:130
+msgid "taxes included"
+msgstr ""
+
+#: plugin-options/points/standard-options.php:161
+#: plugin-options/redeem/standard-options.php:131
+msgid "taxes excluded"
+msgstr ""
+
+#: plugin-options/points/standard-options.php:172
+#, fuzzy
+msgid "Assign points to guests if the billing email is registered"
+msgstr ""
+"Asignar puntos a un usuario no registrado si su correo electrónico de "
+"facturación está registrado"
+
+#: plugin-options/points/standard-options.php:176
+#, fuzzy
+msgid ""
+"Enable to assign points to guest users if the billing email matches a "
+"registered user account"
+msgstr ""
+"Activa asignar puntos a usuarios no registrados si el correo electrónico de "
+"facturación coincide con un usuario registrado."
+
+#: plugin-options/points/standard-options.php:191
+#, fuzzy
+msgid ""
+"Assign points to newly registered users if the billing email is registered"
+msgstr ""
+"Asignar puntos a un nuevo usuario registrado si su correo electrónico de "
+"facturación está registrado"
+
+#: plugin-options/points/standard-options.php:195
+#, fuzzy
+msgid ""
+"Enable to assign points to newly registered users if they used the same "
+"billing email address for previous orders"
+msgstr ""
+"Activa asignar puntos a un nuevo usuario registrado si usan la misma "
+"dirección de correo electrónico de facturación de pedidos anteriores."
+
+#: plugin-options/points/standard-options.php:210
+#, fuzzy
+msgid "Assign points when the order has status"
+msgstr "Asignar puntos basado en el subtotal del pedido."
+
+#: plugin-options/points/standard-options.php:214
+#, fuzzy
+msgid "Choose based on which order status to assign points to users"
+msgstr "Escoge asignar puntos a los usuarios según el estado del pedido."
+
+#: plugin-options/points/standard-options.php:244
+msgid "Points removal and exclusion"
+msgstr ""
+
+#: plugin-options/points/standard-options.php:256
+#, fuzzy
+msgid "Exclude on-sale products from points collection"
+msgstr "(Excluir este producto de la obtención de puntos)"
+
+#: plugin-options/points/standard-options.php:260
+msgid "If enabled, sale products will not assign points to your users"
+msgstr ""
+"Si está activado, los productos en descuento no asignarán puntos a tus "
+"usuarios"
+
+#: plugin-options/points/standard-options.php:275
+#, fuzzy
+msgid "Remove earned points if order is cancelled"
+msgstr ""
+"Activa si quieres eliminar los puntos ganados cuando un pedido es cancelado"
+
+#: plugin-options/points/standard-options.php:279
+msgid "Enable if you want to remove earned points when an order is cancelled"
+msgstr ""
+"Activa si quieres eliminar los puntos ganados cuando un pedido es cancelado"
+
+#: plugin-options/points/standard-options.php:294
+msgid "Reassign points when an order is refunded"
+msgstr "Reasignar puntos cuando un pedido es reembolsado"
+
+#: plugin-options/points/standard-options.php:298
+#, fuzzy
+msgid ""
+"Enable if you want to reassign all the redeemed points to a customer when an "
+"order is refunded"
+msgstr ""
+"Activa si quieres reasignar los puntos canjeados al cliente cuando un pedido "
+"es reembolsado."
+
+#: plugin-options/points/standard-options.php:313
+#, fuzzy
+msgid "Remove earned points if order is refunded"
+msgstr "Reasignar puntos cuando un pedido es reembolsado"
+
+#: plugin-options/points/standard-options.php:317
+msgid ""
+"Enable to remove points when applying a total or partial refund of the order"
+msgstr ""
+"Activa la eliminación de puntos al aplicar un reembolso parcial o total del "
+"pedido"
+
+#: plugin-options/points/standard-options.php:332
+#, fuzzy
+msgid "Do not assign points to the full order amount if a coupon is used"
+msgstr ""
+"Activa no asignar puntos cuando un usuario realiza un pedido usando un cupón "
+"de descuento."
+
+#: plugin-options/points/standard-options.php:336
+msgid ""
+"Enable this option if you do not want users to earn points on a full order "
+"amount if they use a coupon. Instead, they will only earn points on the "
+"amount minus the coupon discount. For example, the order total is $30 minus "
+"a $10 coupon discount, so the user earns points only on a $20 order value"
+msgstr ""
+
+#: plugin-options/points/standard-options.php:351
+msgid "Do not assign points to orders in which the user is redeeming points"
+msgstr ""
+"No asignar puntos a pedidos en los que el usuario está canjeando puntos"
+
+#: plugin-options/points/standard-options.php:355
+msgid "Enable to not assign points to orders in which the user redeems points"
+msgstr ""
+"Activa no asignar puntos en pedidos en los que el usuario canjea puntos"
+
+#: plugin-options/points/standard-options.php:377
+#, fuzzy
+msgid "Other options"
+msgstr "Opciones de puntos"
+
+#: plugin-options/points/standard-options.php:383
+msgid "Allow shop manager to manage this plugin"
+msgstr "Permitir al gerente de tienda gestionar este plugin"
+
+#: plugin-options/points/standard-options.php:387
+#, fuzzy
+msgid ""
+"Enable to allow your shop manager to access and manage the plugin settings"
+msgstr ""
+"Activa permitir a tu gerente de tienda acceder y gestionar los ajustes del "
+"plugin."
+
+#: plugin-options/points/standard-options.php:398
+#, fuzzy
+msgid "Points rounding"
+msgstr "Canjeo de puntos"
+
+#: plugin-options/points/standard-options.php:399
+#, fuzzy
+msgid ""
+"Select how to round the points. For example, if points are 1.5 and Round Up "
+"is selected, points will be 2. If Round Down is selected, points will be 1"
+msgstr ""
+"Selecciona como redondear los puntos, Por ejemplo, si los puntos están en "
+"1.5 y el redondeo hacia arriba está seleccionado, los puntos serán 2. si se "
+"selecciona redondeo hacia abajo, será 1 punto."
+
+#: plugin-options/points/standard-options.php:407
+msgid "Round Up"
+msgstr "Redondear hacia arriba"
+
+#: plugin-options/points/standard-options.php:408
+msgid "Round Down"
+msgstr "Redondear hacia abajo"
+
+#: plugin-options/points/standard-options.php:418
+#, fuzzy
+msgid "Set an expiration time for points"
+msgstr "Establece un número fijo de puntos"
+
+#: plugin-options/points/standard-options.php:419
+msgid ""
+"Enable if you want to set an expiration time on points assigned to users"
+msgstr ""
+"Activa si quieres establecer una fecha de caducidad para los puntos "
+"asignados a los usuarios"
+
+#: plugin-options/points/standard-options.php:434
+msgid "Points will expire after"
+msgstr "Los puntos caducarán tras"
+
+#: plugin-options/points/standard-options.php:435
+msgid "Set a default expiration on points earned in your shop"
+msgstr ""
+"Establece la caducidad predeterminada para los puntos obtenidos en tu tienda"
+
+#: plugin-options/redeem-options.php:18
+#, fuzzy
+msgid "Points Redeeming Options"
+msgstr "Canjeo de puntos"
+
+#: plugin-options/redeem-options.php:19
+#, fuzzy
+msgid "Set how to handle the redemption of points collected by customers"
+msgstr "Activa Asignar puntos en el cumpleaños del cliente"
+
+#: plugin-options/redeem-options.php:22
+#, fuzzy
+msgid "Points Redeeming Rules"
+msgstr "Canjeo de puntos"
+
+#: plugin-options/redeem/standard-options.php:16
+msgid "Points redeeming"
+msgstr "Canjeo de puntos"
+
+#: plugin-options/redeem/standard-options.php:22
+#, fuzzy
+msgid "Allow users to redeem points"
+msgstr "Permitir a los usuarios canjear puntos"
+
+#: plugin-options/redeem/standard-options.php:23
+#, fuzzy
+msgid ""
+"Choose if users can redeem points automatically or if you want to manage "
+"points redeeming manually."
+msgstr ""
+"Escoge si un usuario puede canjear puntos automáticamente o si tu quieres "
+"gestionar el canjeo de puntos manualmente."
+
+#: plugin-options/redeem/standard-options.php:31
+msgid "User that can redeem points"
+msgstr "Usuario que puede canjear puntos"
+
+#: plugin-options/redeem/standard-options.php:32
+#, fuzzy
+msgid "Choose if all users can redeem points or only specific user roles."
+msgstr ""
+"Escoge si todos los usuarios pueden canjear puntos o solo algunos roles "
+"específicos pueden hacerlo"
+
+#: plugin-options/redeem/standard-options.php:40
+msgid "All"
+msgstr "Todos"
+
+#: plugin-options/redeem/standard-options.php:52
+#, fuzzy
+msgid "User roles"
+msgstr "Roles de usuario especificados"
+
+#: plugin-options/redeem/standard-options.php:53
+msgid "Choose which user roles can redeem points"
+msgstr "Escoge qué roles de usuario pueden canjear puntos"
+
+#: plugin-options/redeem/standard-options.php:70
+#, fuzzy
+msgid "Reward conversion method"
+msgstr "Método de conversión de recompensa"
+
+#: plugin-options/redeem/standard-options.php:71
+#, fuzzy
+msgid ""
+"Choose how to apply the discount. The discount can either be a percent or a "
+"fixed amount"
+msgstr ""
+"Elige cómo aplicar el descuento. El descuento puede ser una cantidad fija o "
+"porcentual."
+
+#: plugin-options/redeem/standard-options.php:76
+msgid "Fixed Price Discount"
+msgstr "Descuento de precio fijo"
+
+#: plugin-options/redeem/standard-options.php:77
+msgid "Percentage Discount"
+msgstr "Porcentaje de descuento"
+
+#: plugin-options/redeem/standard-options.php:124
+#, fuzzy
+msgid "When redeeming, calculate the discount on the product price with:"
+msgstr "Establece el descuento máximo que puede ser aplicado a este producto."
+
+#: plugin-options/redeem/standard-options.php:125
+#, fuzzy
+msgid ""
+"Choose whether to calculate the redeeming discount on prices with or without "
+"taxes."
+msgstr ""
+"Elige como calcular el descuento cuando los clientes utilizan sus puntos "
+"disponibles"
+
+#: plugin-options/redeem/standard-options.php:141
+#, fuzzy
+msgid "Exclude on-sale products from the discount amount calculation"
+msgstr "(Excluir este producto de la obtención de puntos)"
+
+#: plugin-options/redeem/standard-options.php:142
+#, fuzzy
+msgid "If enabled, sale products will not be used to redeem points"
+msgstr ""
+"Si está activado, los productos en descuento no asignarán puntos a tus "
+"usuarios"
+
+#: plugin-options/redeem/standard-options.php:154
+#, fuzzy
+msgid "Automatically redeem points on Cart and Checkout pages"
+msgstr "Canjear puntos automáticamente en la página de Carrito/Proceso de pago"
+
+#: plugin-options/redeem/standard-options.php:155
+#, fuzzy
+msgid "Enable to automatically apply points on the Cart and Checkout pages."
+msgstr ""
+"Activa aplicar puntos automáticamente en la página de carrito/proceso de pago"
+
+#: plugin-options/redeem/standard-options.php:168
+msgid "Redeem box style"
+msgstr "Estilo de casilla Canjear"
+
+#: plugin-options/redeem/standard-options.php:169
+msgid "Choose the style for the redeem points section"
+msgstr "Escoge el estilo para la sección de Canjear puntos"
+
+#: plugin-options/redeem/standard-options.php:173
+msgid "Default"
+msgstr "Predeterminado"
+
+#: plugin-options/redeem/standard-options.php:174
+msgid "Custom"
+msgstr "Personalizado"
+
+#: plugin-options/redeem/standard-options.php:186
+msgid "Redeem message in Cart and Checkout"
+msgstr "Mensaje de Canjear en el Carrito y en el Proceso de pago"
+
+#: plugin-options/redeem/standard-options.php:187
+#, fuzzy
+msgctxt "do not translate the text inside the brackets"
+msgid ""
+"Enter the redeeming message to show on the Cart and Checkout pages. <br /"
+">You can use these placeholders:<br />{points} number of points earned;"
+"<br>{points_label} for points;<br>{max_discount} maximum discount value"
+msgstr ""
+" Introduce el mensaje de Canjear a mostrar en la página del carrito y "
+"proceso de pago. <br />Puedes usar estos marcadores de posición:<br /"
+">{points} número de puntos ganados;<br>{points_label} de puntos;"
+"<br>{max_discount} valor de descuento máximo"
+
+#: plugin-options/redeem/standard-options.php:190
+msgctxt "do not translate the text inside the brackets"
+msgid ""
+"Use <strong>{points}</strong> {points_label} for a <strong>{max_discount}</"
+"strong> discount on this order!"
+msgstr ""
+"¡Utiliza <strong>{points}</strong> {points_label} para "
+"un<strong>{max_discount}</strong> descuento en este pedido!"
+
+#: plugin-options/redeem/standard-options.php:200
+#, fuzzy
+msgid "Offer free shipping when users redeem points"
+msgstr "Ofrecer envío gratuito cuando el usuario canjea"
+
+#: plugin-options/redeem/standard-options.php:201
+#, fuzzy
+msgid ""
+"Enable to offer free shipping to users that redeem their points. A free "
+"shipping method must be enabled and set up in your shipping zones to "
+"generate “a valid free shipping coupon”"
+msgstr ""
+"Activa ofrecer envío gratuito a los usuarios que canjean puntos. Un método "
+"de envío gratuito debe activarse y configurarse en tus zonas de envío para "
+"generar un ''cupón válido por un envío gratuito''."
+
+#: plugin-options/redeem/standard-options.php:213
+msgid "Coupons allowed"
+msgstr "Cupones permitidos"
+
+#: plugin-options/redeem/standard-options.php:214
+#, fuzzy
+msgid ""
+"Select if you want to allow the use of point-redemption coupons, WooCommerce "
+"coupons or both"
+msgstr ""
+"Selecciona si quieres permitir el uso de cupones de canjeo de puntos, los "
+"cupones de WooCommerce o ambos."
+
+#: plugin-options/redeem/standard-options.php:218
+msgid "Use only WooCommerce coupons"
+msgstr "Usar solo cupones de WooCommerce"
+
+#: plugin-options/redeem/standard-options.php:219
+#, fuzzy
+msgid "Use only points-redemption coupons"
+msgstr "Usar solo el cupón de canjeo de puntos"
+
+#: plugin-options/redeem/standard-options.php:220
+msgid "Use both coupons"
+msgstr "Usar ambos cupones"
+
+#: plugin-options/redeem/standard-options.php:237
+msgid "Redeeming restrictions"
+msgstr "Restricciones de canjeo"
+
+#: plugin-options/redeem/standard-options.php:243
+msgid "Apply redeeming restrictions"
+msgstr "Aplicar restricciones de canjeo"
+
+#: plugin-options/redeem/standard-options.php:244
+#, fuzzy
+msgid "Enable to set up redeeming restrictions for your users"
+msgstr "Activa para configurar las restricciones de canjeo para tus usuarios."
+
+#: plugin-options/redeem/standard-options.php:257
+#, fuzzy
+msgid "Minimum discount users can get"
+msgstr "Descuento máximo que los usuarios pueden obtener"
+
+#: plugin-options/redeem/standard-options.php:258
+#, fuzzy
+msgid ""
+"( in %) Set minimum discount percentage allowed in cart when redeeming points"
+msgstr ""
+"( en %) Establece el descuento máximo porcentual permitido en el carrito al "
+"canjear puntos."
+
+#: plugin-options/redeem/standard-options.php:271
+#: plugin-options/redeem/standard-options.php:285
+msgid "Maximum discount users can get"
+msgstr "Descuento máximo que los usuarios pueden obtener"
+
+#: plugin-options/redeem/standard-options.php:272
+#, fuzzy
+msgid ""
+"( in %) Set maximum discount percentage allowed in cart when redeeming points"
+msgstr ""
+"( en %) Establece el descuento máximo porcentual permitido en el carrito al "
+"canjear puntos."
+
+#: plugin-options/redeem/standard-options.php:286
+#, fuzzy
+msgid ""
+"Set the maximum discount amount that your users can get when they redeem "
+"their points"
+msgstr ""
+"Establece la cantidad de descuento máximo que pueden obtener cuando canjean "
+"sus puntos."
+
+#: plugin-options/redeem/standard-options.php:297
+msgid "Minimum cart amount to redeem points"
+msgstr "Cantidad mínima del carrito para canjear puntos"
+
+#: plugin-options/redeem/standard-options.php:298
+#, fuzzy
+msgid "Set the minimum cart amount required to redeem points"
+msgstr ""
+"Establece la cantidad mínima del carrito necesaria para canjear puntos."
+
+#: plugin-options/redeem/standard-options.php:312
+msgid "Minimum discount required to redeem"
+msgstr "Descuento mínimo necesario para canjear"
+
+#: plugin-options/redeem/standard-options.php:313
+#, fuzzy
+msgid "Set the minimum discount to redeem points"
+msgstr "Establece el descuento mínimo para canjear puntos."
+
+#: plugin-options/redeem/standard-options.php:325
+msgid "Maximum discount for a single product"
+msgstr "Descuento máximo por producto individual"
+
+#: plugin-options/redeem/standard-options.php:326
+#, fuzzy
+msgid "Set the maximum discount that can be applied per product"
+msgstr "Establece el descuento máximo que puede ser aplicado a este producto."
+
+#: plugin-options/redeem/standard-options.php:343
+#, fuzzy
+msgid "Points sharing"
+msgstr "Canjeo de puntos"
+
+#: plugin-options/redeem/standard-options.php:349
+#, fuzzy
+msgid "Allow users to convert points into a coupon to share"
+msgstr ""
+"Introduce la etiqueta para identificar la sección de puntos en la página Mi "
+"Cuenta"
+
+#: plugin-options/redeem/standard-options.php:350
+#, fuzzy
+msgid ""
+"Enable to allow customers to convert their points into a coupon code on the "
+"My Account page"
+msgstr ""
+"Introduce la etiqueta para identificar la sección de puntos en la página Mi "
+"Cuenta"
+
+#: plugin-options/redeem/standard-options.php:358
+msgid "Apply limits to points coupons"
+msgstr ""
+
+#: plugin-options/redeem/standard-options.php:359
+#, fuzzy
+msgid ""
+"Enable to set a minimum or maximum of points that can be converted into a "
+"coupon code"
+msgstr "Cantidad fija de puntos por cada pedido"
+
+#: plugin-options/redeem/standard-options.php:372
+#, fuzzy
+msgid "Minimum amount of points that can be converted"
+msgstr "Cantidad fija de puntos por cada pedido"
+
+#: plugin-options/redeem/standard-options.php:373
+msgid ""
+"Set the minimum number of points that the user can convert into a coupon code"
+msgstr ""
+
+#: plugin-options/redeem/standard-options.php:389
+#, fuzzy
+msgid "Maximum amount of points that can be converted"
+msgstr "Cantidad fija de puntos por cada pedido"
+
+#: plugin-options/redeem/standard-options.php:390
+msgid ""
+"Set the maximum number of points that the user can convert into a coupon code"
+msgstr ""
+
+#: plugin-options/redeem/standard-options.php:406
+#, fuzzy
+msgid "Set the expiration for points coupon codes"
+msgstr ""
+"Establece la caducidad predeterminada para los puntos obtenidos en tu tienda"
+
+#: plugin-options/redeem/standard-options.php:407
+#, fuzzy
+msgid "Enable to set an expiry date for points coupon codes to be used"
+msgstr ""
+"Activa si quieres establecer una fecha de caducidad para los puntos "
+"asignados a los usuarios"
+
+#: plugin-options/redeem/standard-options.php:420
+#, fuzzy
+msgid "Points coupon will expire after"
+msgstr "Los puntos caducarán tras"
+
+#: plugin-options/redeem/standard-options.php:421
+msgid "Set after how many days a points coupon code will expire"
+msgstr ""
+
+#: plugin-options/redeem/standard-options.php:430
+msgid "days"
+msgstr ""
+
+#: templates/emails/latest-updates.php:52 views/tabs/bulk-actions.php:16
+#: views/tabs/customers/bulk-actions/modal/content.php:8
+msgid "Action"
+msgstr "Acción"
+
+#: templates/myaccount/my-points-view.php:15
+msgid "You must to be logged in to view your points."
+msgstr "Debes haber iniciado sesión pare ver tus puntos"
+
+#: templates/myaccount/my-points-view.php:24
+msgid "You are not allowed to see this page."
+msgstr ""
+
+#. translators:Placeholder: label of points.
+#: templates/myaccount/my-points-view.php:60
+msgctxt "Placeholder: label of points;"
+msgid "My %s"
+msgstr "Mis %s"
+
+#: templates/myaccount/my-points-view.php:66
+#, fuzzy
+msgctxt "sub title inside my account recap points badge"
+msgid "to redeem"
+msgstr "Canjeo de puntos"
+
+#: templates/myaccount/my-points-view.php:70
+#, fuzzy
+msgctxt "label to show the worth amount"
+msgid "worth"
+msgstr "valor"
+
+#: templates/myaccount/my-points-view.php:73
+#, fuzzy
+msgctxt "sub title inside my account recap points badge"
+msgid "total collected:"
+msgstr "Puntos obtenidos:"
+
+#: templates/myaccount/my-points-view.php:78
+msgctxt "My account banner title"
+msgid "My level"
+msgstr ""
+
+#: templates/myaccount/my-points-view.php:85
+msgctxt "My account banner title"
+msgid "My rank"
+msgstr ""
+
+#. translators:Placeholder: label of points.
+#: templates/myaccount/my-points-view.php:135
+#, fuzzy
+msgctxt "Placeholder: label of points;"
+msgid "%s history"
+msgstr "Mi historial de %s"
+
+#: templates/myaccount/my-points-view.php:144
+#, fuzzy
+msgid "Targets to achieve"
+msgstr "Objetivo alcanzado - Cumpleaños"
+
+#. translators:Placeholder: label of points.
+#: templates/myaccount/my-points-view.php:155
+#, fuzzy
+msgctxt "Placeholder: label of points;"
+msgid "Get %s!"
+msgstr "Restablecer puntos"
+
+#. translators:Placeholder: label of points.
+#: templates/myaccount/my-points-view.php:168
+#, fuzzy
+msgctxt "Placeholder: label of points;"
+msgid "Manage %s"
+msgstr "Puntos estándar"
+
+#: templates/myaccount/ywpar-banner-get-points-review.php:36
+#, fuzzy
+msgid "product"
+msgid_plural "products"
+msgstr[0] "ID de producto"
+msgstr[1] "ID de producto"
+
+#: templates/myaccount/ywpar-banner-get-points-review.php:74
+msgid "Purchased on "
+msgstr ""
+
+#: templates/myaccount/ywpar-banner-get-points-review.php:76
+msgctxt "link to leave a review inside the review banner on My Account page"
+msgid "Leave a review >"
+msgstr ""
+
+#. translators:Placeholder: label of points.
+#: templates/myaccount/ywpar-share-points.php:22
+#, fuzzy
+msgctxt "Placeholder: label of points;"
+msgid "Convert %s into a coupon code"
+msgstr "Exportar puntos a un archivo CSV"
+
+#. translators:Placeholder: label of points.
+#: templates/myaccount/ywpar-share-points.php:25
+msgctxt "Placeholder: label of points;"
+msgid ""
+"Do you want to share your %s? Create a coupon code and share it so it can be "
+"used"
+msgstr ""
+
+#. translators:Placeholder: label of points.
+#: templates/myaccount/ywpar-share-points.php:43
+msgctxt "Placeholder: label of points;"
+msgid "At the moment you don't have enough %s to convert"
+msgstr ""
+
+#. translators:Placeholder is the minimum amount of points that can be used. Error message on My account share points tab.
+#: templates/myaccount/ywpar-share-points.php:48
+#: templates/myaccount/ywpar-share-points.php:86
+msgctxt ""
+"Placeholder is the minimum amount of points that can be used. Error message "
+"on My account share points tab"
+msgid "You need to convert a minimum of %s"
+msgstr ""
+
+#: templates/myaccount/ywpar-share-points.php:61
+msgctxt "part of a sentence on My account page share points tab"
+msgid "Convert"
+msgstr ""
+
+#. translators:Placeholder: label of points.
+#: templates/myaccount/ywpar-share-points.php:65
+#, fuzzy
+msgctxt "Placeholder: label of points;"
+msgid "Enter the %s to share"
+msgstr "Asignar puntos al usuario"
+
+#. translators: First placeholder: label of points; Second placeholder is worth price.
+#: templates/myaccount/ywpar-share-points.php:72
+msgctxt "part of a sentence on My account page share points tab"
+msgid "%s for a coupon value of %s"
+msgstr ""
+
+#: templates/myaccount/ywpar-share-points.php:74
+msgctxt "Label of button to convert point on My account page share points tab"
+msgid "Convert"
+msgstr ""
+
+#. translators:Placeholder is the maximum amount of points that can be used. Error message on My account share points tab.
+#: templates/myaccount/ywpar-share-points.php:80
+msgctxt ""
+"Placeholder is the minimum amount of points that can be used. Error message "
+"on My account share points tab"
+msgid "You can convert a maximum of %s"
+msgstr ""
+
+#: templates/myaccount/ywpar-share-points.php:92
+#, fuzzy
+msgctxt "Title of table for the shared coupon in My Account page"
+msgid "Your coupons:"
+msgstr "Usar ambos cupones"
+
+#: templates/myaccount/ywpar-share-points.php:96
+#: templates/myaccount/ywpar-share-points.php:114
+#, fuzzy
+msgid "Date of creation"
+msgstr "Fecha de nacimiento"
+
+#: templates/myaccount/ywpar-share-points.php:97
+#: templates/myaccount/ywpar-share-points.php:115
+msgid "Value"
+msgstr ""
+
+#: templates/myaccount/ywpar-share-points.php:98
+#: templates/myaccount/ywpar-share-points.php:116
+msgid "Code"
+msgstr ""
+
+#: templates/myaccount/ywpar-share-points.php:99
+#: templates/myaccount/ywpar-share-points.php:117
+#, fuzzy
+msgid "Expire on"
+msgstr "Puntos caducados"
+
+#: templates/shortcodes/ywpar-customers-points.php:30
+msgid "All time"
+msgstr ""
+
+#: templates/shortcodes/ywpar-customers-points.php:32
+msgid "Last Year"
+msgstr ""
+
+#: templates/shortcodes/ywpar-customers-points.php:34
+msgid "Last 30 days"
+msgstr ""
+
+#: templates/shortcodes/ywpar-customers-points.php:36
+msgid "This week"
+msgstr ""
+
+#: templates/shortcodes/ywpar-customers-points.php:38
+msgid "Today"
+msgstr ""
+
+#: templates/shortcodes/ywpar-customers-points.php:103
+msgid "No results"
+msgstr ""
+
+#: views/panel/types/options-conversion-earning.php:39
+msgid "For each"
+msgstr "Para cada "
+
+#: views/panel/types/options-conversion-earning.php:41
+#: views/panel/types/options-role-conversion.php:74
+msgid "assign"
+msgstr "asignar"
+
+#: views/panel/types/options-conversion.php:43
+#: views/panel/types/options-percentage-conversion.php:46
+#: views/panel/types/options-role-conversion.php:95
+#: views/panel/types/options-role-percentage-conversion.php:72
+msgid "discount"
+msgstr "descuento"
+
+#: views/panel/types/options-expire.php:22
+msgid "Days"
+msgstr "Días"
+
+#: views/panel/types/options-expire.php:23
+msgid "Months"
+msgstr "Meses"
+
+#: views/panel/types/options-extrapoints-levels.php:32
+#: views/panel/types/options-extrapoints-membership-plans.php:32
+#, fuzzy
+msgid "Assign"
+msgstr "asignar"
+
+#: views/panel/types/options-extrapoints-levels.php:37
+#, fuzzy
+msgid "points to users with level"
+msgstr "Aplicar puntos a usuarios"
+
+#: views/panel/types/options-extrapoints-levels.php:56
+#: views/panel/types/options-extrapoints-membership-plans.php:56
+#: views/panel/types/options-extrapoints.php:75
+msgid "+ Add rule"
+msgstr "+ Añadir regla"
+
+#: views/panel/types/options-extrapoints-membership-plans.php:37
+#, fuzzy
+msgid "points to member of"
+msgstr "Aplicar puntos a usuarios"
+
+#: views/panel/types/options-extrapoints-multi.php:59
+msgid " spent ="
+msgstr " gastado ="
+
+#: views/panel/types/options-extrapoints-multi.php:67
+#: views/panel/types/options-extrapoints.php:53
+msgid "points extra"
+msgstr "puntos extra"
+
+#: views/panel/types/options-extrapoints-multi.php:80
+#: views/panel/types/options-extrapoints.php:64
+msgid "repeat"
+msgstr "repetir"
+
+#: views/panel/types/options-extrapoints-timing.php:18
+msgid "1st day"
+msgstr ""
+
+#: views/panel/types/options-extrapoints-timing.php:19
+msgid "Last day"
+msgstr ""
+
+#: views/panel/types/options-extrapoints-timing.php:23
+msgid "Each month"
+msgstr ""
+
+#: views/panel/types/options-extrapoints-timing.php:24
+msgid "Each week"
+msgstr ""
+
+#: views/panel/types/options-extrapoints-timing.php:41
+msgid "of:"
+msgstr ""
+
+#: views/panel/types/options-role-conversion.php:45
+#: views/panel/types/options-role-percentage-conversion.php:43
+msgid "For"
+msgstr "Para"
+
+#: views/panel/types/options-role-conversion.php:65
+#, fuzzy
+msgid "each"
+msgstr "Para cada "
+
+#: views/panel/types/options-role-conversion.php:109
+#: views/panel/types/options-role-percentage-conversion.php:81
+msgid "+ Add rule for same user role"
+msgstr "+ Añadir regla para el mismo rol de usuario"
+
+#: views/panel/types/options-role-conversion.php:114
+#: views/panel/types/options-role-percentage-conversion.php:86
+msgid "+ Add rule for another user role"
+msgstr "+ Añadir regla para otro rol de usuario"
+
+#: views/panel/types/shortcode-list.php:13 views/tabs/ranking-tab.php:13
+#, fuzzy
+msgid "Simple customers list"
+msgstr "Apellidos del cliente"
+
+#: views/panel/types/shortcode-list.php:19 views/tabs/ranking-tab.php:19
+#, fuzzy
+msgid "Boxed customers list"
+msgstr "Apellidos del cliente"
+
+#: views/panel/types/shortcode-list.php:31
+msgid "Rank Shortcodes"
+msgstr ""
+
+#: views/panel/types/shortcode-list.php:32
+msgid ""
+"Copy and paste these shortcodes into a custom page to show a list of your "
+"customers' points. You can also use the Gutenberg block."
+msgstr ""
+
+#: views/tabs/bulk-actions.php:19
+#: views/tabs/customers/bulk-actions/modal/content.php:11
+msgid "Reset points"
+msgstr "Restablecer puntos"
+
+#: views/tabs/bulk-actions.php:20
+#: views/tabs/customers/bulk-actions/modal/content.php:12
+msgid "Add points to previous orders"
+msgstr "Aplicar puntos a pedidos previos"
+
+#: views/tabs/bulk-actions.php:21
+#: views/tabs/customers/bulk-actions/modal/content.php:13
+msgid "Add points to users"
+msgstr "Aplicar puntos a usuarios"
+
+#: views/tabs/bulk-actions.php:22
+#, fuzzy
+msgid "Remove points from users"
+msgstr "Eliminar puntos a los usuarios"
+
+#: views/tabs/bulk-actions.php:27
+#: views/tabs/customers/bulk-actions/modal/content.php:19
+msgid "Choose the action you want to execute"
+msgstr "Elige la acción que quieres ejecutar"
+
+#: views/tabs/bulk-actions.php:33
+#: views/tabs/customers/bulk-actions/modal/content.php:25
+msgid "Apply action to"
+msgstr "Aplicar esta acción a"
+
+#: views/tabs/bulk-actions.php:34
+#: views/tabs/customers/bulk-actions/modal/content.php:26
+msgid "Choose to which users apply this action"
+msgstr "Escoge a qué usuarios aplicar esta acción"
+
+#: views/tabs/bulk-actions.php:39
+#: views/tabs/customers/bulk-actions/modal/content.php:31
+msgid "Only specified users"
+msgstr "Solo usuarios específicados"
+
+#: views/tabs/bulk-actions.php:51
+#: views/tabs/customers/bulk-actions/modal/content.php:43
+msgid "Choose which roles"
+msgstr "Escoge qué roles"
+
+#: views/tabs/bulk-actions.php:52
+#: views/tabs/customers/bulk-actions/modal/content.php:44
+msgid "Choose which user roles to apply the action"
+msgstr "Escoge a qué roles de usuario aplicar la acción"
+
+#: views/tabs/bulk-actions.php:69
+#: views/tabs/customers/bulk-actions/modal/content.php:61
+msgid "Choose which users"
+msgstr "Escoge qué usuarios"
+
+#: views/tabs/bulk-actions.php:70
+#: views/tabs/customers/bulk-actions/modal/content.php:62
+msgid "Choose which users to apply the action"
+msgstr "Escoge a qué usuarios aplicar esta acción"
+
+#: views/tabs/bulk-actions.php:83
+#: views/tabs/customers/bulk-actions/modal/content.php:75
+msgid "Exclude users"
+msgstr "Excluir usuarios"
+
+#: views/tabs/bulk-actions.php:84
+#: views/tabs/customers/bulk-actions/modal/content.php:76
+msgid "Enable if you want to exclude specific users or user roles"
+msgstr "Activa si quieres excluir usuarios o roles de usuario específicos"
+
+#: views/tabs/bulk-actions.php:96
+#: views/tabs/customers/bulk-actions/modal/content.php:88
+msgid "Don't apply action to"
+msgstr "No aplicar acción a"
+
+#: views/tabs/bulk-actions.php:97
+#: views/tabs/customers/bulk-actions/modal/content.php:89
+msgid "Set which users to apply the selected action"
+msgstr "Establece a qué usuarios aplicar la acción seleccionada"
+
+#: views/tabs/bulk-actions.php:100
+#: views/tabs/customers/bulk-actions/modal/content.php:92
+msgid "Specified users"
+msgstr "Usuarios específicados"
+
+#: views/tabs/bulk-actions.php:101
+#: views/tabs/customers/bulk-actions/modal/content.php:93
+msgid "Specified user roles"
+msgstr "Roles de usuario especificados"
+
+#: views/tabs/bulk-actions.php:113
+#: views/tabs/customers/bulk-actions/modal/content.php:105
+msgid "Choose which roles to exclude"
+msgstr "Escoge qué roles de usuario excluir"
+
+#: views/tabs/bulk-actions.php:114
+#: views/tabs/customers/bulk-actions/modal/content.php:106
+#, fuzzy
+msgid "Choose which user roles to exclude from this bulk action"
+msgstr "Escoge qué roles de usuario excluir del restablecimiento de puntos"
+
+#: views/tabs/bulk-actions.php:132
+#: views/tabs/customers/bulk-actions/modal/content.php:124
+msgid "Choose which users to exclude"
+msgstr "Escoge qué usuarios excluir"
+
+#: views/tabs/bulk-actions.php:133
+#: views/tabs/customers/bulk-actions/modal/content.php:125
+#, fuzzy
+msgid "Choose which users to exclude from this bulk action"
+msgstr "Escoge qué usuarios excluir del restablecimiento de puntos"
+
+#: views/tabs/bulk-actions.php:147
+#: views/tabs/customers/bulk-actions/modal/content.php:139
+msgid "Set how many points."
+msgstr "Establecer cuántos puntos."
+
+#: views/tabs/bulk-actions.php:162
+#: views/tabs/customers/bulk-actions/modal/content.php:154
+msgid ""
+"Enter a description to explain to your users the reason for the points action"
+msgstr ""
+"Introduce una descripción para explicar a tus usuarios la razón para la "
+"acción de los puntos"
+
+#: views/tabs/bulk-actions.php:175
+#: views/tabs/customers/bulk-actions/modal/content.php:167
+msgid "Add points to"
+msgstr "Añadir puntos a"
+
+#: views/tabs/bulk-actions.php:176
+#: views/tabs/customers/bulk-actions/modal/content.php:168
+msgid ""
+"Choose to assign points to all previous orders or only orders placed from a "
+"specific date. All orders from this date will be checked and points will be "
+"added to the customer's profile."
+msgstr ""
+"Escoge asignar puntos a todos los pedidos anteriores o solo a los pedidos "
+"realizados desde una fecha específica. Todos los pedidos desde esta fecha "
+"serán comprobados y los puntos serán añadidos al perfil del cliente."
+
+#: views/tabs/bulk-actions.php:179
+#: views/tabs/customers/bulk-actions/modal/content.php:171
+msgid "All previous orders"
+msgstr "Todos los pedidos anteriores"
+
+#: views/tabs/bulk-actions.php:180
+#: views/tabs/customers/bulk-actions/modal/content.php:172
+msgid "Orders placed from a specific date"
+msgstr "Pedidos realizados desde una fecha específica"
+
+#: views/tabs/bulk-actions.php:217 views/tabs/customers/customers-tab.php:20
+#, fuzzy
+msgid "< back to list"
+msgstr "< Volver a la lista"
+
+#: views/tabs/bulk-actions.php:270
+#: views/tabs/customers/bulk-actions/modal/content.php:262
+msgid "Apply Action"
+msgstr "Aplicar Acción"
+
+#: views/tabs/customers/bulk-actions/modal/content.php:14
+msgid "Remove points to users"
+msgstr "Eliminar puntos a los usuarios"
+
+#: views/tabs/customers/bulk-actions/modal/content.php:277
+msgctxt "button to close the bulk actions modal"
+msgid "Close"
+msgstr ""
+
+#: views/tabs/customers/customer-history.php:18
+#, fuzzy
+msgid "Unban user"
+msgstr "Desbloquear usuarios"
+
+#: views/tabs/customers/customer-history.php:18
+msgid "Ban user"
+msgstr "Bloquear usuario"
+
+#: views/tabs/customers/customer-history.php:53
+#, fuzzy
+msgid "Email:"
+msgstr "Correo electrónico: "
+
+#: views/tabs/customers/customer-history.php:57
+msgid "Level:"
+msgstr ""
+
+#: views/tabs/customers/customer-history.php:67
+#, fuzzy
+msgid "Total collected"
+msgstr "Puntos obtenidos:"
+
+#: views/tabs/customers/customer-history.php:83
+msgid "Points history"
+msgstr "Historial de puntos"
+
+#: views/tabs/customers/customer-history.php:86
+#: views/tabs/customers/customer-list.php:19
+msgid "Search"
+msgstr ""
+
+#: views/tabs/customers/customer-history.php:126
+msgid "Points:"
+msgstr "Puntos:"
+
+#: views/tabs/customers/customer-history.php:132
+#, fuzzy
+msgid "Optional description:"
+msgstr "Descripción opcional:"
+
+#: views/tabs/customers/export-import/modal/buttons.php:5
+msgctxt "Link to move to previous step"
+msgid "Back"
+msgstr ""
+
+#: views/tabs/customers/export-import/modal/buttons.php:16
+msgctxt "Start the import button"
+msgid "Submit"
+msgstr ""
+
+#: views/tabs/customers/export-import/modal/completed.php:18
+msgctxt "button to close the import/export modal"
+msgid "Close"
+msgstr ""
+
+#: views/tabs/customers/export-import/modal/completed.php:28
+msgctxt "button to try again a failed CSV import"
+msgid "Try again"
+msgstr ""
+
+#: views/tabs/customers/export-import/modal/content.php:13
+#, fuzzy
+msgctxt "[Admin Import/Export modal] Radio input label"
+msgid "Export points"
+msgstr "Importar puntos"
+
+#: views/tabs/customers/export-import/modal/content.php:18
+#, fuzzy
+msgctxt "[Admin Import/Export modal] Radio input label"
+msgid "Import points"
+msgstr "Importar puntos"
+
+#: views/tabs/customers/export-import/modal/content.php:43
+msgctxt "Link to continue to the next step in the export/import modal"
+msgid "Continue"
+msgstr ""
+
+#: views/tabs/customers/export-import/modal/form.php:8
+#: views/tabs/customers/export-import/modal/form.php:57
+#, fuzzy
+msgctxt "[Admin Import/Export modal] Input label."
+msgid "Choose the CSV format"
+msgstr "Formato CSV"
+
+#: views/tabs/customers/export-import/modal/form.php:16
+#: views/tabs/customers/export-import/modal/form.php:65
+#, fuzzy
+msgctxt "[Admin Import/Export modal] Input radio value label."
+msgid "User ID / Points"
+msgstr "ID/puntos de usuario"
+
+#: views/tabs/customers/export-import/modal/form.php:21
+#, fuzzy
+msgctxt "[Admin Import/Export modal] Input radio value label."
+msgid "User Email / Points"
+msgstr "Puntos / Correo electrónico del usuario"
+
+#: views/tabs/customers/export-import/modal/form.php:34
+#: views/tabs/customers/export-import/modal/form.php:111
+#, fuzzy
+msgctxt "[Admin Import/Export modal] Field label"
+msgid "CSV Delimiter"
+msgstr "Tipo de delimitador"
+
+#: views/tabs/customers/export-import/modal/form.php:39
+#: views/tabs/customers/export-import/modal/form.php:116
+msgctxt "[Admin Import/Export modal] Field description."
+msgid "Set character to use as delimiter for the CSV file"
+msgstr ""
+
+#: views/tabs/customers/export-import/modal/form.php:70
+#, fuzzy
+msgctxt "[Admin Import/Export modal] Input radio value label."
+msgid "User email / Points"
+msgstr "Puntos / Correo electrónico del usuario"
+
+#: views/tabs/customers/export-import/modal/form.php:82
+#, fuzzy
+msgctxt "[Admin Import/Export modal] Input label."
+msgid "CSV import action"
+msgstr "Acción de importación CSV"
+
+#: views/tabs/customers/export-import/modal/form.php:87
+#, fuzzy
+msgctxt "[Admin Import/Export modal] Input description."
+msgid ""
+"Choose if imported points will be added to the current balance or will "
+"overwrite it."
+msgstr ""
+"Escoge si los puntos importados serán añadidos o sobrescribirán el saldo "
+"actual."
+
+#: views/tabs/customers/export-import/modal/form.php:94
+#, fuzzy
+msgctxt "[Admin Import/Export modal] Input radio value label."
+msgid "Add points to current balance"
+msgstr "Añadir puntos al saldo actual"
+
+#: views/tabs/customers/export-import/modal/form.php:99
+#, fuzzy
+msgctxt "[Admin Import/Export modal] Input radio value label."
+msgid "Overwrite points"
+msgstr "Anular puntos"
+
+#: views/tabs/customers/export-import/modal/form.php:127
+#, fuzzy
+msgctxt "[Admin Import/Export modal] Input label."
+msgid "Choose a CSV file"
+msgstr "Subir archivo CSV"
+
+#: views/tabs/customers/export-import/modal/form.php:132
+#, fuzzy
+msgctxt "[Admin Import/Export modal] Field description."
+msgid "Choose the CSV file to import."
+msgstr "Formato CSV"
+
+#: views/tabs/emails-tab.php:5
+msgid "Send an email before the expiration date"
+msgstr "Envíar un correo electrónico antes de la fecha de caducidad"
+
+#: views/tabs/emails-tab.php:10
+msgid "Days before points expire"
+msgstr "Días antes de que los puntos caduquen"
+
+#: views/tabs/emails-tab.php:12
+msgid "Number of days before 'points expiration' when the email will be sent"
+msgstr ""
+"Número de días previos a la caducidad de los puntos en el que se enviará el "
+"correo electrónico"
+
+#: views/tabs/emails-tab.php:23 views/tabs/emails-tab.php:109
+msgid "Email content"
+msgstr "Contenido del correo"
+
+#: views/tabs/emails-tab.php:25
+#, fuzzy
+msgctxt "do not translate the text inside the brackets"
+msgid ""
+"<b>You can use following placeholders:</b><br>\n"
+"                {username} = customer's username <br>\n"
+"                {first_name} = customer's  first name <br>\n"
+"                {last_name} = customer's last name <br>\n"
+"                {expiring_points} = expiring points <br>\n"
+"                {label_points} = label for points <br>\n"
+"                {expiring_date} = points expiry date<br>\n"
+"                {total_points} = current balance<br>\n"
+"                {shop_url} = URL of the shop<br>\n"
+"                {discount} = value of the discount<br>\n"
+"\t\t\t\t{website_name} = website name"
+msgstr ""
+"Puedes usar los siguientes marcadores de posición,<br>\n"
+"                {username} = nombre de usuario del cliente <br>\n"
+"                {first_name} = nombre del cliente <br>\n"
+"                {last_name} = apellidos del cliente <br>\n"
+"                {expiring_points} = puntos por caducar <br>\n"
+"                {label_points} = etiqueta para puntos <br>\n"
+"                {expiring_date} = fecha de expiración de puntos<br>\n"
+"                {total_points} = saldo actual<br>\n"
+"                {shop_url} = url de la tienda<br>\n"
+"                {discount} = valor del descuento<br>\n"
+"\t\t\t\t{website_name} = nombre del sitio web"
+
+#: views/tabs/emails-tab.php:41
+#, fuzzy
+msgctxt "do not translate the text inside the brackets"
+msgid ""
+"Hi {username}!\n"
+"\t\t\t\n"
+"                                We send you this message because the "
+"<b>{expiring_points} {label_points}</b> you've already earned in our shop "
+"will expire on {expiring_date}.\n"
+"                                \n"
+"                                <div class=\"points_banner\">\n"
+"                                Use them now to get a <b>discount of "
+"{discount}</b> in your purchase!\n"
+"                                <a href=\"{shop_url}\">Check our shop now ></"
+"a>\n"
+"                                </div>\n"
+"                                \n"
+"                                Regards,\n"
+"                                {website_name} staff\n"
+"                              "
+msgstr ""
+"Hola {username}!\n"
+"\t\t\t\n"
+"Te enviamos este mensaje porque los <b>{expiring_points} {label_points}</b> "
+"puntos que has ganado en nuestra tienda caducarán el {expiring_date}.\n"
+"\n"
+"<div class=\"points_banner\">\n"
+"¡Úsalos ahora para obtener un <b>descuento de {discount}</b> en tu compra!\n"
+"<a href=\"{shop_url}\">Visita nuestra tienda ahora ></a>\n"
+"</div>\n"
+"\n"
+"Saludos,\n"
+"El equipo de {website_name} \n"
+
+#: views/tabs/emails-tab.php:65
+#, fuzzy
+msgid "Send an email when points are updated"
+msgstr "Tan pronto como los puntos estén actualizados."
+
+#: views/tabs/emails-tab.php:73
+#, fuzzy
+msgid "Send email"
+msgstr "Enviar correo electrónico"
+
+#: views/tabs/emails-tab.php:77
+#, fuzzy
+msgid "Once a day if points have been updated"
+msgstr "Una vez al día si los puntos han sido actualizados."
+
+#: views/tabs/emails-tab.php:81
+#, fuzzy
+msgid "As soon as points are updated"
+msgstr "Tan pronto como los puntos estén actualizados."
+
+#: views/tabs/emails-tab.php:92
+#, fuzzy
+msgid "Avoid email sending for manual update"
+msgstr "Evitar envío de correo electrónico para actualización manual."
+
+#: views/tabs/emails-tab.php:97
+#, fuzzy
+msgid "Enable to not send the email when the admin updates points manually"
+msgstr ""
+"Activa no enviar un correo electrónico cuando el administrador actualiza los "
+"puntos manualmente."
+
+#: views/tabs/emails-tab.php:114
+#, fuzzy
+msgid "You can use following placeholders:"
+msgstr "Puedes usar los siguientes marcadores de posición"
+
+#: views/tabs/emails-tab.php:118
+msgid "customer's username"
+msgstr "Nombre de usuario del cliente"
+
+#: views/tabs/emails-tab.php:119
+msgid "customer's first name"
+msgstr "Nombre del cliente"
+
+#: views/tabs/emails-tab.php:120
+msgid "customer's last name"
+msgstr "Apellidos del cliente"
+
+#: views/tabs/emails-tab.php:121
+msgid "latest updates of your points"
+msgstr "Ultimas actualizaciones de tus puntos"
+
+#: views/tabs/emails-tab.php:122
+msgid "label for points"
+msgstr "etiqueta de puntos"
+
+#: views/tabs/emails-tab.php:123
+msgid "current balance"
+msgstr "saldo actual"
+
+#: views/tabs/emails-tab.php:124
+msgid "value of the discount"
+msgstr ""
+
+#: views/tabs/emails-tab.php:125
+msgid "URL of the shop"
+msgstr ""
+
+#: views/tabs/emails-tab.php:126
+#, fuzzy
+msgid "website name"
+msgstr "Nombre del sitio web"
+
+#: views/tabs/emails-tab.php:129
+#, fuzzy
+msgctxt "do not translate the text inside the brackets"
+msgid ""
+"Hi {username}!\n"
+"\t\t\t\n"
+"Here you can find the updated balance of your {label_points}.\n"
+" \n"
+" <div class=\"points_banner\">\n"
+" Total points collected: <b>{total_points}</b>\n"
+" <a href=\"{shop_url}\">Redeem them in your next order ></a>\n"
+"</div>\n"
+"\n"
+" Well done!\n"
+" {website_name} staff"
+msgstr ""
+"Hola {username}!\n"
+"\t\t\t\n"
+"Aquí puedes encontrar el saldo actualizado de tus {label_points}.\n"
+" \n"
+" <div class=\"points_banner\">\n"
+" Total de puntos obtenidos: <b>{total_points}</b>\n"
+" <a href=\"{shop_url}\">¡Canjéalos en tu próximo pedido! ></a>\n"
+"</div>\n"
+"\n"
+" ¡Bien hecho!\n"
+"El equipo de {website_name}"
+
+#: views/tabs/emails-tab.php:156
+#, fuzzy
+msgid "Email"
+msgstr "Correos electrónicos"
+
+#: views/tabs/emails-tab.php:167
+#, fuzzy
+msgctxt "[ADMIN] Column name table emails"
+msgid "Active"
+msgstr "Acción"
+
+#: views/tabs/emails-tab.php:208
+#, fuzzy
+msgid "Edit"
+msgstr "+ Añadir regla"
+
+#: views/tabs/emails-tab.php:247
+msgid "Save"
+msgstr ""
+
+#: assets/js/blocks/blocks.js:1
+#: includes/blocks/src/blocks/ywpar-cart-points-message/index.js:9
+#, fuzzy
+msgid "Points Message for cart and checkout"
+msgstr "Mostrar mensaje de límite mínimo en el carrito y en el proceso de pago"
+
+#: assets/js/blocks/blocks.js:1
+#: includes/blocks/src/blocks/ywpar-cart-points-message/index.js:10
+#, fuzzy
+msgid "Show points message in cart and checkout."
+msgstr "Mostrar mensaje de límite mínimo en el carrito y en el proceso de pago"
+
+#: assets/js/blocks/blocks.js:1
+#: includes/blocks/src/blocks/ywpar-rewards-points-message/index.js:9
+#, fuzzy
+msgid "Rewards Points Message for cart and checkout"
+msgstr "Mostrar mensaje de límite mínimo en el carrito y en el proceso de pago"
+
+#: assets/js/blocks/blocks.js:1
+#: includes/blocks/src/blocks/ywpar-rewards-points-message/index.js:10
+#, fuzzy
+msgid "Show rewards points message in cart and checkout."
+msgstr "Mostrar mensaje de límite mínimo en el carrito y en el proceso de pago"
+
+#: assets/js/blocks/checkout_blocks.js:1
+#: includes/blocks/src/blocks/birthdate-checkout/edit.js:24
+#, fuzzy
+msgid "Form Step Options"
+msgstr "Opciones de puntos"
+
+#: assets/js/blocks/checkout_blocks.js:1
+#: includes/blocks/src/blocks/birthdate-checkout/edit.js:30
+#, fuzzy
+msgid "Show step number"
+msgstr "Mostrar todos los clientes"
+
+#: assets/js/blocks/checkout_blocks_frontend.js:1
+#: includes/blocks/src/blocks/birthdate-checkout/attributes.js:6
+#, fuzzy
+msgid "Date of Birth"
+msgstr "Fecha de nacimiento"
+
+#: assets/js/blocks/checkout_blocks_frontend.js:1
+#: includes/blocks/src/blocks/birthdate-checkout/components/birthdate.js:46
+#, fuzzy
+msgid "Day"
+msgstr "Días"
+
+#: assets/js/blocks/checkout_blocks_frontend.js:1
+#: includes/blocks/src/blocks/birthdate-checkout/components/birthdate.js:57
+#, fuzzy
+msgid "Month"
+msgstr "Meses"
+
+#: assets/js/blocks/checkout_blocks_frontend.js:1
+#: includes/blocks/src/blocks/birthdate-checkout/components/birthdate.js:68
+msgid "Year"
+msgstr ""
+
+#: assets/js/blocks/checkout_blocks_frontend.js:1
+#: includes/blocks/src/blocks/birthdate-checkout/block.js:111
+msgid "Please set a valid date"
+msgstr ""
+
+#: includes/blocks/src/blocks/birthdate-checkout/block.json
+#, fuzzy
+msgctxt "block title"
+msgid "Date of Birth"
+msgstr "Fecha de nacimiento"
+
+#: includes/blocks/src/blocks/birthdate-checkout/block.json
+#, fuzzy
+msgctxt "block description"
+msgid "Add a Date of Birth field in checkout"
+msgstr "Mostrar campo de entrada de fecha de cumpleaños"
+
+#~ msgid "YITH WooCommerce Points and Rewards Premium"
+#~ msgstr "YITH WooCommerce Points and Rewards Premium"
+
+#, fuzzy
+#~ msgid "YITH"
+#~ msgstr "YITH"
+
+#~ msgid "https://yithemes.com/"
+#~ msgstr "https://yithemes.com/"
+
+#, fuzzy
+#~ msgid ""
+#~ "\tAssign extra points to users who are affiliates after an order is "
+#~ "placed with their referral code"
+#~ msgstr "Asignar puntos cuando un usuario se registra"
+
+#~ msgid "Assign extra points to newly registered users"
+#~ msgstr "Asignar puntos a nuevos usuarios registrados"
+
+#, fuzzy
+#~ msgid "Assign extra points for each first daily login"
+#~ msgstr "Asignar puntos extra en el cumpleaños del cliente"
+
+#, fuzzy
+#~ msgid "Assign extra points for a completed profile"
+#~ msgstr "Puntos extra por pedidos"
+
+#, fuzzy
+#~ msgid ""
+#~ "Assign extra points when a new user signs up using a customer created "
+#~ "referral link"
+#~ msgstr "Asignar puntos cuando un usuario se registra"
+
+#, fuzzy
+#~ msgid ""
+#~ "Assign extra points when a user places an order using the referral link"
+#~ msgstr "Asignar puntos cuando un usuario se registra"
+
+#, fuzzy
+#~ msgid "Assign extra points to the user that collected the most points"
+#~ msgstr "Asignar puntos a los usuarios que dejan una valoración de producto"
+
+#, fuzzy
+#~ msgid "Assign extra points to users that achieve specific levels"
+#~ msgstr "Asignar puntos a los usuarios que dejan una valoración de producto"
+
+#, fuzzy
+#~ msgid ""
+#~ "Assign extra points to users that achieve a set number of points collected"
+#~ msgstr "Asignar puntos extra en base al número de puntos obtenidos"
+
+#, fuzzy
+#~ msgid "Enable to assign points on customer's birthday"
+#~ msgstr "Activa Asignar puntos en el cumpleaños del cliente"
+
+#, fuzzy
+#~ msgid "Enable to assign points to users that leave a product review"
+#~ msgstr ""
+#~ "Activa asignar puntos al usuario que deja una valoración de producto"
+
+#, fuzzy
+#~ msgid "Enable to assign points to a user when an order is placed"
+#~ msgstr "Asignar puntos basado en el número de pedidos realizados."
+
+#, fuzzy
+#~ msgid "Enable to assign points to users based on the cart total"
+#~ msgstr "Activa Asignar puntos al usuario en base al total del carrito"
+
+#, fuzzy
+#~ msgid "Enable to assign points to a user,based on the total amount spent"
+#~ msgstr "Activa Asignar puntos al usuario en base al total del carrito"
+
+#, fuzzy
+#~ msgid "Recalculate total points"
+#~ msgstr "Restablecer puntos"
+
+#~ msgid "All Users"
+#~ msgstr "Todos los usuarios"
+
+#, fuzzy
+#~ msgid "Points management"
+#~ msgstr "Redondeo de puntos"
+
+#, fuzzy
+#~ msgctxt "Post Type General Name"
+#~ msgid "Points redeeming rules"
+#~ msgstr "Canjeo de puntos"
+
+#, fuzzy
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Points redeeming rule"
+#~ msgstr "Canjeo de puntos"
+
+#, fuzzy
+#~ msgid "Assign points to the users of a membership"
+#~ msgstr "Asignar puntos cuando un usuario se registra"
+
+#~ msgid "Update Points"
+#~ msgstr "Actualizar puntos"
+
+#~ msgid "Customer points"
+#~ msgstr "Puntos del cliente"
+
+#, fuzzy
+#~ msgid "A table to easily track and manage your customer’s points."
+#~ msgstr "Activa Asignar puntos en el cumpleaños del cliente"
+
+#, fuzzy
+#~ msgid "Expiring points"
+#~ msgstr "[Puntos caducados]"
+
+#~ msgid "Shop url"
+#~ msgstr "URL de la tienda"
+
+#~ msgid "Extra points"
+#~ msgstr "Puntos extra"
+
+#~ msgid "Points to assign to new users"
+#~ msgstr "Puntos a asignar a los nuevos usuarios"
+
+#, fuzzy
+#~ msgid "Points to assign per points collected"
+#~ msgstr "Puntos a asignar por puntos obtenidos"
+
+#~ msgid "Points to assign per birthday"
+#~ msgstr "Puntos a asignar por el cumpleaños"
+
+#~ msgid "Points to assign for reviews"
+#~ msgstr "Puntos a asignar por valoraciones"
+
+#~ msgid "Points to assign per order"
+#~ msgstr "Puntos a asignar por pedido"
+
+#~ msgid "Points to assign on cart total"
+#~ msgstr "Puntos a asignar por total del carrito"
+
+#~ msgid "Points to assign per amount reached"
+#~ msgstr "Puntos a asignar por cantidad alcanzada"
+
+#~ msgid "Set how many points to allocate for each amount reached"
+#~ msgstr ""
+#~ "Establece cuántos puntos serán asignados por cada pedido en base a la "
+#~ "moneda"
+
+#~ msgid "Ban Users"
+#~ msgstr "Bloquear usuarios"
+
+#, fuzzy
+#~ msgid "Unban Users"
+#~ msgstr "Desbloquear usuario"
+
+#, fuzzy
+#~ msgctxt "Import export panel option"
+#~ msgid "Action to execute"
+#~ msgstr "Acción a ejecutar"
+
+#~ msgid "Import points from a CSV file"
+#~ msgstr "Importar puntos desde un archivo CSV"
+
+#~ msgid "Export points into a CSV file"
+#~ msgstr "Exportar puntos a un archivo CSV"
+
+#~ msgid "Choose if you want to import or export"
+#~ msgstr "Elige si quieres importar o exportar"
+
+#~ msgid "Enter the delimiter type. You can use for example , / ;"
+#~ msgstr "Introduce el tipo de delimitador. Puedes usar, por ejemplo , / ;"
+
+#~ msgid "Upload"
+#~ msgstr "Subir"
+
+#~ msgid "Upload the CSV file to import points"
+#~ msgstr "Subir el archivo CSV para importar puntos"
+
+#~ msgid "Start"
+#~ msgstr "Empezar"
+
+#~ msgid "Customers' points"
+#~ msgstr "Puntos del cliente"
+
+#, fuzzy
+#~ msgid "Redeem Options"
+#~ msgstr "Canjear puntos"
+
+#~ msgid "Show points earned and spent"
+#~ msgstr "Mostrar puntos ganados y gastados"
+
+#~ msgid "Enter the text to show in cart page"
+#~ msgstr "Introduce el texto a mostrar en la página del carrito"
+
+#~ msgid "Enter the text to show in Checkout page"
+#~ msgstr "Introduce el texto a mostrar en la página de Proceso de pago"
+
+#, fuzzy
+#~ msgid "Set how many points to assing"
+#~ msgstr "Establece cuántos puntos asignar a los nuevos usuarios"
+
+#, fuzzy
+#~ msgid "Redeem Rules"
+#~ msgstr "Estilo de casilla Canjear"
+
+#, fuzzy
+#~ msgid "Share points"
+#~ msgstr "Puntos estándar"
+
+#~ msgid "Import/Export Points"
+#~ msgstr "Importar/Exportar puntos"
+
+#, fuzzy
+#~ msgctxt "yith-woocommerce-points-and-rewards"
+#~ msgid "Imported rule"
+#~ msgstr "Importar"
+
+#, fuzzy
+#~ msgid "Points to redeem:"
+#~ msgstr "Canjeo de puntos"
+
+#~ msgid "Points Total"
+#~ msgstr "Total de puntos"
+
+#~ msgid "Points collected:"
+#~ msgstr "Puntos obtenidos:"
+
+#, fuzzy
+#~ msgid ""
+#~ "Choose how to apply the discount. The discount can either be a percentual "
+#~ "or a fixed amount"
+#~ msgstr ""
+#~ "Elige cómo aplicar el descuento. El descuento puede ser una cantidad fija "
+#~ "o porcentual."
+
+#, fuzzy
+#~ msgid ""
+#~ "Assign extra points to users that are member of a specific membership "
+#~ "plans"
+#~ msgstr "Asignar puntos a los usuarios que dejan una valoración de producto"
+
+#, fuzzy
+#~ msgctxt "[gutenberg]: block name"
+#~ msgid "YITH Points and Rewards - Points message on product page"
+#~ msgstr "Mostrar mensaje de puntos en la página del producto"
+
+#, fuzzy
+#~ msgid "Assign extra points when user complete the profile"
+#~ msgstr "Asignar puntos cuando un usuario se registra"
+
+#, fuzzy
+#~ msgid ""
+#~ "Assign points when a new user signup through the user's referral link"
+#~ msgstr "Asignar puntos cuando un usuario se registra"
+
+#~ msgid "Points assigned for each product purchase"
+#~ msgstr "Puntos asignados por cada compra de producto"
+
+#~ msgid "Delete points of cancelled orders"
+#~ msgstr "Eliminar puntos de pedidos cancelados"
+
+#, fuzzy
+#~ msgid "Remove points for total or partial refunds"
+#~ msgstr ""
+#~ "Activar la eliminación de puntos para reembolsos totales o parciales"
+
+#, fuzzy
+#~ msgctxt "[gutenberg]: block name"
+#~ msgid "YITH Points and Rewards: Customers list"
+#~ msgstr "Historial de YITH Points and Rewards"
+
+#, fuzzy
+#~ msgctxt "[gutenberg]: block description"
+#~ msgid "Show customer list."
+#~ msgstr "Mostrar todos los clientes"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Reset Points"
+#~ msgstr "Reiniciar puntos"
+
+#~ msgid "Ban User"
+#~ msgstr "Bloquear usuario"
+
+#~ msgid "Due to some bugs, the point expiration system has been disabled."
+#~ msgstr ""
+#~ "Debido a algunos fallos, el sistema de caducidad de puntos se ha "
+#~ "desactivado."
+
+#~ msgid "To enable it, please follow these instructions."
+#~ msgstr "Para activarlo, por favor, sigue estas instrucciones."
+
+#~ msgid "The import file is empty"
+#~ msgstr "El archivo importado está vacío"
+
+#~ msgid "Do you want to reset points for user"
+#~ msgstr "¿Quieres restablecer los puntos para este usuario?"
+
+#~ msgid "Labels"
+#~ msgstr "Etiquetas"
+
+#~ msgid "Override points options"
+#~ msgstr "Sobrescribir opciones de puntos"
+
+#~ msgid "Enable to override the global points options for this product."
+#~ msgstr ""
+#~ "Activa Sobrescribir las opciones globales de puntos para este producto."
+
+#~ msgid "(Example: 10 points only for this product)"
+#~ msgstr "(Ejemplo: 10 puntos solo por este producto)"
+
+#~ msgid "Set a % amount of points based on global points rules."
+#~ msgstr ""
+#~ "Establece una cantidad % de puntos en base a las reglas de puntos "
+#~ "globales."
+
+#~ msgid ""
+#~ "(Example: with a global rule of 10 points for each 10$, if you set a 50% "
+#~ "amount for this product, the user will get 5 points for each 10$)"
+#~ msgstr ""
+#~ "(Ejemplo: con una regla global de 10 puntos por cada 10€, si estableces "
+#~ "una cantidad del 50% para este producto, el usuario obtendrá 5 puntos por "
+#~ "cada 10€)"
+
+#~ msgid "Points to apply"
+#~ msgstr "Puntos a aplicar"
+
+#~ msgid "Set how many points to apply for this product."
+#~ msgstr "Establece cuantos puntos aplicar para este producto."
+
+#~ msgid "Override rules will be valid"
+#~ msgstr "Sobrescribir las reglas será válido"
+
+#~ msgid ""
+#~ "Set a start and end time for these overriding rules. When the rules end, "
+#~ "the global points options will be applied on this product."
+#~ msgstr ""
+#~ "Establece el período de inicio y finalización para estas reglas para "
+#~ "sobrescribir. Cuando las reglas finalicen, las opciones de puntos "
+#~ "globales serán aplicadas a este producto."
+
+#~ msgid "Override maximum discount"
+#~ msgstr "Sobrescribir descuento máximo"
+
+#~ msgid "Enable to override the global max discount for this product."
+#~ msgstr "Activa Sobrescribir el descuento global máximo para este producto."
+
+#~ msgid "Don't set a max discount"
+#~ msgstr "No establecer descuento máximo"
+
+#~ msgid "Set a % max discount based on the global max discount."
+#~ msgstr ""
+#~ "Establece un % de descuento máximo en base al descuento global máximo."
+
+#~ msgid "Set the max percentage discount that can be applied to this product."
+#~ msgstr ""
+#~ "Establece el porcentaje máximo de descuento que puede ser aplicado a este "
+#~ "producto."
+
+#~ msgid "Points options"
+#~ msgstr "Opciones de puntos"
+
+#~ msgid "Override global points rules for products of this category"
+#~ msgstr ""
+#~ "Sobrescribir reglas globales de puntos para los productos de esta "
+#~ "categoría"
+
+#~ msgid ""
+#~ "Enable if you want to override the global rules for the collection of "
+#~ "points for all products belonging to this category. Rules applied to this "
+#~ "category can be overridden by rules specified for single product."
+#~ msgstr ""
+#~ "Activa si quieres sobrescribir las reglas globales para la obtención de "
+#~ "puntos de todos los productos pertenecientes a esta categoría. Las reglas "
+#~ "aplicadas a esta categoría puedes ser sobre escritas por reglas "
+#~ "especificadas en el producto."
+
+#~ msgid "For products this category:"
+#~ msgstr "Para productos de esta categoría:"
+
+#~ msgid ""
+#~ "Choose if exclude the products of this category from the points "
+#~ "collection, if set a specific amount of points for all products of this "
+#~ "category or if set a % amount of points based on the global amount of "
+#~ "points."
+#~ msgstr ""
+#~ "Elige si excluir los productos de esta categoría de la obtención de "
+#~ "puntos, si se establece una cantidad específica de puntos para todos los "
+#~ "productos de esta categoría o si se establece una cantidad % en base a la "
+#~ "cantidad global de puntos."
+
+#~ msgid ""
+#~ "When a user purchases a product of this category, the buyer would get:"
+#~ msgstr ""
+#~ "Cuando un usuario compra un producto de esta categoría, el comprador "
+#~ "obtendrá:"
+
+#~ msgid "Override max discount for products of this category"
+#~ msgstr "Sobrescribir descuento máximo para productos de esta categoría"
+
+#~ msgid "When the user redeems points, for products of this category:"
+#~ msgstr "Cuando un usuario canjea puntos, para productos de esta categoría:"
+
+#~ msgid "Set no discount limit"
+#~ msgstr "Establece descuento sin límite"
+
+#~ msgid "Set a % max discount based on global max discount"
+#~ msgstr "Establece un descuento máximo % en base al descuento global máximo"
+
+#~ msgid "For products of this category the user can get a max discount of:"
+#~ msgstr ""
+#~ "Para productos de esta categoría el usuario puede obtener un descuento "
+#~ "máximo de:"
+
+#~ msgid ""
+#~ "For products of this category the user can get a max percentage discount "
+#~ "of:"
+#~ msgstr ""
+#~ "Para productos de esta categoría el usuario puede obtener un porcentaje "
+#~ "máximo de descuento de:"
+
+#~ msgid "Operation Complete"
+#~ msgstr "Operación completada"
+
+#~ msgid "Added Points from previous not registered orders"
+#~ msgstr "Puntos añadidos para pedidos previos no registrados"
+
+#~ msgid "Checkout total thresholds"
+#~ msgstr "Límite mínimo del total en el proceso de pago"
+
+#~ msgid "Order Amount"
+#~ msgstr "Cantidad de pedido"
+
+#~ msgid "This widget shows point history to logged-in users."
+#~ msgstr ""
+#~ "Este widget muestra el historial de puntos a los usuarios registrados."
+
+#~ msgid "YITH Points and Rewards Product Points"
+#~ msgstr "Puntos de producto de YITH Points and Rewards"
+
+#~ msgid "Leave empty for single product page"
+#~ msgstr "Déjalo vacío para la página de producto individual"
+
+#~ msgid "YITH Points and Rewards Total Points"
+#~ msgstr "Puntos totales de YITH Points and Rewards"
+
+#~ msgid "Label"
+#~ msgstr "Etiqueta"
+
+#~ msgid "Affiliates"
+#~ msgstr "Afiliados"
+
+#~ msgid "Subscription Settings"
+#~ msgstr "Ajustes de suscripción"
+
+#~ msgid "YYYY-MM-DD"
+#~ msgstr "AAAA-MM-DD"
+
+#~ msgid "YYYY/MM/DD"
+#~ msgstr "AAAA/MM/DD"
+
+#~ msgid "MM-DD-YYYY"
+#~ msgstr "MM-DD-AAAA"
+
+#~ msgid "MM/DD/YYYY"
+#~ msgstr "MM/DD/AAAA"
+
+#~ msgid "DD-MM-YYYY"
+#~ msgstr "DD-MM-AAAA"
+
+#~ msgid "DD/MM/YYYY"
+#~ msgstr "DD/MM/AAAA"
+
+#~ msgid "(%) Percent of points earned by customer."
+#~ msgstr "(%) Porcentaje de puntos ganados por el cliente."
+
+#~ msgid "Email before expiration - Settings"
+#~ msgstr "Correo electrónico previo a caducidad - Ajustes"
+
+#~ msgid "Updated Points - Email Settings"
+#~ msgstr "Puntos actualizados - Ajustes de correo electrónico"
+
+#~ msgid "Use different redeem conversion rules based on the user roles"
+#~ msgstr ""
+#~ "Usa diferentes reglas de conversión de canjeo en base a los roles de "
+#~ "usuario"
+
+#~ msgid ""
+#~ "Enable if you want to set different conversion rules based on user roles"
+#~ msgstr ""
+#~ "Activa si quieres establecer reglas de conversión diferente en base a los "
+#~ "roles de usuario"
+
+#~ msgid "Redeem conversion rules based on user roles"
+#~ msgstr "Reglas de conversión de canjeo en base a los roles de usuario"
+
+#~ msgid "For users with more than one rule"
+#~ msgstr "Para usuarios con más de una regla"
+
+#~ msgid ""
+#~ "Choose which redeem rule to apply to users with more than one role, when "
+#~ "different redeem rules are applied for roles"
+#~ msgstr ""
+#~ "Escoge que regla de canjeo aplicar a los usuarios con uno o más roles, "
+#~ "cuando reglas de canjeo diferentes son aplicadas a los roles"
+
+#~ msgid "Use the rule with lowest rewards"
+#~ msgstr "Usar el rol con menores recompensas"
+
+#~ msgid "Use the rule with highest rewards"
+#~ msgstr "Usar el rol con mayores recompensas"
+
+#~ msgid "Enable if you want to automatically delete the used coupons"
+#~ msgstr "Activa si quieres eliminar automáticamente los cupones usados"
+
+#~ msgid ""
+#~ "Set the maximum points-generated discount that can be applied per product."
+#~ msgstr ""
+#~ "Establece el descuento máximo generado por puntos que puede ser aplicado "
+#~ "por producto."
+
+#~ msgid "Assign different amounts of points based on the user role"
+#~ msgstr "Asignar diferentes cantidades de punto basado en el rol"
+
+#~ msgid ""
+#~ "Choose the rule you want to apply to assign a different number of points "
+#~ "according to the user roles"
+#~ msgstr ""
+#~ "Escoge la regla que quieres aplicar para asignar un número diferente de "
+#~ "puntos según los roles de usuario"
+
+#~ msgid "Priority Level Conversion"
+#~ msgstr "Conversión de nivel de prioridad"
+
+#~ msgid "Use the rule with the Lowest Conversion Rate"
+#~ msgstr "Usar la regla con la Menor tasa de conversión"
+
+#~ msgid "Use the rule with the Highest Conversion Rate"
+#~ msgstr "Usar la regla con la Mayor tasa de conversión"
+
+#~ msgid "Assign points when"
+#~ msgstr "Asignar puntos cuando"
+
+#~ msgid "Enable points expiration"
+#~ msgstr "Activa la caducidad de puntos"
+
+#~ msgid "Unban the user"
+#~ msgstr "Desbloquear al usuario"
+
+#~ msgid "Update user's points"
+#~ msgstr "Actualizar puntos del usuario"
+
+#~ msgid "Action:"
+#~ msgstr "Acción:"
+
+#~ msgid "Add"
+#~ msgstr "Añadir"
+
+#~ msgid "Remove"
+#~ msgstr "Eliminar"
+
+#~ msgctxt "Do not translate"
+#~ msgid "YITH WooCommerce Points and Rewards"
+#~ msgstr "YITH WooCommerce Points and Rewards"
+
+#~ msgctxt "Plugin name, do not translate"
+#~ msgid "Points and Rewards"
+#~ msgstr "Points and Rewards"
+
+#~ msgctxt "placeholder"
+#~ msgid "From&hellip;"
+#~ msgstr "Desde&hellip;"
+
+#~ msgctxt "placeholder"
+#~ msgid "To&hellip;"
+#~ msgstr "Hasta&hellip;"
+
+#~ msgctxt ""
+#~ "First placeholder: number of points; second placeholder: label of points"
+#~ msgid "Added %1$d %2$s for cancelled refund."
+#~ msgstr "Añadido %1$d %2$s para reembolso cancelado."
+
+#~ msgctxt ""
+#~ "First placeholder: number of points; second placeholder: label of points;"
+#~ msgid "<strong>%1$s</strong> %2$s"
+#~ msgid_plural "<strong>%3$s</strong> %4$s"
+#~ msgstr[0] "<strong>%1$s</strong> %2$s"
+#~ msgstr[1] "<strong>%3$s</strong> %4$s"
+
+#~ msgctxt ""
+#~ "First placeholder: number of points; second placeholder: label of points;"
+#~ msgid "You have %1$s%2$s."
+#~ msgstr "Tienes %1$s%2$s."
+
+#~ msgctxt "Plugin name, do not translate"
+#~ msgid "YITH WooCommerce Points and Rewards"
+#~ msgstr "YITH WooCommerce Points and Rewards"
+
+#~ msgid "Do not assign points to an order if the user is using a coupon"
+#~ msgstr "No asignar puntos a un pedido si el usuario está usando un cupón"
+
+#~ msgid "Choose the background Color"
+#~ msgstr "Escoge el color de fondo"

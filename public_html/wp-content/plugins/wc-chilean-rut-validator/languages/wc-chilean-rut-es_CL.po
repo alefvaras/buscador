@@ -1,0 +1,145 @@
+# Translation for WC Chilean RUT Validator
+# Copyright (C) 2025 WC Chilean RUT Validator
+# This file is distributed under the GPL v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Chilean RUT Validator 2.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/yourusername/wc-chilean-rut-validator/issues\n"
+"POT-Creation-Date: 2025-01-19 00:00:00+00:00\n"
+"PO-Revision-Date: 2025-01-19 00:00:00+00:00\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Chile)\n"
+"Language: es_CL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+
+#: wc-chilean-rut-validator.php
+msgid "This plugin requires WooCommerce to be installed and active."
+msgstr "Este plugin requiere que WooCommerce esté instalado y activo."
+
+msgid "Plugin Activation Error"
+msgstr "Error de Activación del Plugin"
+
+#: includes/class-rut-validator.php
+msgid "Please enter your RUT."
+msgstr "Por favor ingresa tu RUT."
+
+msgid "RUT format is invalid. Use format: 12.345.678-9"
+msgstr "El formato del RUT es inválido. Usa el formato: 12.345.678-9"
+
+msgid "The RUT you entered is not valid. Please check and try again."
+msgstr "El RUT ingresado no es válido. Por favor verifica e intenta nuevamente."
+
+#: includes/class-checkout-field.php
+msgid "RUT"
+msgstr "RUT"
+
+msgid "12.345.678-9"
+msgstr "12.345.678-9"
+
+msgid "RUT is a required field."
+msgstr "El RUT es un campo obligatorio."
+
+msgid "Valid RUT."
+msgstr "RUT válido."
+
+msgid "Validating..."
+msgstr "Validando..."
+
+msgid "The RUT you entered is not valid."
+msgstr "El RUT ingresado no es válido."
+
+#: includes/class-ajax-handler.php
+msgid "Security check failed. Please refresh the page."
+msgstr "Falló la verificación de seguridad. Por favor recarga la página."
+
+msgid "Too many validation requests. Please wait a moment."
+msgstr "Demasiadas solicitudes de validación. Por favor espera un momento."
+
+msgid "RUT is too long."
+msgstr "El RUT es demasiado largo."
+
+#: includes/class-admin-settings.php
+msgid "Chilean RUT"
+msgstr "RUT Chileno"
+
+msgid "Chilean RUT Validation Settings"
+msgstr "Configuración de Validación de RUT Chileno"
+
+msgid "Configure RUT field settings for your WooCommerce checkout."
+msgstr "Configura los ajustes del campo RUT para tu checkout de WooCommerce."
+
+msgid "Enable RUT Field"
+msgstr "Habilitar Campo RUT"
+
+msgid "Add RUT field to checkout"
+msgstr "Agregar campo RUT al checkout"
+
+msgid "Required Field"
+msgstr "Campo Obligatorio"
+
+msgid "Make RUT field required at checkout"
+msgstr "Hacer el campo RUT obligatorio en el checkout"
+
+msgid "AJAX Validation"
+msgstr "Validación AJAX"
+
+msgid "Enable real-time validation as user types"
+msgstr "Habilitar validación en tiempo real mientras el usuario escribe"
+
+msgid "Auto-Format"
+msgstr "Auto-Formateo"
+
+msgid "Automatically format RUT with dots and dash (12.345.678-9)"
+msgstr "Formatear automáticamente el RUT con puntos y guión (12.345.678-9)"
+
+msgid "Show Success Message"
+msgstr "Mostrar Mensaje de Éxito"
+
+msgid "Display success message when RUT is valid"
+msgstr "Mostrar mensaje de éxito cuando el RUT es válido"
+
+msgid "Field Priority"
+msgstr "Prioridad del Campo"
+
+msgid "Position of RUT field in checkout form (lower numbers appear first)"
+msgstr "Posición del campo RUT en el formulario de checkout (números menores aparecen primero)"
+
+msgid "Custom Error Message"
+msgstr "Mensaje de Error Personalizado"
+
+msgid "Custom error message for invalid RUT (leave empty for default)"
+msgstr "Mensaje de error personalizado para RUT inválido (dejar vacío para usar el predeterminado)"
+
+msgid "Testing & Tools"
+msgstr "Pruebas y Herramientas"
+
+msgid "Tools for testing RUT validation."
+msgstr "Herramientas para probar la validación de RUT."
+
+msgid "Test RUT Validation"
+msgstr "Probar Validación de RUT"
+
+msgid "Validate"
+msgstr "Validar"
+
+msgid "Enter a RUT to test the validation algorithm."
+msgstr "Ingresa un RUT para probar el algoritmo de validación."
+
+msgid "About"
+msgstr "Acerca de"
+
+msgid "WC Chilean RUT Validator"
+msgstr "Validador de RUT Chileno para WC"
+
+msgid "Professional Chilean RUT validation for WooCommerce with AJAX validation, auto-formatting, and HPOS compatibility."
+msgstr "Validación profesional de RUT chileno para WooCommerce con validación AJAX, auto-formateo y compatibilidad HPOS."
+
+msgid "Valid RUT"
+msgstr "RUT Válido"
+
+msgid "Invalid RUT"
+msgstr "RUT Inválido"

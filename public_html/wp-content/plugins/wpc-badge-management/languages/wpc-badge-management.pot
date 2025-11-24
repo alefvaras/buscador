@@ -1,0 +1,855 @@
+# Copyright (C) 2025 WPClever
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Badge Management for WooCommerce 3.1.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-badge-management\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-11-19T04:48:52+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: wpc-badge-management\n"
+
+#. Plugin Name of the plugin
+#: wpc-badge-management.php
+msgid "WPC Badge Management for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: wpc-badge-management.php
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+#: wpc-badge-management.php
+msgid "WPC Badge Management is a powerful plugin that simplifies badge management in online shops."
+msgstr ""
+
+#. Author of the plugin
+#: wpc-badge-management.php
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+#: wpc-badge-management.php
+msgid "https://wpclever.net"
+msgstr ""
+
+#. translators: category
+#: includes/class-shortcode.php:89
+#, php-format
+msgid "#%1$s in %2$s"
+msgstr ""
+
+#: wpc-badge-management.php:171
+msgctxt "Post Type General Name"
+msgid "Badges"
+msgstr ""
+
+#: wpc-badge-management.php:172
+msgctxt "Post Type Singular Name"
+msgid "Badge"
+msgstr ""
+
+#: wpc-badge-management.php:173
+msgid "Add New Badge"
+msgstr ""
+
+#: wpc-badge-management.php:174
+msgid "Add New"
+msgstr ""
+
+#: wpc-badge-management.php:175
+msgid "Edit Badge"
+msgstr ""
+
+#: wpc-badge-management.php:176
+msgid "Update Badge"
+msgstr ""
+
+#: wpc-badge-management.php:177
+msgid "Search Badge"
+msgstr ""
+
+#: wpc-badge-management.php:181
+msgid "Badge"
+msgstr ""
+
+#: wpc-badge-management.php:204
+msgctxt "taxonomy general name"
+msgid "Groups (deprecated)"
+msgstr ""
+
+#: wpc-badge-management.php:205
+msgctxt "taxonomy singular name"
+msgid "Group (deprecated)"
+msgstr ""
+
+#: wpc-badge-management.php:206
+#: wpc-badge-management.php:229
+msgid "Search Groups"
+msgstr ""
+
+#: wpc-badge-management.php:207
+#: wpc-badge-management.php:230
+msgid "All Groups"
+msgstr ""
+
+#: wpc-badge-management.php:208
+#: wpc-badge-management.php:231
+msgid "Parent Group"
+msgstr ""
+
+#: wpc-badge-management.php:209
+#: wpc-badge-management.php:232
+msgid "Parent Group:"
+msgstr ""
+
+#: wpc-badge-management.php:210
+#: wpc-badge-management.php:233
+msgid "Edit Group"
+msgstr ""
+
+#: wpc-badge-management.php:211
+#: wpc-badge-management.php:234
+msgid "Update Group"
+msgstr ""
+
+#: wpc-badge-management.php:212
+#: wpc-badge-management.php:235
+msgid "Add New Group"
+msgstr ""
+
+#: wpc-badge-management.php:213
+#: wpc-badge-management.php:236
+msgid "New Group Name"
+msgstr ""
+
+#: wpc-badge-management.php:214
+msgid "Group (deprecated)"
+msgstr ""
+
+#: wpc-badge-management.php:227
+msgctxt "taxonomy general name"
+msgid "Groups"
+msgstr ""
+
+#: wpc-badge-management.php:228
+msgctxt "taxonomy singular name"
+msgid "Group"
+msgstr ""
+
+#: wpc-badge-management.php:237
+#: wpc-badge-management.php:2848
+msgid "Group"
+msgstr ""
+
+#: wpc-badge-management.php:353
+msgid "Choose a group"
+msgstr ""
+
+#: wpc-badge-management.php:379
+#: wpc-badge-management.php:400
+#: wpc-badge-management.php:422
+#: wpc-badge-management.php:2473
+#: wpc-badge-management.php:2499
+#: wpc-badge-management.php:2526
+msgid "On image"
+msgstr ""
+
+#: wpc-badge-management.php:380
+#: wpc-badge-management.php:2474
+msgid "Above image"
+msgstr ""
+
+#: wpc-badge-management.php:381
+#: wpc-badge-management.php:401
+#: wpc-badge-management.php:423
+#: wpc-badge-management.php:2475
+#: wpc-badge-management.php:2500
+#: wpc-badge-management.php:2527
+msgid "Above title"
+msgstr ""
+
+#: wpc-badge-management.php:382
+#: wpc-badge-management.php:402
+#: wpc-badge-management.php:424
+#: wpc-badge-management.php:2476
+#: wpc-badge-management.php:2501
+#: wpc-badge-management.php:2528
+msgid "Under title"
+msgstr ""
+
+#: wpc-badge-management.php:383
+#: wpc-badge-management.php:403
+#: wpc-badge-management.php:426
+#: wpc-badge-management.php:2477
+#: wpc-badge-management.php:2502
+#: wpc-badge-management.php:2530
+msgid "Under rating"
+msgstr ""
+
+#: wpc-badge-management.php:384
+#: wpc-badge-management.php:428
+#: wpc-badge-management.php:2478
+#: wpc-badge-management.php:2532
+msgid "Under price"
+msgstr ""
+
+#: wpc-badge-management.php:385
+#: wpc-badge-management.php:405
+#: wpc-badge-management.php:433
+#: wpc-badge-management.php:2479
+#: wpc-badge-management.php:2504
+#: wpc-badge-management.php:2537
+msgid "Above add to cart button"
+msgstr ""
+
+#: wpc-badge-management.php:386
+#: wpc-badge-management.php:406
+#: wpc-badge-management.php:434
+#: wpc-badge-management.php:2480
+#: wpc-badge-management.php:2505
+#: wpc-badge-management.php:2538
+msgid "Under add to cart button"
+msgstr ""
+
+#: wpc-badge-management.php:387
+#: wpc-badge-management.php:409
+#: wpc-badge-management.php:435
+#: wpc-badge-management.php:2481
+#: wpc-badge-management.php:2508
+#: wpc-badge-management.php:2539
+msgid "None (hide it)"
+msgstr ""
+
+#: wpc-badge-management.php:390
+#: wpc-badge-management.php:2469
+msgid "Position on archive page"
+msgstr ""
+
+#: wpc-badge-management.php:404
+#: wpc-badge-management.php:430
+#: wpc-badge-management.php:2503
+#: wpc-badge-management.php:2534
+msgid "Under excerpt"
+msgstr ""
+
+#: wpc-badge-management.php:407
+#: wpc-badge-management.php:432
+#: wpc-badge-management.php:2506
+#: wpc-badge-management.php:2536
+msgid "Under meta"
+msgstr ""
+
+#: wpc-badge-management.php:408
+#: wpc-badge-management.php:2507
+msgid "Under sharing"
+msgstr ""
+
+#: wpc-badge-management.php:412
+#: wpc-badge-management.php:2495
+msgid "Position on product page"
+msgstr ""
+
+#: wpc-badge-management.php:425
+#: wpc-badge-management.php:2529
+msgid "Above rating"
+msgstr ""
+
+#: wpc-badge-management.php:427
+#: wpc-badge-management.php:2531
+msgid "Above price"
+msgstr ""
+
+#: wpc-badge-management.php:429
+#: wpc-badge-management.php:2533
+msgid "Above excerpt"
+msgstr ""
+
+#: wpc-badge-management.php:431
+#: wpc-badge-management.php:2535
+msgid "Above meta"
+msgstr ""
+
+#: wpc-badge-management.php:438
+#: wpc-badge-management.php:2522
+msgid "Position on quick view"
+msgstr ""
+
+#: wpc-badge-management.php:1036
+msgid "Configuration"
+msgstr ""
+
+#: wpc-badge-management.php:1040
+#: wpc-badge-management.php:2846
+msgid "Preview"
+msgstr ""
+
+#: wpc-badge-management.php:1394
+msgid "Active"
+msgstr ""
+
+#: wpc-badge-management.php:1403
+msgid "Set this badge as active or inactive sitewide."
+msgstr ""
+
+#: wpc-badge-management.php:1408
+msgid "Apply"
+msgstr ""
+
+#: wpc-badge-management.php:1412
+msgid "None"
+msgstr ""
+
+#: wpc-badge-management.php:1413
+#: wpc-badge-management.php:1436
+msgid "Combined"
+msgstr ""
+
+#: wpc-badge-management.php:1414
+msgid "All products"
+msgstr ""
+
+#: wpc-badge-management.php:1415
+msgid "Selected products"
+msgstr ""
+
+#: wpc-badge-management.php:1416
+#: wpc-badge-management.php:2781
+msgid "On sale"
+msgstr ""
+
+#: wpc-badge-management.php:1417
+#: wpc-badge-management.php:2782
+msgid "Featured"
+msgstr ""
+
+#: wpc-badge-management.php:1418
+#: wpc-badge-management.php:2783
+msgid "Best selling"
+msgstr ""
+
+#: wpc-badge-management.php:1419
+#: wpc-badge-management.php:2784
+msgid "In stock"
+msgstr ""
+
+#: wpc-badge-management.php:1420
+#: wpc-badge-management.php:2785
+msgid "Out of stock"
+msgstr ""
+
+#: wpc-badge-management.php:1421
+#: wpc-badge-management.php:2786
+msgid "On backorder"
+msgstr ""
+
+#: wpc-badge-management.php:1430
+msgid "Select which products you want to add this badge automatically. If \"None\" is set, you can still manually choose to add this in the \"Badges\" tab of each individual product page."
+msgstr ""
+
+#: wpc-badge-management.php:1454
+msgid "+ Add conditional"
+msgstr ""
+
+#: wpc-badge-management.php:1460
+msgid "Products"
+msgstr ""
+
+#: wpc-badge-management.php:1466
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: wpc-badge-management.php:1485
+msgid "Categories"
+msgstr ""
+
+#: wpc-badge-management.php:1506
+msgid "Tags"
+msgstr ""
+
+#: wpc-badge-management.php:1511
+msgid "Add some tags, split by a comma..."
+msgstr ""
+
+#: wpc-badge-management.php:1529
+msgid "Terms"
+msgstr ""
+
+#: wpc-badge-management.php:1557
+msgid "User roles"
+msgstr ""
+
+#: wpc-badge-management.php:1560
+msgid "Specify the user roles that are allowed to view this badge."
+msgstr ""
+
+#: wpc-badge-management.php:1564
+msgid "All"
+msgstr ""
+
+#: wpc-badge-management.php:1565
+msgid "User (logged in)"
+msgstr ""
+
+#: wpc-badge-management.php:1566
+msgid "Guest (not logged in)"
+msgstr ""
+
+#: wpc-badge-management.php:1577
+msgid "Time"
+msgstr ""
+
+#: wpc-badge-management.php:1580
+msgid "Configure date and time that must match all listed conditions."
+msgstr ""
+
+#: wpc-badge-management.php:1594
+msgid "+ Add time"
+msgstr ""
+
+#: wpc-badge-management.php:1600
+msgid "Position on image"
+msgstr ""
+
+#: wpc-badge-management.php:1606
+msgid "Top Left"
+msgstr ""
+
+#: wpc-badge-management.php:1607
+msgid "Top Center"
+msgstr ""
+
+#: wpc-badge-management.php:1608
+msgid "Top Right"
+msgstr ""
+
+#: wpc-badge-management.php:1609
+msgid "Middle Left"
+msgstr ""
+
+#: wpc-badge-management.php:1610
+msgid "Middle Center"
+msgstr ""
+
+#: wpc-badge-management.php:1611
+msgid "Middle Right"
+msgstr ""
+
+#: wpc-badge-management.php:1612
+msgid "Bottom Left"
+msgstr ""
+
+#: wpc-badge-management.php:1613
+msgid "Bottom Center"
+msgstr ""
+
+#: wpc-badge-management.php:1614
+msgid "Bottom Right"
+msgstr ""
+
+#: wpc-badge-management.php:1626
+msgid "Style"
+msgstr ""
+
+#: wpc-badge-management.php:1631
+#: wpc-badge-management.php:1681
+msgid "Add Image"
+msgstr ""
+
+#: wpc-badge-management.php:1671
+msgid "Image"
+msgstr ""
+
+#: wpc-badge-management.php:1683
+msgid "Remove Image"
+msgstr ""
+
+#: wpc-badge-management.php:1689
+#: wpc-badge-management.php:2801
+msgid "Text"
+msgstr ""
+
+#: wpc-badge-management.php:1699
+msgid "Icons"
+msgstr ""
+
+#: wpc-badge-management.php:1708
+msgid "Shortcodes"
+msgstr ""
+
+#: wpc-badge-management.php:1745
+msgid "Text color"
+msgstr ""
+
+#: wpc-badge-management.php:1759
+msgid "Background color"
+msgstr ""
+
+#: wpc-badge-management.php:1773
+msgid "Border color"
+msgstr ""
+
+#: wpc-badge-management.php:1787
+msgid "Box shadow"
+msgstr ""
+
+#: wpc-badge-management.php:1800
+msgid "Link"
+msgstr ""
+
+#: wpc-badge-management.php:1808
+msgid "Open in a new tab."
+msgstr ""
+
+#: wpc-badge-management.php:1814
+msgid "Tooltip"
+msgstr ""
+
+#: wpc-badge-management.php:1825
+msgid "Tooltip position"
+msgstr ""
+
+#: wpc-badge-management.php:1830
+msgid "Top"
+msgstr ""
+
+#: wpc-badge-management.php:1831
+msgid "Right"
+msgstr ""
+
+#: wpc-badge-management.php:1832
+msgid "Bottom"
+msgstr ""
+
+#: wpc-badge-management.php:1833
+msgid "Left"
+msgstr ""
+
+#: wpc-badge-management.php:1839
+#: wpc-badge-management.php:2849
+msgid "Order"
+msgstr ""
+
+#: wpc-badge-management.php:1849
+msgid "Extra CSS classes"
+msgstr ""
+
+#: wpc-badge-management.php:2014
+msgid "Choose the time"
+msgstr ""
+
+#: wpc-badge-management.php:2016
+msgid "On the date"
+msgstr ""
+
+#: wpc-badge-management.php:2018
+msgid "Before date & time"
+msgstr ""
+
+#: wpc-badge-management.php:2020
+msgid "After date & time"
+msgstr ""
+
+#: wpc-badge-management.php:2022
+msgid "Before date"
+msgstr ""
+
+#: wpc-badge-management.php:2024
+msgid "After date"
+msgstr ""
+
+#: wpc-badge-management.php:2026
+msgid "Multiple dates"
+msgstr ""
+
+#: wpc-badge-management.php:2028
+msgid "Date range"
+msgstr ""
+
+#: wpc-badge-management.php:2030
+msgid "All even dates"
+msgstr ""
+
+#: wpc-badge-management.php:2032
+msgid "All odd dates"
+msgstr ""
+
+#: wpc-badge-management.php:2034
+msgid "Daily time range"
+msgstr ""
+
+#: wpc-badge-management.php:2036
+msgid "Daily before time"
+msgstr ""
+
+#: wpc-badge-management.php:2038
+msgid "Daily after time"
+msgstr ""
+
+#: wpc-badge-management.php:2040
+msgid "Weekly on every"
+msgstr ""
+
+#: wpc-badge-management.php:2042
+msgid "All even weeks"
+msgstr ""
+
+#: wpc-badge-management.php:2044
+msgid "All odd weeks"
+msgstr ""
+
+#: wpc-badge-management.php:2046
+msgid "On week No."
+msgstr ""
+
+#: wpc-badge-management.php:2048
+msgid "Monthly on the"
+msgstr ""
+
+#: wpc-badge-management.php:2050
+msgid "On month No."
+msgstr ""
+
+#: wpc-badge-management.php:2052
+msgid "Everyday"
+msgstr ""
+
+#: wpc-badge-management.php:2092
+msgid "Monday"
+msgstr ""
+
+#: wpc-badge-management.php:2093
+msgid "Tuesday"
+msgstr ""
+
+#: wpc-badge-management.php:2094
+msgid "Wednesday"
+msgstr ""
+
+#: wpc-badge-management.php:2095
+msgid "Thursday"
+msgstr ""
+
+#: wpc-badge-management.php:2096
+msgid "Friday"
+msgstr ""
+
+#: wpc-badge-management.php:2097
+msgid "Saturday"
+msgstr ""
+
+#: wpc-badge-management.php:2098
+msgid "Sunday"
+msgstr ""
+
+#: wpc-badge-management.php:2311
+#: wpc-badge-management.php:2392
+msgid "Settings"
+msgstr ""
+
+#: wpc-badge-management.php:2312
+#: wpc-badge-management.php:2401
+msgid "Premium Version"
+msgstr ""
+
+#: wpc-badge-management.php:2328
+msgid "Community support"
+msgstr ""
+
+#: wpc-badge-management.php:2346
+#: wpc-badge-management.php:2361
+msgid "WPC Badge Management"
+msgstr ""
+
+#: wpc-badge-management.php:2346
+msgid "Badge Management"
+msgstr ""
+
+#: wpc-badge-management.php:2361
+msgid "Premium"
+msgstr ""
+
+#. translators: stars
+#: wpc-badge-management.php:2364
+#, php-format
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: wpc-badge-management.php:2367
+msgid "Reviews"
+msgstr ""
+
+#: wpc-badge-management.php:2370
+msgid "Changelog"
+msgstr ""
+
+#: wpc-badge-management.php:2373
+msgid "Discussion"
+msgstr ""
+
+#: wpc-badge-management.php:2381
+msgid "Settings updated."
+msgstr ""
+
+#: wpc-badge-management.php:2388
+msgid "How to use?"
+msgstr ""
+
+#: wpc-badge-management.php:2396
+msgid "Global Badges"
+msgstr ""
+
+#: wpc-badge-management.php:2405
+msgid "Essential Kit"
+msgstr ""
+
+#: wpc-badge-management.php:2413
+msgid "1. Global badges: Switch to the Global Badges tab to add the badge and also choose which products that you want to apply this badge."
+msgstr ""
+
+#: wpc-badge-management.php:2416
+msgid "2. Badges at a product basis: When adding/editing the product you can choose the Badges tab then add some badges as you want."
+msgstr ""
+
+#: wpc-badge-management.php:2429
+msgid "Icon Libraries"
+msgstr ""
+
+#: wpc-badge-management.php:2439
+msgid "FontAwesome"
+msgstr ""
+
+#: wpc-badge-management.php:2449
+msgid "Feather"
+msgstr ""
+
+#: wpc-badge-management.php:2460
+msgid "Ionicons"
+msgstr ""
+
+#: wpc-badge-management.php:2465
+msgid "Only enable which icon library that you're using for better performance."
+msgstr ""
+
+#: wpc-badge-management.php:2491
+msgid "Choose the position to show the badges on the archive page."
+msgstr ""
+
+#: wpc-badge-management.php:2518
+msgid "Choose the position to show the badges on the product page."
+msgstr ""
+
+#: wpc-badge-management.php:2549
+msgid "Choose the position to show the badges on the quick view popup."
+msgstr ""
+
+#: wpc-badge-management.php:2560
+msgid "import / export"
+msgstr ""
+
+#: wpc-badge-management.php:2606
+#: wpc-badge-management.php:2669
+msgid "Badges"
+msgstr ""
+
+#: wpc-badge-management.php:2629
+msgid "Product wasn't returned."
+msgstr ""
+
+#: wpc-badge-management.php:2640
+msgid "Type"
+msgstr ""
+
+#: wpc-badge-management.php:2646
+msgid "Default"
+msgstr ""
+
+#: wpc-badge-management.php:2650
+msgid "Disable"
+msgstr ""
+
+#: wpc-badge-management.php:2654
+msgid "Overwrite"
+msgstr ""
+
+#: wpc-badge-management.php:2658
+msgid "Prepend"
+msgstr ""
+
+#: wpc-badge-management.php:2662
+msgid "Append"
+msgstr ""
+
+#: wpc-badge-management.php:2787
+msgid "Price"
+msgstr ""
+
+#: wpc-badge-management.php:2788
+msgid "Star rating"
+msgstr ""
+
+#: wpc-badge-management.php:2789
+msgid "Stock quantity"
+msgstr ""
+
+#: wpc-badge-management.php:2790
+msgid "New release (days)"
+msgstr ""
+
+#: wpc-badge-management.php:2803
+msgid "including"
+msgstr ""
+
+#: wpc-badge-management.php:2804
+msgid "excluding"
+msgstr ""
+
+#: wpc-badge-management.php:2806
+msgid "Number"
+msgstr ""
+
+#: wpc-badge-management.php:2808
+msgid "equal to"
+msgstr ""
+
+#: wpc-badge-management.php:2809
+msgid "not equal to"
+msgstr ""
+
+#: wpc-badge-management.php:2810
+msgid "greater than"
+msgstr ""
+
+#: wpc-badge-management.php:2811
+msgid "less than"
+msgstr ""
+
+#: wpc-badge-management.php:2812
+msgid "greater or equal to"
+msgstr ""
+
+#: wpc-badge-management.php:2813
+msgid "less or equal to"
+msgstr ""
+
+#: wpc-badge-management.php:2844
+msgid "Activate"
+msgstr ""
+
+#: wpc-badge-management.php:2845
+msgid "Title"
+msgstr ""
+
+#: wpc-badge-management.php:2847
+msgid "Description"
+msgstr ""
+
+#: wpc-badge-management.php:2850
+msgid "Date"
+msgstr ""

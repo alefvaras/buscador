@@ -1,0 +1,1474 @@
+[2025-11-18 20:45:02 : INFO] - Re_Smush_It_Task server status: Online 
+[2025-11-18 20:45:05 : INFO] - A total of 43 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 20:45:05 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-18 20:45:05 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-18 20:45:05 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2025-11-18 20:45:05 : INFO] - Re_Smush_It_Task - Attachment ID : 9236, Started on : November 18, 2025 08:45:04 
+[2025-11-18 20:45:05 : INFO] - File: images.png, Compression quality: 60 
+[2025-11-18 20:45:07 : INFO] - Backing up the original image - 2025/09/images-updraft-pre-smush-original.png 
+[2025-11-18 20:45:11 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/images.png.The file was compressed from 4.47 KB to 4.31 KB, saving 3.71 percent, using WP-Optimize 
+[2025-11-18 20:45:11 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2025-11-18 20:45:11 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2025-11-18 20:45:11 : INFO] - Re_Smush_It_Task - Attachment ID : 9237, Started on : November 18, 2025 08:45:04 
+[2025-11-18 20:45:11 : INFO] - File: S_ivrea-espa-a-editorial-en-tsuki-mangas-con-env-o-a-todo-chile6415.png, Compression quality: 60 
+[2025-11-18 20:45:13 : INFO] - Backing up the original image - 2025/09/S_ivrea-espa-a-editorial-en-tsuki-mangas-con-env-o-a-todo-chile6415-updraft-pre-smush-original.png 
+[2025-11-18 20:45:17 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/S_ivrea-espa-a-editorial-en-tsuki-mangas-con-env-o-a-todo-chile6415.png.The file was compressed from 2.54 KB to 2.54 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 20:45:17 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2025-11-18 20:45:17 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2025-11-18 20:45:17 : INFO] - Re_Smush_It_Task - Attachment ID : 9238, Started on : November 18, 2025 08:45:04 
+[2025-11-18 20:45:17 : INFO] - File: S_panini-espa-a-editorial5646.png, Compression quality: 60 
+[2025-11-18 20:45:19 : INFO] - Backing up the original image - 2025/09/S_panini-espa-a-editorial5646-updraft-pre-smush-original.png 
+[2025-11-18 20:45:23 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/S_panini-espa-a-editorial5646.png.The file was compressed from 3.97 KB to 3.97 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 20:45:23 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2025-11-18 20:45:23 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2025-11-18 20:45:23 : INFO] - Re_Smush_It_Task - Attachment ID : 9240, Started on : November 18, 2025 08:45:04 
+[2025-11-18 20:45:23 : INFO] - File: S_ovni-editorial-manga3985.png, Compression quality: 60 
+[2025-11-18 20:45:25 : INFO] - Backing up the original image - 2025/09/S_ovni-editorial-manga3985-updraft-pre-smush-original.png 
+[2025-11-18 20:45:29 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/S_ovni-editorial-manga3985.png.The file was compressed from 3.00 KB to 3.00 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 20:45:29 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2025-11-18 20:45:29 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2025-11-18 20:45:29 : INFO] - Re_Smush_It_Task - Attachment ID : 9241, Started on : November 18, 2025 08:45:04 
+[2025-11-18 20:45:29 : INFO] - File: S_editorial-milkyway-en-tsuki-manga1628.png, Compression quality: 60 
+[2025-11-18 20:45:31 : INFO] - Backing up the original image - 2025/09/S_editorial-milkyway-en-tsuki-manga1628-updraft-pre-smush-original.png 
+[2025-11-18 20:45:35 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/S_editorial-milkyway-en-tsuki-manga1628.png.The file was compressed from 4.76 KB to 4.76 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 20:45:35 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2025-11-18 20:45:35 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2025-11-18 20:45:35 : INFO] - Re_Smush_It_Task - Attachment ID : 9242, Started on : November 18, 2025 08:45:04 
+[2025-11-18 20:45:35 : INFO] - File: S_ovni-editorial-manga3985-1.png, Compression quality: 60 
+[2025-11-18 20:45:37 : INFO] - Backing up the original image - 2025/09/S_ovni-editorial-manga3985-1-updraft-pre-smush-original.png 
+[2025-11-18 20:45:41 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/S_ovni-editorial-manga3985-1.png.The file was compressed from 3.00 KB to 3.00 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 20:45:41 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2025-11-18 20:45:41 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2025-11-18 20:45:41 : INFO] - Re_Smush_It_Task - Attachment ID : 9243, Started on : November 18, 2025 08:45:04 
+[2025-11-18 20:45:41 : INFO] - File: S_ivrea-argentina-editorial-en-tsuki-manga-con-env-o-a-todo-chile6244.png, Compression quality: 60 
+[2025-11-18 20:45:43 : INFO] - Backing up the original image - 2025/09/S_ivrea-argentina-editorial-en-tsuki-manga-con-env-o-a-todo-chile6244-updraft-pre-smush-original.png 
+[2025-11-18 20:45:47 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/S_ivrea-argentina-editorial-en-tsuki-manga-con-env-o-a-todo-chile6244.png.The file was compressed from 3.12 KB to 3.12 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 20:45:47 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2025-11-18 20:45:47 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2025-11-18 20:45:47 : INFO] - Re_Smush_It_Task - Attachment ID : 9265, Started on : November 18, 2025 08:45:04 
+[2025-11-18 20:45:47 : INFO] - File: ChatGPT-Image-15-sept-2025-01_25_44-p.m.png, Compression quality: 60 
+[2025-11-18 20:45:53 : INFO] - Backing up the original image - 2025/09/ChatGPT-Image-15-sept-2025-01_25_44-p.m-updraft-pre-smush-original.png 
+[2025-11-18 20:46:06 : INFO] - A total of 36 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 20:46:06 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 20:46:06 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 20:46:06 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 20:46:06 : INFO] - Cleaning up tasks of type (smush). A total of 7 tasks will be deleted. 
+[2025-11-18 20:46:24 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/ChatGPT-Image-15-sept-2025-01_25_44-p.m.png.The file was compressed from 2.11 MB to 1,019.27 KB, saving 52.75 percent, using WP-Optimize 
+[2025-11-18 20:46:24 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2025-11-18 20:46:24 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2025-11-18 20:46:24 : INFO] - Re_Smush_It_Task - Attachment ID : 9891, Started on : November 18, 2025 08:45:04 
+[2025-11-18 20:46:24 : INFO] - File: 1000000826.png, Compression quality: 60 
+[2025-11-18 20:46:29 : INFO] - Backing up the original image - 2022/02/1000000826-updraft-pre-smush-original.png 
+[2025-11-18 20:46:53 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2022/02/1000000826.png.The file was compressed from 2.16 MB to 397.89 KB, saving 81.99 percent, using WP-Optimize 
+[2025-11-18 20:46:53 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2025-11-18 20:46:53 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2025-11-18 20:46:53 : INFO] - Re_Smush_It_Task - Attachment ID : 10090, Started on : November 18, 2025 08:45:04 
+[2025-11-18 20:46:53 : INFO] - File: x0.png, Compression quality: 60 
+[2025-11-18 20:46:55 : INFO] - Backing up the original image - 2025/09/x0-updraft-pre-smush-original.png 
+[2025-11-18 20:47:04 : INFO] - A total of 43 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 20:47:04 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 20:47:04 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 20:47:04 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 20:47:04 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-11-18 20:47:05 : INFO] - A total of 43 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 20:47:05 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 20:47:05 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 20:47:05 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 20:49:10 : INFO] - A total of 43 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 20:49:10 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 20:49:10 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 20:49:10 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 20:55:14 : INFO] - A total of 43 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 20:55:14 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2025-11-18 20:55:14 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2025-11-18 20:55:14 : INFO] - Re_Smush_It_Task - Attachment ID : 10090, Started on : November 18, 2025 08:45:04 
+[2025-11-18 20:55:14 : INFO] - File: x0.png, Compression quality: 60 
+[2025-11-18 20:55:15 : INFO] - Backing up the original image - 2025/09/x0-updraft-pre-smush-original.png 
+[2025-11-18 20:55:29 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/x0.png.The file was compressed from 2.81 KB to 2.81 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 20:55:29 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2025-11-18 20:55:29 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2025-11-18 20:55:29 : INFO] - Re_Smush_It_Task - Attachment ID : 10091, Started on : November 18, 2025 08:45:04 
+[2025-11-18 20:55:29 : INFO] - File: x1.png, Compression quality: 60 
+[2025-11-18 20:55:31 : INFO] - Backing up the original image - 2025/09/x1-updraft-pre-smush-original.png 
+[2025-11-18 20:55:48 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/x1.png.The file was compressed from 16.74 KB to 4.23 KB, saving 74.75 percent, using WP-Optimize 
+[2025-11-18 20:55:48 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2025-11-18 20:55:48 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2025-11-18 20:55:48 : INFO] - Re_Smush_It_Task - Attachment ID : 10094, Started on : November 18, 2025 08:45:04 
+[2025-11-18 20:55:48 : INFO] - File: imagen-figu-e1758548999879.png, Compression quality: 60 
+[2025-11-18 20:55:52 : INFO] - Backing up the original image - 2025/09/imagen-figu-e1758548999879-updraft-pre-smush-original.png 
+[2025-11-18 20:56:27 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/imagen-figu-e1758548999879.png.The file was compressed from 984.59 KB to 280.08 KB, saving 71.55 percent, using WP-Optimize 
+[2025-11-18 20:56:27 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2025-11-18 20:56:27 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2025-11-18 20:56:27 : INFO] - Re_Smush_It_Task - Attachment ID : 10095, Started on : November 18, 2025 08:45:04 
+[2025-11-18 20:56:27 : INFO] - File: 3-e1758549140850.png, Compression quality: 60 
+[2025-11-18 20:56:30 : INFO] - Backing up the original image - 2025/09/3-e1758549140850-updraft-pre-smush-original.png 
+[2025-11-18 20:56:48 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/3-e1758549140850.png.The file was compressed from 5.62 KB to 5.18 KB, saving 7.79 percent, using WP-Optimize 
+[2025-11-18 20:56:48 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2025-11-18 20:56:48 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2025-11-18 20:56:48 : INFO] - Re_Smush_It_Task - Attachment ID : 10097, Started on : November 18, 2025 08:45:04 
+[2025-11-18 20:56:48 : INFO] - File: 2.png, Compression quality: 60 
+[2025-11-18 20:56:49 : INFO] - Backing up the original image - 2025/09/2-updraft-pre-smush-original.png 
+[2025-11-18 20:57:00 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/2.png.The file was compressed from 16.83 KB to 5.78 KB, saving 65.68 percent, using WP-Optimize 
+[2025-11-18 20:57:00 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2025-11-18 20:57:00 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2025-11-18 20:57:00 : INFO] - Re_Smush_It_Task - Attachment ID : 10098, Started on : November 18, 2025 08:45:04 
+[2025-11-18 20:57:00 : INFO] - File: 2-1-e1758556473323.png, Compression quality: 60 
+[2025-11-18 20:57:03 : INFO] - Backing up the original image - 2025/09/2-1-e1758556473323-updraft-pre-smush-original.png 
+[2025-11-18 21:05:02 : INFO] - A total of 38 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:05:02 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2025-11-18 21:05:02 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2025-11-18 21:05:02 : INFO] - Re_Smush_It_Task - Attachment ID : 10098, Started on : November 18, 2025 08:45:04 
+[2025-11-18 21:05:02 : INFO] - File: 2-1-e1758556473323.png, Compression quality: 60 
+[2025-11-18 21:05:05 : INFO] - Backing up the original image - 2025/09/2-1-e1758556473323-updraft-pre-smush-original.png 
+[2025-11-18 21:05:17 : INFO] - A total of 38 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:05:17 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 21:05:17 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 21:05:17 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 21:05:17 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2025-11-18 21:05:25 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/2-1-e1758556473323.png.The file was compressed from 56.16 KB to 56.16 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 21:05:25 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2025-11-18 21:05:25 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2025-11-18 21:05:25 : INFO] - Re_Smush_It_Task - Attachment ID : 10100, Started on : November 18, 2025 08:45:04 
+[2025-11-18 21:05:25 : INFO] - File: explora-scaled-e1758556932287.png, Compression quality: 60 
+[2025-11-18 21:05:28 : INFO] - Backing up the original image - 2025/09/explora-scaled-e1758556932287-updraft-pre-smush-original.png 
+[2025-11-18 21:05:53 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/explora-scaled-e1758556932287.png.The file was compressed from 46.37 KB to 34.46 KB, saving 25.68 percent, using WP-Optimize 
+[2025-11-18 21:05:53 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2025-11-18 21:05:53 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2025-11-18 21:05:53 : INFO] - Re_Smush_It_Task - Attachment ID : 10264, Started on : November 18, 2025 08:45:04 
+[2025-11-18 21:05:53 : INFO] - File: lineas-radiales-explosion-destello-comic-o-estilo-manga-aisladas-sobre-fondo-transparente-explosion-tiras-luz-negra.png, Compression quality: 60 
+[2025-11-18 21:05:58 : INFO] - Backing up the original image - 2025/09/lineas-radiales-explosion-destello-comic-o-estilo-manga-aisladas-sobre-fondo-transparente-explosion-tiras-luz-negra-updraft-pre-smush-original.png 
+[2025-11-18 21:05:59 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/lineas-radiales-explosion-destello-comic-o-estilo-manga-aisladas-sobre-fondo-transparente-explosion-tiras-luz-negra.png.The file was compressed from 1.60 MB to 334.78 KB, saving 79.57 percent, using WP-Optimize 
+[2025-11-18 21:05:59 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2025-11-18 21:05:59 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2025-11-18 21:05:59 : INFO] - Re_Smush_It_Task - Attachment ID : 10268, Started on : November 18, 2025 08:45:04 
+[2025-11-18 21:05:59 : INFO] - File: 5-e1758578804667.png, Compression quality: 60 
+[2025-11-18 21:06:01 : INFO] - Backing up the original image - 2025/09/5-e1758578804667-updraft-pre-smush-original.png 
+[2025-11-18 21:06:19 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/5-e1758578804667.png.The file was compressed from 7.47 KB to 7.00 KB, saving 6.29 percent, using WP-Optimize 
+[2025-11-18 21:06:19 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2025-11-18 21:06:19 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2025-11-18 21:06:19 : INFO] - Re_Smush_It_Task - Attachment ID : 10305, Started on : November 18, 2025 08:45:04 
+[2025-11-18 21:06:19 : INFO] - File: 1000000826-2-scaled-e1758692190673.png, Compression quality: 60 
+[2025-11-18 21:06:24 : INFO] - Backing up the original image - 2022/02/1000000826-2-scaled-e1758692190673-updraft-pre-smush-original.png 
+[2025-11-18 21:07:00 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2022/02/1000000826-2-scaled-e1758692190673.png.The file was compressed from 472.14 KB to 462.67 KB, saving 2.01 percent, using WP-Optimize 
+[2025-11-18 21:07:00 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2025-11-18 21:07:00 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2025-11-18 21:07:00 : INFO] - Re_Smush_It_Task - Attachment ID : 10388, Started on : November 18, 2025 08:45:04 
+[2025-11-18 21:07:00 : INFO] - File: 4-e1758660897539.png, Compression quality: 60 
+[2025-11-18 21:07:02 : INFO] - Backing up the original image - 2025/09/4-e1758660897539-updraft-pre-smush-original.png 
+[2025-11-18 21:07:03 : INFO] - A total of 33 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:07:03 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 21:07:03 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 21:07:03 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 21:07:03 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2025-11-18 21:27:39 : INFO] - A total of 33 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:27:39 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2025-11-18 21:27:39 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2025-11-18 21:27:39 : INFO] - Re_Smush_It_Task - Attachment ID : 10388, Started on : November 18, 2025 08:45:04 
+[2025-11-18 21:27:39 : INFO] - File: 4-e1758660897539.png, Compression quality: 60 
+[2025-11-18 21:27:40 : INFO] - Backing up the original image - 2025/09/4-e1758660897539-updraft-pre-smush-original.png 
+[2025-11-18 21:27:59 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/4-e1758660897539.png.The file was compressed from 5.17 KB to 5.17 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 21:27:59 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2025-11-18 21:27:59 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2025-11-18 21:27:59 : INFO] - Re_Smush_It_Task - Attachment ID : 10390, Started on : November 18, 2025 08:45:04 
+[2025-11-18 21:27:59 : INFO] - File: comics-scaled-e1758662549350.png, Compression quality: 60 
+[2025-11-18 21:28:01 : INFO] - Backing up the original image - 2025/09/comics-scaled-e1758662549350-updraft-pre-smush-original.png 
+[2025-11-18 21:28:28 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/comics-scaled-e1758662549350.png.The file was compressed from 46.58 KB to 34.67 KB, saving 25.58 percent, using WP-Optimize 
+[2025-11-18 21:28:28 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2025-11-18 21:28:28 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2025-11-18 21:28:28 : INFO] - Re_Smush_It_Task - Attachment ID : 10826, Started on : November 18, 2025 08:45:04 
+[2025-11-18 21:28:28 : INFO] - File: favicon_512x512.png, Compression quality: 60 
+[2025-11-18 21:28:30 : INFO] - Backing up the original image - 2025/09/favicon_512x512-updraft-pre-smush-original.png 
+[2025-11-18 21:28:46 : INFO] - Task with ID 22 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 10001 milliseconds with 0 out of 0 bytes received 
+[2025-11-18 21:28:46 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2025-11-18 21:29:16 : INFO] - Task with ID 22 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 30001 milliseconds with 0 bytes received 
+[2025-11-18 21:29:16 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2025-11-18 21:29:27 : INFO] - Task with ID 22 and type (smush) failed with error code http_request_failed - cURL error 28: Connection timed out after 10001 milliseconds 
+[2025-11-18 21:29:27 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2025-11-18 21:29:27 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/favicon_512x512.png.The file was compressed from 80.52 KB to 41.07 KB, saving 48.99 percent, using WP-Optimize 
+[2025-11-18 21:29:27 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2025-11-18 21:29:27 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2025-11-18 21:29:27 : INFO] - Re_Smush_It_Task - Attachment ID : 10866, Started on : November 18, 2025 08:45:04 
+[2025-11-18 21:29:27 : INFO] - File: ChatGPT-Image-25-sept-2025-06_49_50-p.m.png, Compression quality: 60 
+[2025-11-18 21:32:13 : INFO] - A total of 30 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:32:13 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 21:32:13 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 21:32:13 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 21:32:13 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2025-11-18 21:33:14 : INFO] - A total of 30 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:33:14 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2025-11-18 21:33:14 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2025-11-18 21:33:14 : INFO] - Re_Smush_It_Task - Attachment ID : 10866, Started on : November 18, 2025 08:45:04 
+[2025-11-18 21:33:14 : INFO] - File: ChatGPT-Image-25-sept-2025-06_49_50-p.m.png, Compression quality: 60 
+[2025-11-18 21:33:45 : INFO] - Task with ID 23 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 30001 milliseconds with 0 bytes received 
+[2025-11-18 21:33:45 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2025-11-18 21:34:02 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/ChatGPT-Image-25-sept-2025-06_49_50-p.m.png.The file was compressed from 542.33 KB to 542.33 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 21:34:02 : INFO] - Completed processing task with ID : 23, and type 'smush' 
+[2025-11-18 21:34:02 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2025-11-18 21:34:02 : INFO] - Re_Smush_It_Task - Attachment ID : 10868, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:34:02 : INFO] - File: ChatGPT-Image-25-sept-2025-06_49_50-p.m-1.png, Compression quality: 60 
+[2025-11-18 21:34:06 : INFO] - Backing up the original image - 2025/09/ChatGPT-Image-25-sept-2025-06_49_50-p.m-1-updraft-pre-smush-original.png 
+[2025-11-18 21:34:23 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/ChatGPT-Image-25-sept-2025-06_49_50-p.m-1.png.The file was compressed from 542.33 KB to 256.20 KB, saving 52.76 percent, using WP-Optimize 
+[2025-11-18 21:34:23 : INFO] - Completed processing task with ID : 24, and type 'smush' 
+[2025-11-18 21:34:23 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2025-11-18 21:34:23 : INFO] - Re_Smush_It_Task - Attachment ID : 10869, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:34:23 : INFO] - File: ChatGPT-Image-25-sept-2025-06_49_50-p.m-2.png, Compression quality: 60 
+[2025-11-18 21:34:28 : INFO] - Backing up the original image - 2025/09/ChatGPT-Image-25-sept-2025-06_49_50-p.m-2-updraft-pre-smush-original.png 
+[2025-11-18 21:34:44 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/ChatGPT-Image-25-sept-2025-06_49_50-p.m-2.png.The file was compressed from 542.33 KB to 256.20 KB, saving 52.76 percent, using WP-Optimize 
+[2025-11-18 21:34:45 : INFO] - Completed processing task with ID : 25, and type 'smush' 
+[2025-11-18 21:34:45 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2025-11-18 21:34:45 : INFO] - Re_Smush_It_Task - Attachment ID : 10890, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:34:45 : INFO] - File: ahorasi2.png, Compression quality: 60 
+[2025-11-18 21:34:47 : INFO] - Backing up the original image - 2025/09/ahorasi2-updraft-pre-smush-original.png 
+[2025-11-18 21:34:52 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/ahorasi2.png.The file was compressed from 68.39 KB to 32.82 KB, saving 52.01 percent, using WP-Optimize 
+[2025-11-18 21:34:52 : INFO] - Completed processing task with ID : 26, and type 'smush' 
+[2025-11-18 21:34:52 : INFO] - Processing task with ID : 27, and type 'smush' 
+[2025-11-18 21:34:52 : INFO] - Re_Smush_It_Task - Attachment ID : 10892, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:34:52 : INFO] - File: 1000000826-1.png, Compression quality: 60 
+[2025-11-18 21:34:54 : INFO] - Backing up the original image - 2025/09/1000000826-1-updraft-pre-smush-original.png 
+[2025-11-18 21:35:03 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/1000000826-1.png.The file was compressed from 96.57 KB to 39.81 KB, saving 58.78 percent, using WP-Optimize 
+[2025-11-18 21:35:03 : INFO] - Completed processing task with ID : 27, and type 'smush' 
+[2025-11-18 21:35:03 : INFO] - Processing task with ID : 28, and type 'smush' 
+[2025-11-18 21:35:03 : INFO] - Re_Smush_It_Task - Attachment ID : 10895, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:35:03 : INFO] - File: sssss.png, Compression quality: 60 
+[2025-11-18 21:35:05 : INFO] - Backing up the original image - 2025/09/sssss-updraft-pre-smush-original.png 
+[2025-11-18 21:35:11 : INFO] - Re_Smush_It_Task server status: Online 
+[2025-11-18 21:35:12 : INFO] - A total of 26 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:35:12 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 21:35:12 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 21:35:12 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 21:35:12 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2025-11-18 21:35:15 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/sssss.png.The file was compressed from 96.57 KB to 39.81 KB, saving 58.78 percent, using WP-Optimize 
+[2025-11-18 21:35:15 : INFO] - Completed processing task with ID : 28, and type 'smush' 
+[2025-11-18 21:35:15 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2025-11-18 21:35:15 : INFO] - Re_Smush_It_Task - Attachment ID : 10901, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:35:15 : INFO] - File: 6-1.png, Compression quality: 60 
+[2025-11-18 21:35:16 : INFO] - A total of 25 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:35:16 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 21:35:16 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 21:35:16 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 21:35:16 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-11-18 21:36:12 : INFO] - A total of 25 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:36:12 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 21:36:12 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 21:36:12 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 21:37:12 : INFO] - A total of 25 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:37:12 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 21:37:12 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 21:37:12 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 21:37:43 : INFO] - A total of 25 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:37:43 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 21:37:43 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 21:37:43 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 21:38:12 : INFO] - A total of 25 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:38:12 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 21:38:12 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 21:38:12 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 21:39:12 : INFO] - A total of 25 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:39:12 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2025-11-18 21:39:12 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2025-11-18 21:39:12 : INFO] - Re_Smush_It_Task - Attachment ID : 10901, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:39:12 : INFO] - File: 6-1.png, Compression quality: 60 
+[2025-11-18 21:39:14 : INFO] - Backing up the original image - 2025/09/6-1-updraft-pre-smush-original.png 
+[2025-11-18 21:39:29 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/6-1.png.The file was compressed from 67.26 KB to 34.88 KB, saving 48.14 percent, using WP-Optimize 
+[2025-11-18 21:39:30 : INFO] - Completed processing task with ID : 29, and type 'smush' 
+[2025-11-18 21:39:30 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2025-11-18 21:39:30 : INFO] - Re_Smush_It_Task - Attachment ID : 10906, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:39:30 : INFO] - File: dsdfsf.png, Compression quality: 60 
+[2025-11-18 21:39:32 : INFO] - Backing up the original image - 2025/09/dsdfsf-updraft-pre-smush-original.png 
+[2025-11-18 21:39:43 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/dsdfsf.png.The file was compressed from 107.02 KB to 38.71 KB, saving 63.83 percent, using WP-Optimize 
+[2025-11-18 21:39:43 : INFO] - Completed processing task with ID : 30, and type 'smush' 
+[2025-11-18 21:39:43 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2025-11-18 21:39:43 : INFO] - Re_Smush_It_Task - Attachment ID : 10913, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:39:43 : INFO] - File: 4-1-scaled-e1758851359534.png, Compression quality: 60 
+[2025-11-18 21:39:45 : INFO] - Backing up the original image - 2025/09/4-1-scaled-e1758851359534-updraft-pre-smush-original.png 
+[2025-11-18 21:40:06 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/4-1-scaled-e1758851359534.png.The file was compressed from 13.69 KB to 13.17 KB, saving 3.85 percent, using WP-Optimize 
+[2025-11-18 21:40:06 : INFO] - Completed processing task with ID : 31, and type 'smush' 
+[2025-11-18 21:40:06 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2025-11-18 21:40:06 : INFO] - Re_Smush_It_Task - Attachment ID : 11098, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:40:06 : INFO] - File: akakakakaka.png, Compression quality: 60 
+[2025-11-18 21:40:09 : INFO] - Backing up the original image - 2025/09/akakakakaka-updraft-pre-smush-original.png 
+[2025-11-18 21:40:12 : INFO] - A total of 22 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:40:12 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 21:40:12 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 21:40:12 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 21:40:12 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2025-11-18 21:40:29 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/akakakakaka.png.The file was compressed from 570.34 KB to 187.89 KB, saving 67.06 percent, using WP-Optimize 
+[2025-11-18 21:40:29 : INFO] - Completed processing task with ID : 32, and type 'smush' 
+[2025-11-18 21:40:29 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2025-11-18 21:40:29 : INFO] - Re_Smush_It_Task - Attachment ID : 11385, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:40:29 : INFO] - File: www.reallygreatsite.com-1.png, Compression quality: 60 
+[2025-11-18 21:40:33 : INFO] - Backing up the original image - 2025/09/www.reallygreatsite.com-1-updraft-pre-smush-original.png 
+[2025-11-18 21:40:57 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/www.reallygreatsite.com-1.png.The file was compressed from 267.81 KB to 95.09 KB, saving 64.49 percent, using WP-Optimize 
+[2025-11-18 21:40:57 : INFO] - Completed processing task with ID : 33, and type 'smush' 
+[2025-11-18 21:40:57 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2025-11-18 21:40:57 : INFO] - Re_Smush_It_Task - Attachment ID : 11588, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:40:57 : INFO] - File: argentina.png, Compression quality: 60 
+[2025-11-18 21:40:58 : INFO] - Backing up the original image - 2025/10/argentina-updraft-pre-smush-original.png 
+[2025-11-18 21:41:11 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/10/argentina.png.The file was compressed from 7.82 KB to 3.25 KB, saving 58.48 percent, using WP-Optimize 
+[2025-11-18 21:41:11 : INFO] - Completed processing task with ID : 34, and type 'smush' 
+[2025-11-18 21:41:11 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2025-11-18 21:41:11 : INFO] - Re_Smush_It_Task - Attachment ID : 11589, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:41:11 : INFO] - File: espana.png, Compression quality: 60 
+[2025-11-18 21:41:12 : INFO] - A total of 19 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:41:12 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 21:41:12 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 21:41:12 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 21:41:12 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2025-11-18 21:41:12 : INFO] - A total of 19 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:41:12 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 21:41:12 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 21:41:12 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 21:42:12 : INFO] - A total of 19 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:42:12 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 21:42:12 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 21:42:12 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 21:43:12 : INFO] - A total of 19 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:43:12 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 21:43:12 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 21:43:12 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 21:44:12 : INFO] - A total of 19 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:44:12 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 21:44:12 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 21:44:12 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 21:45:12 : INFO] - A total of 19 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:45:12 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2025-11-18 21:45:12 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2025-11-18 21:45:12 : INFO] - Re_Smush_It_Task - Attachment ID : 11589, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:45:12 : INFO] - File: espana.png, Compression quality: 60 
+[2025-11-18 21:45:13 : INFO] - Backing up the original image - 2025/10/espana-updraft-pre-smush-original.png 
+[2025-11-18 21:45:23 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/10/espana.png.The file was compressed from 11.15 KB to 5.16 KB, saving 53.71 percent, using WP-Optimize 
+[2025-11-18 21:45:23 : INFO] - Completed processing task with ID : 35, and type 'smush' 
+[2025-11-18 21:45:23 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2025-11-18 21:45:23 : INFO] - Re_Smush_It_Task - Attachment ID : 11954, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:45:23 : INFO] - File: Berserk-01.jpg, Compression quality: 60 
+[2025-11-18 21:45:25 : INFO] - Backing up the original image - 2022/02/Berserk-01-updraft-pre-smush-original.jpg 
+[2025-11-18 21:45:37 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2022/02/Berserk-01.jpg.The file was compressed from 54.04 KB to 43.46 KB, saving 19.58 percent, using WP-Optimize 
+[2025-11-18 21:45:37 : INFO] - Completed processing task with ID : 36, and type 'smush' 
+[2025-11-18 21:45:37 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2025-11-18 21:45:37 : INFO] - Re_Smush_It_Task - Attachment ID : 12250, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:45:37 : INFO] - File: default-giftcard-main-image.jpg, Compression quality: 60 
+[2025-11-18 21:45:40 : INFO] - Backing up the original image - 2025/11/default-giftcard-main-image-updraft-pre-smush-original.jpg 
+[2025-11-18 21:46:00 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/default-giftcard-main-image.jpg.The file was compressed from 66.44 KB to 43.62 KB, saving 34.34 percent, using WP-Optimize 
+[2025-11-18 21:46:00 : INFO] - Completed processing task with ID : 37, and type 'smush' 
+[2025-11-18 21:46:00 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2025-11-18 21:46:00 : INFO] - Re_Smush_It_Task - Attachment ID : 12358, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:46:00 : INFO] - File: generated-image-10.png, Compression quality: 60 
+[2025-11-18 21:46:06 : INFO] - Backing up the original image - 2025/11/generated-image-10-updraft-pre-smush-original.png 
+[2025-11-18 21:46:40 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/generated-image-10.png.The file was compressed from 2.21 MB to 723.66 KB, saving 67.97 percent, using WP-Optimize 
+[2025-11-18 21:46:40 : INFO] - Completed processing task with ID : 38, and type 'smush' 
+[2025-11-18 21:46:40 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2025-11-18 21:46:40 : INFO] - Re_Smush_It_Task - Attachment ID : 12359, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:46:40 : INFO] - File: generated-image-17.png, Compression quality: 60 
+[2025-11-18 21:46:45 : INFO] - Backing up the original image - 2025/11/generated-image-17-updraft-pre-smush-original.png 
+[2025-11-18 21:47:12 : INFO] - A total of 15 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:47:12 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 21:47:12 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 21:47:12 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 21:47:12 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2025-11-18 21:51:01 : INFO] - A total of 15 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:51:01 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2025-11-18 21:51:01 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2025-11-18 21:51:01 : INFO] - Re_Smush_It_Task - Attachment ID : 12359, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:51:01 : INFO] - File: generated-image-17.png, Compression quality: 60 
+[2025-11-18 21:51:06 : INFO] - Backing up the original image - 2025/11/generated-image-17-updraft-pre-smush-original.png 
+[2025-11-18 21:51:14 : INFO] - A total of 15 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 21:51:14 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 21:51:14 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 21:51:14 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 21:51:35 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/generated-image-17.png.The file was compressed from 616.54 KB to 613.33 KB, saving 0.52 percent, using WP-Optimize 
+[2025-11-18 21:51:35 : INFO] - Completed processing task with ID : 39, and type 'smush' 
+[2025-11-18 21:51:35 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2025-11-18 21:51:35 : INFO] - Re_Smush_It_Task - Attachment ID : 12360, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:51:35 : INFO] - File: generated-image-16.png, Compression quality: 60 
+[2025-11-18 21:51:41 : INFO] - Backing up the original image - 2025/11/generated-image-16-updraft-pre-smush-original.png 
+[2025-11-18 21:52:12 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/generated-image-16.png.The file was compressed from 1.49 MB to 494.25 KB, saving 67.71 percent, using WP-Optimize 
+[2025-11-18 21:52:12 : INFO] - Completed processing task with ID : 40, and type 'smush' 
+[2025-11-18 21:52:12 : INFO] - Processing task with ID : 41, and type 'smush' 
+[2025-11-18 21:52:12 : INFO] - Re_Smush_It_Task - Attachment ID : 12569, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:52:12 : INFO] - File: S_panini-espa-a-editorial5646.png, Compression quality: 60 
+[2025-11-18 21:52:14 : INFO] - Backing up the original image - 2025/11/S_panini-espa-a-editorial5646-updraft-pre-smush-original.png 
+[2025-11-18 21:52:17 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/S_panini-espa-a-editorial5646.png.The file was compressed from 3.97 KB to 3.97 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 21:52:17 : INFO] - Completed processing task with ID : 41, and type 'smush' 
+[2025-11-18 21:52:17 : INFO] - Processing task with ID : 42, and type 'smush' 
+[2025-11-18 21:52:17 : INFO] - Re_Smush_It_Task - Attachment ID : 12570, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:52:17 : INFO] - File: S_editorial-tomodomo-espa-a-en-tsuki-manga4465.png, Compression quality: 60 
+[2025-11-18 21:52:19 : INFO] - Backing up the original image - 2025/11/S_editorial-tomodomo-espa-a-en-tsuki-manga4465-updraft-pre-smush-original.png 
+[2025-11-18 21:52:22 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/S_editorial-tomodomo-espa-a-en-tsuki-manga4465.png.The file was compressed from 5.74 KB to 5.74 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 21:52:22 : INFO] - Completed processing task with ID : 42, and type 'smush' 
+[2025-11-18 21:52:22 : INFO] - Processing task with ID : 43, and type 'smush' 
+[2025-11-18 21:52:22 : INFO] - Re_Smush_It_Task - Attachment ID : 12789, Started on : November 18, 2025 08:45:05 
+[2025-11-18 21:52:22 : INFO] - File: 6f2e57d2-004e-4700-bc10-61446078e982.png.jpeg, Compression quality: 60 
+[2025-11-18 21:52:28 : INFO] - Backing up the original image - 2025/11/6f2e57d2-004e-4700-bc10-61446078e982.png-updraft-pre-smush-original.jpeg 
+[2025-11-18 21:52:52 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/6f2e57d2-004e-4700-bc10-61446078e982.png.jpeg.The file was compressed from 670.09 KB to 114.04 KB, saving 82.98 percent, using WP-Optimize 
+[2025-11-18 21:52:52 : INFO] - Completed processing task with ID : 43, and type 'smush' 
+[2025-11-18 21:52:52 : INFO] - Processing task with ID : 44, and type 'smush' 
+[2025-11-18 21:52:52 : INFO] - Re_Smush_It_Task - Attachment ID : 9236, Started on : November 18, 2025 08:47:04 
+[2025-11-18 21:52:52 : INFO] - File: images.png, Compression quality: 60 
+[2025-11-18 21:52:54 : INFO] - Backing up the original image - 2025/09/images-updraft-pre-smush-original.png 
+[2025-11-18 21:52:58 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/images.png.The file was compressed from 4.31 KB to 4.31 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 21:52:58 : INFO] - Completed processing task with ID : 44, and type 'smush' 
+[2025-11-18 21:52:58 : INFO] - Processing task with ID : 45, and type 'smush' 
+[2025-11-18 21:52:58 : INFO] - Re_Smush_It_Task - Attachment ID : 9237, Started on : November 18, 2025 08:47:04 
+[2025-11-18 21:52:58 : INFO] - File: S_ivrea-espa-a-editorial-en-tsuki-mangas-con-env-o-a-todo-chile6415.png, Compression quality: 60 
+[2025-11-18 22:00:35 : INFO] - A total of 9 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 22:00:35 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2025-11-18 22:00:35 : INFO] - Processing task with ID : 45, and type 'smush' 
+[2025-11-18 22:00:35 : INFO] - Re_Smush_It_Task - Attachment ID : 9237, Started on : November 18, 2025 08:47:04 
+[2025-11-18 22:00:35 : INFO] - File: S_ivrea-espa-a-editorial-en-tsuki-mangas-con-env-o-a-todo-chile6415.png, Compression quality: 60 
+[2025-11-18 22:00:37 : INFO] - Backing up the original image - 2025/09/S_ivrea-espa-a-editorial-en-tsuki-mangas-con-env-o-a-todo-chile6415-updraft-pre-smush-original.png 
+[2025-11-18 22:00:41 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/S_ivrea-espa-a-editorial-en-tsuki-mangas-con-env-o-a-todo-chile6415.png.The file was compressed from 2.54 KB to 2.54 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 22:00:41 : INFO] - Completed processing task with ID : 45, and type 'smush' 
+[2025-11-18 22:00:41 : INFO] - Processing task with ID : 46, and type 'smush' 
+[2025-11-18 22:00:41 : INFO] - Re_Smush_It_Task - Attachment ID : 9238, Started on : November 18, 2025 08:47:04 
+[2025-11-18 22:00:41 : INFO] - File: S_panini-espa-a-editorial5646.png, Compression quality: 60 
+[2025-11-18 22:00:43 : INFO] - Backing up the original image - 2025/09/S_panini-espa-a-editorial5646-updraft-pre-smush-original.png 
+[2025-11-18 22:00:47 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/S_panini-espa-a-editorial5646.png.The file was compressed from 3.97 KB to 3.97 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 22:00:47 : INFO] - Completed processing task with ID : 46, and type 'smush' 
+[2025-11-18 22:00:47 : INFO] - Processing task with ID : 47, and type 'smush' 
+[2025-11-18 22:00:47 : INFO] - Re_Smush_It_Task - Attachment ID : 9240, Started on : November 18, 2025 08:47:04 
+[2025-11-18 22:00:47 : INFO] - File: S_ovni-editorial-manga3985.png, Compression quality: 60 
+[2025-11-18 22:00:49 : INFO] - Backing up the original image - 2025/09/S_ovni-editorial-manga3985-updraft-pre-smush-original.png 
+[2025-11-18 22:00:54 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/S_ovni-editorial-manga3985.png.The file was compressed from 3.00 KB to 3.00 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 22:00:54 : INFO] - Completed processing task with ID : 47, and type 'smush' 
+[2025-11-18 22:00:54 : INFO] - Processing task with ID : 48, and type 'smush' 
+[2025-11-18 22:00:54 : INFO] - Re_Smush_It_Task - Attachment ID : 9241, Started on : November 18, 2025 08:47:04 
+[2025-11-18 22:00:54 : INFO] - File: S_editorial-milkyway-en-tsuki-manga1628.png, Compression quality: 60 
+[2025-11-18 22:00:55 : INFO] - Backing up the original image - 2025/09/S_editorial-milkyway-en-tsuki-manga1628-updraft-pre-smush-original.png 
+[2025-11-18 22:01:00 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/S_editorial-milkyway-en-tsuki-manga1628.png.The file was compressed from 4.76 KB to 4.76 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 22:01:00 : INFO] - Completed processing task with ID : 48, and type 'smush' 
+[2025-11-18 22:01:00 : INFO] - Processing task with ID : 49, and type 'smush' 
+[2025-11-18 22:01:00 : INFO] - Re_Smush_It_Task - Attachment ID : 9242, Started on : November 18, 2025 08:47:04 
+[2025-11-18 22:01:00 : INFO] - File: S_ovni-editorial-manga3985-1.png, Compression quality: 60 
+[2025-11-18 22:01:02 : INFO] - Backing up the original image - 2025/09/S_ovni-editorial-manga3985-1-updraft-pre-smush-original.png 
+[2025-11-18 22:01:06 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/S_ovni-editorial-manga3985-1.png.The file was compressed from 3.00 KB to 3.00 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 22:01:06 : INFO] - Completed processing task with ID : 49, and type 'smush' 
+[2025-11-18 22:01:06 : INFO] - Processing task with ID : 50, and type 'smush' 
+[2025-11-18 22:01:06 : INFO] - Re_Smush_It_Task - Attachment ID : 9243, Started on : November 18, 2025 08:47:04 
+[2025-11-18 22:01:06 : INFO] - File: S_ivrea-argentina-editorial-en-tsuki-manga-con-env-o-a-todo-chile6244.png, Compression quality: 60 
+[2025-11-18 22:01:08 : INFO] - Backing up the original image - 2025/09/S_ivrea-argentina-editorial-en-tsuki-manga-con-env-o-a-todo-chile6244-updraft-pre-smush-original.png 
+[2025-11-18 22:01:12 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/S_ivrea-argentina-editorial-en-tsuki-manga-con-env-o-a-todo-chile6244.png.The file was compressed from 3.12 KB to 3.12 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 22:01:12 : INFO] - Completed processing task with ID : 50, and type 'smush' 
+[2025-11-18 22:01:12 : INFO] - Processing task with ID : 51, and type 'smush' 
+[2025-11-18 22:01:12 : INFO] - Re_Smush_It_Task - Attachment ID : 9265, Started on : November 18, 2025 08:47:04 
+[2025-11-18 22:01:12 : INFO] - File: ChatGPT-Image-15-sept-2025-01_25_44-p.m.png, Compression quality: 60 
+[2025-11-18 22:01:18 : INFO] - Backing up the original image - 2025/09/ChatGPT-Image-15-sept-2025-01_25_44-p.m-updraft-pre-smush-original.png 
+[2025-11-18 22:01:48 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/ChatGPT-Image-15-sept-2025-01_25_44-p.m.png.The file was compressed from 1,019.27 KB to 1,019.19 KB, saving 0.01 percent, using WP-Optimize 
+[2025-11-18 22:01:48 : INFO] - Completed processing task with ID : 51, and type 'smush' 
+[2025-11-18 22:01:48 : INFO] - Processing task with ID : 52, and type 'smush' 
+[2025-11-18 22:01:48 : INFO] - Re_Smush_It_Task - Attachment ID : 9891, Started on : November 18, 2025 08:47:04 
+[2025-11-18 22:01:48 : INFO] - File: 1000000826.png, Compression quality: 60 
+[2025-11-18 22:01:53 : INFO] - Backing up the original image - 2022/02/1000000826-updraft-pre-smush-original.png 
+[2025-11-18 22:02:00 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 22:02:00 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-18 22:02:00 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-18 22:02:00 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-18 22:02:00 : INFO] - Cleaning up tasks of type (smush). A total of 13 tasks will be deleted. 
+[2025-11-18 22:02:16 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2022/02/1000000826.png.The file was compressed from 397.89 KB to 397.56 KB, saving 0.08 percent, using WP-Optimize 
+[2025-11-18 22:02:16 : INFO] - Completed processing task with ID : 52, and type 'smush' 
+[2025-11-18 22:02:16 : INFO] - Processing task with ID : 53, and type 'smush' 
+[2025-11-18 22:02:16 : INFO] - Re_Smush_It_Task - Attachment ID : 10892, Started on : November 18, 2025 09:35:12 
+[2025-11-18 22:02:16 : INFO] - File: 1000000826-1.png, Compression quality: 92 
+[2025-11-18 22:02:19 : INFO] - Backing up the original image - 2025/09/1000000826-1-updraft-pre-smush-original.png 
+[2025-11-18 22:02:28 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/09/1000000826-1.png.The file was compressed from 39.81 KB to 39.72 KB, saving 0.21 percent, using WP-Optimize 
+[2025-11-18 22:02:28 : INFO] - Completed processing task with ID : 53, and type 'smush' 
+[2025-11-18 22:02:28 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-18 22:02:28 : INFO] - Successfully processed the queue (smush). 9 tasks were processed out of 9. 
+[2025-11-18 22:02:28 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-18 22:02:28 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-11-18 22:46:59 : INFO] - Pruning the smush log file 
+[2025-11-20 19:36:10 : INFO] - Re_Smush_It_Task with attachment ID : 12946, auto created on : November 20, 2025 07:36:10 
+[2025-11-20 19:41:15 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-11-20 19:41:15 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-20 19:41:15 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-20 19:41:15 : INFO] - Processing task with ID : 54, and type 'smush' 
+[2025-11-20 19:41:15 : INFO] - Re_Smush_It_Task with attachment ID : 12946, auto created on : November 20, 2025 07:36:10 
+[2025-11-20 19:41:15 : INFO] - File: dandadan20.jpg, Compression quality: 92 
+[2025-11-20 19:41:17 : INFO] - Backing up the original image - 2025/11/dandadan20-updraft-pre-smush-original.jpg 
+[2025-11-20 19:41:29 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/dandadan20.jpg.The file was compressed from 126.49 KB to 94.11 KB, saving 25.59 percent, using WP-Optimize 
+[2025-11-20 19:41:29 : INFO] - Completed processing task with ID : 54, and type 'smush' 
+[2025-11-20 19:41:29 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-20 19:41:29 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-11-20 19:41:29 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-20 19:41:29 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-11-20 21:20:07 : INFO] - Re_Smush_It_Task with attachment ID : 12950, auto created on : November 20, 2025 09:20:07 
+[2025-11-20 21:22:16 : INFO] - Re_Smush_It_Task with attachment ID : 12953, auto created on : November 20, 2025 09:22:16 
+[2025-11-20 21:23:41 : INFO] - Re_Smush_It_Task with attachment ID : 12957, auto created on : November 20, 2025 09:23:41 
+[2025-11-20 21:25:09 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2025-11-20 21:25:09 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-20 21:25:09 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-20 21:25:09 : INFO] - Processing task with ID : 55, and type 'smush' 
+[2025-11-20 21:25:09 : INFO] - Re_Smush_It_Task with attachment ID : 12950, auto created on : November 20, 2025 09:20:07 
+[2025-11-20 21:25:09 : INFO] - File: dandadan01.jpg, Compression quality: 92 
+[2025-11-20 21:25:10 : INFO] - Re_Smush_It_Task with attachment ID : 12960, auto created on : November 20, 2025 09:25:10 
+[2025-11-20 21:25:11 : INFO] - Backing up the original image - 2025/11/dandadan01-updraft-pre-smush-original.jpg 
+[2025-11-20 21:25:21 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/dandadan01.jpg.The file was compressed from 73.39 KB to 68.89 KB, saving 6.13 percent, using WP-Optimize 
+[2025-11-20 21:25:22 : INFO] - Completed processing task with ID : 55, and type 'smush' 
+[2025-11-20 21:25:22 : INFO] - Processing task with ID : 56, and type 'smush' 
+[2025-11-20 21:25:22 : INFO] - Re_Smush_It_Task with attachment ID : 12953, auto created on : November 20, 2025 09:22:16 
+[2025-11-20 21:25:22 : INFO] - File: dandadan02.jpg, Compression quality: 92 
+[2025-11-20 21:25:24 : INFO] - Backing up the original image - 2025/11/dandadan02-updraft-pre-smush-original.jpg 
+[2025-11-20 21:25:35 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/dandadan02.jpg.The file was compressed from 75.40 KB to 70.83 KB, saving 6.07 percent, using WP-Optimize 
+[2025-11-20 21:25:35 : INFO] - Completed processing task with ID : 56, and type 'smush' 
+[2025-11-20 21:25:35 : INFO] - Processing task with ID : 57, and type 'smush' 
+[2025-11-20 21:25:35 : INFO] - Re_Smush_It_Task with attachment ID : 12957, auto created on : November 20, 2025 09:23:41 
+[2025-11-20 21:25:35 : INFO] - File: dandadan05.jpg, Compression quality: 92 
+[2025-11-20 21:25:37 : INFO] - Backing up the original image - 2025/11/dandadan05-updraft-pre-smush-original.jpg 
+[2025-11-20 21:25:48 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/dandadan05.jpg.The file was compressed from 69.28 KB to 65.07 KB, saving 6.08 percent, using WP-Optimize 
+[2025-11-20 21:25:48 : INFO] - Completed processing task with ID : 57, and type 'smush' 
+[2025-11-20 21:25:48 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-20 21:25:48 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2025-11-20 21:25:48 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-20 21:25:48 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2025-11-20 21:32:25 : INFO] - Re_Smush_It_Task with attachment ID : 12963, auto created on : November 20, 2025 09:32:25 
+[2025-11-20 21:36:06 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-11-20 21:36:06 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-20 21:36:06 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-20 21:36:06 : INFO] - Processing task with ID : 58, and type 'smush' 
+[2025-11-20 21:36:06 : INFO] - Re_Smush_It_Task with attachment ID : 12960, auto created on : November 20, 2025 09:25:10 
+[2025-11-20 21:36:06 : INFO] - File: dandadan19.jpg, Compression quality: 92 
+[2025-11-20 21:36:09 : INFO] - Backing up the original image - 2025/11/dandadan19-updraft-pre-smush-original.jpg 
+[2025-11-20 21:36:21 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/dandadan19.jpg.The file was compressed from 134.50 KB to 99.17 KB, saving 26.27 percent, using WP-Optimize 
+[2025-11-20 21:36:21 : INFO] - Completed processing task with ID : 58, and type 'smush' 
+[2025-11-20 21:36:21 : INFO] - Processing task with ID : 59, and type 'smush' 
+[2025-11-20 21:36:21 : INFO] - Re_Smush_It_Task with attachment ID : 12963, auto created on : November 20, 2025 09:32:25 
+[2025-11-20 21:36:21 : INFO] - File: kingdom31.jpg, Compression quality: 92 
+[2025-11-20 21:36:24 : INFO] - Backing up the original image - 2025/11/kingdom31-updraft-pre-smush-original.jpg 
+[2025-11-20 21:36:35 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/kingdom31.jpg.The file was compressed from 140.80 KB to 104.79 KB, saving 25.58 percent, using WP-Optimize 
+[2025-11-20 21:36:35 : INFO] - Completed processing task with ID : 59, and type 'smush' 
+[2025-11-20 21:36:35 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-20 21:36:35 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-11-20 21:36:35 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-20 21:36:35 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-11-21 00:48:37 : INFO] - Re_Smush_It_Task with attachment ID : 12979, auto created on : November 21, 2025 12:48:37 
+[2025-11-21 00:49:28 : INFO] - Re_Smush_It_Task with attachment ID : 12982, auto created on : November 21, 2025 12:49:28 
+[2025-11-21 00:54:38 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 00:54:38 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 00:54:38 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 00:54:38 : INFO] - Processing task with ID : 60, and type 'smush' 
+[2025-11-21 00:54:38 : INFO] - Re_Smush_It_Task with attachment ID : 12979, auto created on : November 21, 2025 12:48:37 
+[2025-11-21 00:54:38 : INFO] - File: kingdom01.jpg, Compression quality: 92 
+[2025-11-21 00:54:40 : INFO] - Backing up the original image - 2025/11/kingdom01-updraft-pre-smush-original.jpg 
+[2025-11-21 00:54:46 : INFO] - Re_Smush_It_Task with attachment ID : 12985, auto created on : November 21, 2025 12:54:46 
+[2025-11-21 00:54:52 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/kingdom01.jpg.The file was compressed from 93.18 KB to 78.57 KB, saving 15.67 percent, using WP-Optimize 
+[2025-11-21 00:54:52 : INFO] - Completed processing task with ID : 60, and type 'smush' 
+[2025-11-21 00:54:52 : INFO] - Processing task with ID : 61, and type 'smush' 
+[2025-11-21 00:54:52 : INFO] - Re_Smush_It_Task with attachment ID : 12982, auto created on : November 21, 2025 12:49:28 
+[2025-11-21 00:54:52 : INFO] - File: kingdom02.jpg, Compression quality: 92 
+[2025-11-21 00:54:55 : INFO] - Backing up the original image - 2025/11/kingdom02-updraft-pre-smush-original.jpg 
+[2025-11-21 00:55:08 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/kingdom02.jpg.The file was compressed from 123.67 KB to 106.55 KB, saving 13.84 percent, using WP-Optimize 
+[2025-11-21 00:55:08 : INFO] - Completed processing task with ID : 61, and type 'smush' 
+[2025-11-21 00:55:08 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 00:55:08 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-11-21 00:55:08 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 00:55:08 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-11-21 00:55:41 : INFO] - Re_Smush_It_Task with attachment ID : 12988, auto created on : November 21, 2025 12:55:41 
+[2025-11-21 00:56:34 : INFO] - Re_Smush_It_Task with attachment ID : 12991, auto created on : November 21, 2025 12:56:34 
+[2025-11-21 01:01:41 : INFO] - Re_Smush_It_Task with attachment ID : 12998, auto created on : November 21, 2025 01:01:41 
+[2025-11-21 01:04:32 : INFO] - Re_Smush_It_Task with attachment ID : 13002, auto created on : November 21, 2025 01:04:31 
+[2025-11-21 01:04:38 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 01:04:38 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 01:04:38 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 01:04:38 : INFO] - Processing task with ID : 62, and type 'smush' 
+[2025-11-21 01:04:38 : INFO] - Re_Smush_It_Task with attachment ID : 12985, auto created on : November 21, 2025 12:54:46 
+[2025-11-21 01:04:38 : INFO] - File: blackclover01.jpg, Compression quality: 92 
+[2025-11-21 01:04:41 : INFO] - Backing up the original image - 2025/11/blackclover01-updraft-pre-smush-original.jpg 
+[2025-11-21 01:04:52 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/blackclover01.jpg.The file was compressed from 115.52 KB to 87.61 KB, saving 24.16 percent, using WP-Optimize 
+[2025-11-21 01:04:53 : INFO] - Completed processing task with ID : 62, and type 'smush' 
+[2025-11-21 01:04:53 : INFO] - Processing task with ID : 63, and type 'smush' 
+[2025-11-21 01:04:53 : INFO] - Re_Smush_It_Task with attachment ID : 12988, auto created on : November 21, 2025 12:55:41 
+[2025-11-21 01:04:53 : INFO] - File: blackclover02.jpg, Compression quality: 92 
+[2025-11-21 01:04:55 : INFO] - Backing up the original image - 2025/11/blackclover02-updraft-pre-smush-original.jpg 
+[2025-11-21 01:05:06 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/blackclover02.jpg.The file was compressed from 82.34 KB to 81.31 KB, saving 1.26 percent, using WP-Optimize 
+[2025-11-21 01:05:06 : INFO] - Completed processing task with ID : 63, and type 'smush' 
+[2025-11-21 01:05:06 : INFO] - Processing task with ID : 64, and type 'smush' 
+[2025-11-21 01:05:06 : INFO] - Re_Smush_It_Task with attachment ID : 12991, auto created on : November 21, 2025 12:56:34 
+[2025-11-21 01:05:06 : INFO] - File: blackclover03.jpg, Compression quality: 92 
+[2025-11-21 01:05:09 : INFO] - Backing up the original image - 2025/11/blackclover03-updraft-pre-smush-original.jpg 
+[2025-11-21 01:05:20 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/blackclover03.jpg.The file was compressed from 85.38 KB to 83.95 KB, saving 1.68 percent, using WP-Optimize 
+[2025-11-21 01:05:20 : INFO] - Completed processing task with ID : 64, and type 'smush' 
+[2025-11-21 01:05:20 : INFO] - Processing task with ID : 65, and type 'smush' 
+[2025-11-21 01:05:20 : INFO] - Re_Smush_It_Task with attachment ID : 12998, auto created on : November 21, 2025 01:01:41 
+[2025-11-21 01:05:20 : INFO] - File: bleachremix01.jpg, Compression quality: 92 
+[2025-11-21 01:05:22 : INFO] - Backing up the original image - 2025/11/bleachremix01-updraft-pre-smush-original.jpg 
+[2025-11-21 01:05:31 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/bleachremix01.jpg.The file was compressed from 37.83 KB to 34.08 KB, saving 9.92 percent, using WP-Optimize 
+[2025-11-21 01:05:31 : INFO] - Completed processing task with ID : 65, and type 'smush' 
+[2025-11-21 01:05:31 : INFO] - Processing task with ID : 66, and type 'smush' 
+[2025-11-21 01:05:31 : INFO] - Re_Smush_It_Task with attachment ID : 13002, auto created on : November 21, 2025 01:04:31 
+[2025-11-21 01:05:31 : INFO] - File: bleachremix02.jpg, Compression quality: 92 
+[2025-11-21 01:05:33 : INFO] - Backing up the original image - 2025/11/bleachremix02-updraft-pre-smush-original.jpg 
+[2025-11-21 01:05:39 : INFO] - Re_Smush_It_Task with attachment ID : 13005, auto created on : November 21, 2025 01:05:39 
+[2025-11-21 01:05:43 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/bleachremix02.jpg.The file was compressed from 45.69 KB to 41.68 KB, saving 8.78 percent, using WP-Optimize 
+[2025-11-21 01:05:43 : INFO] - Completed processing task with ID : 66, and type 'smush' 
+[2025-11-21 01:05:43 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 01:05:43 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2025-11-21 01:05:43 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 01:05:43 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2025-11-21 01:14:54 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 01:14:54 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 01:14:54 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 01:14:54 : INFO] - Processing task with ID : 67, and type 'smush' 
+[2025-11-21 01:14:54 : INFO] - Re_Smush_It_Task with attachment ID : 13005, auto created on : November 21, 2025 01:05:39 
+[2025-11-21 01:14:54 : INFO] - File: bleachremix03.jpg, Compression quality: 92 
+[2025-11-21 01:14:56 : INFO] - Backing up the original image - 2025/11/bleachremix03-updraft-pre-smush-original.jpg 
+[2025-11-21 01:15:05 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/bleachremix03.jpg.The file was compressed from 31.94 KB to 27.86 KB, saving 12.76 percent, using WP-Optimize 
+[2025-11-21 01:15:05 : INFO] - Completed processing task with ID : 67, and type 'smush' 
+[2025-11-21 01:15:05 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 01:15:05 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-11-21 01:15:05 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 01:15:05 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-11-21 01:42:26 : INFO] - Re_Smush_It_Task with attachment ID : 13017, auto created on : November 21, 2025 01:42:26 
+[2025-11-21 01:43:51 : INFO] - Re_Smush_It_Task with attachment ID : 13021, auto created on : November 21, 2025 01:43:51 
+[2025-11-21 01:44:40 : INFO] - Re_Smush_It_Task with attachment ID : 13024, auto created on : November 21, 2025 01:44:40 
+[2025-11-21 01:48:04 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 01:48:04 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 01:48:04 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 01:48:04 : INFO] - Processing task with ID : 68, and type 'smush' 
+[2025-11-21 01:48:04 : INFO] - Re_Smush_It_Task with attachment ID : 13017, auto created on : November 21, 2025 01:42:26 
+[2025-11-21 01:48:04 : INFO] - File: bluelock01.jpg, Compression quality: 92 
+[2025-11-21 01:48:07 : INFO] - Backing up the original image - 2025/11/bluelock01-updraft-pre-smush-original.jpg 
+[2025-11-21 01:48:18 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/bluelock01.jpg.The file was compressed from 67.08 KB to 57.88 KB, saving 13.72 percent, using WP-Optimize 
+[2025-11-21 01:48:18 : INFO] - Completed processing task with ID : 68, and type 'smush' 
+[2025-11-21 01:48:18 : INFO] - Processing task with ID : 69, and type 'smush' 
+[2025-11-21 01:48:18 : INFO] - Re_Smush_It_Task with attachment ID : 13021, auto created on : November 21, 2025 01:43:51 
+[2025-11-21 01:48:18 : INFO] - File: bluelock02.jpg, Compression quality: 92 
+[2025-11-21 01:48:21 : INFO] - Backing up the original image - 2025/11/bluelock02-updraft-pre-smush-original.jpg 
+[2025-11-21 01:48:32 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/bluelock02.jpg.The file was compressed from 275.47 KB to 87.27 KB, saving 68.32 percent, using WP-Optimize 
+[2025-11-21 01:48:32 : INFO] - Completed processing task with ID : 69, and type 'smush' 
+[2025-11-21 01:48:32 : INFO] - Processing task with ID : 70, and type 'smush' 
+[2025-11-21 01:48:32 : INFO] - Re_Smush_It_Task with attachment ID : 13024, auto created on : November 21, 2025 01:44:40 
+[2025-11-21 01:48:32 : INFO] - File: bluelock03.jpg, Compression quality: 92 
+[2025-11-21 01:48:35 : INFO] - Backing up the original image - 2025/11/bluelock03-updraft-pre-smush-original.jpg 
+[2025-11-21 01:48:46 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/bluelock03.jpg.The file was compressed from 293.20 KB to 88.16 KB, saving 69.93 percent, using WP-Optimize 
+[2025-11-21 01:48:46 : INFO] - Completed processing task with ID : 70, and type 'smush' 
+[2025-11-21 01:48:46 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 01:48:46 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2025-11-21 01:48:46 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 01:48:46 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2025-11-21 17:27:41 : INFO] - Re_Smush_It_Task with attachment ID : 13075, auto created on : November 21, 2025 05:27:41 
+[2025-11-21 17:28:50 : INFO] - Re_Smush_It_Task with attachment ID : 13077, auto created on : November 21, 2025 05:28:50 
+[2025-11-21 17:32:52 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 17:32:52 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 17:32:52 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 17:32:52 : INFO] - Processing task with ID : 71, and type 'smush' 
+[2025-11-21 17:32:52 : INFO] - Re_Smush_It_Task with attachment ID : 13075, auto created on : November 21, 2025 05:27:41 
+[2025-11-21 17:32:52 : INFO] - File: bungoustraydogs01.jpg, Compression quality: 92 
+[2025-11-21 17:32:54 : INFO] - Backing up the original image - 2025/11/bungoustraydogs01-updraft-pre-smush-original.jpg 
+[2025-11-21 17:33:02 : INFO] - Re_Smush_It_Task with attachment ID : 13080, auto created on : November 21, 2025 05:33:02 
+[2025-11-21 17:33:05 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/bungoustraydogs01.jpg.The file was compressed from 56.07 KB to 52.19 KB, saving 6.93 percent, using WP-Optimize 
+[2025-11-21 17:33:05 : INFO] - Completed processing task with ID : 71, and type 'smush' 
+[2025-11-21 17:33:05 : INFO] - Processing task with ID : 72, and type 'smush' 
+[2025-11-21 17:33:05 : INFO] - Re_Smush_It_Task with attachment ID : 13077, auto created on : November 21, 2025 05:28:50 
+[2025-11-21 17:33:05 : INFO] - File: bungoustraydogs02.jpg, Compression quality: 92 
+[2025-11-21 17:33:07 : INFO] - Backing up the original image - 2025/11/bungoustraydogs02-updraft-pre-smush-original.jpg 
+[2025-11-21 17:33:18 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/bungoustraydogs02.jpg.The file was compressed from 59.30 KB to 55.24 KB, saving 6.84 percent, using WP-Optimize 
+[2025-11-21 17:33:18 : INFO] - Completed processing task with ID : 72, and type 'smush' 
+[2025-11-21 17:33:18 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 17:33:18 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-11-21 17:33:18 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 17:33:18 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-11-21 17:33:59 : INFO] - Re_Smush_It_Task with attachment ID : 13084, auto created on : November 21, 2025 05:33:59 
+[2025-11-21 17:35:15 : INFO] - Re_Smush_It_Task with attachment ID : 13087, auto created on : November 21, 2025 05:35:15 
+[2025-11-21 17:39:02 : INFO] - Re_Smush_It_Task with attachment ID : 13090, auto created on : November 21, 2025 05:39:02 
+[2025-11-21 17:39:54 : INFO] - Re_Smush_It_Task with attachment ID : 13093, auto created on : November 21, 2025 05:39:54 
+[2025-11-21 17:41:29 : INFO] - Re_Smush_It_Task with attachment ID : 13096, auto created on : November 21, 2025 05:41:29 
+[2025-11-21 17:43:09 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 17:43:09 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 17:43:09 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 17:43:09 : INFO] - Processing task with ID : 73, and type 'smush' 
+[2025-11-21 17:43:09 : INFO] - Re_Smush_It_Task with attachment ID : 13080, auto created on : November 21, 2025 05:33:02 
+[2025-11-21 17:43:09 : INFO] - File: chainsawman01.jpg, Compression quality: 92 
+[2025-11-21 17:43:11 : INFO] - Backing up the original image - 2025/11/chainsawman01-updraft-pre-smush-original.jpg 
+[2025-11-21 17:43:23 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/chainsawman01.jpg.The file was compressed from 124.62 KB to 100.68 KB, saving 19.21 percent, using WP-Optimize 
+[2025-11-21 17:43:23 : INFO] - Completed processing task with ID : 73, and type 'smush' 
+[2025-11-21 17:43:23 : INFO] - Processing task with ID : 74, and type 'smush' 
+[2025-11-21 17:43:23 : INFO] - Re_Smush_It_Task with attachment ID : 13084, auto created on : November 21, 2025 05:33:59 
+[2025-11-21 17:43:23 : INFO] - File: chainsawman02.jpg, Compression quality: 92 
+[2025-11-21 17:43:25 : INFO] - Backing up the original image - 2025/11/chainsawman02-updraft-pre-smush-original.jpg 
+[2025-11-21 17:43:36 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/chainsawman02.jpg.The file was compressed from 101.88 KB to 75.63 KB, saving 25.77 percent, using WP-Optimize 
+[2025-11-21 17:43:36 : INFO] - Completed processing task with ID : 74, and type 'smush' 
+[2025-11-21 17:43:36 : INFO] - Processing task with ID : 75, and type 'smush' 
+[2025-11-21 17:43:36 : INFO] - Re_Smush_It_Task with attachment ID : 13087, auto created on : November 21, 2025 05:35:15 
+[2025-11-21 17:43:36 : INFO] - File: chainsawman03.jpg, Compression quality: 92 
+[2025-11-21 17:43:39 : INFO] - Backing up the original image - 2025/11/chainsawman03-updraft-pre-smush-original.jpg 
+[2025-11-21 17:43:50 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/chainsawman03.jpg.The file was compressed from 118.82 KB to 88.79 KB, saving 25.27 percent, using WP-Optimize 
+[2025-11-21 17:43:50 : INFO] - Completed processing task with ID : 75, and type 'smush' 
+[2025-11-21 17:43:50 : INFO] - Processing task with ID : 76, and type 'smush' 
+[2025-11-21 17:43:50 : INFO] - Re_Smush_It_Task with attachment ID : 13090, auto created on : November 21, 2025 05:39:02 
+[2025-11-21 17:43:50 : INFO] - File: chainsawman04.jpg, Compression quality: 92 
+[2025-11-21 17:43:53 : INFO] - Backing up the original image - 2025/11/chainsawman04-updraft-pre-smush-original.jpg 
+[2025-11-21 17:43:59 : INFO] - Re_Smush_It_Task with attachment ID : 13099, auto created on : November 21, 2025 05:43:59 
+[2025-11-21 17:44:04 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/chainsawman04.jpg.The file was compressed from 115.36 KB to 87.39 KB, saving 24.24 percent, using WP-Optimize 
+[2025-11-21 17:44:04 : INFO] - Completed processing task with ID : 76, and type 'smush' 
+[2025-11-21 17:44:04 : INFO] - Processing task with ID : 77, and type 'smush' 
+[2025-11-21 17:44:04 : INFO] - Re_Smush_It_Task with attachment ID : 13093, auto created on : November 21, 2025 05:39:54 
+[2025-11-21 17:44:04 : INFO] - File: chainsawman05.jpg, Compression quality: 92 
+[2025-11-21 17:44:07 : INFO] - Backing up the original image - 2025/11/chainsawman05-updraft-pre-smush-original.jpg 
+[2025-11-21 17:44:09 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 17:44:09 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-11-21 17:44:09 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-11-21 17:44:09 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-11-21 17:44:09 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2025-11-21 17:44:19 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/chainsawman05.jpg.The file was compressed from 342.42 KB to 108.42 KB, saving 68.34 percent, using WP-Optimize 
+[2025-11-21 17:44:20 : INFO] - Completed processing task with ID : 77, and type 'smush' 
+[2025-11-21 17:44:20 : INFO] - Processing task with ID : 78, and type 'smush' 
+[2025-11-21 17:44:20 : INFO] - Re_Smush_It_Task with attachment ID : 13096, auto created on : November 21, 2025 05:41:29 
+[2025-11-21 17:44:20 : INFO] - File: chainsawman20.jpg, Compression quality: 92 
+[2025-11-21 17:44:22 : INFO] - Backing up the original image - 2025/11/chainsawman20-updraft-pre-smush-original.jpg 
+[2025-11-21 17:44:33 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/chainsawman20.jpg.The file was compressed from 92.82 KB to 68.35 KB, saving 26.37 percent, using WP-Optimize 
+[2025-11-21 17:44:33 : INFO] - Completed processing task with ID : 78, and type 'smush' 
+[2025-11-21 17:44:33 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 17:44:33 : INFO] - Successfully processed the queue (smush). 6 tasks were processed out of 6. 
+[2025-11-21 17:44:33 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 17:44:33 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-11-21 17:45:06 : INFO] - Re_Smush_It_Task with attachment ID : 13101, auto created on : November 21, 2025 05:45:06 
+[2025-11-21 17:54:09 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 17:54:09 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 17:54:09 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 17:54:09 : INFO] - Processing task with ID : 79, and type 'smush' 
+[2025-11-21 17:54:09 : INFO] - Task with ID 79 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2025-11-21 17:54:09 : INFO] - Processing task with ID : 80, and type 'smush' 
+[2025-11-21 17:54:09 : INFO] - Re_Smush_It_Task with attachment ID : 13101, auto created on : November 21, 2025 05:45:06 
+[2025-11-21 17:54:09 : INFO] - File: chainsaw-man-21-manga-ivrea.jpg, Compression quality: 92 
+[2025-11-21 17:54:13 : INFO] - Backing up the original image - 2025/11/chainsaw-man-21-manga-ivrea-updraft-pre-smush-original.jpg 
+[2025-11-21 17:54:35 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/chainsaw-man-21-manga-ivrea.jpg.The file was compressed from 156.56 KB to 147.53 KB, saving 5.77 percent, using WP-Optimize 
+[2025-11-21 17:54:35 : INFO] - Completed processing task with ID : 80, and type 'smush' 
+[2025-11-21 17:54:35 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 17:54:35 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-11-21 17:54:35 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 17:54:35 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-11-21 17:58:31 : INFO] - Re_Smush_It_Task with attachment ID : 13106, auto created on : November 21, 2025 05:58:31 
+[2025-11-21 17:59:21 : INFO] - Re_Smush_It_Task with attachment ID : 13109, auto created on : November 21, 2025 05:59:21 
+[2025-11-21 18:00:23 : INFO] - Re_Smush_It_Task with attachment ID : 13112, auto created on : November 21, 2025 06:00:23 
+[2025-11-21 18:04:16 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 18:04:16 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 18:04:16 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 18:04:16 : INFO] - Processing task with ID : 81, and type 'smush' 
+[2025-11-21 18:04:16 : INFO] - Re_Smush_It_Task with attachment ID : 13106, auto created on : November 21, 2025 05:58:31 
+[2025-11-21 18:04:16 : INFO] - File: frieren01.jpg, Compression quality: 92 
+[2025-11-21 18:04:18 : INFO] - Backing up the original image - 2025/11/frieren01-updraft-pre-smush-original.jpg 
+[2025-11-21 18:04:31 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/frieren01.jpg.The file was compressed from 225.13 KB to 128.44 KB, saving 42.95 percent, using WP-Optimize 
+[2025-11-21 18:04:31 : INFO] - Completed processing task with ID : 81, and type 'smush' 
+[2025-11-21 18:04:31 : INFO] - Processing task with ID : 82, and type 'smush' 
+[2025-11-21 18:04:31 : INFO] - Re_Smush_It_Task with attachment ID : 13109, auto created on : November 21, 2025 05:59:21 
+[2025-11-21 18:04:31 : INFO] - File: frieren03.jpg, Compression quality: 92 
+[2025-11-21 18:04:33 : INFO] - Backing up the original image - 2025/11/frieren03-updraft-pre-smush-original.jpg 
+[2025-11-21 18:04:44 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/frieren03.jpg.The file was compressed from 83.77 KB to 77.56 KB, saving 7.41 percent, using WP-Optimize 
+[2025-11-21 18:04:44 : INFO] - Completed processing task with ID : 82, and type 'smush' 
+[2025-11-21 18:04:44 : INFO] - Processing task with ID : 83, and type 'smush' 
+[2025-11-21 18:04:44 : INFO] - Re_Smush_It_Task with attachment ID : 13112, auto created on : November 21, 2025 06:00:23 
+[2025-11-21 18:04:44 : INFO] - File: frieren14.jpg, Compression quality: 92 
+[2025-11-21 18:04:47 : INFO] - Backing up the original image - 2025/11/frieren14-updraft-pre-smush-original.jpg 
+[2025-11-21 18:05:00 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/frieren14.jpg.The file was compressed from 132.19 KB to 108.91 KB, saving 17.61 percent, using WP-Optimize 
+[2025-11-21 18:05:00 : INFO] - Completed processing task with ID : 83, and type 'smush' 
+[2025-11-21 18:05:00 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 18:05:00 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2025-11-21 18:05:00 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 18:05:00 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2025-11-21 18:07:10 : INFO] - Re_Smush_It_Task with attachment ID : 13115, auto created on : November 21, 2025 06:07:10 
+[2025-11-21 18:08:30 : INFO] - Re_Smush_It_Task with attachment ID : 13118, auto created on : November 21, 2025 06:08:30 
+[2025-11-21 18:10:14 : INFO] - Re_Smush_It_Task with attachment ID : 13121, auto created on : November 21, 2025 06:10:14 
+[2025-11-21 18:12:40 : INFO] - Re_Smush_It_Task with attachment ID : 13125, auto created on : November 21, 2025 06:12:40 
+[2025-11-21 18:14:26 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 18:14:26 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 18:14:26 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 18:14:26 : INFO] - Processing task with ID : 84, and type 'smush' 
+[2025-11-21 18:14:26 : INFO] - Re_Smush_It_Task with attachment ID : 13115, auto created on : November 21, 2025 06:07:10 
+[2025-11-21 18:14:26 : INFO] - File: gachiakuta01.jpg, Compression quality: 92 
+[2025-11-21 18:14:28 : INFO] - Backing up the original image - 2025/11/gachiakuta01-updraft-pre-smush-original.jpg 
+[2025-11-21 18:14:38 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/gachiakuta01.jpg.The file was compressed from 68.21 KB to 63.75 KB, saving 6.55 percent, using WP-Optimize 
+[2025-11-21 18:14:38 : INFO] - Completed processing task with ID : 84, and type 'smush' 
+[2025-11-21 18:14:38 : INFO] - Processing task with ID : 85, and type 'smush' 
+[2025-11-21 18:14:38 : INFO] - Re_Smush_It_Task with attachment ID : 13118, auto created on : November 21, 2025 06:08:30 
+[2025-11-21 18:14:38 : INFO] - File: gachiakuta02.jpg, Compression quality: 92 
+[2025-11-21 18:14:41 : INFO] - Backing up the original image - 2025/11/gachiakuta02-updraft-pre-smush-original.jpg 
+[2025-11-21 18:14:51 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/gachiakuta02.jpg.The file was compressed from 65.30 KB to 61.17 KB, saving 6.31 percent, using WP-Optimize 
+[2025-11-21 18:14:51 : INFO] - Completed processing task with ID : 85, and type 'smush' 
+[2025-11-21 18:14:51 : INFO] - Processing task with ID : 86, and type 'smush' 
+[2025-11-21 18:14:51 : INFO] - Re_Smush_It_Task with attachment ID : 13121, auto created on : November 21, 2025 06:10:14 
+[2025-11-21 18:14:51 : INFO] - File: gantz01.jpg, Compression quality: 92 
+[2025-11-21 18:14:53 : INFO] - Backing up the original image - 2025/11/gantz01-updraft-pre-smush-original.jpg 
+[2025-11-21 18:15:02 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/gantz01.jpg.The file was compressed from 33.87 KB to 32.01 KB, saving 5.49 percent, using WP-Optimize 
+[2025-11-21 18:15:02 : INFO] - Completed processing task with ID : 86, and type 'smush' 
+[2025-11-21 18:15:02 : INFO] - Processing task with ID : 87, and type 'smush' 
+[2025-11-21 18:15:02 : INFO] - Re_Smush_It_Task with attachment ID : 13125, auto created on : November 21, 2025 06:12:40 
+[2025-11-21 18:15:02 : INFO] - File: gantz02.jpg, Compression quality: 92 
+[2025-11-21 18:15:04 : INFO] - Backing up the original image - 2025/11/gantz02-updraft-pre-smush-original.jpg 
+[2025-11-21 18:15:13 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/gantz02.jpg.The file was compressed from 33.08 KB to 31.37 KB, saving 5.16 percent, using WP-Optimize 
+[2025-11-21 18:15:13 : INFO] - Completed processing task with ID : 87, and type 'smush' 
+[2025-11-21 18:15:13 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 18:15:13 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2025-11-21 18:15:13 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 18:15:13 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2025-11-21 18:16:25 : INFO] - Re_Smush_It_Task with attachment ID : 13129, auto created on : November 21, 2025 06:16:25 
+[2025-11-21 18:18:58 : INFO] - Re_Smush_It_Task with attachment ID : 13132, auto created on : November 21, 2025 06:18:58 
+[2025-11-21 18:20:45 : INFO] - Re_Smush_It_Task with attachment ID : 13135, auto created on : November 21, 2025 06:20:45 
+[2025-11-21 18:23:40 : INFO] - Re_Smush_It_Task with attachment ID : 13138, auto created on : November 21, 2025 06:23:40 
+[2025-11-21 18:24:44 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 18:24:44 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 18:24:44 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 18:24:44 : INFO] - Processing task with ID : 88, and type 'smush' 
+[2025-11-21 18:24:44 : INFO] - Re_Smush_It_Task with attachment ID : 13129, auto created on : November 21, 2025 06:16:25 
+[2025-11-21 18:24:44 : INFO] - File: gantz03.jpg, Compression quality: 92 
+[2025-11-21 18:24:46 : INFO] - Backing up the original image - 2025/11/gantz03-updraft-pre-smush-original.jpg 
+[2025-11-21 18:24:55 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/gantz03.jpg.The file was compressed from 34.71 KB to 32.98 KB, saving 4.99 percent, using WP-Optimize 
+[2025-11-21 18:24:55 : INFO] - Completed processing task with ID : 88, and type 'smush' 
+[2025-11-21 18:24:55 : INFO] - Processing task with ID : 89, and type 'smush' 
+[2025-11-21 18:24:55 : INFO] - Re_Smush_It_Task with attachment ID : 13132, auto created on : November 21, 2025 06:18:58 
+[2025-11-21 18:24:55 : INFO] - File: haikyu01.jpg, Compression quality: 92 
+[2025-11-21 18:24:58 : INFO] - Backing up the original image - 2025/11/haikyu01-updraft-pre-smush-original.jpg 
+[2025-11-21 18:25:06 : INFO] - Re_Smush_It_Task with attachment ID : 13141, auto created on : November 21, 2025 06:25:06 
+[2025-11-21 18:25:09 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/haikyu01.jpg.The file was compressed from 69.96 KB to 64.43 KB, saving 7.9 percent, using WP-Optimize 
+[2025-11-21 18:25:09 : INFO] - Completed processing task with ID : 89, and type 'smush' 
+[2025-11-21 18:25:09 : INFO] - Processing task with ID : 90, and type 'smush' 
+[2025-11-21 18:25:09 : INFO] - Re_Smush_It_Task with attachment ID : 13135, auto created on : November 21, 2025 06:20:45 
+[2025-11-21 18:25:09 : INFO] - File: haikyu02.jpg, Compression quality: 92 
+[2025-11-21 18:25:12 : INFO] - Backing up the original image - 2025/11/haikyu02-updraft-pre-smush-original.jpg 
+[2025-11-21 18:25:24 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/haikyu02.jpg.The file was compressed from 167.96 KB to 94.01 KB, saving 44.03 percent, using WP-Optimize 
+[2025-11-21 18:25:24 : INFO] - Completed processing task with ID : 90, and type 'smush' 
+[2025-11-21 18:25:24 : INFO] - Processing task with ID : 91, and type 'smush' 
+[2025-11-21 18:25:24 : INFO] - Re_Smush_It_Task with attachment ID : 13138, auto created on : November 21, 2025 06:23:40 
+[2025-11-21 18:25:24 : INFO] - File: hunterxhunter01.jpg, Compression quality: 92 
+[2025-11-21 18:25:26 : INFO] - Backing up the original image - 2025/11/hunterxhunter01-updraft-pre-smush-original.jpg 
+[2025-11-21 18:25:37 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/hunterxhunter01.jpg.The file was compressed from 121.65 KB to 79.68 KB, saving 34.5 percent, using WP-Optimize 
+[2025-11-21 18:25:37 : INFO] - Completed processing task with ID : 91, and type 'smush' 
+[2025-11-21 18:25:37 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 18:25:37 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2025-11-21 18:25:37 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 18:25:37 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2025-11-21 18:26:40 : INFO] - Re_Smush_It_Task with attachment ID : 13145, auto created on : November 21, 2025 06:26:40 
+[2025-11-21 18:28:01 : INFO] - Re_Smush_It_Task with attachment ID : 13148, auto created on : November 21, 2025 06:28:01 
+[2025-11-21 18:28:48 : INFO] - Re_Smush_It_Task with attachment ID : 13151, auto created on : November 21, 2025 06:28:48 
+[2025-11-21 18:33:19 : INFO] - Re_Smush_It_Task with attachment ID : 13155, auto created on : November 21, 2025 06:33:19 
+[2025-11-21 18:34:48 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 18:34:48 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 18:34:48 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 18:34:48 : INFO] - Processing task with ID : 92, and type 'smush' 
+[2025-11-21 18:34:48 : INFO] - Re_Smush_It_Task with attachment ID : 13141, auto created on : November 21, 2025 06:25:06 
+[2025-11-21 18:34:48 : INFO] - File: hunterxhunter02.jpg, Compression quality: 92 
+[2025-11-21 18:34:51 : INFO] - Backing up the original image - 2025/11/hunterxhunter02-updraft-pre-smush-original.jpg 
+[2025-11-21 18:35:03 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/hunterxhunter02.jpg.The file was compressed from 163.40 KB to 91.68 KB, saving 43.89 percent, using WP-Optimize 
+[2025-11-21 18:35:03 : INFO] - Completed processing task with ID : 92, and type 'smush' 
+[2025-11-21 18:35:03 : INFO] - Processing task with ID : 93, and type 'smush' 
+[2025-11-21 18:35:03 : INFO] - Re_Smush_It_Task with attachment ID : 13145, auto created on : November 21, 2025 06:26:40 
+[2025-11-21 18:35:03 : INFO] - File: hunterxhunter03.jpg, Compression quality: 92 
+[2025-11-21 18:35:05 : INFO] - Backing up the original image - 2025/11/hunterxhunter03-updraft-pre-smush-original.jpg 
+[2025-11-21 18:35:16 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/hunterxhunter03.jpg.The file was compressed from 97.76 KB to 69.77 KB, saving 28.63 percent, using WP-Optimize 
+[2025-11-21 18:35:17 : INFO] - Completed processing task with ID : 93, and type 'smush' 
+[2025-11-21 18:35:17 : INFO] - Processing task with ID : 94, and type 'smush' 
+[2025-11-21 18:35:17 : INFO] - Re_Smush_It_Task with attachment ID : 13148, auto created on : November 21, 2025 06:28:01 
+[2025-11-21 18:35:17 : INFO] - File: hunterxhunter37.jpg, Compression quality: 92 
+[2025-11-21 18:35:19 : INFO] - Backing up the original image - 2025/11/hunterxhunter37-updraft-pre-smush-original.jpg 
+[2025-11-21 18:35:30 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/hunterxhunter37.jpg.The file was compressed from 68.16 KB to 50.89 KB, saving 25.34 percent, using WP-Optimize 
+[2025-11-21 18:35:30 : INFO] - Completed processing task with ID : 94, and type 'smush' 
+[2025-11-21 18:35:30 : INFO] - Processing task with ID : 95, and type 'smush' 
+[2025-11-21 18:35:30 : INFO] - Re_Smush_It_Task with attachment ID : 13151, auto created on : November 21, 2025 06:28:48 
+[2025-11-21 18:35:30 : INFO] - File: hunterxhunter38.jpg, Compression quality: 92 
+[2025-11-21 18:35:30 : INFO] - Re_Smush_It_Task with attachment ID : 13158, auto created on : November 21, 2025 06:35:30 
+[2025-11-21 18:35:32 : INFO] - Backing up the original image - 2025/11/hunterxhunter38-updraft-pre-smush-original.jpg 
+[2025-11-21 18:35:43 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/hunterxhunter38.jpg.The file was compressed from 89.61 KB to 61.78 KB, saving 31.06 percent, using WP-Optimize 
+[2025-11-21 18:35:43 : INFO] - Completed processing task with ID : 95, and type 'smush' 
+[2025-11-21 18:35:43 : INFO] - Processing task with ID : 96, and type 'smush' 
+[2025-11-21 18:35:43 : INFO] - Re_Smush_It_Task with attachment ID : 13155, auto created on : November 21, 2025 06:33:19 
+[2025-11-21 18:35:43 : INFO] - File: kaiju01.jpg, Compression quality: 92 
+[2025-11-21 18:35:46 : INFO] - Backing up the original image - 2025/11/kaiju01-updraft-pre-smush-original.jpg 
+[2025-11-21 18:35:58 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/kaiju01.jpg.The file was compressed from 197.44 KB to 76.32 KB, saving 61.35 percent, using WP-Optimize 
+[2025-11-21 18:35:58 : INFO] - Completed processing task with ID : 96, and type 'smush' 
+[2025-11-21 18:35:58 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 18:35:58 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2025-11-21 18:35:58 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 18:35:58 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2025-11-21 18:36:11 : INFO] - Re_Smush_It_Task with attachment ID : 13161, auto created on : November 21, 2025 06:36:11 
+[2025-11-21 18:39:11 : INFO] - Re_Smush_It_Task with attachment ID : 13164, auto created on : November 21, 2025 06:39:11 
+[2025-11-21 18:39:56 : INFO] - Re_Smush_It_Task with attachment ID : 13167, auto created on : November 21, 2025 06:39:56 
+[2025-11-21 18:40:56 : INFO] - Re_Smush_It_Task with attachment ID : 13170, auto created on : November 21, 2025 06:40:56 
+[2025-11-21 18:44:50 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 18:44:50 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 18:44:50 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 18:44:50 : INFO] - Processing task with ID : 97, and type 'smush' 
+[2025-11-21 18:44:50 : INFO] - Re_Smush_It_Task with attachment ID : 13158, auto created on : November 21, 2025 06:35:30 
+[2025-11-21 18:44:50 : INFO] - File: kaiju02.jpg, Compression quality: 92 
+[2025-11-21 18:44:53 : INFO] - Backing up the original image - 2025/11/kaiju02-updraft-pre-smush-original.jpg 
+[2025-11-21 18:45:03 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/kaiju02.jpg.The file was compressed from 55.81 KB to 52.88 KB, saving 5.25 percent, using WP-Optimize 
+[2025-11-21 18:45:03 : INFO] - Completed processing task with ID : 97, and type 'smush' 
+[2025-11-21 18:45:03 : INFO] - Processing task with ID : 98, and type 'smush' 
+[2025-11-21 18:45:03 : INFO] - Re_Smush_It_Task with attachment ID : 13161, auto created on : November 21, 2025 06:36:11 
+[2025-11-21 18:45:03 : INFO] - File: kaiju03.jpg, Compression quality: 92 
+[2025-11-21 18:45:06 : INFO] - Backing up the original image - 2025/11/kaiju03-updraft-pre-smush-original.jpg 
+[2025-11-21 18:45:16 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/kaiju03.jpg.The file was compressed from 56.50 KB to 53.35 KB, saving 5.57 percent, using WP-Optimize 
+[2025-11-21 18:45:16 : INFO] - Completed processing task with ID : 98, and type 'smush' 
+[2025-11-21 18:45:16 : INFO] - Processing task with ID : 99, and type 'smush' 
+[2025-11-21 18:45:16 : INFO] - Re_Smush_It_Task with attachment ID : 13164, auto created on : November 21, 2025 06:39:11 
+[2025-11-21 18:45:16 : INFO] - File: madeinabyss01.jpg, Compression quality: 92 
+[2025-11-21 18:45:19 : INFO] - Backing up the original image - 2025/11/madeinabyss01-updraft-pre-smush-original.jpg 
+[2025-11-21 18:45:30 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/madeinabyss01.jpg.The file was compressed from 82.24 KB to 80.92 KB, saving 1.6 percent, using WP-Optimize 
+[2025-11-21 18:45:30 : INFO] - Completed processing task with ID : 99, and type 'smush' 
+[2025-11-21 18:45:30 : INFO] - Processing task with ID : 100, and type 'smush' 
+[2025-11-21 18:45:30 : INFO] - Re_Smush_It_Task with attachment ID : 13167, auto created on : November 21, 2025 06:39:56 
+[2025-11-21 18:45:30 : INFO] - File: madeinabyss02.jpg, Compression quality: 92 
+[2025-11-21 18:45:32 : INFO] - Backing up the original image - 2025/11/madeinabyss02-updraft-pre-smush-original.jpg 
+[2025-11-21 18:45:43 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/madeinabyss02.jpg.The file was compressed from 72.34 KB to 71.47 KB, saving 1.21 percent, using WP-Optimize 
+[2025-11-21 18:45:43 : INFO] - Completed processing task with ID : 100, and type 'smush' 
+[2025-11-21 18:45:43 : INFO] - Processing task with ID : 101, and type 'smush' 
+[2025-11-21 18:45:43 : INFO] - Re_Smush_It_Task with attachment ID : 13170, auto created on : November 21, 2025 06:40:56 
+[2025-11-21 18:45:43 : INFO] - File: madeinabyss03.jpg, Compression quality: 92 
+[2025-11-21 18:45:46 : INFO] - Backing up the original image - 2025/11/madeinabyss03-updraft-pre-smush-original.jpg 
+[2025-11-21 18:45:58 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/madeinabyss03.jpg.The file was compressed from 155.04 KB to 105.38 KB, saving 32.03 percent, using WP-Optimize 
+[2025-11-21 18:45:58 : INFO] - Completed processing task with ID : 101, and type 'smush' 
+[2025-11-21 18:45:58 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 18:45:58 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2025-11-21 18:45:58 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 18:45:58 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2025-11-21 18:46:19 : INFO] - Re_Smush_It_Task with attachment ID : 13173, auto created on : November 21, 2025 06:46:19 
+[2025-11-21 18:47:12 : INFO] - Re_Smush_It_Task with attachment ID : 13176, auto created on : November 21, 2025 06:47:12 
+[2025-11-21 18:52:00 : INFO] - Re_Smush_It_Task with attachment ID : 13179, auto created on : November 21, 2025 06:52:00 
+[2025-11-21 18:53:01 : INFO] - Re_Smush_It_Task with attachment ID : 13182, auto created on : November 21, 2025 06:53:01 
+[2025-11-21 18:53:50 : INFO] - Re_Smush_It_Task with attachment ID : 13185, auto created on : November 21, 2025 06:53:49 
+[2025-11-21 18:55:05 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 18:55:05 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 18:55:05 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 18:55:05 : INFO] - Processing task with ID : 102, and type 'smush' 
+[2025-11-21 18:55:05 : INFO] - Re_Smush_It_Task with attachment ID : 13173, auto created on : November 21, 2025 06:46:19 
+[2025-11-21 18:55:05 : INFO] - File: onepiece98.jpg, Compression quality: 92 
+[2025-11-21 18:55:07 : INFO] - Backing up the original image - 2025/11/onepiece98-updraft-pre-smush-original.jpg 
+[2025-11-21 18:55:20 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/onepiece98.jpg.The file was compressed from 168.09 KB to 130.34 KB, saving 22.46 percent, using WP-Optimize 
+[2025-11-21 18:55:20 : INFO] - Completed processing task with ID : 102, and type 'smush' 
+[2025-11-21 18:55:20 : INFO] - Processing task with ID : 103, and type 'smush' 
+[2025-11-21 18:55:20 : INFO] - Re_Smush_It_Task with attachment ID : 13176, auto created on : November 21, 2025 06:47:12 
+[2025-11-21 18:55:20 : INFO] - File: onepiece99.jpg, Compression quality: 92 
+[2025-11-21 18:55:23 : INFO] - Backing up the original image - 2025/11/onepiece99-updraft-pre-smush-original.jpg 
+[2025-11-21 18:55:36 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/onepiece99.jpg.The file was compressed from 186.78 KB to 144.87 KB, saving 22.43 percent, using WP-Optimize 
+[2025-11-21 18:55:36 : INFO] - Completed processing task with ID : 103, and type 'smush' 
+[2025-11-21 18:55:36 : INFO] - Processing task with ID : 104, and type 'smush' 
+[2025-11-21 18:55:36 : INFO] - Re_Smush_It_Task with attachment ID : 13179, auto created on : November 21, 2025 06:52:00 
+[2025-11-21 18:55:36 : INFO] - File: ranma01.jpg, Compression quality: 92 
+[2025-11-21 18:55:38 : INFO] - Backing up the original image - 2025/11/ranma01-updraft-pre-smush-original.jpg 
+[2025-11-21 18:55:50 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/ranma01.jpg.The file was compressed from 111.81 KB to 57.78 KB, saving 48.32 percent, using WP-Optimize 
+[2025-11-21 18:55:50 : INFO] - Completed processing task with ID : 104, and type 'smush' 
+[2025-11-21 18:55:50 : INFO] - Processing task with ID : 105, and type 'smush' 
+[2025-11-21 18:55:50 : INFO] - Re_Smush_It_Task with attachment ID : 13182, auto created on : November 21, 2025 06:53:01 
+[2025-11-21 18:55:50 : INFO] - File: ranma02.jpg, Compression quality: 92 
+[2025-11-21 18:55:52 : INFO] - Backing up the original image - 2025/11/ranma02-updraft-pre-smush-original.jpg 
+[2025-11-21 18:56:03 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/ranma02.jpg.The file was compressed from 64.84 KB to 49.91 KB, saving 23.04 percent, using WP-Optimize 
+[2025-11-21 18:56:03 : INFO] - Completed processing task with ID : 105, and type 'smush' 
+[2025-11-21 18:56:03 : INFO] - Processing task with ID : 106, and type 'smush' 
+[2025-11-21 18:56:03 : INFO] - Re_Smush_It_Task with attachment ID : 13185, auto created on : November 21, 2025 06:53:49 
+[2025-11-21 18:56:03 : INFO] - File: ranma03.jpg, Compression quality: 92 
+[2025-11-21 18:56:06 : INFO] - Backing up the original image - 2025/11/ranma03-updraft-pre-smush-original.jpg 
+[2025-11-21 18:56:27 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/ranma03.jpg.The file was compressed from 79.24 KB to 74.52 KB, saving 5.96 percent, using WP-Optimize 
+[2025-11-21 18:56:27 : INFO] - Completed processing task with ID : 106, and type 'smush' 
+[2025-11-21 18:56:27 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 18:56:27 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2025-11-21 18:56:27 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 18:56:27 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2025-11-21 18:58:55 : INFO] - Re_Smush_It_Task with attachment ID : 13189, auto created on : November 21, 2025 06:58:55 
+[2025-11-21 18:59:59 : INFO] - Re_Smush_It_Task with attachment ID : 13191, auto created on : November 21, 2025 06:59:59 
+[2025-11-21 19:02:46 : INFO] - Re_Smush_It_Task with attachment ID : 13194, auto created on : November 21, 2025 07:02:46 
+[2025-11-21 19:03:47 : INFO] - Re_Smush_It_Task with attachment ID : 13197, auto created on : November 21, 2025 07:03:47 
+[2025-11-21 19:05:49 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 19:05:49 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 19:05:49 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 19:05:49 : INFO] - Processing task with ID : 107, and type 'smush' 
+[2025-11-21 19:05:49 : INFO] - Re_Smush_It_Task with attachment ID : 13189, auto created on : November 21, 2025 06:58:55 
+[2025-11-21 19:05:49 : INFO] - File: saintseiyakzb01.jpg, Compression quality: 92 
+[2025-11-21 19:05:52 : INFO] - Backing up the original image - 2025/11/saintseiyakzb01-updraft-pre-smush-original.jpg 
+[2025-11-21 19:06:04 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/saintseiyakzb01.jpg.The file was compressed from 202.27 KB to 87.03 KB, saving 56.97 percent, using WP-Optimize 
+[2025-11-21 19:06:04 : INFO] - Completed processing task with ID : 107, and type 'smush' 
+[2025-11-21 19:06:04 : INFO] - Processing task with ID : 108, and type 'smush' 
+[2025-11-21 19:06:04 : INFO] - Re_Smush_It_Task with attachment ID : 13191, auto created on : November 21, 2025 06:59:59 
+[2025-11-21 19:06:04 : INFO] - File: saintseiyakzb02.jpg, Compression quality: 92 
+[2025-11-21 19:06:06 : INFO] - Backing up the original image - 2025/11/saintseiyakzb02-updraft-pre-smush-original.jpg 
+[2025-11-21 19:06:19 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/saintseiyakzb02.jpg.The file was compressed from 127.19 KB to 109.08 KB, saving 14.24 percent, using WP-Optimize 
+[2025-11-21 19:06:19 : INFO] - Completed processing task with ID : 108, and type 'smush' 
+[2025-11-21 19:06:19 : INFO] - Processing task with ID : 109, and type 'smush' 
+[2025-11-21 19:06:19 : INFO] - Re_Smush_It_Task with attachment ID : 13194, auto created on : November 21, 2025 07:02:46 
+[2025-11-21 19:06:19 : INFO] - File: sakamotodays01.jpg, Compression quality: 92 
+[2025-11-21 19:06:21 : INFO] - Backing up the original image - 2025/11/sakamotodays01-updraft-pre-smush-original.jpg 
+[2025-11-21 19:06:32 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/sakamotodays01.jpg.The file was compressed from 80.60 KB to 75.26 KB, saving 6.63 percent, using WP-Optimize 
+[2025-11-21 19:06:32 : INFO] - Completed processing task with ID : 109, and type 'smush' 
+[2025-11-21 19:06:32 : INFO] - Processing task with ID : 110, and type 'smush' 
+[2025-11-21 19:06:32 : INFO] - Re_Smush_It_Task with attachment ID : 13197, auto created on : November 21, 2025 07:03:47 
+[2025-11-21 19:06:32 : INFO] - File: sakamotodays02.jpg, Compression quality: 92 
+[2025-11-21 19:06:35 : INFO] - Backing up the original image - 2025/11/sakamotodays02-updraft-pre-smush-original.jpg 
+[2025-11-21 19:06:37 : INFO] - Re_Smush_It_Task with attachment ID : 13200, auto created on : November 21, 2025 07:06:37 
+[2025-11-21 19:06:45 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/sakamotodays02.jpg.The file was compressed from 90.85 KB to 84.08 KB, saving 7.45 percent, using WP-Optimize 
+[2025-11-21 19:06:45 : INFO] - Completed processing task with ID : 110, and type 'smush' 
+[2025-11-21 19:06:45 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 19:06:45 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2025-11-21 19:06:45 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 19:06:45 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2025-11-21 19:07:57 : INFO] - Re_Smush_It_Task with attachment ID : 13203, auto created on : November 21, 2025 07:07:57 
+[2025-11-21 19:08:37 : INFO] - Re_Smush_It_Task with attachment ID : 13206, auto created on : November 21, 2025 07:08:37 
+[2025-11-21 19:12:10 : INFO] - Re_Smush_It_Task with attachment ID : 13209, auto created on : November 21, 2025 07:12:10 
+[2025-11-21 19:14:49 : INFO] - Re_Smush_It_Task with attachment ID : 13213, auto created on : November 21, 2025 07:14:49 
+[2025-11-21 19:15:57 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 19:15:57 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 19:15:57 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 19:15:57 : INFO] - Processing task with ID : 111, and type 'smush' 
+[2025-11-21 19:15:57 : INFO] - Re_Smush_It_Task with attachment ID : 13200, auto created on : November 21, 2025 07:06:37 
+[2025-11-21 19:15:57 : INFO] - File: sanda01.jpg, Compression quality: 92 
+[2025-11-21 19:15:59 : INFO] - Backing up the original image - 2025/11/sanda01-updraft-pre-smush-original.jpg 
+[2025-11-21 19:16:09 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/sanda01.jpg.The file was compressed from 53.29 KB to 50.15 KB, saving 5.9 percent, using WP-Optimize 
+[2025-11-21 19:16:09 : INFO] - Completed processing task with ID : 111, and type 'smush' 
+[2025-11-21 19:16:09 : INFO] - Processing task with ID : 112, and type 'smush' 
+[2025-11-21 19:16:09 : INFO] - Re_Smush_It_Task with attachment ID : 13203, auto created on : November 21, 2025 07:07:57 
+[2025-11-21 19:16:09 : INFO] - File: sanda02.jpg, Compression quality: 92 
+[2025-11-21 19:16:11 : INFO] - Backing up the original image - 2025/11/sanda02-updraft-pre-smush-original.jpg 
+[2025-11-21 19:16:21 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/sanda02.jpg.The file was compressed from 52.67 KB to 49.68 KB, saving 5.68 percent, using WP-Optimize 
+[2025-11-21 19:16:22 : INFO] - Completed processing task with ID : 112, and type 'smush' 
+[2025-11-21 19:16:22 : INFO] - Processing task with ID : 113, and type 'smush' 
+[2025-11-21 19:16:22 : INFO] - Re_Smush_It_Task with attachment ID : 13206, auto created on : November 21, 2025 07:08:37 
+[2025-11-21 19:16:22 : INFO] - File: sanda03.jpg, Compression quality: 92 
+[2025-11-21 19:16:24 : INFO] - Backing up the original image - 2025/11/sanda03-updraft-pre-smush-original.jpg 
+[2025-11-21 19:16:34 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/sanda03.jpg.The file was compressed from 65.28 KB to 61.28 KB, saving 6.13 percent, using WP-Optimize 
+[2025-11-21 19:16:34 : INFO] - Completed processing task with ID : 113, and type 'smush' 
+[2025-11-21 19:16:34 : INFO] - Processing task with ID : 114, and type 'smush' 
+[2025-11-21 19:16:34 : INFO] - Re_Smush_It_Task with attachment ID : 13209, auto created on : November 21, 2025 07:12:10 
+[2025-11-21 19:16:34 : INFO] - File: sololeveling01.jpg, Compression quality: 92 
+[2025-11-21 19:16:37 : INFO] - Backing up the original image - 2025/11/sololeveling01-updraft-pre-smush-original.jpg 
+[2025-11-21 19:16:49 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/sololeveling01.jpg.The file was compressed from 212.53 KB to 86.47 KB, saving 59.31 percent, using WP-Optimize 
+[2025-11-21 19:16:49 : INFO] - Completed processing task with ID : 114, and type 'smush' 
+[2025-11-21 19:16:49 : INFO] - Processing task with ID : 115, and type 'smush' 
+[2025-11-21 19:16:49 : INFO] - Re_Smush_It_Task with attachment ID : 13213, auto created on : November 21, 2025 07:14:49 
+[2025-11-21 19:16:49 : INFO] - File: sololeveling02.jpg, Compression quality: 92 
+[2025-11-21 19:16:51 : INFO] - Backing up the original image - 2025/11/sololeveling02-updraft-pre-smush-original.jpg 
+[2025-11-21 19:16:54 : INFO] - Re_Smush_It_Task with attachment ID : 13216, auto created on : November 21, 2025 07:16:54 
+[2025-11-21 19:17:02 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/sololeveling02.jpg.The file was compressed from 55.85 KB to 52.75 KB, saving 5.55 percent, using WP-Optimize 
+[2025-11-21 19:17:02 : INFO] - Completed processing task with ID : 115, and type 'smush' 
+[2025-11-21 19:17:02 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 19:17:02 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2025-11-21 19:17:02 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 19:17:02 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2025-11-21 19:21:03 : INFO] - Re_Smush_It_Task with attachment ID : 13220, auto created on : November 21, 2025 07:21:03 
+[2025-11-21 19:21:51 : INFO] - Re_Smush_It_Task with attachment ID : 13223, auto created on : November 21, 2025 07:21:51 
+[2025-11-21 19:26:00 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 19:26:00 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 19:26:00 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 19:26:00 : INFO] - Processing task with ID : 116, and type 'smush' 
+[2025-11-21 19:26:00 : INFO] - Re_Smush_It_Task with attachment ID : 13216, auto created on : November 21, 2025 07:16:54 
+[2025-11-21 19:26:00 : INFO] - File: sololeveling03.jpg, Compression quality: 92 
+[2025-11-21 19:26:02 : INFO] - Backing up the original image - 2025/11/sololeveling03-updraft-pre-smush-original.jpg 
+[2025-11-21 19:26:11 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/sololeveling03.jpg.The file was compressed from 32.67 KB to 31.35 KB, saving 4.03 percent, using WP-Optimize 
+[2025-11-21 19:26:11 : INFO] - Completed processing task with ID : 116, and type 'smush' 
+[2025-11-21 19:26:11 : INFO] - Processing task with ID : 117, and type 'smush' 
+[2025-11-21 19:26:11 : INFO] - Re_Smush_It_Task with attachment ID : 13220, auto created on : November 21, 2025 07:21:03 
+[2025-11-21 19:26:11 : INFO] - File: spyxfamily01.jpg, Compression quality: 92 
+[2025-11-21 19:26:13 : INFO] - Backing up the original image - 2025/11/spyxfamily01-updraft-pre-smush-original.jpg 
+[2025-11-21 19:26:23 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/spyxfamily01.jpg.The file was compressed from 65.50 KB to 44.91 KB, saving 31.43 percent, using WP-Optimize 
+[2025-11-21 19:26:23 : INFO] - Completed processing task with ID : 117, and type 'smush' 
+[2025-11-21 19:26:23 : INFO] - Processing task with ID : 118, and type 'smush' 
+[2025-11-21 19:26:23 : INFO] - Re_Smush_It_Task with attachment ID : 13223, auto created on : November 21, 2025 07:21:51 
+[2025-11-21 19:26:23 : INFO] - File: spyxfamily02.jpg, Compression quality: 92 
+[2025-11-21 19:26:25 : INFO] - Backing up the original image - 2025/11/spyxfamily02-updraft-pre-smush-original.jpg 
+[2025-11-21 19:26:33 : INFO] - Re_Smush_It_Task with attachment ID : 13226, auto created on : November 21, 2025 07:26:33 
+[2025-11-21 19:26:34 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/spyxfamily02.jpg.The file was compressed from 48.43 KB to 45.83 KB, saving 5.37 percent, using WP-Optimize 
+[2025-11-21 19:26:34 : INFO] - Completed processing task with ID : 118, and type 'smush' 
+[2025-11-21 19:26:34 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 19:26:34 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2025-11-21 19:26:34 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 19:26:34 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2025-11-21 19:26:44 : INFO] - Re_Smush_It_Task with attachment ID : 13227, auto created on : November 21, 2025 07:26:44 
+[2025-11-21 19:27:39 : INFO] - Re_Smush_It_Task with attachment ID : 13230, auto created on : November 21, 2025 07:27:39 
+[2025-11-21 19:28:27 : INFO] - Re_Smush_It_Task with attachment ID : 13233, auto created on : November 21, 2025 07:28:27 
+[2025-11-21 19:32:19 : INFO] - Re_Smush_It_Task with attachment ID : 13236, auto created on : November 21, 2025 07:32:19 
+[2025-11-21 19:33:13 : INFO] - Re_Smush_It_Task with attachment ID : 13239, auto created on : November 21, 2025 07:33:13 
+[2025-11-21 19:36:02 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 19:36:02 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 19:36:02 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 19:36:02 : INFO] - Processing task with ID : 119, and type 'smush' 
+[2025-11-21 19:36:02 : INFO] - Task with ID 119 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2025-11-21 19:36:02 : INFO] - Processing task with ID : 120, and type 'smush' 
+[2025-11-21 19:36:02 : INFO] - Re_Smush_It_Task with attachment ID : 13227, auto created on : November 21, 2025 07:26:44 
+[2025-11-21 19:36:02 : INFO] - File: vagabond-01.jpg, Compression quality: 92 
+[2025-11-21 19:36:04 : INFO] - Backing up the original image - 2025/11/vagabond-01-updraft-pre-smush-original.jpg 
+[2025-11-21 19:36:15 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/vagabond-01.jpg.The file was compressed from 49.78 KB to 47.13 KB, saving 5.32 percent, using WP-Optimize 
+[2025-11-21 19:36:15 : INFO] - Completed processing task with ID : 120, and type 'smush' 
+[2025-11-21 19:36:15 : INFO] - Processing task with ID : 121, and type 'smush' 
+[2025-11-21 19:36:15 : INFO] - Re_Smush_It_Task with attachment ID : 13230, auto created on : November 21, 2025 07:27:39 
+[2025-11-21 19:36:15 : INFO] - File: vagabond-02.jpg, Compression quality: 92 
+[2025-11-21 19:36:17 : INFO] - Backing up the original image - 2025/11/vagabond-02-updraft-pre-smush-original.jpg 
+[2025-11-21 19:36:26 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/vagabond-02.jpg.The file was compressed from 43.60 KB to 40.96 KB, saving 6.06 percent, using WP-Optimize 
+[2025-11-21 19:36:26 : INFO] - Completed processing task with ID : 121, and type 'smush' 
+[2025-11-21 19:36:26 : INFO] - Processing task with ID : 122, and type 'smush' 
+[2025-11-21 19:36:26 : INFO] - Re_Smush_It_Task with attachment ID : 13233, auto created on : November 21, 2025 07:28:27 
+[2025-11-21 19:36:26 : INFO] - File: vagabond-03.jpg, Compression quality: 92 
+[2025-11-21 19:36:28 : INFO] - Backing up the original image - 2025/11/vagabond-03-updraft-pre-smush-original.jpg 
+[2025-11-21 19:36:38 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/vagabond-03.jpg.The file was compressed from 50.92 KB to 47.83 KB, saving 6.07 percent, using WP-Optimize 
+[2025-11-21 19:36:38 : INFO] - Completed processing task with ID : 122, and type 'smush' 
+[2025-11-21 19:36:38 : INFO] - Processing task with ID : 123, and type 'smush' 
+[2025-11-21 19:36:38 : INFO] - Re_Smush_It_Task with attachment ID : 13236, auto created on : November 21, 2025 07:32:19 
+[2025-11-21 19:36:38 : INFO] - File: 20thcenturyboys_01.jpg, Compression quality: 92 
+[2025-11-21 19:36:41 : INFO] - Backing up the original image - 2025/11/20thcenturyboys_01-updraft-pre-smush-original.jpg 
+[2025-11-21 19:36:51 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/20thcenturyboys_01.jpg.The file was compressed from 83.98 KB to 59.79 KB, saving 28.8 percent, using WP-Optimize 
+[2025-11-21 19:36:52 : INFO] - Completed processing task with ID : 123, and type 'smush' 
+[2025-11-21 19:36:52 : INFO] - Processing task with ID : 124, and type 'smush' 
+[2025-11-21 19:36:52 : INFO] - Re_Smush_It_Task with attachment ID : 13239, auto created on : November 21, 2025 07:33:13 
+[2025-11-21 19:36:52 : INFO] - File: 20thcenturyboys_02.jpg, Compression quality: 92 
+[2025-11-21 19:36:54 : INFO] - Backing up the original image - 2025/11/20thcenturyboys_02-updraft-pre-smush-original.jpg 
+[2025-11-21 19:37:05 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/20thcenturyboys_02.jpg.The file was compressed from 117.29 KB to 84.90 KB, saving 27.61 percent, using WP-Optimize 
+[2025-11-21 19:37:05 : INFO] - Completed processing task with ID : 124, and type 'smush' 
+[2025-11-21 19:37:05 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 19:37:05 : INFO] - Successfully processed the queue (smush). 6 tasks were processed out of 6. 
+[2025-11-21 19:37:05 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 19:37:05 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2025-11-21 19:43:08 : INFO] - Re_Smush_It_Task with attachment ID : 13242, auto created on : November 21, 2025 07:43:08 
+[2025-11-21 19:44:22 : INFO] - Re_Smush_It_Task with attachment ID : 13245, auto created on : November 21, 2025 07:44:22 
+[2025-11-21 19:46:47 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 19:46:47 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 19:46:47 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 19:46:47 : INFO] - Processing task with ID : 125, and type 'smush' 
+[2025-11-21 19:46:47 : INFO] - Re_Smush_It_Task with attachment ID : 13242, auto created on : November 21, 2025 07:43:08 
+[2025-11-21 19:46:47 : INFO] - File: codegeasslelouch1.jpg, Compression quality: 92 
+[2025-11-21 19:46:49 : INFO] - Backing up the original image - 2025/11/codegeasslelouch1-updraft-pre-smush-original.jpg 
+[2025-11-21 19:47:01 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/codegeasslelouch1.jpg.The file was compressed from 116.81 KB to 97.11 KB, saving 16.86 percent, using WP-Optimize 
+[2025-11-21 19:47:01 : INFO] - Completed processing task with ID : 125, and type 'smush' 
+[2025-11-21 19:47:01 : INFO] - Processing task with ID : 126, and type 'smush' 
+[2025-11-21 19:47:01 : INFO] - Re_Smush_It_Task with attachment ID : 13245, auto created on : November 21, 2025 07:44:22 
+[2025-11-21 19:47:01 : INFO] - File: codegeasslelouch2.jpg, Compression quality: 92 
+[2025-11-21 19:47:04 : INFO] - Backing up the original image - 2025/11/codegeasslelouch2-updraft-pre-smush-original.jpg 
+[2025-11-21 19:47:39 : INFO] - Task with ID 126 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 30001 milliseconds with 0 bytes received 
+[2025-11-21 19:47:39 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2025-11-21 19:47:47 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/codegeasslelouch2.jpg.The file was compressed from 84.87 KB to 77.54 KB, saving 8.63 percent, using WP-Optimize 
+[2025-11-21 19:47:47 : INFO] - Completed processing task with ID : 126, and type 'smush' 
+[2025-11-21 19:47:47 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 19:47:47 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-11-21 19:47:47 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 19:47:47 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-11-21 20:07:03 : INFO] - Re_Smush_It_Task with attachment ID : 13251, auto created on : November 21, 2025 08:07:02 
+[2025-11-21 20:08:50 : INFO] - Re_Smush_It_Task with attachment ID : 13254, auto created on : November 21, 2025 08:08:50 
+[2025-11-21 20:09:32 : INFO] - Re_Smush_It_Task with attachment ID : 13257, auto created on : November 21, 2025 08:09:32 
+[2025-11-21 20:10:28 : INFO] - Re_Smush_It_Task with attachment ID : 13260, auto created on : November 21, 2025 08:10:28 
+[2025-11-21 20:11:16 : INFO] - Re_Smush_It_Task with attachment ID : 13263, auto created on : November 21, 2025 08:11:16 
+[2025-11-21 20:12:11 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 20:12:11 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 20:12:11 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 20:12:11 : INFO] - Processing task with ID : 127, and type 'smush' 
+[2025-11-21 20:12:11 : INFO] - Re_Smush_It_Task with attachment ID : 13251, auto created on : November 21, 2025 08:07:02 
+[2025-11-21 20:12:11 : INFO] - File: dorohedoro01.jpg, Compression quality: 92 
+[2025-11-21 20:12:13 : INFO] - Backing up the original image - 2025/11/dorohedoro01-updraft-pre-smush-original.jpg 
+[2025-11-21 20:12:24 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/dorohedoro01.jpg.The file was compressed from 54.45 KB to 44.25 KB, saving 18.73 percent, using WP-Optimize 
+[2025-11-21 20:12:24 : INFO] - Completed processing task with ID : 127, and type 'smush' 
+[2025-11-21 20:12:24 : INFO] - Processing task with ID : 128, and type 'smush' 
+[2025-11-21 20:12:24 : INFO] - Re_Smush_It_Task with attachment ID : 13254, auto created on : November 21, 2025 08:08:50 
+[2025-11-21 20:12:24 : INFO] - File: dorohedoro02.jpg, Compression quality: 92 
+[2025-11-21 20:12:26 : INFO] - Backing up the original image - 2025/11/dorohedoro02-updraft-pre-smush-original.jpg 
+[2025-11-21 20:12:38 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/dorohedoro02.jpg.The file was compressed from 77.36 KB to 65.98 KB, saving 14.71 percent, using WP-Optimize 
+[2025-11-21 20:12:38 : INFO] - Completed processing task with ID : 128, and type 'smush' 
+[2025-11-21 20:12:38 : INFO] - Processing task with ID : 129, and type 'smush' 
+[2025-11-21 20:12:38 : INFO] - Re_Smush_It_Task with attachment ID : 13257, auto created on : November 21, 2025 08:09:32 
+[2025-11-21 20:12:38 : INFO] - File: dorohedoro03.jpg, Compression quality: 92 
+[2025-11-21 20:12:40 : INFO] - Backing up the original image - 2025/11/dorohedoro03-updraft-pre-smush-original.jpg 
+[2025-11-21 20:12:51 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/dorohedoro03.jpg.The file was compressed from 265.96 KB to 100.04 KB, saving 62.39 percent, using WP-Optimize 
+[2025-11-21 20:12:51 : INFO] - Completed processing task with ID : 129, and type 'smush' 
+[2025-11-21 20:12:51 : INFO] - Processing task with ID : 130, and type 'smush' 
+[2025-11-21 20:12:51 : INFO] - Re_Smush_It_Task with attachment ID : 13260, auto created on : November 21, 2025 08:10:28 
+[2025-11-21 20:12:51 : INFO] - File: dorohedoro04.jpg, Compression quality: 92 
+[2025-11-21 20:12:53 : INFO] - Backing up the original image - 2025/11/dorohedoro04-updraft-pre-smush-original.jpg 
+[2025-11-21 20:13:04 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/dorohedoro04.jpg.The file was compressed from 68.43 KB to 61.64 KB, saving 9.91 percent, using WP-Optimize 
+[2025-11-21 20:13:04 : INFO] - Completed processing task with ID : 130, and type 'smush' 
+[2025-11-21 20:13:04 : INFO] - Processing task with ID : 131, and type 'smush' 
+[2025-11-21 20:13:04 : INFO] - Re_Smush_It_Task with attachment ID : 13263, auto created on : November 21, 2025 08:11:16 
+[2025-11-21 20:13:04 : INFO] - File: dorohedoro12.jpg, Compression quality: 92 
+[2025-11-21 20:13:07 : INFO] - Backing up the original image - 2025/11/dorohedoro12-updraft-pre-smush-original.jpg 
+[2025-11-21 20:13:18 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/dorohedoro12.jpg.The file was compressed from 105.86 KB to 84.24 KB, saving 20.42 percent, using WP-Optimize 
+[2025-11-21 20:13:18 : INFO] - Completed processing task with ID : 131, and type 'smush' 
+[2025-11-21 20:13:18 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 20:13:18 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2025-11-21 20:13:18 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 20:13:18 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2025-11-21 20:14:00 : INFO] - Re_Smush_It_Task with attachment ID : 13267, auto created on : November 21, 2025 08:14:00 
+[2025-11-21 20:14:52 : INFO] - Re_Smush_It_Task with attachment ID : 13270, auto created on : November 21, 2025 08:14:52 
+[2025-11-21 20:17:50 : INFO] - Re_Smush_It_Task with attachment ID : 13274, auto created on : November 21, 2025 08:17:50 
+[2025-11-21 20:19:01 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 20:19:01 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 20:19:01 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 20:19:01 : INFO] - Processing task with ID : 132, and type 'smush' 
+[2025-11-21 20:19:01 : INFO] - Re_Smush_It_Task with attachment ID : 13267, auto created on : November 21, 2025 08:14:00 
+[2025-11-21 20:19:01 : INFO] - File: elpecadodetakopi1.jpg, Compression quality: 92 
+[2025-11-21 20:19:02 : INFO] - Re_Smush_It_Task with attachment ID : 13277, auto created on : November 21, 2025 08:19:02 
+[2025-11-21 20:19:04 : INFO] - Backing up the original image - 2025/11/elpecadodetakopi1-updraft-pre-smush-original.jpg 
+[2025-11-21 20:19:14 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/elpecadodetakopi1.jpg.The file was compressed from 61.97 KB to 58.14 KB, saving 6.17 percent, using WP-Optimize 
+[2025-11-21 20:19:14 : INFO] - Completed processing task with ID : 132, and type 'smush' 
+[2025-11-21 20:19:14 : INFO] - Processing task with ID : 133, and type 'smush' 
+[2025-11-21 20:19:14 : INFO] - Re_Smush_It_Task with attachment ID : 13270, auto created on : November 21, 2025 08:14:52 
+[2025-11-21 20:19:14 : INFO] - File: elpecadodetakopi2.jpg, Compression quality: 92 
+[2025-11-21 20:19:16 : INFO] - Backing up the original image - 2025/11/elpecadodetakopi2-updraft-pre-smush-original.jpg 
+[2025-11-21 20:19:27 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/elpecadodetakopi2.jpg.The file was compressed from 67.18 KB to 63.33 KB, saving 5.73 percent, using WP-Optimize 
+[2025-11-21 20:19:27 : INFO] - Completed processing task with ID : 133, and type 'smush' 
+[2025-11-21 20:19:27 : INFO] - Processing task with ID : 134, and type 'smush' 
+[2025-11-21 20:19:27 : INFO] - Re_Smush_It_Task with attachment ID : 13274, auto created on : November 21, 2025 08:17:50 
+[2025-11-21 20:19:27 : INFO] - File: Hellsing-Inmortal01.jpg, Compression quality: 92 
+[2025-11-21 20:19:30 : INFO] - Backing up the original image - 2025/11/Hellsing-Inmortal01-updraft-pre-smush-original.jpg 
+[2025-11-21 20:19:42 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/Hellsing-Inmortal01.jpg.The file was compressed from 126.44 KB to 104.91 KB, saving 17.03 percent, using WP-Optimize 
+[2025-11-21 20:19:43 : INFO] - Completed processing task with ID : 134, and type 'smush' 
+[2025-11-21 20:19:43 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 20:19:43 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2025-11-21 20:19:43 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 20:19:43 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2025-11-21 20:21:21 : INFO] - Re_Smush_It_Task with attachment ID : 13280, auto created on : November 21, 2025 08:21:21 
+[2025-11-21 20:29:04 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 20:29:04 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 20:29:04 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 20:29:04 : INFO] - Processing task with ID : 135, and type 'smush' 
+[2025-11-21 20:29:04 : INFO] - Re_Smush_It_Task with attachment ID : 13277, auto created on : November 21, 2025 08:19:02 
+[2025-11-21 20:29:04 : INFO] - File: Hellsing-Inmortal02.jpg, Compression quality: 92 
+[2025-11-21 20:29:07 : INFO] - Backing up the original image - 2025/11/Hellsing-Inmortal02-updraft-pre-smush-original.jpg 
+[2025-11-21 20:29:19 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/Hellsing-Inmortal02.jpg.The file was compressed from 147.32 KB to 108.22 KB, saving 26.54 percent, using WP-Optimize 
+[2025-11-21 20:29:19 : INFO] - Completed processing task with ID : 135, and type 'smush' 
+[2025-11-21 20:29:19 : INFO] - Processing task with ID : 136, and type 'smush' 
+[2025-11-21 20:29:19 : INFO] - Re_Smush_It_Task with attachment ID : 13280, auto created on : November 21, 2025 08:21:21 
+[2025-11-21 20:29:19 : INFO] - File: mob1-1.jpg, Compression quality: 92 
+[2025-11-21 20:29:22 : INFO] - Backing up the original image - 2025/11/mob1-1-updraft-pre-smush-original.jpg 
+[2025-11-21 20:29:34 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/mob1-1.jpg.The file was compressed from 100.78 KB to 83.44 KB, saving 17.21 percent, using WP-Optimize 
+[2025-11-21 20:29:34 : INFO] - Completed processing task with ID : 136, and type 'smush' 
+[2025-11-21 20:29:34 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 20:29:34 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-11-21 20:29:34 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 20:29:34 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-11-21 20:37:37 : INFO] - Re_Smush_It_Task with attachment ID : 13283, auto created on : November 21, 2025 08:37:37 
+[2025-11-21 20:39:11 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 20:39:11 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 20:39:11 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 20:39:11 : INFO] - Processing task with ID : 137, and type 'smush' 
+[2025-11-21 20:39:11 : INFO] - Re_Smush_It_Task with attachment ID : 13283, auto created on : November 21, 2025 08:37:37 
+[2025-11-21 20:39:11 : INFO] - File: mob2.jpg, Compression quality: 92 
+[2025-11-21 20:39:13 : INFO] - Backing up the original image - 2025/11/mob2-updraft-pre-smush-original.jpg 
+[2025-11-21 20:39:24 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/mob2.jpg.The file was compressed from 84.81 KB to 72.37 KB, saving 14.67 percent, using WP-Optimize 
+[2025-11-21 20:39:25 : INFO] - Completed processing task with ID : 137, and type 'smush' 
+[2025-11-21 20:39:25 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 20:39:25 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-11-21 20:39:25 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 20:39:25 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-11-21 22:02:50 : INFO] - Re_Smush_It_Task with attachment ID : 13289, auto created on : November 21, 2025 10:02:50 
+[2025-11-21 22:04:00 : INFO] - Re_Smush_It_Task with attachment ID : 13292, auto created on : November 21, 2025 10:04:00 
+[2025-11-21 22:06:41 : INFO] - Re_Smush_It_Task with attachment ID : 13295, auto created on : November 21, 2025 10:06:41 
+[2025-11-21 22:07:23 : INFO] - Re_Smush_It_Task with attachment ID : 13298, auto created on : November 21, 2025 10:07:23 
+[2025-11-21 22:07:51 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 22:07:51 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 22:07:51 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 22:07:51 : INFO] - Processing task with ID : 138, and type 'smush' 
+[2025-11-21 22:07:51 : INFO] - Re_Smush_It_Task with attachment ID : 13289, auto created on : November 21, 2025 10:02:50 
+[2025-11-21 22:07:51 : INFO] - File: monster01.jpg, Compression quality: 92 
+[2025-11-21 22:07:53 : INFO] - Backing up the original image - 2025/11/monster01-updraft-pre-smush-original.jpg 
+[2025-11-21 22:08:03 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/monster01.jpg.The file was compressed from 57.47 KB to 56.68 KB, saving 1.38 percent, using WP-Optimize 
+[2025-11-21 22:08:03 : INFO] - Completed processing task with ID : 138, and type 'smush' 
+[2025-11-21 22:08:03 : INFO] - Processing task with ID : 139, and type 'smush' 
+[2025-11-21 22:08:03 : INFO] - Re_Smush_It_Task with attachment ID : 13292, auto created on : November 21, 2025 10:04:00 
+[2025-11-21 22:08:03 : INFO] - File: monster02.jpg, Compression quality: 92 
+[2025-11-21 22:08:05 : INFO] - Backing up the original image - 2025/11/monster02-updraft-pre-smush-original.jpg 
+[2025-11-21 22:08:14 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/monster02.jpg.The file was compressed from 42.89 KB to 40.44 KB, saving 5.7 percent, using WP-Optimize 
+[2025-11-21 22:08:14 : INFO] - Completed processing task with ID : 139, and type 'smush' 
+[2025-11-21 22:08:14 : INFO] - Processing task with ID : 140, and type 'smush' 
+[2025-11-21 22:08:14 : INFO] - Re_Smush_It_Task with attachment ID : 13295, auto created on : November 21, 2025 10:06:41 
+[2025-11-21 22:08:14 : INFO] - File: myheroacademia01.jpg, Compression quality: 92 
+[2025-11-21 22:08:17 : INFO] - Backing up the original image - 2025/11/myheroacademia01-updraft-pre-smush-original.jpg 
+[2025-11-21 22:08:28 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/myheroacademia01.jpg.The file was compressed from 85.38 KB to 82.86 KB, saving 2.94 percent, using WP-Optimize 
+[2025-11-21 22:08:28 : INFO] - Completed processing task with ID : 140, and type 'smush' 
+[2025-11-21 22:08:28 : INFO] - Processing task with ID : 141, and type 'smush' 
+[2025-11-21 22:08:28 : INFO] - Re_Smush_It_Task with attachment ID : 13298, auto created on : November 21, 2025 10:07:23 
+[2025-11-21 22:08:28 : INFO] - File: myheroacademia02.jpg, Compression quality: 92 
+[2025-11-21 22:08:30 : INFO] - Backing up the original image - 2025/11/myheroacademia02-updraft-pre-smush-original.jpg 
+[2025-11-21 22:08:41 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/myheroacademia02.jpg.The file was compressed from 77.50 KB to 75.06 KB, saving 3.14 percent, using WP-Optimize 
+[2025-11-21 22:08:41 : INFO] - Completed processing task with ID : 141, and type 'smush' 
+[2025-11-21 22:08:41 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 22:08:41 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2025-11-21 22:08:41 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 22:08:41 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2025-11-21 22:10:21 : INFO] - Re_Smush_It_Task with attachment ID : 13301, auto created on : November 21, 2025 10:10:21 
+[2025-11-21 22:14:58 : INFO] - Re_Smush_It_Task with attachment ID : 13305, auto created on : November 21, 2025 10:14:58 
+[2025-11-21 22:15:41 : INFO] - Re_Smush_It_Task with attachment ID : 13308, auto created on : November 21, 2025 10:15:41 
+[2025-11-21 22:18:31 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 22:18:31 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 22:18:31 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 22:18:31 : INFO] - Processing task with ID : 142, and type 'smush' 
+[2025-11-21 22:18:31 : INFO] - Re_Smush_It_Task with attachment ID : 13301, auto created on : November 21, 2025 10:10:21 
+[2025-11-21 22:18:31 : INFO] - File: nana_01.jpg, Compression quality: 92 
+[2025-11-21 22:18:33 : INFO] - Backing up the original image - 2025/11/nana_01-updraft-pre-smush-original.jpg 
+[2025-11-21 22:18:43 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/nana_01.jpg.The file was compressed from 70.73 KB to 69.62 KB, saving 1.57 percent, using WP-Optimize 
+[2025-11-21 22:18:44 : INFO] - Completed processing task with ID : 142, and type 'smush' 
+[2025-11-21 22:18:44 : INFO] - Processing task with ID : 143, and type 'smush' 
+[2025-11-21 22:18:44 : INFO] - Re_Smush_It_Task with attachment ID : 13305, auto created on : November 21, 2025 10:14:58 
+[2025-11-21 22:18:44 : INFO] - File: nana_02.jpg, Compression quality: 92 
+[2025-11-21 22:18:46 : INFO] - Backing up the original image - 2025/11/nana_02-updraft-pre-smush-original.jpg 
+[2025-11-21 22:18:56 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/nana_02.jpg.The file was compressed from 60.40 KB to 59.51 KB, saving 1.48 percent, using WP-Optimize 
+[2025-11-21 22:18:56 : INFO] - Completed processing task with ID : 143, and type 'smush' 
+[2025-11-21 22:18:56 : INFO] - Processing task with ID : 144, and type 'smush' 
+[2025-11-21 22:18:56 : INFO] - Re_Smush_It_Task with attachment ID : 13308, auto created on : November 21, 2025 10:15:41 
+[2025-11-21 22:18:56 : INFO] - File: nana_04.jpg, Compression quality: 92 
+[2025-11-21 22:18:58 : INFO] - Backing up the original image - 2025/11/nana_04-updraft-pre-smush-original.jpg 
+[2025-11-21 22:19:09 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/nana_04.jpg.The file was compressed from 66.65 KB to 65.48 KB, saving 1.75 percent, using WP-Optimize 
+[2025-11-21 22:19:09 : INFO] - Completed processing task with ID : 144, and type 'smush' 
+[2025-11-21 22:19:09 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 22:19:09 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2025-11-21 22:19:09 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 22:19:09 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2025-11-21 22:19:36 : INFO] - Re_Smush_It_Task with attachment ID : 13311, auto created on : November 21, 2025 10:19:36 
+[2025-11-21 22:24:19 : INFO] - Re_Smush_It_Task with attachment ID : 13314, auto created on : November 21, 2025 10:24:19 
+[2025-11-21 22:25:05 : INFO] - Re_Smush_It_Task with attachment ID : 13317, auto created on : November 21, 2025 10:25:05 
+[2025-11-21 22:25:54 : INFO] - Re_Smush_It_Task with attachment ID : 13320, auto created on : November 21, 2025 10:25:54 
+[2025-11-21 22:26:28 : INFO] - Re_Smush_It_Task with attachment ID : 13323, auto created on : November 21, 2025 10:26:28 
+[2025-11-21 22:28:32 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 22:28:32 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 22:28:32 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 22:28:32 : INFO] - Processing task with ID : 145, and type 'smush' 
+[2025-11-21 22:28:32 : INFO] - Re_Smush_It_Task with attachment ID : 13311, auto created on : November 21, 2025 10:19:36 
+[2025-11-21 22:28:32 : INFO] - File: slamdunk01.jpg, Compression quality: 92 
+[2025-11-21 22:28:35 : INFO] - Backing up the original image - 2025/11/slamdunk01-updraft-pre-smush-original.jpg 
+[2025-11-21 22:28:46 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/slamdunk01.jpg.The file was compressed from 121.18 KB to 82.31 KB, saving 32.08 percent, using WP-Optimize 
+[2025-11-21 22:28:46 : INFO] - Completed processing task with ID : 145, and type 'smush' 
+[2025-11-21 22:28:46 : INFO] - Processing task with ID : 146, and type 'smush' 
+[2025-11-21 22:28:46 : INFO] - Re_Smush_It_Task with attachment ID : 13314, auto created on : November 21, 2025 10:24:19 
+[2025-11-21 22:28:46 : INFO] - File: slamdunk02.jpg, Compression quality: 92 
+[2025-11-21 22:28:48 : INFO] - Backing up the original image - 2025/11/slamdunk02-updraft-pre-smush-original.jpg 
+[2025-11-21 22:28:59 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/slamdunk02.jpg.The file was compressed from 65.58 KB to 60.28 KB, saving 8.08 percent, using WP-Optimize 
+[2025-11-21 22:28:59 : INFO] - Completed processing task with ID : 146, and type 'smush' 
+[2025-11-21 22:28:59 : INFO] - Processing task with ID : 147, and type 'smush' 
+[2025-11-21 22:28:59 : INFO] - Re_Smush_It_Task with attachment ID : 13317, auto created on : November 21, 2025 10:25:05 
+[2025-11-21 22:28:59 : INFO] - File: slamdunk03.jpg, Compression quality: 92 
+[2025-11-21 22:29:02 : INFO] - Backing up the original image - 2025/11/slamdunk03-updraft-pre-smush-original.jpg 
+[2025-11-21 22:29:15 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/slamdunk03.jpg.The file was compressed from 149.35 KB to 104.34 KB, saving 30.14 percent, using WP-Optimize 
+[2025-11-21 22:29:15 : INFO] - Completed processing task with ID : 147, and type 'smush' 
+[2025-11-21 22:29:15 : INFO] - Processing task with ID : 148, and type 'smush' 
+[2025-11-21 22:29:15 : INFO] - Re_Smush_It_Task with attachment ID : 13320, auto created on : November 21, 2025 10:25:54 
+[2025-11-21 22:29:15 : INFO] - File: slamdunk04.jpg, Compression quality: 92 
+[2025-11-21 22:29:18 : INFO] - Backing up the original image - 2025/11/slamdunk04-updraft-pre-smush-original.jpg 
+[2025-11-21 22:29:29 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/slamdunk04.jpg.The file was compressed from 273.39 KB to 100.90 KB, saving 63.09 percent, using WP-Optimize 
+[2025-11-21 22:29:29 : INFO] - Completed processing task with ID : 148, and type 'smush' 
+[2025-11-21 22:29:29 : INFO] - Processing task with ID : 149, and type 'smush' 
+[2025-11-21 22:29:29 : INFO] - Re_Smush_It_Task with attachment ID : 13323, auto created on : November 21, 2025 10:26:28 
+[2025-11-21 22:29:29 : INFO] - File: slamdunk20.jpg, Compression quality: 92 
+[2025-11-21 22:29:31 : INFO] - Backing up the original image - 2025/11/slamdunk20-updraft-pre-smush-original.jpg 
+[2025-11-21 22:29:42 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/slamdunk20.jpg.The file was compressed from 70.90 KB to 66.17 KB, saving 6.67 percent, using WP-Optimize 
+[2025-11-21 22:29:42 : INFO] - Completed processing task with ID : 149, and type 'smush' 
+[2025-11-21 22:29:42 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 22:29:42 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2025-11-21 22:29:42 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 22:29:42 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2025-11-21 22:32:19 : INFO] - Re_Smush_It_Task with attachment ID : 13326, auto created on : November 21, 2025 10:32:19 
+[2025-11-21 22:33:02 : INFO] - Re_Smush_It_Task with attachment ID : 13329, auto created on : November 21, 2025 10:33:02 
+[2025-11-21 22:38:40 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-11-21 22:38:40 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-21 22:38:40 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-21 22:38:40 : INFO] - Processing task with ID : 150, and type 'smush' 
+[2025-11-21 22:38:40 : INFO] - Re_Smush_It_Task with attachment ID : 13326, auto created on : November 21, 2025 10:32:19 
+[2025-11-21 22:38:40 : INFO] - File: yuyukzb_01.jpg, Compression quality: 92 
+[2025-11-21 22:38:43 : INFO] - Backing up the original image - 2025/11/yuyukzb_01-updraft-pre-smush-original.jpg 
+[2025-11-21 22:38:53 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/yuyukzb_01.jpg.The file was compressed from 99.17 KB to 71.03 KB, saving 28.37 percent, using WP-Optimize 
+[2025-11-21 22:38:54 : INFO] - Completed processing task with ID : 150, and type 'smush' 
+[2025-11-21 22:38:54 : INFO] - Processing task with ID : 151, and type 'smush' 
+[2025-11-21 22:38:54 : INFO] - Re_Smush_It_Task with attachment ID : 13329, auto created on : November 21, 2025 10:33:02 
+[2025-11-21 22:38:54 : INFO] - File: yuyukzb_02.jpg, Compression quality: 92 
+[2025-11-21 22:38:56 : INFO] - Backing up the original image - 2025/11/yuyukzb_02-updraft-pre-smush-original.jpg 
+[2025-11-21 22:39:07 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/yuyukzb_02.jpg.The file was compressed from 91.98 KB to 71.99 KB, saving 21.73 percent, using WP-Optimize 
+[2025-11-21 22:39:08 : INFO] - Completed processing task with ID : 151, and type 'smush' 
+[2025-11-21 22:39:08 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-21 22:39:08 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-11-21 22:39:08 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-21 22:39:08 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-11-22 00:06:45 : INFO] - Re_Smush_It_Task with attachment ID : 13391, auto created on : November 22, 2025 12:06:45 
+[2025-11-22 00:11:48 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-11-22 00:11:48 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-22 00:11:48 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-22 00:11:48 : INFO] - Processing task with ID : 152, and type 'smush' 
+[2025-11-22 00:11:48 : INFO] - Re_Smush_It_Task with attachment ID : 13391, auto created on : November 22, 2025 12:06:45 
+[2025-11-22 00:11:48 : INFO] - File: X_kaguya-sama-love-is-war-01-panini-argentina6229.jpg, Compression quality: 92 
+[2025-11-22 00:11:50 : INFO] - Backing up the original image - 2025/11/X_kaguya-sama-love-is-war-01-panini-argentina6229-updraft-pre-smush-original.jpg 
+[2025-11-22 00:11:56 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/X_kaguya-sama-love-is-war-01-panini-argentina6229.jpg.The file was compressed from 68.08 KB to 68.08 KB, saving 0 percent, using WP-Optimize 
+[2025-11-22 00:11:57 : INFO] - Completed processing task with ID : 152, and type 'smush' 
+[2025-11-22 00:11:57 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-22 00:11:57 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-11-22 00:11:57 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-22 00:11:57 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-11-22 01:04:37 : INFO] - Re_Smush_It_Task with attachment ID : 13457, auto created on : November 22, 2025 01:04:37 
+[2025-11-22 01:16:56 : INFO] - Re_Smush_It_Task with attachment ID : 13466, auto created on : November 22, 2025 01:16:56 
+[2025-11-22 01:22:02 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-11-22 01:22:02 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-22 01:22:02 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-22 01:22:02 : INFO] - Processing task with ID : 153, and type 'smush' 
+[2025-11-22 01:22:02 : INFO] - Re_Smush_It_Task with attachment ID : 13457, auto created on : November 22, 2025 01:04:37 
+[2025-11-22 01:22:02 : INFO] - File: naruto-70.jpg, Compression quality: 92 
+[2025-11-22 01:22:05 : INFO] - Backing up the original image - 2025/11/naruto-70-updraft-pre-smush-original.jpg 
+[2025-11-22 01:22:12 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/naruto-70.jpg.The file was compressed from 65.20 KB to 65.20 KB, saving 0 percent, using WP-Optimize 
+[2025-11-22 01:22:12 : INFO] - Completed processing task with ID : 153, and type 'smush' 
+[2025-11-22 01:22:12 : INFO] - Processing task with ID : 154, and type 'smush' 
+[2025-11-22 01:22:12 : INFO] - Re_Smush_It_Task with attachment ID : 13466, auto created on : November 22, 2025 01:16:56 
+[2025-11-22 01:22:12 : INFO] - File: noragami-02.jpg, Compression quality: 92 
+[2025-11-22 01:22:14 : INFO] - Backing up the original image - 2025/11/noragami-02-updraft-pre-smush-original.jpg 
+[2025-11-22 01:22:20 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/noragami-02.jpg.The file was compressed from 49.04 KB to 49.04 KB, saving 0 percent, using WP-Optimize 
+[2025-11-22 01:22:20 : INFO] - Completed processing task with ID : 154, and type 'smush' 
+[2025-11-22 01:22:20 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-22 01:22:20 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-11-22 01:22:20 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-22 01:22:20 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-11-22 01:26:09 : INFO] - Re_Smush_It_Task with attachment ID : 13476, auto created on : November 22, 2025 01:26:09 
+[2025-11-22 01:28:05 : INFO] - Re_Smush_It_Task with attachment ID : 13477, auto created on : November 22, 2025 01:28:05 
+[2025-11-22 01:32:03 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-11-22 01:32:03 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-22 01:32:03 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-22 01:32:03 : INFO] - Processing task with ID : 155, and type 'smush' 
+[2025-11-22 01:32:03 : INFO] - Task with ID 155 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2025-11-22 01:32:04 : INFO] - Processing task with ID : 156, and type 'smush' 
+[2025-11-22 01:32:04 : INFO] - Re_Smush_It_Task with attachment ID : 13477, auto created on : November 22, 2025 01:28:05 
+[2025-11-22 01:32:04 : INFO] - File: rezero4.jpg, Compression quality: 92 
+[2025-11-22 01:32:07 : INFO] - Backing up the original image - 2025/11/rezero4-updraft-pre-smush-original.jpg 
+[2025-11-22 01:32:13 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/rezero4.jpg.The file was compressed from 151.03 KB to 143.75 KB, saving 4.82 percent, using WP-Optimize 
+[2025-11-22 01:32:14 : INFO] - Completed processing task with ID : 156, and type 'smush' 
+[2025-11-22 01:32:14 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-22 01:32:14 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-11-22 01:32:14 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-22 01:32:14 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-11-22 02:16:09 : INFO] - Re_Smush_It_Task with attachment ID : 13520, auto created on : November 22, 2025 02:16:09 
+[2025-11-22 02:21:09 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-11-22 02:21:09 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-22 02:21:09 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-22 02:21:09 : INFO] - Processing task with ID : 157, and type 'smush' 
+[2025-11-22 02:21:09 : INFO] - Re_Smush_It_Task with attachment ID : 13520, auto created on : November 22, 2025 02:16:09 
+[2025-11-22 02:21:09 : INFO] - File: X_assassination-classroom-023380.jpg, Compression quality: 92 
+[2025-11-22 02:21:11 : INFO] - Backing up the original image - 2025/11/X_assassination-classroom-023380-updraft-pre-smush-original.jpg 
+[2025-11-22 02:21:16 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/X_assassination-classroom-023380.jpg.The file was compressed from 27.10 KB to 27.10 KB, saving 0 percent, using WP-Optimize 
+[2025-11-22 02:21:16 : INFO] - Completed processing task with ID : 157, and type 'smush' 
+[2025-11-22 02:21:16 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-22 02:21:16 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-11-22 02:21:16 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-22 02:21:16 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-11-22 02:40:17 : INFO] - Re_Smush_It_Task with attachment ID : 13531, auto created on : November 22, 2025 02:40:17 
+[2025-11-22 02:41:29 : INFO] - Re_Smush_It_Task with attachment ID : 13532, auto created on : November 22, 2025 02:41:29 
+[2025-11-22 02:45:18 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-11-22 02:45:18 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-22 02:45:18 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-22 02:45:18 : INFO] - Processing task with ID : 158, and type 'smush' 
+[2025-11-22 02:45:18 : INFO] - Re_Smush_It_Task with attachment ID : 13531, auto created on : November 22, 2025 02:40:17 
+[2025-11-22 02:45:18 : INFO] - File: panini-espana.png, Compression quality: 92 
+[2025-11-22 02:45:20 : INFO] - Backing up the original image - 2025/11/panini-espana-updraft-pre-smush-original.png 
+[2025-11-22 02:45:23 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/panini-espana.png.The file was compressed from 3.97 KB to 3.97 KB, saving 0 percent, using WP-Optimize 
+[2025-11-22 02:45:23 : INFO] - Completed processing task with ID : 158, and type 'smush' 
+[2025-11-22 02:45:23 : INFO] - Processing task with ID : 159, and type 'smush' 
+[2025-11-22 02:45:23 : INFO] - Re_Smush_It_Task with attachment ID : 13532, auto created on : November 22, 2025 02:41:29 
+[2025-11-22 02:45:23 : INFO] - File: panini-argentina-editorial8678.png, Compression quality: 92 
+[2025-11-22 02:45:25 : INFO] - Backing up the original image - 2025/11/panini-argentina-editorial8678-updraft-pre-smush-original.png 
+[2025-11-22 02:45:29 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/panini-argentina-editorial8678.png.The file was compressed from 10.24 KB to 10.24 KB, saving 0 percent, using WP-Optimize 
+[2025-11-22 02:45:30 : INFO] - Completed processing task with ID : 159, and type 'smush' 
+[2025-11-22 02:45:30 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-22 02:45:30 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-11-22 02:45:30 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-22 02:45:30 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-11-22 02:50:37 : INFO] - Re_Smush_It_Task with attachment ID : 13536, auto created on : November 22, 2025 02:50:37 
+[2025-11-22 02:53:03 : INFO] - Re_Smush_It_Task with attachment ID : 13541, auto created on : November 22, 2025 02:53:03 
+[2025-11-22 02:55:18 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-11-22 02:55:18 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-22 02:55:18 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-22 02:55:18 : INFO] - Processing task with ID : 160, and type 'smush' 
+[2025-11-22 02:55:18 : INFO] - Re_Smush_It_Task with attachment ID : 13536, auto created on : November 22, 2025 02:50:37 
+[2025-11-22 02:55:18 : INFO] - File: panini-argentina-editorial8678-1.png, Compression quality: 92 
+[2025-11-22 02:55:20 : INFO] - Backing up the original image - 2025/11/panini-argentina-editorial8678-1-updraft-pre-smush-original.png 
+[2025-11-22 02:55:25 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/panini-argentina-editorial8678-1.png.The file was compressed from 38.35 KB to 19.74 KB, saving 48.53 percent, using WP-Optimize 
+[2025-11-22 02:55:25 : INFO] - Completed processing task with ID : 160, and type 'smush' 
+[2025-11-22 02:55:25 : INFO] - Processing task with ID : 161, and type 'smush' 
+[2025-11-22 02:55:25 : INFO] - Re_Smush_It_Task with attachment ID : 13541, auto created on : November 22, 2025 02:53:03 
+[2025-11-22 02:55:25 : INFO] - File: panini-espana-1.png, Compression quality: 92 
+[2025-11-22 02:55:27 : INFO] - Backing up the original image - 2025/11/panini-espana-1-updraft-pre-smush-original.png 
+[2025-11-22 02:55:32 : INFO] - Successfully optimized the image - /home/u888022333/domains/akibara.cl/public_html/wp-content/uploads/2025/11/panini-espana-1.png.The file was compressed from 38.08 KB to 18.53 KB, saving 51.35 percent, using WP-Optimize 
+[2025-11-22 02:55:32 : INFO] - Completed processing task with ID : 161, and type 'smush' 
+[2025-11-22 02:55:32 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-22 02:55:32 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-11-22 02:55:32 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-22 02:55:32 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 

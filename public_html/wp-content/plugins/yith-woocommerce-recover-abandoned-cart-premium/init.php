@@ -1,0 +1,233 @@
+<?php
+/**
+ * Plugin Name: YITH WooCommerce Recover Abandoned Cart Premium
+ * Plugin URI: https://yithemes.com/themes/plugins/yith-woocommerce-recover-abandoned-cart/
+ * Description: <code><strong>YITH WooCommerce Recover Abandoned Cart</strong></code> reminds users who did not complete the checkout about their pending order, so you can recover this lost sale. Recovering abandoned carts increase the conversion rate dramatically, of your e-commerce shop. It's perfect if you want to maximise profit. <a href="https://yithemes.com/" target="_blank">Get more plugins for your e-commerce shop on <strong>YITH</strong></a>.
+ * Version: 3.12.0
+ * Author: YITH
+ * Author URI: https://yithemes.com/
+ * Text Domain: yith-woocommerce-recover-abandoned-cart
+ * Domain Path: /languages/
+ * WC requires at least: 9.9
+ * WC tested up to: 10.1
+ * Requires Plugins: woocommerce
+ *
+ * @package YITH WooCommerce Recover Abandoned Cart Premium
+ * @since   3.12.0
+ * @author  YITH <plugins@yithemes.com>
+ */
+
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+} // Exit if accessed directly
+
+if ( ! function_exists( 'is_plugin_active' ) ) {
+	require_once ABSPATH . 'wp-admin/includes/plugin.php';
+}
+
+if ( ! defined( 'YITH_YWRAC_DIR' ) ) {
+	define( 'YITH_YWRAC_DIR', plugin_dir_path( __FILE__ ) );
+}
+
+// Plugin Framework Loader.
+if ( file_exists( plugin_dir_path( __FILE__ ) . 'plugin-fw/init.php' ) ) {
+	require_once plugin_dir_path( __FILE__ ) . 'plugin-fw/init.php';
+}
+
+// Define constants ___._____________________________________.
+if ( defined( 'YITH_YWRAC_VERSION' ) ) {
+	return;
+} else {
+	define( 'YITH_YWRAC_VERSION', '3.12.0' );
+}
+
+if ( ! defined( 'YITH_YWRAC_PREMIUM' ) ) {
+	define( 'YITH_YWRAC_PREMIUM', plugin_basename( __FILE__ ) );
+}
+
+if ( ! defined( 'YITH_YWRAC_INIT' ) ) {
+	define( 'YITH_YWRAC_INIT', plugin_basename( __FILE__ ) );
+}
+
+if ( ! defined( 'YITH_YWRAC_FILE' ) ) {
+	define( 'YITH_YWRAC_FILE', __FILE__ );
+}
+
+if ( ! defined( 'YITH_YWRAC_URL' ) ) {
+	define( 'YITH_YWRAC_URL', plugins_url( '/', __FILE__ ) );
+}
+
+if ( ! defined( 'YITH_YWRAC_ASSETS_URL' ) ) {
+	define( 'YITH_YWRAC_ASSETS_URL', YITH_YWRAC_URL . 'assets' );
+}
+
+if ( ! defined( 'YITH_YWRAC_TEMPLATE_PATH' ) ) {
+	define( 'YITH_YWRAC_TEMPLATE_PATH', YITH_YWRAC_DIR . 'templates' );
+}
+
+if ( ! defined( 'YITH_YWRAC_INC' ) ) {
+	define( 'YITH_YWRAC_INC', YITH_YWRAC_DIR . '/includes/' );
+}
+
+if ( ! defined( 'YITH_YWRAC_SUFFIX' ) ) {
+	$suffix = defined( 'SCRIPT_DEBUG' ) && SCRIPT_DEBUG ? '' : '.min';
+	define( 'YITH_YWRAC_SUFFIX', $suffix );
+}
+
+if ( ! defined( 'YITH_YWRAC_SLUG' ) ) {
+	define( 'YITH_YWRAC_SLUG', 'yith-woocommerce-recover-abandoned-cart' );
+}
+
+if ( ! defined( 'YITH_YWRAC_SECRET_KEY' ) ) {
+	define( 'YITH_YWRAC_SECRET_KEY', '' );
+}
+
+if ( ! function_exists( 'yith_plugin_onboarding_registration_hook' ) ) {
+	include_once 'plugin-upgrade/functions-yith-licence.php';
+}
+register_activation_hook( __FILE__, 'yith_plugin_onboarding_registration_hook' );
+
+
+if ( ! function_exists( 'yith_ywrac_install_woocommerce_admin_notice' ) ) {
+	/**
+	 * Admin notice if WooCommerce is not installed
+	 *
+	 * @return void
+	 */
+	function yith_ywrac_install_woocommerce_admin_notice() {
+		?>
+		<div class="error">
+			<p><?php echo esc_html_x( 'YITH WooCommerce Recover Abandoned Cart is enabled but not effective. It requires WooCommerce in order to work.', 'do not translate plugin name', 'yith-woocommerce-recover-abandoned-cart' ); ?></p>
+		</div>
+		<?php
+	}
+}
+
+if ( ! function_exists( 'ywrac_plugin_registration_hook' ) ) {
+	/**
+	 * Function launched when the plugin is activated
+	 *
+	 * @return void
+	 */
+	function ywrac_plugin_registration_hook() {
+		if ( get_option( 'ywrac_pending_orders_enabled', 'no' ) !== 'yes' ) {
+			return;
+		}
+
+		$pending_orders = get_option( 'ywrac_total_pending_orders' );
+		if ( $pending_orders ) {
+			return;
+		}
+
+		$cart_counter = intval( get_option( 'ywrac_abandoned_carts_counter', 0 ) );
+
+		global $wpdb;
+		$query = "SELECT count( ywrac_p.ID ) FROM $wpdb->posts as ywrac_p
+            WHERE ywrac_p.post_type = 'shop_order'
+            AND ywrac_p.post_status = 'wc-pending'";
+		$count = $wpdb->get_var( $query );
+
+		if ( $count ) {
+			add_option( 'ywrac_total_pending_orders', $count );
+			update_option( 'ywrac_abandoned_carts_counter', $cart_counter + $count );
+		}
+	}
+}
+register_activation_hook( __FILE__, 'ywrac_plugin_registration_hook' );
+
+
+if ( ! function_exists( 'yith_ywrac_install' ) ) {
+	/**
+	 * Main function
+	 *
+	 * @return void
+	 */
+	function yith_ywrac_install() {
+
+		if ( ! function_exists( 'WC' ) ) {
+			add_action( 'admin_notices', 'yith_ywrac_install_woocommerce_admin_notice' );
+		} else {
+			add_action( 'before_woocommerce_init', 'ywrac_add_support_hpos_system' );
+			/**
+			 * DO_ACTION: yith_ywrac_init
+			 *
+			 * Plugin init.
+			 */
+			do_action( 'yith_ywrac_init' );
+		}
+
+		// check for update table.
+		if ( function_exists( 'yith_ywrac_update_db_check' ) ) {
+			yith_ywrac_update_db_check();
+		}
+	}
+
+	add_action( 'plugins_loaded', 'yith_ywrac_install', 11 );
+}
+
+/**
+ * Let's start the game.
+ *
+ * @return void
+ */
+function yith_ywrac_premium_constructor() {
+
+	// hide welcome modal if not first installation.
+	if ( '' !== get_option( 'ywrac_enabled' ) ) {
+		update_option( 'ywrac-welcome-modal', 'no' );
+	}
+
+	require_once YITH_YWRAC_INC . 'functions.yith-wc-abandoned-cart.php';
+
+	// WooCommerce installation check _________________________.
+	if ( ! function_exists( 'WC' ) ) {
+		add_action( 'admin_notices', 'yith_ywrac_install_woocommerce_admin_notice' );
+		return;
+	}
+
+	// Load YWRAC text domain ___________________________________.
+	if ( function_exists( 'yith_plugin_fw_load_plugin_textdomain' ) ) {
+		yith_plugin_fw_load_plugin_textdomain( 'yith-woocommerce-recover-abandoned-cart', dirname( plugin_basename( __FILE__ ) ) . '/languages' );
+	}
+
+	if ( ! class_exists( 'WP_List_Table' ) ) {
+		require_once ABSPATH . 'wp-admin/includes/class-wp-list-table.php';
+	}
+
+	require_once YITH_YWRAC_INC . 'class-yith-wc-abandoned-cart-logger.php';
+	require_once YITH_YWRAC_INC . 'class-yith-wc-abandoned-cart.php';
+	require_once YITH_YWRAC_INC . 'class-yith-wc-abandoned-cart-unsubscribe.php';
+	require_once YITH_YWRAC_INC . 'class-yith-wc-abandoned-cart-email.php';
+	require_once YITH_YWRAC_INC . 'class-yith-wc-abandoned-cart-helper.php';
+	require_once YITH_YWRAC_INC . 'class.yith-wc-abandoned-cart-privacy.php';
+
+	YITH_WC_Recover_Abandoned_Cart();
+	YITH_WC_Recover_Abandoned_Cart_Email();
+
+	if ( is_admin() && ! ( defined( 'DOING_AJAX' ) && DOING_AJAX && isset( $_REQUEST['context'] ) && 'frontend' === $_REQUEST['context'] ) ) { //phpcs:ignore
+
+		require_once YITH_YWRAC_INC . 'class-yith-wc-abandoned-cart-admin.php';
+		require_once YITH_YWRAC_INC . 'admin/class-yith-wc-abandoned-cart-metaboxes.php';
+
+		YITH_WC_Recover_Abandoned_Cart_Admin();
+
+	}
+
+	/* update the old email templates for new metas */
+	ywrac_new_metas_for_email_templates();
+
+	YITH_WC_Recover_Abandoned_Cart_Helper();
+
+	add_action( 'ywrac_cron', array( YITH_WC_Recover_Abandoned_Cart_Email(), 'email_cron' ) );
+	add_action( 'ywrac_cron', array( YITH_WC_Recover_Abandoned_Cart_Helper(), 'clear_coupons' ) );
+
+}
+add_action( 'yith_ywrac_init', 'yith_ywrac_premium_constructor' );
+
+if ( ! function_exists( 'ywrac_add_support_hpos_system' ) ) {
+    function ywrac_add_support_hpos_system() {
+	    if ( class_exists( '\Automattic\WooCommerce\Utilities\FeaturesUtil' ) ) {
+		    \Automattic\WooCommerce\Utilities\FeaturesUtil::declare_compatibility( 'custom_order_tables', YITH_YWRAC_INIT );
+	    }
+    }
+}

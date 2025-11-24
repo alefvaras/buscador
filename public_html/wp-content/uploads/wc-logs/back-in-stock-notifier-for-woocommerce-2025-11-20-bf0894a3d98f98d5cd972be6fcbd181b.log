@@ -1,0 +1,108 @@
+2025-11-20T18:28:26+00:00 INFO [DELETION LOG] Array
+(
+    [post_id] => 12329
+    [post_title] => axxxxxxxxs@gmail.com
+    [deleted_by] => ale.fvaras
+    [user_id] => 1
+    [user_ip] => 2800:300:6f13:2730:3574:1cca:7443:5a28
+    [time] => 2025-11-20 18:28:26
+    [trace] => Array
+(
+    [0] => Array
+        (
+            [file] => /home/u888022333/domains/akibara.cl/public_html/wp-includes/class-wp-hook.php
+            [line] => 326
+            [function] => delete_post_before
+            [class] => CWG_Instock_Auto_Delete
+            [type] => ->
+        )
+
+    [1] => Array
+        (
+            [file] => /home/u888022333/domains/akibara.cl/public_html/wp-includes/class-wp-hook.php
+            [line] => 348
+            [function] => apply_filters
+            [class] => WP_Hook
+            [type] => ->
+        )
+
+    [2] => Array
+        (
+            [file] => /home/u888022333/domains/akibara.cl/public_html/wp-includes/plugin.php
+            [line] => 517
+            [function] => do_action
+            [class] => WP_Hook
+            [type] => ->
+        )
+
+    [3] => Array
+        (
+            [file] => /home/u888022333/domains/akibara.cl/public_html/wp-includes/post.php
+            [line] => 3753
+            [function] => do_action
+        )
+
+    [4] => Array
+        (
+            [file] => /home/u888022333/domains/akibara.cl/public_html/wp-admin/post.php
+            [line] => 325
+            [function] => wp_delete_post
+        )
+
+)
+
+)
+2025-11-20T18:28:30+00:00 INFO [DELETION LOG] Array
+(
+    [post_id] => 11963
+    [post_title] => axxxxxxxxs@gmail.com
+    [deleted_by] => ale.fvaras
+    [user_id] => 1
+    [user_ip] => 2800:300:6f13:2730:3574:1cca:7443:5a28
+    [time] => 2025-11-20 18:28:30
+    [trace] => Array
+(
+    [0] => Array
+        (
+            [file] => /home/u888022333/domains/akibara.cl/public_html/wp-includes/class-wp-hook.php
+            [line] => 326
+            [function] => delete_post_before
+            [class] => CWG_Instock_Auto_Delete
+            [type] => ->
+        )
+
+    [1] => Array
+        (
+            [file] => /home/u888022333/domains/akibara.cl/public_html/wp-includes/class-wp-hook.php
+            [line] => 348
+            [function] => apply_filters
+            [class] => WP_Hook
+            [type] => ->
+        )
+
+    [2] => Array
+        (
+            [file] => /home/u888022333/domains/akibara.cl/public_html/wp-includes/plugin.php
+            [line] => 517
+            [function] => do_action
+            [class] => WP_Hook
+            [type] => ->
+        )
+
+    [3] => Array
+        (
+            [file] => /home/u888022333/domains/akibara.cl/public_html/wp-includes/post.php
+            [line] => 3753
+            [function] => do_action
+        )
+
+    [4] => Array
+        (
+            [file] => /home/u888022333/domains/akibara.cl/public_html/wp-admin/post.php
+            [line] => 325
+            [function] => wp_delete_post
+        )
+
+)
+
+)

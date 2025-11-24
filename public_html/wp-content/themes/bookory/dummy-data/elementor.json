@@ -1,0 +1,162 @@
+{
+    "system_colors": [
+        {
+            "_id": "primary",
+            "title": "Primary",
+            "color": "#F65D4E"
+        },
+        {
+            "_id": "primary_hover",
+            "title": "Primary Hover",
+            "color": "#f4402f"
+        },
+        {
+            "_id": "text",
+            "title": "Text",
+            "color": "#444444"
+        },
+        {
+            "_id": "accent",
+            "title": "Heading",
+            "color": "#000000"
+        },
+        {
+            "_id": "lighter",
+            "title": "Lighter",
+            "color": "#999999"
+        },
+        {
+            "_id": "border",
+            "title": "Border",
+            "color": "#E6E6E6"
+        }
+    ],
+    "custom_colors": [],
+    "system_typography": [
+        {
+            "_id": "primary",
+            "title": "Primary",
+            "typography_typography": "custom"
+        },
+        {
+            "_id": "secondary",
+            "title": "Secondary",
+            "typography_typography": "custom"
+        },
+        {
+            "_id": "accent",
+            "title": "Accent",
+            "typography_typography": "custom"
+        },
+        {
+            "_id": "text",
+            "title": "Text",
+            "typography_typography": "custom"
+        },
+        {
+            "_id": "heading_title",
+            "title": "Heading Title",
+            "typography_typography": "custom",
+            "typography_font_family": "Sora",
+            "typography_text_transform": "none",
+            "typography_font_weight": "600",
+            "typography_font_size": {
+                "unit": "px",
+                "size": 36,
+                "sizes": []
+            },
+            "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 30,
+                "sizes": []
+            },
+            "typography_line_height": {
+                "unit": "px",
+                "size": 44,
+                "sizes": []
+            },
+            "typography_line_height_mobile": {
+                "unit": "px",
+                "size": 38,
+                "sizes": []
+            },
+            "typography_letter_spacing": {
+                "unit": "px",
+                "size": -2,
+                "sizes": []
+            }
+        },
+        {
+            "_id": "heading_footer",
+            "title": "heading Footer",
+            "typography_typography": "custom",
+            "typography_font_family": "Sora",
+            "typography_font_weight": "600",
+            "typography_text_transform": "uppercase",
+            "typography_font_size": {
+                "unit": "px",
+                "size": 16,
+                "sizes": []
+            },
+            "typography_line_height": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+            }
+        }
+    ],
+    "custom_typography": [],
+    "default_generic_fonts": "Sans-serif",
+    "site_name": "Bookory",
+    "site_description": "Book Store WooCommerce Theme",
+    "page_title_selector": "h1.entry-title",
+    "activeItemIndex": 1,
+    "active_breakpoints": [
+        "viewport_mobile",
+        "viewport_mobile_extra",
+        "viewport_tablet",
+        "viewport_tablet_extra",
+        "viewport_laptop"
+    ],
+    "viewport_md": 768,
+    "viewport_lg": 1025,
+    "container_width": {
+        "unit": "px",
+        "size": 1290,
+        "sizes": []
+    },
+    "space_between_widgets": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+    },
+    "button_typography_typography": "custom",
+    "button_typography_font_size": {
+        "unit": "px",
+        "size": 14,
+        "sizes": []
+    },
+    "button_typography_font_weight": "600",
+    "button_text_color": "#FFFFFF",
+    "button_border_radius": {
+        "unit": "px",
+        "top": "50",
+        "right": "50",
+        "bottom": "50",
+        "left": "50",
+        "isLinked": true
+    },
+    "button_hover_text_color": "#FFFFFF",
+    "__globals__": {
+        "button_background_color": "globals\/colors?id=primary",
+        "button_hover_background_color": "globals\/colors?id=primary_hover"
+    },
+    "button_padding": {
+        "unit": "px",
+        "top": "17",
+        "right": "31",
+        "bottom": "17",
+        "left": "31",
+        "isLinked": false
+    }
+}
