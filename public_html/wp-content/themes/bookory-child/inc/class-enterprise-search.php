@@ -126,27 +126,34 @@ class Bookory_Enterprise_Search {
     
     public function custom_search_query($search, $query) {
         global $wpdb;
-        
+
         if (!$query->is_search() || empty($query->query_vars['s'])) {
             return $search;
         }
-        
+
         $search_term = $query->query_vars['s'];
         $search_parts = explode(' ', $search_term);
-        
+
         $search_conditions = [];
-        
+
         foreach ($search_parts as $term) {
             $term = $wpdb->esc_like($term);
+            // Normalizar el término eliminando espacios para la comparación normalizada
+            $term_normalized = str_replace(' ', '', strtolower($term));
+            $term_normalized_escaped = $wpdb->esc_like($term_normalized);
+
             $search_conditions[] = "
                 ({$wpdb->posts}.post_title LIKE '%{$term}%')
                 OR ({$wpdb->posts}.post_content LIKE '%{$term}%')
                 OR ({$wpdb->posts}.post_excerpt LIKE '%{$term}%')
+                OR (LOWER(REPLACE(REPLACE(REPLACE({$wpdb->posts}.post_title, ' ', ''), '-', ''), '.', '')) LIKE '%{$term_normalized_escaped}%')
+                OR (LOWER(REPLACE(REPLACE(REPLACE({$wpdb->posts}.post_content, ' ', ''), '-', ''), '.', '')) LIKE '%{$term_normalized_escaped}%')
                 OR EXISTS (
                     SELECT 1 FROM {$wpdb->postmeta}
                     WHERE {$wpdb->postmeta}.post_id = {$wpdb->posts}.ID
                     AND (
                         {$wpdb->postmeta}.meta_value LIKE '%{$term}%'
+                        OR LOWER(REPLACE(REPLACE(REPLACE({$wpdb->postmeta}.meta_value, ' ', ''), '-', ''), '.', '')) LIKE '%{$term_normalized_escaped}%'
                     )
                 )
                 OR EXISTS (
@@ -154,13 +161,16 @@ class Bookory_Enterprise_Search {
                     INNER JOIN {$wpdb->term_taxonomy} tt ON tr.term_taxonomy_id = tt.term_taxonomy_id
                     INNER JOIN {$wpdb->terms} t ON tt.term_id = t.term_id
                     WHERE tr.object_id = {$wpdb->posts}.ID
-                    AND t.name LIKE '%{$term}%'
+                    AND (
+                        t.name LIKE '%{$term}%'
+                        OR LOWER(REPLACE(REPLACE(REPLACE(t.name, ' ', ''), '-', ''), '.', '')) LIKE '%{$term_normalized_escaped}%'
+                    )
                 )
             ";
         }
-        
+
         $search = ' AND (' . implode(' OR ', $search_conditions) . ')';
-        
+
         return $search;
     }
     
@@ -219,38 +229,61 @@ class Bookory_Enterprise_Search {
     private function rank_results($results, $query) {
         $query_lower = strtolower($query);
         $query_parts = explode(' ', $query_lower);
-        
+
+        // Normalizar query eliminando espacios, guiones y puntos
+        $query_normalized = str_replace([' ', '-', '.'], '', $query_lower);
+
         foreach ($results as &$result) {
             $title_lower = strtolower($result['title']);
+            $title_normalized = str_replace([' ', '-', '.'], '', $title_lower);
             $score = 0;
-            
+
+            // Búsqueda exacta (comparación normal y normalizada)
             if (stripos($title_lower, $query_lower) === 0) {
                 $score += 100;
+            } elseif (stripos($title_normalized, $query_normalized) === 0) {
+                $score += 95; // Casi tan relevante como coincidencia exacta
             } elseif (stripos($title_lower, $query_lower) !== false) {
                 $score += 50;
+            } elseif (stripos($title_normalized, $query_normalized) !== false) {
+                $score += 45; // Coincidencia normalizada en el medio
             }
-            
+
+            // Búsqueda por partes
             foreach ($query_parts as $part) {
+                $part_normalized = str_replace([' ', '-', '.'], '', $part);
+
                 if (stripos($title_lower, $part) !== false) {
                     $score += 10;
+                } elseif (stripos($title_normalized, $part_normalized) !== false) {
+                    $score += 8; // Coincidencia normalizada de parte
                 }
             }
-            
-            if (isset($result['sku']) && stripos($result['sku'], $query_lower) !== false) {
-                $score += 75;
+
+            // Búsqueda en SKU (normalizada y no normalizada)
+            if (isset($result['sku'])) {
+                $sku_lower = strtolower($result['sku']);
+                $sku_normalized = str_replace([' ', '-', '.'], '', $sku_lower);
+
+                if (stripos($sku_lower, $query_lower) !== false) {
+                    $score += 75;
+                } elseif (stripos($sku_normalized, $query_normalized) !== false) {
+                    $score += 70;
+                }
             }
-            
+
+            // Bonus por disponibilidad
             if ($result['type'] === 'product' && isset($result['stock']) && $result['stock']) {
                 $score += 5;
             }
-            
+
             $result['relevance'] = $score;
         }
-        
+
         usort($results, function($a, $b) {
             return $b['relevance'] - $a['relevance'];
         });
-        
+
         return $results;
     }
     
